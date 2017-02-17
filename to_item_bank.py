@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import json
 from os import path
 from argparse import ArgumentParser
@@ -9,6 +11,41 @@ CALIBRATIONS_DIR = './calibrations'
 EXTENSION = '.json'
 
 SEPARATOR = '  '
+
+def get_bank_file(class_name, oid):
+	with open('./forms' + EXTENSION, 'r') as forms_file:
+		forms = json.load(forms_file)
+
+	forms_by_oid = {form['OID']: form for form in forms['Form']}
+
+	form_name = forms_by_oid[oid]['Name']
+
+	bank_file = '''package edu.mcw.survey.server.promis;
+
+import edu.stanford.survey.server.CatAlgorithm.ItemBank;
+import static edu.stanford.survey.server.ItemBanks.*;
+
+/**
+ * Item bank for PROMIS generated from:
+ *
+ * Name: {}
+ * OID: {}
+ */
+
+public class {} {{
+  private static final ItemBank bank = {}
+
+  public static ItemBank bank() {{
+    return bank;
+  }}
+}}'''.format(
+		form_name,
+		oid,
+		class_name,
+		get_item_bank(oid)
+	)
+
+	return bank_file
 
 def get_item_bank(oid):
 	try:
@@ -35,7 +72,7 @@ def get_item_bank(oid):
 		calibration_items_by_id[item['ID']] = item
 
 
-	bank = 'private static final ItemBank bank = itemBank(0.0, 0.0, {}, {}, {},\n'.format(
+	bank = 'itemBank(0.0, 0.0, {}, {}, {},\n'.format(
 		properties['MinNumItems'],
 		properties['MaxNumItems'],
 		float(properties['MaxStdErr']) * 10
@@ -46,14 +83,9 @@ def get_item_bank(oid):
 		except Exception as e:
 			print(e)
 	bank = bank[:-2] + '\n'
-	bank += ');'
+	bank += SEPARATOR + ');'
 
-	bank += '\n\n'
-	bank += 'public static ItemBank bank() {\n'
-	bank += SEPARATOR + 'return bank;\n'
-	bank += '}'
-
-	print(str(bank))
+	return bank
 
 
 def get_item(item, calibration):
@@ -76,7 +108,7 @@ def get_item(item, calibration):
 	strata = -1
 	category = ''
 
-	item = SEPARATOR + 'item("{}", "{}", "{}", "{}", {}, new double[] {{ {} }}, {}, "{}",\n'.format(
+	item = SEPARATOR + SEPARATOR + 'item("{}", "{}", "{}", "{}", {}, new double[] {{ {} }}, {}, "{}",\n'.format(
 		item['ID'],
 		context,
 		prompt,
@@ -91,22 +123,23 @@ def get_item(item, calibration):
 		item += get_response(response)
 
 	item = item[:-2] + '\n'
-	item += SEPARATOR + '),\n'
+	item += SEPARATOR + SEPARATOR + '),\n'
 	return item
 
 def get_response(response):
-	return SEPARATOR + SEPARATOR + 'response("{}", {}),\n'.format(
+	return SEPARATOR + SEPARATOR + SEPARATOR + 'response("{}", {}),\n'.format(
 		response['Description'],
 		response['Value']
 	)
 
 def main():
 	parser = ArgumentParser(description='Convert PROMIS measure JSON files to CHOIR ItemBank')
+	parser.add_argument('class_name', action='store', help='Class name of Java file')
 	parser.add_argument('oid', action='store', help='OID of the PROMIS measure')
 
 	args = parser.parse_args()
 
-	get_item_bank(args.oid)
+	print(get_bank_file(args.class_name, args.oid))
 
 if __name__ == '__main__':
 	main()
