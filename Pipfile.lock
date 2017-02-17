@@ -1,0 +1,14 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "url": "https://pypi.org/",
+                "verify_ssl": true
+            }
+        ],
+        "requires": {},
+        "Pipfile-sha256": "c6237aea5578bb6f469f024bcdb96a92245416f4cb37295b957fb7a7d397430e"
+    },
+    "default": {},
+    "develop": {}
+}

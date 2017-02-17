@@ -16,13 +16,19 @@ FORMS_DIR = 'forms'
 CALIBRATIONS_DIR = 'calibrations'
 
 makedirs(FORMS_DIR, exist_ok=True)
-forms = requests.get(API_BASE_URL + API_FORMS + FORMAT, auth=AUTH).json()
-for form in forms['Form']:
-	with open(path.join(FORMS_DIR, form['OID']) + FORMAT, 'w') as form_file:
-		form_file.write(requests.get(API_BASE_URL + API_FORMS + form['OID'] + FORMAT, auth=AUTH).text)
+try:
+	forms = requests.get(API_BASE_URL + API_FORMS + FORMAT, auth=AUTH).json()
+	for form in forms['Form']:
+		with open(path.join(FORMS_DIR, form['OID']) + FORMAT, 'w') as form_file:
+			form_file.write(requests.get(API_BASE_URL + API_FORMS + form['OID'] + FORMAT, auth=AUTH).text)
+except:
+	print('Unable to fetch forms')
 
 makedirs(CALIBRATIONS_DIR, exist_ok=True)
-calibrations = requests.get(API_BASE_URL + API_CALIBRATIONS + FORMAT, auth=AUTH).json()
-for calibration in calibrations['Calibration']:
-	with open(path.join(CALIBRATIONS_DIR, calibration['OID']) + FORMAT, 'w') as calibration_file:
-		calibration_file.write(requests.get(API_BASE_URL + API_CALIBRATIONS + calibration['OID'] + FORMAT, auth=AUTH).text)
+try:
+	calibrations = requests.get(API_BASE_URL + API_CALIBRATIONS + FORMAT, auth=AUTH).json()
+	for calibration in calibrations['Calibration']:
+		with open(path.join(CALIBRATIONS_DIR, calibration['OID']) + FORMAT, 'w') as calibration_file:
+			calibration_file.write(requests.get(API_BASE_URL + API_CALIBRATIONS + calibration['OID'] + FORMAT, auth=AUTH).text)
+except:
+	print('Unable to fetch calibrations')
