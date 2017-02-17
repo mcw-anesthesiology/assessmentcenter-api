@@ -1,1 +1,438 @@
-{"DateFinished":"","Items":[{"FormItemOID":"8949AC53-D3A8-4764-ADC4-C963D777F4B7","ID":"DYSERIntro","Order":"1","ItemType":"","Elements":[{"ElementOID":"59C13AA0-B404-4670-B83D-0129FC8B4DD2","Description":"For the following statements, please select the response that best describes your current situation <u>in the past 7 days.</u>","ElementOrder":"1"}]},{"FormItemOID":"42697805-1E99-4618-B31B-7ECCEFAC5B9E","ID":"DYSER001","Order":"2","ItemType":"","Elements":[{"ElementOID":"3FD691E6-A23A-4B25-BC91-1D66381F5F87","Description":"I worry about becoming short of breath.","ElementOrder":"1"},{"ElementOID":"1F2B77E5-3EB7-4B02-9E78-2CA485102441","Description":"ContainerFor1F2B77E5-3EB7-4B02-9E78-2CA485102441","ElementOrder":"2","Map":[{"ElementOID":"28F4C4E4-8186-42B3-8E09-6A3381C40DA6","Description":"Not at all","FormItemOID":"42697805-1E99-4618-B31B-7ECCEFAC5B9E","ItemResponseOID":"31BFC269-F2CF-4184-90AC-E5EA7C852EF5", "Value":"0","Position":"1"},{"ElementOID":"A368C4E1-F042-4363-802D-E667FBBEF15B","Description":"A little bit","FormItemOID":"42697805-1E99-4618-B31B-7ECCEFAC5B9E","ItemResponseOID":"3C567D6E-7CBE-4B23-8137-340C38012786", "Value":"1","Position":"2"},{"ElementOID":"AB85CDB0-5925-4896-93FB-503195839D79","Description":"Somewhat","FormItemOID":"42697805-1E99-4618-B31B-7ECCEFAC5B9E","ItemResponseOID":"4E74EC69-48CB-40AF-A42F-5E346D5AF9D2", "Value":"2","Position":"3"},{"ElementOID":"214DD959-6B92-4188-913E-C8482E263656","Description":"Quite a bit","FormItemOID":"42697805-1E99-4618-B31B-7ECCEFAC5B9E","ItemResponseOID":"45ED15B2-820E-4A15-BAF5-2435A4A54325", "Value":"3","Position":"4"},{"ElementOID":"84BF4C92-CDC1-4E35-9184-055D12D8FF1A","Description":"Very much","FormItemOID":"42697805-1E99-4618-B31B-7ECCEFAC5B9E","ItemResponseOID":"0F5485D2-0304-40F3-82AE-A6D14A1FB20E", "Value":"4","Position":"5"}]}]},{"FormItemOID":"727B610C-9BA2-4DCC-990A-24D23C697FEF","ID":"DYSER002","Order":"3","ItemType":"","Elements":[{"ElementOID":"A8C71F17-F779-4DB9-B003-A82E4E2A9D54","Description":"I become afraid when I have trouble catching my breath.","ElementOrder":"1"},{"ElementOID":"C9225A74-2430-4B60-963C-651E945C0852","Description":"ContainerForC9225A74-2430-4B60-963C-651E945C0852","ElementOrder":"2","Map":[{"ElementOID":"758943CA-88A2-4915-80C9-BEBC812910C6","Description":"Not at all","FormItemOID":"727B610C-9BA2-4DCC-990A-24D23C697FEF","ItemResponseOID":"EF9B5DA6-35B6-4A4B-85A2-92E7B1BF4FF4", "Value":"0","Position":"1"},{"ElementOID":"4BEECCD1-6C4C-4D37-B934-EDDE36D773D4","Description":"A little bit","FormItemOID":"727B610C-9BA2-4DCC-990A-24D23C697FEF","ItemResponseOID":"169E7605-505B-41AC-81C3-E66D7A7A9C8F", "Value":"1","Position":"2"},{"ElementOID":"035F6B62-37C3-42AB-B7D6-08E20E33B391","Description":"Somewhat","FormItemOID":"727B610C-9BA2-4DCC-990A-24D23C697FEF","ItemResponseOID":"E04547C6-8F4B-4D57-8F83-42938B2221ED", "Value":"2","Position":"3"},{"ElementOID":"0AD8390A-4988-4F12-8FBF-1B22086927B0","Description":"Quite a bit","FormItemOID":"727B610C-9BA2-4DCC-990A-24D23C697FEF","ItemResponseOID":"6FF77252-6525-43CF-981F-4BDBC8BB04D2", "Value":"3","Position":"4"},{"ElementOID":"9659E1A5-37C5-478C-A036-96AF0513AA17","Description":"Very much","FormItemOID":"727B610C-9BA2-4DCC-990A-24D23C697FEF","ItemResponseOID":"7B21CCDE-9FF9-40E5-93A3-5EACE5FA1020", "Value":"4","Position":"5"}]}]},{"FormItemOID":"2EC4FF23-B609-4ACE-90E8-887ACA518660","ID":"DYSER003","Order":"4","ItemType":"","Elements":[{"ElementOID":"1CA037C5-31EE-4596-961A-C489367E5F58","Description":"Exercise seems unsafe for me.","ElementOrder":"1"},{"ElementOID":"1A9B67B6-6FCE-47EB-947E-39AC294E239E","Description":"ContainerFor1A9B67B6-6FCE-47EB-947E-39AC294E239E","ElementOrder":"2","Map":[{"ElementOID":"469184F8-805F-4F8A-8B2F-158D6C8E4E5D","Description":"Not at all","FormItemOID":"2EC4FF23-B609-4ACE-90E8-887ACA518660","ItemResponseOID":"F05869AA-38CA-4F80-84B6-7ECA5432B592", "Value":"0","Position":"1"},{"ElementOID":"BEEC2B1A-793D-4640-A2C0-F80FA64FA72E","Description":"A little bit","FormItemOID":"2EC4FF23-B609-4ACE-90E8-887ACA518660","ItemResponseOID":"67AF4F68-0652-44DC-A9EA-E51496012FB2", "Value":"1","Position":"2"},{"ElementOID":"DCBFAEF8-A356-4C87-8CF6-BD30488A6830","Description":"Somewhat","FormItemOID":"2EC4FF23-B609-4ACE-90E8-887ACA518660","ItemResponseOID":"DEE58073-3E50-4B65-9549-ECA84641DDE0", "Value":"2","Position":"3"},{"ElementOID":"BC86ACB2-1139-4B28-92A2-171B63683DB0","Description":"Quite a bit","FormItemOID":"2EC4FF23-B609-4ACE-90E8-887ACA518660","ItemResponseOID":"1EE9BDF3-A51D-4F0E-AC43-6E30A06A48FC", "Value":"3","Position":"4"},{"ElementOID":"02431B2E-A0A1-44EE-A8A0-E23C974D97DA","Description":"Very much","FormItemOID":"2EC4FF23-B609-4ACE-90E8-887ACA518660","ItemResponseOID":"8A2CDC66-C74A-4F40-9EC3-9C195A62C247", "Value":"4","Position":"5"}]}]},{"FormItemOID":"6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5","ID":"DYSER004","Order":"5","ItemType":"","Elements":[{"ElementOID":"1A33ACBD-3E27-4FBC-A5C8-FD9F76E5531B","Description":"I am embarrassed by using my inhaled medication in public.","ElementOrder":"1"},{"ElementOID":"7CD04CFF-4487-4B52-AF07-2969958634CC","Description":"ContainerFor7CD04CFF-4487-4B52-AF07-2969958634CC","ElementOrder":"2","Map":[{"ElementOID":"347485E0-F5F0-49AD-8BFB-7451FABBBA03","Description":"Not at all","FormItemOID":"6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5","ItemResponseOID":"CF90E7B0-E8E8-403E-8E83-50CB1327521B", "Value":"0","Position":"1"},{"ElementOID":"4A90CD88-CD20-4672-A726-C2F3592BF1E5","Description":"A little bit","FormItemOID":"6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5","ItemResponseOID":"0C5BCC1F-AF22-4985-9996-EEAAE5B0D528", "Value":"1","Position":"2"},{"ElementOID":"37011097-5547-4F3C-ACA5-041F8D0FC758","Description":"Somewhat","FormItemOID":"6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5","ItemResponseOID":"520F0573-B220-421C-A027-3D2F2880CCEF", "Value":"2","Position":"3"},{"ElementOID":"6ABE3BE8-882C-48AE-A1A5-8390465D482F","Description":"Quite a bit","FormItemOID":"6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5","ItemResponseOID":"AB112A6D-D2CE-4A31-A752-47C04DFA0A19", "Value":"3","Position":"4"},{"ElementOID":"F1999059-8598-4632-83F2-DFEA7FEDC86E","Description":"Very much","FormItemOID":"6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5","ItemResponseOID":"009F8E1E-BC22-403A-96C3-D97A5077225C", "Value":"4","Position":"5"}]}]},{"FormItemOID":"BD6A3E48-167C-4FC8-9C70-92EABEAF39C6","ID":"DYSER005","Order":"6","ItemType":"","Elements":[{"ElementOID":"8A41DE71-750A-43FD-B65C-18DF43BEBD3E","Description":"I am embarrassed by using my oxygen in public.","ElementOrder":"1"},{"ElementOID":"310C1F67-2140-48E4-BCC8-75A03D478D12","Description":"ContainerFor310C1F67-2140-48E4-BCC8-75A03D478D12","ElementOrder":"2","Map":[{"ElementOID":"06C3A155-B359-4432-BEBD-7A5A3E8CB68E","Description":"Not at all","FormItemOID":"BD6A3E48-167C-4FC8-9C70-92EABEAF39C6","ItemResponseOID":"B872CABC-023A-403B-87CE-73FB25EB57D1", "Value":"0","Position":"1"},{"ElementOID":"49B1202C-99E0-48BF-851A-34135FFB7EC2","Description":"A little bit","FormItemOID":"BD6A3E48-167C-4FC8-9C70-92EABEAF39C6","ItemResponseOID":"C90939BF-C4BE-4380-AC27-11AFA5A39A4B", "Value":"1","Position":"2"},{"ElementOID":"784CF7CA-E0D3-445B-B0A8-27650FDED3BA","Description":"Somewhat","FormItemOID":"BD6A3E48-167C-4FC8-9C70-92EABEAF39C6","ItemResponseOID":"FF304C32-0ADD-4B71-9232-860328707853", "Value":"2","Position":"3"},{"ElementOID":"8B197D06-C3C6-4619-ACF4-40B56EA01CBA","Description":"Quite a bit","FormItemOID":"BD6A3E48-167C-4FC8-9C70-92EABEAF39C6","ItemResponseOID":"FB1459F0-72DC-4E51-B73F-A68A4877BA5F", "Value":"3","Position":"4"},{"ElementOID":"29C5A7E1-1415-4ED9-86BE-F000201B70F1","Description":"Very much","FormItemOID":"BD6A3E48-167C-4FC8-9C70-92EABEAF39C6","ItemResponseOID":"581F9B98-17AA-4611-8FFF-1A4BB28127F6", "Value":"4","Position":"5"}]}]},{"FormItemOID":"76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D","ID":"DYSER006","Order":"7","ItemType":"","Elements":[{"ElementOID":"DC70C050-40A8-4417-B3E7-BDF51C11AB7D","Description":"I am embarrassed by my shortness of breath.","ElementOrder":"1"},{"ElementOID":"34564177-99CB-40F9-A32E-A969FBD22921","Description":"ContainerFor34564177-99CB-40F9-A32E-A969FBD22921","ElementOrder":"2","Map":[{"ElementOID":"7150C3F6-2F64-4039-A060-A5942D6CAA89","Description":"Not at all","FormItemOID":"76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D","ItemResponseOID":"8C565F3F-8E29-4B5F-8CAD-A24D5338A5BA", "Value":"0","Position":"1"},{"ElementOID":"82B5AEBA-E172-4629-9969-EADCEAD7C081","Description":"A little bit","FormItemOID":"76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D","ItemResponseOID":"016C9CDA-8F10-4615-A6ED-D8E469F919AC", "Value":"1","Position":"2"},{"ElementOID":"E2170576-AAF5-40A7-B642-A526CD960DD2","Description":"Somewhat","FormItemOID":"76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D","ItemResponseOID":"B4D5FABF-CCC6-4DC9-A50F-BA8021E73CF6", "Value":"2","Position":"3"},{"ElementOID":"A076E880-88A6-4FF2-A651-7F00A38C17E5","Description":"Quite a bit","FormItemOID":"76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D","ItemResponseOID":"A1152EAB-18CC-4A96-BA8E-180B40E76035", "Value":"3","Position":"4"},{"ElementOID":"9DF0F34A-B9CC-4D37-8EC8-C0888DF7C3D7","Description":"Very much","FormItemOID":"76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D","ItemResponseOID":"29D262C3-48B1-4F96-B55B-228085533CF4", "Value":"4","Position":"5"}]}]},{"FormItemOID":"2CA63BB4-DEEF-4CEA-8689-BAE4410D1462","ID":"DYSER007","Order":"8","ItemType":"","Elements":[{"ElementOID":"4A5BBFE0-7997-47B7-B61D-2D96DE0A47CC","Description":"I get upset when I can???t do something because of my shortness of breath.","ElementOrder":"1"},{"ElementOID":"00DF32B3-09C9-42B6-8E81-3BB1754B247A","Description":"ContainerFor00DF32B3-09C9-42B6-8E81-3BB1754B247A","ElementOrder":"2","Map":[{"ElementOID":"4120A617-AA24-4EC8-8B83-6819C2367A0C","Description":"Not at all","FormItemOID":"2CA63BB4-DEEF-4CEA-8689-BAE4410D1462","ItemResponseOID":"43A333A3-C539-4649-A670-CBE5DC27E2D3", "Value":"0","Position":"1"},{"ElementOID":"F7507748-6BF1-4F4F-8286-758386CBB014","Description":"A little bit","FormItemOID":"2CA63BB4-DEEF-4CEA-8689-BAE4410D1462","ItemResponseOID":"9311E779-98B7-42AF-A8F1-6CE519B71CEE", "Value":"1","Position":"2"},{"ElementOID":"B32C6FF2-D2E3-4876-BA8D-7B8C89FBB431","Description":"Somewhat","FormItemOID":"2CA63BB4-DEEF-4CEA-8689-BAE4410D1462","ItemResponseOID":"42F5C608-667B-42FA-AAC3-41F9274CF868", "Value":"2","Position":"3"},{"ElementOID":"7D2316CC-1859-4D1F-BCC8-95C59BCBD298","Description":"Quite a bit","FormItemOID":"2CA63BB4-DEEF-4CEA-8689-BAE4410D1462","ItemResponseOID":"A405F717-E6CC-4476-8F82-EE645323E0DE", "Value":"3","Position":"4"},{"ElementOID":"2C69AD2D-DCFE-4502-A49F-492A7DF07CD3","Description":"Very much","FormItemOID":"2CA63BB4-DEEF-4CEA-8689-BAE4410D1462","ItemResponseOID":"E430F3DC-441F-4633-AA3A-AFC49FF7CEA0", "Value":"4","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "8949AC53-D3A8-4764-ADC4-C963D777F4B7",
+			"ID": "DYSERIntro",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "59C13AA0-B404-4670-B83D-0129FC8B4DD2",
+					"Description": "For the following statements, please select the response that best describes your current situation <u>in the past 7 days.</u>",
+					"ElementOrder": "1"
+				}
+			]
+		},
+		{
+			"FormItemOID": "42697805-1E99-4618-B31B-7ECCEFAC5B9E",
+			"ID": "DYSER001",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "3FD691E6-A23A-4B25-BC91-1D66381F5F87",
+					"Description": "I worry about becoming short of breath.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "1F2B77E5-3EB7-4B02-9E78-2CA485102441",
+					"Description": "ContainerFor1F2B77E5-3EB7-4B02-9E78-2CA485102441",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "28F4C4E4-8186-42B3-8E09-6A3381C40DA6",
+							"Description": "Not at all",
+							"FormItemOID": "42697805-1E99-4618-B31B-7ECCEFAC5B9E",
+							"ItemResponseOID": "31BFC269-F2CF-4184-90AC-E5EA7C852EF5",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "A368C4E1-F042-4363-802D-E667FBBEF15B",
+							"Description": "A little bit",
+							"FormItemOID": "42697805-1E99-4618-B31B-7ECCEFAC5B9E",
+							"ItemResponseOID": "3C567D6E-7CBE-4B23-8137-340C38012786",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "AB85CDB0-5925-4896-93FB-503195839D79",
+							"Description": "Somewhat",
+							"FormItemOID": "42697805-1E99-4618-B31B-7ECCEFAC5B9E",
+							"ItemResponseOID": "4E74EC69-48CB-40AF-A42F-5E346D5AF9D2",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "214DD959-6B92-4188-913E-C8482E263656",
+							"Description": "Quite a bit",
+							"FormItemOID": "42697805-1E99-4618-B31B-7ECCEFAC5B9E",
+							"ItemResponseOID": "45ED15B2-820E-4A15-BAF5-2435A4A54325",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "84BF4C92-CDC1-4E35-9184-055D12D8FF1A",
+							"Description": "Very much",
+							"FormItemOID": "42697805-1E99-4618-B31B-7ECCEFAC5B9E",
+							"ItemResponseOID": "0F5485D2-0304-40F3-82AE-A6D14A1FB20E",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "727B610C-9BA2-4DCC-990A-24D23C697FEF",
+			"ID": "DYSER002",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "A8C71F17-F779-4DB9-B003-A82E4E2A9D54",
+					"Description": "I become afraid when I have trouble catching my breath.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C9225A74-2430-4B60-963C-651E945C0852",
+					"Description": "ContainerForC9225A74-2430-4B60-963C-651E945C0852",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "758943CA-88A2-4915-80C9-BEBC812910C6",
+							"Description": "Not at all",
+							"FormItemOID": "727B610C-9BA2-4DCC-990A-24D23C697FEF",
+							"ItemResponseOID": "EF9B5DA6-35B6-4A4B-85A2-92E7B1BF4FF4",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "4BEECCD1-6C4C-4D37-B934-EDDE36D773D4",
+							"Description": "A little bit",
+							"FormItemOID": "727B610C-9BA2-4DCC-990A-24D23C697FEF",
+							"ItemResponseOID": "169E7605-505B-41AC-81C3-E66D7A7A9C8F",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "035F6B62-37C3-42AB-B7D6-08E20E33B391",
+							"Description": "Somewhat",
+							"FormItemOID": "727B610C-9BA2-4DCC-990A-24D23C697FEF",
+							"ItemResponseOID": "E04547C6-8F4B-4D57-8F83-42938B2221ED",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "0AD8390A-4988-4F12-8FBF-1B22086927B0",
+							"Description": "Quite a bit",
+							"FormItemOID": "727B610C-9BA2-4DCC-990A-24D23C697FEF",
+							"ItemResponseOID": "6FF77252-6525-43CF-981F-4BDBC8BB04D2",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9659E1A5-37C5-478C-A036-96AF0513AA17",
+							"Description": "Very much",
+							"FormItemOID": "727B610C-9BA2-4DCC-990A-24D23C697FEF",
+							"ItemResponseOID": "7B21CCDE-9FF9-40E5-93A3-5EACE5FA1020",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2EC4FF23-B609-4ACE-90E8-887ACA518660",
+			"ID": "DYSER003",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "1CA037C5-31EE-4596-961A-C489367E5F58",
+					"Description": "Exercise seems unsafe for me.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "1A9B67B6-6FCE-47EB-947E-39AC294E239E",
+					"Description": "ContainerFor1A9B67B6-6FCE-47EB-947E-39AC294E239E",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "469184F8-805F-4F8A-8B2F-158D6C8E4E5D",
+							"Description": "Not at all",
+							"FormItemOID": "2EC4FF23-B609-4ACE-90E8-887ACA518660",
+							"ItemResponseOID": "F05869AA-38CA-4F80-84B6-7ECA5432B592",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "BEEC2B1A-793D-4640-A2C0-F80FA64FA72E",
+							"Description": "A little bit",
+							"FormItemOID": "2EC4FF23-B609-4ACE-90E8-887ACA518660",
+							"ItemResponseOID": "67AF4F68-0652-44DC-A9EA-E51496012FB2",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "DCBFAEF8-A356-4C87-8CF6-BD30488A6830",
+							"Description": "Somewhat",
+							"FormItemOID": "2EC4FF23-B609-4ACE-90E8-887ACA518660",
+							"ItemResponseOID": "DEE58073-3E50-4B65-9549-ECA84641DDE0",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "BC86ACB2-1139-4B28-92A2-171B63683DB0",
+							"Description": "Quite a bit",
+							"FormItemOID": "2EC4FF23-B609-4ACE-90E8-887ACA518660",
+							"ItemResponseOID": "1EE9BDF3-A51D-4F0E-AC43-6E30A06A48FC",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "02431B2E-A0A1-44EE-A8A0-E23C974D97DA",
+							"Description": "Very much",
+							"FormItemOID": "2EC4FF23-B609-4ACE-90E8-887ACA518660",
+							"ItemResponseOID": "8A2CDC66-C74A-4F40-9EC3-9C195A62C247",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5",
+			"ID": "DYSER004",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "1A33ACBD-3E27-4FBC-A5C8-FD9F76E5531B",
+					"Description": "I am embarrassed by using my inhaled medication in public.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7CD04CFF-4487-4B52-AF07-2969958634CC",
+					"Description": "ContainerFor7CD04CFF-4487-4B52-AF07-2969958634CC",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "347485E0-F5F0-49AD-8BFB-7451FABBBA03",
+							"Description": "Not at all",
+							"FormItemOID": "6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5",
+							"ItemResponseOID": "CF90E7B0-E8E8-403E-8E83-50CB1327521B",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "4A90CD88-CD20-4672-A726-C2F3592BF1E5",
+							"Description": "A little bit",
+							"FormItemOID": "6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5",
+							"ItemResponseOID": "0C5BCC1F-AF22-4985-9996-EEAAE5B0D528",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "37011097-5547-4F3C-ACA5-041F8D0FC758",
+							"Description": "Somewhat",
+							"FormItemOID": "6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5",
+							"ItemResponseOID": "520F0573-B220-421C-A027-3D2F2880CCEF",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "6ABE3BE8-882C-48AE-A1A5-8390465D482F",
+							"Description": "Quite a bit",
+							"FormItemOID": "6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5",
+							"ItemResponseOID": "AB112A6D-D2CE-4A31-A752-47C04DFA0A19",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "F1999059-8598-4632-83F2-DFEA7FEDC86E",
+							"Description": "Very much",
+							"FormItemOID": "6ECA3BD7-C87C-41EB-BA29-493D4C25FBD5",
+							"ItemResponseOID": "009F8E1E-BC22-403A-96C3-D97A5077225C",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "BD6A3E48-167C-4FC8-9C70-92EABEAF39C6",
+			"ID": "DYSER005",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8A41DE71-750A-43FD-B65C-18DF43BEBD3E",
+					"Description": "I am embarrassed by using my oxygen in public.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "310C1F67-2140-48E4-BCC8-75A03D478D12",
+					"Description": "ContainerFor310C1F67-2140-48E4-BCC8-75A03D478D12",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "06C3A155-B359-4432-BEBD-7A5A3E8CB68E",
+							"Description": "Not at all",
+							"FormItemOID": "BD6A3E48-167C-4FC8-9C70-92EABEAF39C6",
+							"ItemResponseOID": "B872CABC-023A-403B-87CE-73FB25EB57D1",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "49B1202C-99E0-48BF-851A-34135FFB7EC2",
+							"Description": "A little bit",
+							"FormItemOID": "BD6A3E48-167C-4FC8-9C70-92EABEAF39C6",
+							"ItemResponseOID": "C90939BF-C4BE-4380-AC27-11AFA5A39A4B",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "784CF7CA-E0D3-445B-B0A8-27650FDED3BA",
+							"Description": "Somewhat",
+							"FormItemOID": "BD6A3E48-167C-4FC8-9C70-92EABEAF39C6",
+							"ItemResponseOID": "FF304C32-0ADD-4B71-9232-860328707853",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "8B197D06-C3C6-4619-ACF4-40B56EA01CBA",
+							"Description": "Quite a bit",
+							"FormItemOID": "BD6A3E48-167C-4FC8-9C70-92EABEAF39C6",
+							"ItemResponseOID": "FB1459F0-72DC-4E51-B73F-A68A4877BA5F",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "29C5A7E1-1415-4ED9-86BE-F000201B70F1",
+							"Description": "Very much",
+							"FormItemOID": "BD6A3E48-167C-4FC8-9C70-92EABEAF39C6",
+							"ItemResponseOID": "581F9B98-17AA-4611-8FFF-1A4BB28127F6",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D",
+			"ID": "DYSER006",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "DC70C050-40A8-4417-B3E7-BDF51C11AB7D",
+					"Description": "I am embarrassed by my shortness of breath.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "34564177-99CB-40F9-A32E-A969FBD22921",
+					"Description": "ContainerFor34564177-99CB-40F9-A32E-A969FBD22921",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "7150C3F6-2F64-4039-A060-A5942D6CAA89",
+							"Description": "Not at all",
+							"FormItemOID": "76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D",
+							"ItemResponseOID": "8C565F3F-8E29-4B5F-8CAD-A24D5338A5BA",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "82B5AEBA-E172-4629-9969-EADCEAD7C081",
+							"Description": "A little bit",
+							"FormItemOID": "76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D",
+							"ItemResponseOID": "016C9CDA-8F10-4615-A6ED-D8E469F919AC",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "E2170576-AAF5-40A7-B642-A526CD960DD2",
+							"Description": "Somewhat",
+							"FormItemOID": "76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D",
+							"ItemResponseOID": "B4D5FABF-CCC6-4DC9-A50F-BA8021E73CF6",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "A076E880-88A6-4FF2-A651-7F00A38C17E5",
+							"Description": "Quite a bit",
+							"FormItemOID": "76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D",
+							"ItemResponseOID": "A1152EAB-18CC-4A96-BA8E-180B40E76035",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9DF0F34A-B9CC-4D37-8EC8-C0888DF7C3D7",
+							"Description": "Very much",
+							"FormItemOID": "76FE8AFC-CC9C-4C41-8FA2-840611B1AB6D",
+							"ItemResponseOID": "29D262C3-48B1-4F96-B55B-228085533CF4",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2CA63BB4-DEEF-4CEA-8689-BAE4410D1462",
+			"ID": "DYSER007",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "4A5BBFE0-7997-47B7-B61D-2D96DE0A47CC",
+					"Description": "I get upset when I can???t do something because of my shortness of breath.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "00DF32B3-09C9-42B6-8E81-3BB1754B247A",
+					"Description": "ContainerFor00DF32B3-09C9-42B6-8E81-3BB1754B247A",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "4120A617-AA24-4EC8-8B83-6819C2367A0C",
+							"Description": "Not at all",
+							"FormItemOID": "2CA63BB4-DEEF-4CEA-8689-BAE4410D1462",
+							"ItemResponseOID": "43A333A3-C539-4649-A670-CBE5DC27E2D3",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "F7507748-6BF1-4F4F-8286-758386CBB014",
+							"Description": "A little bit",
+							"FormItemOID": "2CA63BB4-DEEF-4CEA-8689-BAE4410D1462",
+							"ItemResponseOID": "9311E779-98B7-42AF-A8F1-6CE519B71CEE",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "B32C6FF2-D2E3-4876-BA8D-7B8C89FBB431",
+							"Description": "Somewhat",
+							"FormItemOID": "2CA63BB4-DEEF-4CEA-8689-BAE4410D1462",
+							"ItemResponseOID": "42F5C608-667B-42FA-AAC3-41F9274CF868",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "7D2316CC-1859-4D1F-BCC8-95C59BCBD298",
+							"Description": "Quite a bit",
+							"FormItemOID": "2CA63BB4-DEEF-4CEA-8689-BAE4410D1462",
+							"ItemResponseOID": "A405F717-E6CC-4476-8F82-EE645323E0DE",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C69AD2D-DCFE-4502-A49F-492A7DF07CD3",
+							"Description": "Very much",
+							"FormItemOID": "2CA63BB4-DEEF-4CEA-8689-BAE4410D1462",
+							"ItemResponseOID": "E430F3DC-441F-4633-AA3A-AFC49FF7CEA0",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

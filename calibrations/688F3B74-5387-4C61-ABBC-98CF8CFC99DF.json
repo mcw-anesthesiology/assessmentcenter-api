@@ -1,1 +1,242 @@
-{"FormOID":"688F3B74-5387-4C61-ABBC-98CF8CFC99DF","Form":"PROMIS Parent Proxy v2.0 Peer Relationships 7-item Short form","Properties":[{"MinNumItems":"7"},{"MaxNumItems":"7"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"0.00"},{"DistStdDev":"1.00"},{"FirstItem":""},{"CalibrationSample":"PROMIS Parent Proxy"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"036C6541-C39E-43E1-80A3-C7F4EAAF9928","ID":"Pf1socabil2r","A_GRM":"2.30000","Map":[{"ItemResponseOID":"44782590-47C3-4008-BF14-B13EF4D10789","StepOrder":"1","Threshold":"-2.7200"},{"ItemResponseOID":"F1FAF8F5-92D7-43C0-A527-B397EF5E529D","StepOrder":"2","Threshold":"-2.0900"},{"ItemResponseOID":"53F709EA-C4D5-4073-A9C9-D04593536741","StepOrder":"3","Threshold":"-1.0500"},{"ItemResponseOID":"0972E2DA-6966-4AAB-9A9E-E3F2226D21DE","StepOrder":"4","Threshold":"-0.0700"}]},{"FormItemOID":"108A1EF3-E81A-40FD-9F85-715DBBC8FB09","ID":"Pf2socrole4r","A_GRM":"2.32000","Map":[{"ItemResponseOID":"B10490D4-B8DA-46BC-AAE4-FF599D99422D","StepOrder":"1","Threshold":"-2.9900"},{"ItemResponseOID":"91270AB5-8DC9-40D1-A502-AF16B307C52D","StepOrder":"2","Threshold":"-2.5400"},{"ItemResponseOID":"EC3FB97B-C191-44F8-A4EC-75028332CC6B","StepOrder":"3","Threshold":"-1.0400"},{"ItemResponseOID":"EC7B5923-44B3-4EA2-9FF2-C31136CE50AD","StepOrder":"4","Threshold":"-0.1200"}]},{"FormItemOID":"24B87380-2DED-4EEF-ADDA-8AC89613DD05","ID":"Pf2socabil9r","A_GRM":"2.63000","Map":[{"ItemResponseOID":"33DADB66-2137-4A18-BF6C-FDAFE918543A","StepOrder":"1","Threshold":"-3.2700"},{"ItemResponseOID":"F1BB2D9C-E6C2-4C99-882B-7DB251CBA442","StepOrder":"2","Threshold":"-2.4100"},{"ItemResponseOID":"8EB231B9-92AE-45EA-BB58-88255E02BA74","StepOrder":"3","Threshold":"-1.3600"},{"ItemResponseOID":"154F3B55-577C-417F-A819-ADAD6F471E80","StepOrder":"4","Threshold":"-0.4500"}]},{"FormItemOID":"4192450B-DD8D-45D3-8A61-DCACCACC3647","ID":"Pf3socabil9r","A_GRM":"2.49000","Map":[{"ItemResponseOID":"0063E24D-4A6E-42D0-AB03-520612730353","StepOrder":"1","Threshold":"-2.3200"},{"ItemResponseOID":"9B46C7E8-718B-4D17-9BEF-BCE2391B8AA5","StepOrder":"2","Threshold":"-1.9300"},{"ItemResponseOID":"77E90E92-FC70-4B18-A6B2-ED15F9538367","StepOrder":"3","Threshold":"-1.1400"},{"ItemResponseOID":"744BAA03-D5CA-4931-9866-E43835FB19D0","StepOrder":"4","Threshold":"-0.2200"}]},{"FormItemOID":"43F69B6E-3164-4693-9CEF-6A7DBE2A75D7","ID":"Pf4socabil12r","A_GRM":"2.54000","Map":[{"ItemResponseOID":"A0078797-C293-4CCD-8D79-9AC3C4A16A1A","StepOrder":"1","Threshold":"-2.8800"},{"ItemResponseOID":"75F7BBBD-ADD8-400B-8AC1-7F63EAFE221A","StepOrder":"2","Threshold":"-2.0700"},{"ItemResponseOID":"7029617F-8A9C-43E2-96F1-2DDCCF372AA8","StepOrder":"3","Threshold":"-0.7900"},{"ItemResponseOID":"CEAD1E6D-D939-4483-910E-965915E9FB9C","StepOrder":"4","Threshold":"0.1300"}]},{"FormItemOID":"645A5B6A-16DF-4600-A74C-52CCCB28B75E","ID":"Pf3socabil4r","A_GRM":"2.56000","Map":[{"ItemResponseOID":"82DEC8A9-8E69-480B-9F01-A6F8F33BC724","StepOrder":"1","Threshold":"-2.7800"},{"ItemResponseOID":"F7D347FE-7F77-4F80-A3F1-18B9E3139C7C","StepOrder":"2","Threshold":"-2.1400"},{"ItemResponseOID":"2172307B-F459-4504-9E75-6E66A324475A","StepOrder":"3","Threshold":"-0.9500"},{"ItemResponseOID":"2CAB769E-E1B9-4DCE-9B28-79E70E7E42C7","StepOrder":"4","Threshold":"-0.1600"}]},{"FormItemOID":"914F5959-1A04-47C0-8CD7-0AEBCCF834DB","ID":"Pf3socrole4r","A_GRM":"3.53000","Map":[{"ItemResponseOID":"8547F254-A914-4FBE-8B53-7991C93DF562","StepOrder":"1","Threshold":"-2.5300"},{"ItemResponseOID":"5E0C93F4-AB57-47BC-B3DF-7089C7CA27D8","StepOrder":"2","Threshold":"-2.0300"},{"ItemResponseOID":"D135FE99-4BF2-4690-AB99-9D516BEAC630","StepOrder":"3","Threshold":"-0.9600"},{"ItemResponseOID":"BC6C0569-F29A-4DF7-BE60-C5EB66A76F85","StepOrder":"4","Threshold":"-0.1500"}]}]}
+{
+	"FormOID": "688F3B74-5387-4C61-ABBC-98CF8CFC99DF",
+	"Form": "PROMIS Parent Proxy v2.0 Peer Relationships 7-item Short form",
+	"Properties": [
+		{
+			"MinNumItems": "7"
+		},
+		{
+			"MaxNumItems": "7"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "0.00"
+		},
+		{
+			"DistStdDev": "1.00"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "PROMIS Parent Proxy"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "036C6541-C39E-43E1-80A3-C7F4EAAF9928",
+			"ID": "Pf1socabil2r",
+			"A_GRM": "2.30000",
+			"Map": [
+				{
+					"ItemResponseOID": "44782590-47C3-4008-BF14-B13EF4D10789",
+					"StepOrder": "1",
+					"Threshold": "-2.7200"
+				},
+				{
+					"ItemResponseOID": "F1FAF8F5-92D7-43C0-A527-B397EF5E529D",
+					"StepOrder": "2",
+					"Threshold": "-2.0900"
+				},
+				{
+					"ItemResponseOID": "53F709EA-C4D5-4073-A9C9-D04593536741",
+					"StepOrder": "3",
+					"Threshold": "-1.0500"
+				},
+				{
+					"ItemResponseOID": "0972E2DA-6966-4AAB-9A9E-E3F2226D21DE",
+					"StepOrder": "4",
+					"Threshold": "-0.0700"
+				}
+			]
+		},
+		{
+			"FormItemOID": "108A1EF3-E81A-40FD-9F85-715DBBC8FB09",
+			"ID": "Pf2socrole4r",
+			"A_GRM": "2.32000",
+			"Map": [
+				{
+					"ItemResponseOID": "B10490D4-B8DA-46BC-AAE4-FF599D99422D",
+					"StepOrder": "1",
+					"Threshold": "-2.9900"
+				},
+				{
+					"ItemResponseOID": "91270AB5-8DC9-40D1-A502-AF16B307C52D",
+					"StepOrder": "2",
+					"Threshold": "-2.5400"
+				},
+				{
+					"ItemResponseOID": "EC3FB97B-C191-44F8-A4EC-75028332CC6B",
+					"StepOrder": "3",
+					"Threshold": "-1.0400"
+				},
+				{
+					"ItemResponseOID": "EC7B5923-44B3-4EA2-9FF2-C31136CE50AD",
+					"StepOrder": "4",
+					"Threshold": "-0.1200"
+				}
+			]
+		},
+		{
+			"FormItemOID": "24B87380-2DED-4EEF-ADDA-8AC89613DD05",
+			"ID": "Pf2socabil9r",
+			"A_GRM": "2.63000",
+			"Map": [
+				{
+					"ItemResponseOID": "33DADB66-2137-4A18-BF6C-FDAFE918543A",
+					"StepOrder": "1",
+					"Threshold": "-3.2700"
+				},
+				{
+					"ItemResponseOID": "F1BB2D9C-E6C2-4C99-882B-7DB251CBA442",
+					"StepOrder": "2",
+					"Threshold": "-2.4100"
+				},
+				{
+					"ItemResponseOID": "8EB231B9-92AE-45EA-BB58-88255E02BA74",
+					"StepOrder": "3",
+					"Threshold": "-1.3600"
+				},
+				{
+					"ItemResponseOID": "154F3B55-577C-417F-A819-ADAD6F471E80",
+					"StepOrder": "4",
+					"Threshold": "-0.4500"
+				}
+			]
+		},
+		{
+			"FormItemOID": "4192450B-DD8D-45D3-8A61-DCACCACC3647",
+			"ID": "Pf3socabil9r",
+			"A_GRM": "2.49000",
+			"Map": [
+				{
+					"ItemResponseOID": "0063E24D-4A6E-42D0-AB03-520612730353",
+					"StepOrder": "1",
+					"Threshold": "-2.3200"
+				},
+				{
+					"ItemResponseOID": "9B46C7E8-718B-4D17-9BEF-BCE2391B8AA5",
+					"StepOrder": "2",
+					"Threshold": "-1.9300"
+				},
+				{
+					"ItemResponseOID": "77E90E92-FC70-4B18-A6B2-ED15F9538367",
+					"StepOrder": "3",
+					"Threshold": "-1.1400"
+				},
+				{
+					"ItemResponseOID": "744BAA03-D5CA-4931-9866-E43835FB19D0",
+					"StepOrder": "4",
+					"Threshold": "-0.2200"
+				}
+			]
+		},
+		{
+			"FormItemOID": "43F69B6E-3164-4693-9CEF-6A7DBE2A75D7",
+			"ID": "Pf4socabil12r",
+			"A_GRM": "2.54000",
+			"Map": [
+				{
+					"ItemResponseOID": "A0078797-C293-4CCD-8D79-9AC3C4A16A1A",
+					"StepOrder": "1",
+					"Threshold": "-2.8800"
+				},
+				{
+					"ItemResponseOID": "75F7BBBD-ADD8-400B-8AC1-7F63EAFE221A",
+					"StepOrder": "2",
+					"Threshold": "-2.0700"
+				},
+				{
+					"ItemResponseOID": "7029617F-8A9C-43E2-96F1-2DDCCF372AA8",
+					"StepOrder": "3",
+					"Threshold": "-0.7900"
+				},
+				{
+					"ItemResponseOID": "CEAD1E6D-D939-4483-910E-965915E9FB9C",
+					"StepOrder": "4",
+					"Threshold": "0.1300"
+				}
+			]
+		},
+		{
+			"FormItemOID": "645A5B6A-16DF-4600-A74C-52CCCB28B75E",
+			"ID": "Pf3socabil4r",
+			"A_GRM": "2.56000",
+			"Map": [
+				{
+					"ItemResponseOID": "82DEC8A9-8E69-480B-9F01-A6F8F33BC724",
+					"StepOrder": "1",
+					"Threshold": "-2.7800"
+				},
+				{
+					"ItemResponseOID": "F7D347FE-7F77-4F80-A3F1-18B9E3139C7C",
+					"StepOrder": "2",
+					"Threshold": "-2.1400"
+				},
+				{
+					"ItemResponseOID": "2172307B-F459-4504-9E75-6E66A324475A",
+					"StepOrder": "3",
+					"Threshold": "-0.9500"
+				},
+				{
+					"ItemResponseOID": "2CAB769E-E1B9-4DCE-9B28-79E70E7E42C7",
+					"StepOrder": "4",
+					"Threshold": "-0.1600"
+				}
+			]
+		},
+		{
+			"FormItemOID": "914F5959-1A04-47C0-8CD7-0AEBCCF834DB",
+			"ID": "Pf3socrole4r",
+			"A_GRM": "3.53000",
+			"Map": [
+				{
+					"ItemResponseOID": "8547F254-A914-4FBE-8B53-7991C93DF562",
+					"StepOrder": "1",
+					"Threshold": "-2.5300"
+				},
+				{
+					"ItemResponseOID": "5E0C93F4-AB57-47BC-B3DF-7089C7CA27D8",
+					"StepOrder": "2",
+					"Threshold": "-2.0300"
+				},
+				{
+					"ItemResponseOID": "D135FE99-4BF2-4690-AB99-9D516BEAC630",
+					"StepOrder": "3",
+					"Threshold": "-0.9600"
+				},
+				{
+					"ItemResponseOID": "BC6C0569-F29A-4DF7-BE60-C5EB66A76F85",
+					"StepOrder": "4",
+					"Threshold": "-0.1500"
+				}
+			]
+		}
+	]
+}

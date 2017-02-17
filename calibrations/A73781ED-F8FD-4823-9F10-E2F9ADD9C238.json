@@ -1,1 +1,242 @@
-{"FormOID":"233C714B-3B13-4895-841A-D120B1C0E9F2","Form":"Ability to Participate in Social Roles and Activities: Degree of involvement in one???s usual social roles,activities and responsibilities, including work, family, friends and leisure.","Properties":[{"MinNumItems":"8"},{"MaxNumItems":"8"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"0.00"},{"DistStdDev":"1.00"},{"FirstItem":""},{"CalibrationSample":"Spanish Wave 1B"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"055E83C6-D6C2-40AD-B690-4CECC77A192A","ID":"NQPRF26","A_GRM":"5.00188","Map":[{"ItemResponseOID":"F8A1DA75-7BD1-4660-B6B3-79D5527687E8","StepOrder":"1","Threshold":"-1.7589"},{"ItemResponseOID":"8C790270-3C13-46EA-B589-A19B970DF562","StepOrder":"2","Threshold":"-1.2822"},{"ItemResponseOID":"F44F120C-4717-445F-94FD-2767C6416EC1","StepOrder":"3","Threshold":"-0.5052"},{"ItemResponseOID":"5ABDDDA7-271F-4D62-80BD-8D6875598F32","StepOrder":"4","Threshold":"0.0281"}]},{"FormItemOID":"0C5156A0-CE61-4B2A-9276-233DF59D0C87","ID":"NQPRF32","A_GRM":"5.91819","Map":[{"ItemResponseOID":"A67F1AE3-01F3-4FFB-8106-8E837D5C4B99","StepOrder":"1","Threshold":"-1.7836"},{"ItemResponseOID":"C3218270-918E-408F-B0BC-C3914C8F02BD","StepOrder":"2","Threshold":"-1.3472"},{"ItemResponseOID":"64CB41FF-7332-48FE-9B6F-59034D2FD241","StepOrder":"3","Threshold":"-0.7761"},{"ItemResponseOID":"3A8CB137-46F2-4BE2-9FEC-370DE633FD01","StepOrder":"4","Threshold":"-0.3297"}]},{"FormItemOID":"245D5578-D254-4B5A-8D8F-B7A96864AC1B","ID":"NQPRF01","A_GRM":"3.87096","Map":[{"ItemResponseOID":"E9BA2D52-3AF2-4850-8994-55742134655B","StepOrder":"1","Threshold":"-2.2799"},{"ItemResponseOID":"ECB5522E-CEE8-4DD1-8430-5972487D3DE8","StepOrder":"2","Threshold":"-1.6637"},{"ItemResponseOID":"63D233DE-CE77-4C69-A27F-1F43D9CD1495","StepOrder":"3","Threshold":"-0.9850"},{"ItemResponseOID":"0DADF2C4-CCDD-4F74-89FE-B1E1E46F0D1B","StepOrder":"4","Threshold":"-0.3689"}]},{"FormItemOID":"49EACF31-0423-44C7-923B-999F73B889AB","ID":"NQPRF34","A_GRM":"5.63317","Map":[{"ItemResponseOID":"FA528496-81FB-4C85-8F89-628D5E5DAF57","StepOrder":"1","Threshold":"-1.5789"},{"ItemResponseOID":"232509AC-CD0A-4861-A2D8-CC2565072C93","StepOrder":"2","Threshold":"-1.1749"},{"ItemResponseOID":"3C679583-96EF-47EA-822A-C099C00155C8","StepOrder":"3","Threshold":"-0.5997"},{"ItemResponseOID":"F392EFC2-756D-4BB7-9D20-094AAD3C68C6","StepOrder":"4","Threshold":"-0.1874"}]},{"FormItemOID":"703F86B2-8D48-431A-8C02-1A2635706B26","ID":"NQPRF17","A_GRM":"5.47607","Map":[{"ItemResponseOID":"A71F3ECD-A072-406A-86F5-607623349CEC","StepOrder":"1","Threshold":"-1.6737"},{"ItemResponseOID":"88EC1583-207B-4C88-B591-0F92624C4624","StepOrder":"2","Threshold":"-1.0828"},{"ItemResponseOID":"95A8B227-A21D-4400-947F-382A517FFF1C","StepOrder":"3","Threshold":"-0.6184"},{"ItemResponseOID":"B5C6FD38-9820-4CB7-A814-E56CB3A30F9E","StepOrder":"4","Threshold":"-0.1237"}]},{"FormItemOID":"7EA57406-52EB-4730-ADE7-2762F4BBA468","ID":"NQPRF08","A_GRM":"3.73361","Map":[{"ItemResponseOID":"CD5CC0B0-4A8D-405B-BE62-0B1E0763DA17","StepOrder":"1","Threshold":"-1.7862"},{"ItemResponseOID":"83AE2611-E1CF-4F97-9A84-BB3EFE1B7F03","StepOrder":"2","Threshold":"-1.1625"},{"ItemResponseOID":"4F0C9ED0-53C2-48BF-94BF-52D4BE4F32A2","StepOrder":"3","Threshold":"-0.5240"},{"ItemResponseOID":"27E12986-7FE9-4D46-986E-2729D8AA5E1A","StepOrder":"4","Threshold":"-0.0805"}]},{"FormItemOID":"B4857054-B2F2-49FB-9F97-6E2FCB3360C0","ID":"NQPRF09","A_GRM":"5.27177","Map":[{"ItemResponseOID":"B9285C50-1E35-4928-8920-D8C7FEB86FAF","StepOrder":"1","Threshold":"-1.5401"},{"ItemResponseOID":"DA062885-924D-4322-BFA0-C2D0EA564AFA","StepOrder":"2","Threshold":"-1.0140"},{"ItemResponseOID":"0DC0AE7C-3BDC-4BE5-A22F-E9D885D28BC7","StepOrder":"3","Threshold":"-0.5058"},{"ItemResponseOID":"AB4BC492-A9BD-462C-8C5B-268CFDB3B73F","StepOrder":"4","Threshold":"-0.0611"}]}]}
+{
+	"FormOID": "233C714B-3B13-4895-841A-D120B1C0E9F2",
+	"Form": "Ability to Participate in Social Roles and Activities: Degree of involvement in one???s usual social roles,activities and responsibilities, including work, family, friends and leisure.",
+	"Properties": [
+		{
+			"MinNumItems": "8"
+		},
+		{
+			"MaxNumItems": "8"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "0.00"
+		},
+		{
+			"DistStdDev": "1.00"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "Spanish Wave 1B"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "055E83C6-D6C2-40AD-B690-4CECC77A192A",
+			"ID": "NQPRF26",
+			"A_GRM": "5.00188",
+			"Map": [
+				{
+					"ItemResponseOID": "F8A1DA75-7BD1-4660-B6B3-79D5527687E8",
+					"StepOrder": "1",
+					"Threshold": "-1.7589"
+				},
+				{
+					"ItemResponseOID": "8C790270-3C13-46EA-B589-A19B970DF562",
+					"StepOrder": "2",
+					"Threshold": "-1.2822"
+				},
+				{
+					"ItemResponseOID": "F44F120C-4717-445F-94FD-2767C6416EC1",
+					"StepOrder": "3",
+					"Threshold": "-0.5052"
+				},
+				{
+					"ItemResponseOID": "5ABDDDA7-271F-4D62-80BD-8D6875598F32",
+					"StepOrder": "4",
+					"Threshold": "0.0281"
+				}
+			]
+		},
+		{
+			"FormItemOID": "0C5156A0-CE61-4B2A-9276-233DF59D0C87",
+			"ID": "NQPRF32",
+			"A_GRM": "5.91819",
+			"Map": [
+				{
+					"ItemResponseOID": "A67F1AE3-01F3-4FFB-8106-8E837D5C4B99",
+					"StepOrder": "1",
+					"Threshold": "-1.7836"
+				},
+				{
+					"ItemResponseOID": "C3218270-918E-408F-B0BC-C3914C8F02BD",
+					"StepOrder": "2",
+					"Threshold": "-1.3472"
+				},
+				{
+					"ItemResponseOID": "64CB41FF-7332-48FE-9B6F-59034D2FD241",
+					"StepOrder": "3",
+					"Threshold": "-0.7761"
+				},
+				{
+					"ItemResponseOID": "3A8CB137-46F2-4BE2-9FEC-370DE633FD01",
+					"StepOrder": "4",
+					"Threshold": "-0.3297"
+				}
+			]
+		},
+		{
+			"FormItemOID": "245D5578-D254-4B5A-8D8F-B7A96864AC1B",
+			"ID": "NQPRF01",
+			"A_GRM": "3.87096",
+			"Map": [
+				{
+					"ItemResponseOID": "E9BA2D52-3AF2-4850-8994-55742134655B",
+					"StepOrder": "1",
+					"Threshold": "-2.2799"
+				},
+				{
+					"ItemResponseOID": "ECB5522E-CEE8-4DD1-8430-5972487D3DE8",
+					"StepOrder": "2",
+					"Threshold": "-1.6637"
+				},
+				{
+					"ItemResponseOID": "63D233DE-CE77-4C69-A27F-1F43D9CD1495",
+					"StepOrder": "3",
+					"Threshold": "-0.9850"
+				},
+				{
+					"ItemResponseOID": "0DADF2C4-CCDD-4F74-89FE-B1E1E46F0D1B",
+					"StepOrder": "4",
+					"Threshold": "-0.3689"
+				}
+			]
+		},
+		{
+			"FormItemOID": "49EACF31-0423-44C7-923B-999F73B889AB",
+			"ID": "NQPRF34",
+			"A_GRM": "5.63317",
+			"Map": [
+				{
+					"ItemResponseOID": "FA528496-81FB-4C85-8F89-628D5E5DAF57",
+					"StepOrder": "1",
+					"Threshold": "-1.5789"
+				},
+				{
+					"ItemResponseOID": "232509AC-CD0A-4861-A2D8-CC2565072C93",
+					"StepOrder": "2",
+					"Threshold": "-1.1749"
+				},
+				{
+					"ItemResponseOID": "3C679583-96EF-47EA-822A-C099C00155C8",
+					"StepOrder": "3",
+					"Threshold": "-0.5997"
+				},
+				{
+					"ItemResponseOID": "F392EFC2-756D-4BB7-9D20-094AAD3C68C6",
+					"StepOrder": "4",
+					"Threshold": "-0.1874"
+				}
+			]
+		},
+		{
+			"FormItemOID": "703F86B2-8D48-431A-8C02-1A2635706B26",
+			"ID": "NQPRF17",
+			"A_GRM": "5.47607",
+			"Map": [
+				{
+					"ItemResponseOID": "A71F3ECD-A072-406A-86F5-607623349CEC",
+					"StepOrder": "1",
+					"Threshold": "-1.6737"
+				},
+				{
+					"ItemResponseOID": "88EC1583-207B-4C88-B591-0F92624C4624",
+					"StepOrder": "2",
+					"Threshold": "-1.0828"
+				},
+				{
+					"ItemResponseOID": "95A8B227-A21D-4400-947F-382A517FFF1C",
+					"StepOrder": "3",
+					"Threshold": "-0.6184"
+				},
+				{
+					"ItemResponseOID": "B5C6FD38-9820-4CB7-A814-E56CB3A30F9E",
+					"StepOrder": "4",
+					"Threshold": "-0.1237"
+				}
+			]
+		},
+		{
+			"FormItemOID": "7EA57406-52EB-4730-ADE7-2762F4BBA468",
+			"ID": "NQPRF08",
+			"A_GRM": "3.73361",
+			"Map": [
+				{
+					"ItemResponseOID": "CD5CC0B0-4A8D-405B-BE62-0B1E0763DA17",
+					"StepOrder": "1",
+					"Threshold": "-1.7862"
+				},
+				{
+					"ItemResponseOID": "83AE2611-E1CF-4F97-9A84-BB3EFE1B7F03",
+					"StepOrder": "2",
+					"Threshold": "-1.1625"
+				},
+				{
+					"ItemResponseOID": "4F0C9ED0-53C2-48BF-94BF-52D4BE4F32A2",
+					"StepOrder": "3",
+					"Threshold": "-0.5240"
+				},
+				{
+					"ItemResponseOID": "27E12986-7FE9-4D46-986E-2729D8AA5E1A",
+					"StepOrder": "4",
+					"Threshold": "-0.0805"
+				}
+			]
+		},
+		{
+			"FormItemOID": "B4857054-B2F2-49FB-9F97-6E2FCB3360C0",
+			"ID": "NQPRF09",
+			"A_GRM": "5.27177",
+			"Map": [
+				{
+					"ItemResponseOID": "B9285C50-1E35-4928-8920-D8C7FEB86FAF",
+					"StepOrder": "1",
+					"Threshold": "-1.5401"
+				},
+				{
+					"ItemResponseOID": "DA062885-924D-4322-BFA0-C2D0EA564AFA",
+					"StepOrder": "2",
+					"Threshold": "-1.0140"
+				},
+				{
+					"ItemResponseOID": "0DC0AE7C-3BDC-4BE5-A22F-E9D885D28BC7",
+					"StepOrder": "3",
+					"Threshold": "-0.5058"
+				},
+				{
+					"ItemResponseOID": "AB4BC492-A9BD-462C-8C5B-268CFDB3B73F",
+					"StepOrder": "4",
+					"Threshold": "-0.0611"
+				}
+			]
+		}
+	]
+}

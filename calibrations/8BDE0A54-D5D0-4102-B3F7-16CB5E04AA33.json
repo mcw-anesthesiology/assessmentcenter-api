@@ -1,1 +1,269 @@
-{"FormOID":"8BDE0A54-D5D0-4102-B3F7-16CB5E04AA33","Form":"Perceptions of sleep quality, sleep depth, and restoration associated with sleep; perceived difficulties with getting to sleep or staying asleep; and perceptions of the adequacy of and satisfaction with sleep.","Properties":[{"MinNumItems":"4"},{"MaxNumItems":"12"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"0.00"},{"DistStdDev":"1.00"},{"FirstItem":""},{"CalibrationSample":"Wave 1A+Wave 2"},{"SetSelectionMethod":"FormDefault"}],"Items":[{"FormItemOID":"342E83A9-27D0-455A-8FF8-A306274ADC70","ID":"NQSLP04","A_GRM":"1.60035","Map":[{"ItemResponseOID":"71A29C32-0EB0-4641-900E-684392EA42FA","StepOrder":"1","Threshold":"-1.8210"},{"ItemResponseOID":"714765CE-E8DC-4D19-AE49-8CCEBE3661AD","StepOrder":"2","Threshold":"-0.7657"},{"ItemResponseOID":"CD6F90E7-AD0B-43A5-BC80-205157CDD581","StepOrder":"3","Threshold":"0.6945"},{"ItemResponseOID":"8CA3057A-9B1B-4193-A4B1-9968FFDF6EE1","StepOrder":"4","Threshold":"1.9469"}]},{"FormItemOID":"4D7FF34A-845A-4E91-BD7A-878D391122C0","ID":"NQSLP07","A_GRM":"2.23852","Map":[{"ItemResponseOID":"802F8971-E072-4D30-8F27-717D820A4711","StepOrder":"1","Threshold":"-0.6242"},{"ItemResponseOID":"75574F0D-1D59-433E-BA8A-426B8F5652CF","StepOrder":"2","Threshold":"0.2845"},{"ItemResponseOID":"447F663A-3D6A-47EB-A49D-F76F6A5C7463","StepOrder":"3","Threshold":"1.2643"},{"ItemResponseOID":"046F318D-D0E7-4BD6-8971-F5FD4213E85A","StepOrder":"4","Threshold":"2.1503"}]},{"FormItemOID":"516AF8C5-630E-4CC5-8CBB-BD7247709F7A","ID":"NQSLP02","A_GRM":"1.58794","Map":[{"ItemResponseOID":"81A89C29-F8F5-4F34-867E-3DFE1F66963B","StepOrder":"1","Threshold":"-0.5879"},{"ItemResponseOID":"103E81F9-973C-436A-90E4-57068C67A34D","StepOrder":"2","Threshold":"0.3225"},{"ItemResponseOID":"3C09DFE6-22F0-4332-A3EC-59E77290A818","StepOrder":"3","Threshold":"1.3287"},{"ItemResponseOID":"84B481F5-DEEB-48F4-8754-C9B504EADC61","StepOrder":"4","Threshold":"2.2905"}]},{"FormItemOID":"5FA4111F-5533-4EB4-AF62-97CAC553348A","ID":"NQSLP05","A_GRM":"1.66502","Map":[{"ItemResponseOID":"72AAB7C5-8F90-4BD1-9D49-968690CCBCD7","StepOrder":"1","Threshold":"0.5271"},{"ItemResponseOID":"3D6C73A1-B2E2-4C9F-9838-B516EBE3DA07","StepOrder":"2","Threshold":"1.5699"},{"ItemResponseOID":"ACFF22BC-B8C4-4FBC-B602-02E9C2BA1C81","StepOrder":"3","Threshold":"2.5337"},{"ItemResponseOID":"3DAC6645-872E-43C7-9576-03BA242ECAAC","StepOrder":"4","Threshold":"3.5181"}]},{"FormItemOID":"7D108F25-6E62-41E4-A3D1-5A502F54FE6D","ID":"NQSLP18","A_GRM":"1.80312","Map":[{"ItemResponseOID":"E853C9FD-1F45-4AE1-87F9-4D974812BDD2","StepOrder":"1","Threshold":"0.5693"},{"ItemResponseOID":"32550167-685A-48BC-9934-0B1820024EEC","StepOrder":"2","Threshold":"1.1263"},{"ItemResponseOID":"3F8DFF47-2F00-4670-B963-62932090BA80","StepOrder":"3","Threshold":"2.3135"},{"ItemResponseOID":"F95474A6-B3CB-4AB3-8359-A9ED21E488E8","StepOrder":"4","Threshold":"3.7588"}]},{"FormItemOID":"8D3A908B-02E1-4D4E-8376-A91D50447ACE","ID":"NQSLP12","A_GRM":"1.33617","Map":[{"ItemResponseOID":"94B062EE-AFFC-41C5-87B6-247D8DF10262","StepOrder":"1","Threshold":"0.0540"},{"ItemResponseOID":"06F084DD-558B-4848-83DE-729B79E36C17","StepOrder":"2","Threshold":"0.8407"},{"ItemResponseOID":"F6D354CE-7812-48BD-995D-D2D903D25DB9","StepOrder":"3","Threshold":"2.0007"},{"ItemResponseOID":"7FBD9332-F1FD-4544-B96E-33D530DE4644","StepOrder":"4","Threshold":"3.4493"}]},{"FormItemOID":"8DF81535-B40B-42FF-AFDD-AAE30CD12D6D","ID":"NQSLP13","A_GRM":"2.46753","Map":[{"ItemResponseOID":"9060CFBA-AF20-455B-A471-0EBAFBE45B68","StepOrder":"1","Threshold":"0.4991"},{"ItemResponseOID":"F21C13CF-661C-4EA4-8CA2-F34713CBB9E0","StepOrder":"2","Threshold":"1.1223"},{"ItemResponseOID":"B40FB994-F540-4534-A2C3-8A6F52BC9EF1","StepOrder":"3","Threshold":"2.0856"},{"ItemResponseOID":"03974056-EEA4-45FA-8C1D-79A714865A6D","StepOrder":"4","Threshold":"2.9696"}]},{"FormItemOID":"D8EDCDBB-0F40-4798-9A2D-9EF5CEFDFDED","ID":"NQSLP03","A_GRM":"2.30312","Map":[{"ItemResponseOID":"9451EFDC-4000-492F-A785-C2E1726CE9BB","StepOrder":"1","Threshold":"-0.5896"},{"ItemResponseOID":"55D2FA5E-B11A-40CC-961A-0373FF1B6448","StepOrder":"2","Threshold":"0.1447"},{"ItemResponseOID":"2C8E1077-2551-496F-A36E-7761843BF2CD","StepOrder":"3","Threshold":"1.0281"},{"ItemResponseOID":"06DB9506-B0AB-44EE-BE6E-2A124A14BDD1","StepOrder":"4","Threshold":"2.0049"}]}]}
+{
+	"FormOID": "8BDE0A54-D5D0-4102-B3F7-16CB5E04AA33",
+	"Form": "Perceptions of sleep quality, sleep depth, and restoration associated with sleep; perceived difficulties with getting to sleep or staying asleep; and perceptions of the adequacy of and satisfaction with sleep.",
+	"Properties": [
+		{
+			"MinNumItems": "4"
+		},
+		{
+			"MaxNumItems": "12"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "0.00"
+		},
+		{
+			"DistStdDev": "1.00"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "Wave 1A+Wave 2"
+		},
+		{
+			"SetSelectionMethod": "FormDefault"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "342E83A9-27D0-455A-8FF8-A306274ADC70",
+			"ID": "NQSLP04",
+			"A_GRM": "1.60035",
+			"Map": [
+				{
+					"ItemResponseOID": "71A29C32-0EB0-4641-900E-684392EA42FA",
+					"StepOrder": "1",
+					"Threshold": "-1.8210"
+				},
+				{
+					"ItemResponseOID": "714765CE-E8DC-4D19-AE49-8CCEBE3661AD",
+					"StepOrder": "2",
+					"Threshold": "-0.7657"
+				},
+				{
+					"ItemResponseOID": "CD6F90E7-AD0B-43A5-BC80-205157CDD581",
+					"StepOrder": "3",
+					"Threshold": "0.6945"
+				},
+				{
+					"ItemResponseOID": "8CA3057A-9B1B-4193-A4B1-9968FFDF6EE1",
+					"StepOrder": "4",
+					"Threshold": "1.9469"
+				}
+			]
+		},
+		{
+			"FormItemOID": "4D7FF34A-845A-4E91-BD7A-878D391122C0",
+			"ID": "NQSLP07",
+			"A_GRM": "2.23852",
+			"Map": [
+				{
+					"ItemResponseOID": "802F8971-E072-4D30-8F27-717D820A4711",
+					"StepOrder": "1",
+					"Threshold": "-0.6242"
+				},
+				{
+					"ItemResponseOID": "75574F0D-1D59-433E-BA8A-426B8F5652CF",
+					"StepOrder": "2",
+					"Threshold": "0.2845"
+				},
+				{
+					"ItemResponseOID": "447F663A-3D6A-47EB-A49D-F76F6A5C7463",
+					"StepOrder": "3",
+					"Threshold": "1.2643"
+				},
+				{
+					"ItemResponseOID": "046F318D-D0E7-4BD6-8971-F5FD4213E85A",
+					"StepOrder": "4",
+					"Threshold": "2.1503"
+				}
+			]
+		},
+		{
+			"FormItemOID": "516AF8C5-630E-4CC5-8CBB-BD7247709F7A",
+			"ID": "NQSLP02",
+			"A_GRM": "1.58794",
+			"Map": [
+				{
+					"ItemResponseOID": "81A89C29-F8F5-4F34-867E-3DFE1F66963B",
+					"StepOrder": "1",
+					"Threshold": "-0.5879"
+				},
+				{
+					"ItemResponseOID": "103E81F9-973C-436A-90E4-57068C67A34D",
+					"StepOrder": "2",
+					"Threshold": "0.3225"
+				},
+				{
+					"ItemResponseOID": "3C09DFE6-22F0-4332-A3EC-59E77290A818",
+					"StepOrder": "3",
+					"Threshold": "1.3287"
+				},
+				{
+					"ItemResponseOID": "84B481F5-DEEB-48F4-8754-C9B504EADC61",
+					"StepOrder": "4",
+					"Threshold": "2.2905"
+				}
+			]
+		},
+		{
+			"FormItemOID": "5FA4111F-5533-4EB4-AF62-97CAC553348A",
+			"ID": "NQSLP05",
+			"A_GRM": "1.66502",
+			"Map": [
+				{
+					"ItemResponseOID": "72AAB7C5-8F90-4BD1-9D49-968690CCBCD7",
+					"StepOrder": "1",
+					"Threshold": "0.5271"
+				},
+				{
+					"ItemResponseOID": "3D6C73A1-B2E2-4C9F-9838-B516EBE3DA07",
+					"StepOrder": "2",
+					"Threshold": "1.5699"
+				},
+				{
+					"ItemResponseOID": "ACFF22BC-B8C4-4FBC-B602-02E9C2BA1C81",
+					"StepOrder": "3",
+					"Threshold": "2.5337"
+				},
+				{
+					"ItemResponseOID": "3DAC6645-872E-43C7-9576-03BA242ECAAC",
+					"StepOrder": "4",
+					"Threshold": "3.5181"
+				}
+			]
+		},
+		{
+			"FormItemOID": "7D108F25-6E62-41E4-A3D1-5A502F54FE6D",
+			"ID": "NQSLP18",
+			"A_GRM": "1.80312",
+			"Map": [
+				{
+					"ItemResponseOID": "E853C9FD-1F45-4AE1-87F9-4D974812BDD2",
+					"StepOrder": "1",
+					"Threshold": "0.5693"
+				},
+				{
+					"ItemResponseOID": "32550167-685A-48BC-9934-0B1820024EEC",
+					"StepOrder": "2",
+					"Threshold": "1.1263"
+				},
+				{
+					"ItemResponseOID": "3F8DFF47-2F00-4670-B963-62932090BA80",
+					"StepOrder": "3",
+					"Threshold": "2.3135"
+				},
+				{
+					"ItemResponseOID": "F95474A6-B3CB-4AB3-8359-A9ED21E488E8",
+					"StepOrder": "4",
+					"Threshold": "3.7588"
+				}
+			]
+		},
+		{
+			"FormItemOID": "8D3A908B-02E1-4D4E-8376-A91D50447ACE",
+			"ID": "NQSLP12",
+			"A_GRM": "1.33617",
+			"Map": [
+				{
+					"ItemResponseOID": "94B062EE-AFFC-41C5-87B6-247D8DF10262",
+					"StepOrder": "1",
+					"Threshold": "0.0540"
+				},
+				{
+					"ItemResponseOID": "06F084DD-558B-4848-83DE-729B79E36C17",
+					"StepOrder": "2",
+					"Threshold": "0.8407"
+				},
+				{
+					"ItemResponseOID": "F6D354CE-7812-48BD-995D-D2D903D25DB9",
+					"StepOrder": "3",
+					"Threshold": "2.0007"
+				},
+				{
+					"ItemResponseOID": "7FBD9332-F1FD-4544-B96E-33D530DE4644",
+					"StepOrder": "4",
+					"Threshold": "3.4493"
+				}
+			]
+		},
+		{
+			"FormItemOID": "8DF81535-B40B-42FF-AFDD-AAE30CD12D6D",
+			"ID": "NQSLP13",
+			"A_GRM": "2.46753",
+			"Map": [
+				{
+					"ItemResponseOID": "9060CFBA-AF20-455B-A471-0EBAFBE45B68",
+					"StepOrder": "1",
+					"Threshold": "0.4991"
+				},
+				{
+					"ItemResponseOID": "F21C13CF-661C-4EA4-8CA2-F34713CBB9E0",
+					"StepOrder": "2",
+					"Threshold": "1.1223"
+				},
+				{
+					"ItemResponseOID": "B40FB994-F540-4534-A2C3-8A6F52BC9EF1",
+					"StepOrder": "3",
+					"Threshold": "2.0856"
+				},
+				{
+					"ItemResponseOID": "03974056-EEA4-45FA-8C1D-79A714865A6D",
+					"StepOrder": "4",
+					"Threshold": "2.9696"
+				}
+			]
+		},
+		{
+			"FormItemOID": "D8EDCDBB-0F40-4798-9A2D-9EF5CEFDFDED",
+			"ID": "NQSLP03",
+			"A_GRM": "2.30312",
+			"Map": [
+				{
+					"ItemResponseOID": "9451EFDC-4000-492F-A785-C2E1726CE9BB",
+					"StepOrder": "1",
+					"Threshold": "-0.5896"
+				},
+				{
+					"ItemResponseOID": "55D2FA5E-B11A-40CC-961A-0373FF1B6448",
+					"StepOrder": "2",
+					"Threshold": "0.1447"
+				},
+				{
+					"ItemResponseOID": "2C8E1077-2551-496F-A36E-7761843BF2CD",
+					"StepOrder": "3",
+					"Threshold": "1.0281"
+				},
+				{
+					"ItemResponseOID": "06DB9506-B0AB-44EE-BE6E-2A124A14BDD1",
+					"StepOrder": "4",
+					"Threshold": "2.0049"
+				}
+			]
+		}
+	]
+}

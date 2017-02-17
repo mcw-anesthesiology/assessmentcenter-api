@@ -1,1 +1,242 @@
-{"FormOID":"BA8C152F-ABD3-4EF2-9EC1-954DE783C689","Form":"Create Sexual Function Profile for Men","Properties":[{"MinNumItems":"4"},{"MaxNumItems":"12"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"0.00"},{"DistStdDev":"1.00"},{"FirstItem":""},{"CalibrationSample":"Cancer Supplement Calibration"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"09FFD792-CA34-4479-A9F8-AA07B3F6BAB5","ID":"SFSAT105","A_GRM":"3.50000","Map":[{"ItemResponseOID":"107771DC-384C-4121-8410-5FE23B4B0B3E","StepOrder":"1","Threshold":"-1.5700"},{"ItemResponseOID":"077EF4A7-4324-4228-837D-CB76106B09BD","StepOrder":"2","Threshold":"-0.6000"},{"ItemResponseOID":"CEECD817-AE58-4B35-8249-4E6EA070DBA6","StepOrder":"3","Threshold":"0.0900"},{"ItemResponseOID":"66C7D65A-E024-4BEA-B4C6-40503C3DB6D6","StepOrder":"4","Threshold":"0.9300"}]},{"FormItemOID":"7D42F07A-0F88-40A5-BD17-71BE13610F9E","ID":"SFEFN102","A_GRM":"3.55000","Map":[{"ItemResponseOID":"5B734441-63A5-4512-8732-9AF66704D663","StepOrder":"1","Threshold":"-0.6300"},{"ItemResponseOID":"027DF643-AD52-4A43-B7A0-0B165DABB8CC","StepOrder":"2","Threshold":"-0.2000"},{"ItemResponseOID":"BE1D35EA-2070-4F33-9105-ED4F60F548F2","StepOrder":"3","Threshold":"0.2700"},{"ItemResponseOID":"E2FABC1C-A3D2-4559-88A8-EBAE4B37B1B5","StepOrder":"4","Threshold":"0.8800"}]},{"FormItemOID":"89ED4868-F63C-408B-9EB6-5542FBEEC23F","ID":"SFSAT106","A_GRM":"3.97000","Map":[{"ItemResponseOID":"6CBFC62E-421C-4535-BFDF-8895F3A9158D","StepOrder":"1","Threshold":"-1.4300"},{"ItemResponseOID":"63AE3CF0-31CB-42EC-901C-AB08A8CB23B6","StepOrder":"2","Threshold":"-0.5600"},{"ItemResponseOID":"3AB10134-F8F4-41F7-BDF0-C1D7CE62D928","StepOrder":"3","Threshold":"0.2400"},{"ItemResponseOID":"1571767F-F8E3-4821-9831-9F0DD62B784D","StepOrder":"4","Threshold":"1.0500"}]},{"FormItemOID":"BD31B5D8-B807-48C3-9397-0121047A37EF","ID":"SFINT101","A_GRM":"5.20000","Map":[{"ItemResponseOID":"0C7D7277-5F8F-45FA-9B79-40A54FFD2EF7","StepOrder":"1","Threshold":"-0.9200"},{"ItemResponseOID":"AC73F386-8643-4B13-A912-4719887AE46D","StepOrder":"2","Threshold":"-0.1700"},{"ItemResponseOID":"32651871-3793-44C0-87A4-EC5BE0477E3D","StepOrder":"3","Threshold":"0.4800"},{"ItemResponseOID":"A4BE5CEB-6DEF-49BA-869A-25EBB68A9A61","StepOrder":"4","Threshold":"1.2600"}]},{"FormItemOID":"CE3F042B-500B-4060-B8D6-E427B6AAC08C","ID":"SFEFN002","A_GRM":"6.47000","Map":[{"ItemResponseOID":"521AF059-E013-45D4-A74F-0845859F60CD","StepOrder":"1","Threshold":"-0.3700"},{"ItemResponseOID":"7CC797A9-5CC6-4C8B-968D-A9A93B2F3B8A","StepOrder":"2","Threshold":"0.0300"},{"ItemResponseOID":"E388363D-3EFA-4BE5-AA46-E8F88792CB87","StepOrder":"3","Threshold":"0.4700"},{"ItemResponseOID":"BBB820BC-B220-4836-8EFB-D2B16C3D0983","StepOrder":"4","Threshold":"1.1800"}]},{"FormItemOID":"D19A1517-9C97-4D4C-A306-AFAF71021FEE","ID":"SFEFN103","A_GRM":"3.58000","Map":[{"ItemResponseOID":"6D9BC1EA-E152-4BBE-A339-D14C5010F844","StepOrder":"1","Threshold":"-0.5100"},{"ItemResponseOID":"809F2A6E-E839-43EF-9D31-998470A76789","StepOrder":"2","Threshold":"-0.1200"},{"ItemResponseOID":"9A0B907B-62C0-46A8-96F0-3EE6BD0AC6E5","StepOrder":"3","Threshold":"0.3800"},{"ItemResponseOID":"92C820B0-ABC7-49C2-85F7-5B44B727B0DF","StepOrder":"4","Threshold":"0.9700"}]},{"FormItemOID":"F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF","ID":"SFINT102","A_GRM":"5.91000","Map":[{"ItemResponseOID":"ACD94B5A-92BE-4106-B508-1019E2218A38","StepOrder":"1","Threshold":"-1.2000"},{"ItemResponseOID":"7D9275A7-425F-4C69-A829-EF23E6DF55B2","StepOrder":"2","Threshold":"-0.4400"},{"ItemResponseOID":"FBFAE8E6-0596-4F8B-8EB2-B79892CD24C5","StepOrder":"3","Threshold":"0.5900"},{"ItemResponseOID":"5EA39487-5AB4-46F4-911C-6F0E546BFAC0","StepOrder":"4","Threshold":"1.6600"}]}]}
+{
+	"FormOID": "BA8C152F-ABD3-4EF2-9EC1-954DE783C689",
+	"Form": "Create Sexual Function Profile for Men",
+	"Properties": [
+		{
+			"MinNumItems": "4"
+		},
+		{
+			"MaxNumItems": "12"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "0.00"
+		},
+		{
+			"DistStdDev": "1.00"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "Cancer Supplement Calibration"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "09FFD792-CA34-4479-A9F8-AA07B3F6BAB5",
+			"ID": "SFSAT105",
+			"A_GRM": "3.50000",
+			"Map": [
+				{
+					"ItemResponseOID": "107771DC-384C-4121-8410-5FE23B4B0B3E",
+					"StepOrder": "1",
+					"Threshold": "-1.5700"
+				},
+				{
+					"ItemResponseOID": "077EF4A7-4324-4228-837D-CB76106B09BD",
+					"StepOrder": "2",
+					"Threshold": "-0.6000"
+				},
+				{
+					"ItemResponseOID": "CEECD817-AE58-4B35-8249-4E6EA070DBA6",
+					"StepOrder": "3",
+					"Threshold": "0.0900"
+				},
+				{
+					"ItemResponseOID": "66C7D65A-E024-4BEA-B4C6-40503C3DB6D6",
+					"StepOrder": "4",
+					"Threshold": "0.9300"
+				}
+			]
+		},
+		{
+			"FormItemOID": "7D42F07A-0F88-40A5-BD17-71BE13610F9E",
+			"ID": "SFEFN102",
+			"A_GRM": "3.55000",
+			"Map": [
+				{
+					"ItemResponseOID": "5B734441-63A5-4512-8732-9AF66704D663",
+					"StepOrder": "1",
+					"Threshold": "-0.6300"
+				},
+				{
+					"ItemResponseOID": "027DF643-AD52-4A43-B7A0-0B165DABB8CC",
+					"StepOrder": "2",
+					"Threshold": "-0.2000"
+				},
+				{
+					"ItemResponseOID": "BE1D35EA-2070-4F33-9105-ED4F60F548F2",
+					"StepOrder": "3",
+					"Threshold": "0.2700"
+				},
+				{
+					"ItemResponseOID": "E2FABC1C-A3D2-4559-88A8-EBAE4B37B1B5",
+					"StepOrder": "4",
+					"Threshold": "0.8800"
+				}
+			]
+		},
+		{
+			"FormItemOID": "89ED4868-F63C-408B-9EB6-5542FBEEC23F",
+			"ID": "SFSAT106",
+			"A_GRM": "3.97000",
+			"Map": [
+				{
+					"ItemResponseOID": "6CBFC62E-421C-4535-BFDF-8895F3A9158D",
+					"StepOrder": "1",
+					"Threshold": "-1.4300"
+				},
+				{
+					"ItemResponseOID": "63AE3CF0-31CB-42EC-901C-AB08A8CB23B6",
+					"StepOrder": "2",
+					"Threshold": "-0.5600"
+				},
+				{
+					"ItemResponseOID": "3AB10134-F8F4-41F7-BDF0-C1D7CE62D928",
+					"StepOrder": "3",
+					"Threshold": "0.2400"
+				},
+				{
+					"ItemResponseOID": "1571767F-F8E3-4821-9831-9F0DD62B784D",
+					"StepOrder": "4",
+					"Threshold": "1.0500"
+				}
+			]
+		},
+		{
+			"FormItemOID": "BD31B5D8-B807-48C3-9397-0121047A37EF",
+			"ID": "SFINT101",
+			"A_GRM": "5.20000",
+			"Map": [
+				{
+					"ItemResponseOID": "0C7D7277-5F8F-45FA-9B79-40A54FFD2EF7",
+					"StepOrder": "1",
+					"Threshold": "-0.9200"
+				},
+				{
+					"ItemResponseOID": "AC73F386-8643-4B13-A912-4719887AE46D",
+					"StepOrder": "2",
+					"Threshold": "-0.1700"
+				},
+				{
+					"ItemResponseOID": "32651871-3793-44C0-87A4-EC5BE0477E3D",
+					"StepOrder": "3",
+					"Threshold": "0.4800"
+				},
+				{
+					"ItemResponseOID": "A4BE5CEB-6DEF-49BA-869A-25EBB68A9A61",
+					"StepOrder": "4",
+					"Threshold": "1.2600"
+				}
+			]
+		},
+		{
+			"FormItemOID": "CE3F042B-500B-4060-B8D6-E427B6AAC08C",
+			"ID": "SFEFN002",
+			"A_GRM": "6.47000",
+			"Map": [
+				{
+					"ItemResponseOID": "521AF059-E013-45D4-A74F-0845859F60CD",
+					"StepOrder": "1",
+					"Threshold": "-0.3700"
+				},
+				{
+					"ItemResponseOID": "7CC797A9-5CC6-4C8B-968D-A9A93B2F3B8A",
+					"StepOrder": "2",
+					"Threshold": "0.0300"
+				},
+				{
+					"ItemResponseOID": "E388363D-3EFA-4BE5-AA46-E8F88792CB87",
+					"StepOrder": "3",
+					"Threshold": "0.4700"
+				},
+				{
+					"ItemResponseOID": "BBB820BC-B220-4836-8EFB-D2B16C3D0983",
+					"StepOrder": "4",
+					"Threshold": "1.1800"
+				}
+			]
+		},
+		{
+			"FormItemOID": "D19A1517-9C97-4D4C-A306-AFAF71021FEE",
+			"ID": "SFEFN103",
+			"A_GRM": "3.58000",
+			"Map": [
+				{
+					"ItemResponseOID": "6D9BC1EA-E152-4BBE-A339-D14C5010F844",
+					"StepOrder": "1",
+					"Threshold": "-0.5100"
+				},
+				{
+					"ItemResponseOID": "809F2A6E-E839-43EF-9D31-998470A76789",
+					"StepOrder": "2",
+					"Threshold": "-0.1200"
+				},
+				{
+					"ItemResponseOID": "9A0B907B-62C0-46A8-96F0-3EE6BD0AC6E5",
+					"StepOrder": "3",
+					"Threshold": "0.3800"
+				},
+				{
+					"ItemResponseOID": "92C820B0-ABC7-49C2-85F7-5B44B727B0DF",
+					"StepOrder": "4",
+					"Threshold": "0.9700"
+				}
+			]
+		},
+		{
+			"FormItemOID": "F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF",
+			"ID": "SFINT102",
+			"A_GRM": "5.91000",
+			"Map": [
+				{
+					"ItemResponseOID": "ACD94B5A-92BE-4106-B508-1019E2218A38",
+					"StepOrder": "1",
+					"Threshold": "-1.2000"
+				},
+				{
+					"ItemResponseOID": "7D9275A7-425F-4C69-A829-EF23E6DF55B2",
+					"StepOrder": "2",
+					"Threshold": "-0.4400"
+				},
+				{
+					"ItemResponseOID": "FBFAE8E6-0596-4F8B-8EB2-B79892CD24C5",
+					"StepOrder": "3",
+					"Threshold": "0.5900"
+				},
+				{
+					"ItemResponseOID": "5EA39487-5AB4-46F4-911C-6F0E546BFAC0",
+					"StepOrder": "4",
+					"Threshold": "1.6600"
+				}
+			]
+		}
+	]
+}

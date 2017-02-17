@@ -1,1 +1,161 @@
-{"FormOID":"99ED6E39-E48C-4E18-BC05-BDB8FFB4ECBF","Form":"PROMIS Parent Proxy Psychological Stress Experiences 4-item Short Form","Properties":[{"MinNumItems":"4"},{"MaxNumItems":"4"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"0.00"},{"DistStdDev":"1.00"},{"FirstItem":""},{"CalibrationSample":"General population and clinical"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"0E77D82A-E46F-4510-850E-5DBDAF40CF78","ID":"EoS_P_011_PXR1","A_GRM":"2.94900","Map":[{"ItemResponseOID":"6CEEEAC6-9C3E-4463-B88A-84C157F3C243","StepOrder":"1","Threshold":"-0.3600"},{"ItemResponseOID":"4E6B9D21-142B-42A8-B888-437313C2BFA5","StepOrder":"2","Threshold":"0.6920"},{"ItemResponseOID":"682325AC-C7BC-43D9-A6CD-D59CA873AB93","StepOrder":"3","Threshold":"1.9790"},{"ItemResponseOID":"90DA70AE-E0E7-4D22-8490-BDCDE8319884","StepOrder":"4","Threshold":"2.7360"}]},{"FormItemOID":"0F4C95C1-DFC3-47AD-B440-A2C59664E709","ID":"EoS_P_112_PXR1","A_GRM":"3.05600","Map":[{"ItemResponseOID":"EA9C3998-27DB-47BB-9F06-AEA486742325","StepOrder":"1","Threshold":"0.4900"},{"ItemResponseOID":"4994921C-1D92-4561-929A-D8086814DA68","StepOrder":"2","Threshold":"1.4710"},{"ItemResponseOID":"2C0DAB46-4279-433B-9894-22D25126FD9F","StepOrder":"3","Threshold":"2.2810"},{"ItemResponseOID":"A91E9DEC-1D29-43F3-8E5C-AFA34DCC5F81","StepOrder":"4","Threshold":"2.8910"}]},{"FormItemOID":"564FA9CF-AA6F-4531-8094-BFD05772EE84","ID":"EoS_P_067_PXR1","A_GRM":"3.50000","Map":[{"ItemResponseOID":"86D4809E-3547-4E8A-849D-514E8CF8148A","StepOrder":"1","Threshold":"0.1340"},{"ItemResponseOID":"E24692B8-0B40-4EDA-8C8C-E233CE4A39E6","StepOrder":"2","Threshold":"1.0840"},{"ItemResponseOID":"F390F77E-91E6-4A54-864F-8A360432121B","StepOrder":"3","Threshold":"2.0690"},{"ItemResponseOID":"C3BFE87F-A1A1-46DD-A05B-CACE418E1099","StepOrder":"4","Threshold":"2.9370"}]},{"FormItemOID":"FF3837E0-3A9D-4202-847C-EEEC14F94774","ID":"EoS_P_064_PXR1","A_GRM":"3.58800","Map":[{"ItemResponseOID":"A1904DD7-8FED-4D89-988F-43015BAA26F3","StepOrder":"1","Threshold":"0.3560"},{"ItemResponseOID":"64F639BB-F460-486F-AD60-BFEFDFFD1BE5","StepOrder":"2","Threshold":"1.3020"},{"ItemResponseOID":"4FFD2935-9D7A-4B05-83E8-D1960FE389B9","StepOrder":"3","Threshold":"2.1970"},{"ItemResponseOID":"7D07DFC2-1F78-4BA1-8E96-893AF5101C1B","StepOrder":"4","Threshold":"2.9480"}]}]}
+{
+	"FormOID": "99ED6E39-E48C-4E18-BC05-BDB8FFB4ECBF",
+	"Form": "PROMIS Parent Proxy Psychological Stress Experiences 4-item Short Form",
+	"Properties": [
+		{
+			"MinNumItems": "4"
+		},
+		{
+			"MaxNumItems": "4"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "0.00"
+		},
+		{
+			"DistStdDev": "1.00"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "General population and clinical"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "0E77D82A-E46F-4510-850E-5DBDAF40CF78",
+			"ID": "EoS_P_011_PXR1",
+			"A_GRM": "2.94900",
+			"Map": [
+				{
+					"ItemResponseOID": "6CEEEAC6-9C3E-4463-B88A-84C157F3C243",
+					"StepOrder": "1",
+					"Threshold": "-0.3600"
+				},
+				{
+					"ItemResponseOID": "4E6B9D21-142B-42A8-B888-437313C2BFA5",
+					"StepOrder": "2",
+					"Threshold": "0.6920"
+				},
+				{
+					"ItemResponseOID": "682325AC-C7BC-43D9-A6CD-D59CA873AB93",
+					"StepOrder": "3",
+					"Threshold": "1.9790"
+				},
+				{
+					"ItemResponseOID": "90DA70AE-E0E7-4D22-8490-BDCDE8319884",
+					"StepOrder": "4",
+					"Threshold": "2.7360"
+				}
+			]
+		},
+		{
+			"FormItemOID": "0F4C95C1-DFC3-47AD-B440-A2C59664E709",
+			"ID": "EoS_P_112_PXR1",
+			"A_GRM": "3.05600",
+			"Map": [
+				{
+					"ItemResponseOID": "EA9C3998-27DB-47BB-9F06-AEA486742325",
+					"StepOrder": "1",
+					"Threshold": "0.4900"
+				},
+				{
+					"ItemResponseOID": "4994921C-1D92-4561-929A-D8086814DA68",
+					"StepOrder": "2",
+					"Threshold": "1.4710"
+				},
+				{
+					"ItemResponseOID": "2C0DAB46-4279-433B-9894-22D25126FD9F",
+					"StepOrder": "3",
+					"Threshold": "2.2810"
+				},
+				{
+					"ItemResponseOID": "A91E9DEC-1D29-43F3-8E5C-AFA34DCC5F81",
+					"StepOrder": "4",
+					"Threshold": "2.8910"
+				}
+			]
+		},
+		{
+			"FormItemOID": "564FA9CF-AA6F-4531-8094-BFD05772EE84",
+			"ID": "EoS_P_067_PXR1",
+			"A_GRM": "3.50000",
+			"Map": [
+				{
+					"ItemResponseOID": "86D4809E-3547-4E8A-849D-514E8CF8148A",
+					"StepOrder": "1",
+					"Threshold": "0.1340"
+				},
+				{
+					"ItemResponseOID": "E24692B8-0B40-4EDA-8C8C-E233CE4A39E6",
+					"StepOrder": "2",
+					"Threshold": "1.0840"
+				},
+				{
+					"ItemResponseOID": "F390F77E-91E6-4A54-864F-8A360432121B",
+					"StepOrder": "3",
+					"Threshold": "2.0690"
+				},
+				{
+					"ItemResponseOID": "C3BFE87F-A1A1-46DD-A05B-CACE418E1099",
+					"StepOrder": "4",
+					"Threshold": "2.9370"
+				}
+			]
+		},
+		{
+			"FormItemOID": "FF3837E0-3A9D-4202-847C-EEEC14F94774",
+			"ID": "EoS_P_064_PXR1",
+			"A_GRM": "3.58800",
+			"Map": [
+				{
+					"ItemResponseOID": "A1904DD7-8FED-4D89-988F-43015BAA26F3",
+					"StepOrder": "1",
+					"Threshold": "0.3560"
+				},
+				{
+					"ItemResponseOID": "64F639BB-F460-486F-AD60-BFEFDFFD1BE5",
+					"StepOrder": "2",
+					"Threshold": "1.3020"
+				},
+				{
+					"ItemResponseOID": "4FFD2935-9D7A-4B05-83E8-D1960FE389B9",
+					"StepOrder": "3",
+					"Threshold": "2.1970"
+				},
+				{
+					"ItemResponseOID": "7D07DFC2-1F78-4BA1-8E96-893AF5101C1B",
+					"StepOrder": "4",
+					"Threshold": "2.9480"
+				}
+			]
+		}
+	]
+}

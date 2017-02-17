@@ -1,1 +1,783 @@
-{"DateFinished":"","Items":[{"FormItemOID":"7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0","ID":"SFFAC101","Order":"1","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"3DCDAC51-E124-47A8-B707-A8F6B29E3766","Description":"How much has fatigue or lack of energy affected your satisfaction with your sex life?\r\n","ElementOrder":"2"},{"ElementOID":"D2E0C626-865C-495E-8D70-EF17A415E184","Description":"ContainerForD2E0C626-865C-495E-8D70-EF17A415E184","ElementOrder":"3","Map":[{"ElementOID":"618CB25E-E0BE-496E-BC9A-45BF76B00614","Description":"Have not had fatigue or lack of energy in the past 30 days","FormItemOID":"7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0","ItemResponseOID":"7A5BC796-9465-4EB0-9545-4EA4F50E66D8", "Value":"0","Position":"1"},{"ElementOID":"5D57FF1C-4454-4149-ACD6-1E2204631B56","Description":"Not at all","FormItemOID":"7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0","ItemResponseOID":"0C6667EA-E322-4C20-898D-C935EFF249C6", "Value":"1","Position":"2"},{"ElementOID":"C45116D4-8B98-4DFD-8A82-E3827C4F45E9","Description":"A little bit","FormItemOID":"7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0","ItemResponseOID":"18354E01-CFB5-4068-B979-E2BA0610E4DD", "Value":"2","Position":"3"},{"ElementOID":"0FDF3F7F-CB03-409E-AAD1-75FBEFD9BA74","Description":"Somewhat","FormItemOID":"7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0","ItemResponseOID":"77E4D6F7-4B64-4DBF-8F78-02F211ED264F", "Value":"3","Position":"4"},{"ElementOID":"E758FB10-A47B-448C-A89B-8152C35D3A29","Description":"Quite a bit","FormItemOID":"7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0","ItemResponseOID":"C39AD99D-5EE3-454B-8FFF-76D8291F212D", "Value":"4","Position":"5"},{"ElementOID":"F108583D-5A8E-4D43-BDAA-388281697D08","Description":"Very much","FormItemOID":"7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0","ItemResponseOID":"F5D35F89-3A0A-4B47-B23A-D3E2D1222514", "Value":"5","Position":"6"}]}]},{"FormItemOID":"698C3BE5-110E-4C0C-8793-42BD18242234","ID":"SFFAC102","Order":"2","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"BA18970E-1F09-4CD2-9D56-BDCF5722DC82","Description":"How much has pain affected your satisfaction with your sex life?\r\n\r\n","ElementOrder":"2"},{"ElementOID":"6B264CDC-FA4F-414A-BA7F-42693F91B643","Description":"ContainerFor6B264CDC-FA4F-414A-BA7F-42693F91B643","ElementOrder":"3","Map":[{"ElementOID":"F4FE3C44-EDCB-420A-98F1-D5A023652234","Description":"Have not had pain in the past 30 days","FormItemOID":"698C3BE5-110E-4C0C-8793-42BD18242234","ItemResponseOID":"41AE5FF3-E335-4584-81EC-FD2E8784FF40", "Value":"0","Position":"1"},{"ElementOID":"4940976D-4202-4B47-9089-3FE254B4D7A0","Description":"Not at all","FormItemOID":"698C3BE5-110E-4C0C-8793-42BD18242234","ItemResponseOID":"46D35B7B-6EFD-4285-93C7-A87F4C04F76A", "Value":"1","Position":"2"},{"ElementOID":"BF7A7B53-0A01-4960-9A6E-F39E224DE4A0","Description":"A little bit","FormItemOID":"698C3BE5-110E-4C0C-8793-42BD18242234","ItemResponseOID":"4108A93A-03C7-4335-BE43-693852129610", "Value":"2","Position":"3"},{"ElementOID":"A17C6E88-75AF-4880-857C-42FF9D433ACF","Description":"Somewhat","FormItemOID":"698C3BE5-110E-4C0C-8793-42BD18242234","ItemResponseOID":"370174B7-7321-4506-9E4C-82818D6D7F93", "Value":"3","Position":"4"},{"ElementOID":"AF38EBCB-D36C-4370-BD16-2621BB2E83F6","Description":"Quite a bit","FormItemOID":"698C3BE5-110E-4C0C-8793-42BD18242234","ItemResponseOID":"57FD2506-1709-4294-8375-C6AC768E7EBE", "Value":"4","Position":"5"},{"ElementOID":"6711C7A0-E65E-4C1C-B059-69C73626BE25","Description":"Very much","FormItemOID":"698C3BE5-110E-4C0C-8793-42BD18242234","ItemResponseOID":"F6F3BFDC-C750-4DD2-A644-8783F173BA39", "Value":"5","Position":"6"}]}]},{"FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ID":"SFFAC103","Order":"3","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"EE1F9EC0-BC98-426D-9BAF-AAD8DA42D3A8","Description":"How much pain have you had during sexual activity?\r\n\r\n\r\n","ElementOrder":"2"},{"ElementOID":"86FB5220-2882-48E2-B54B-2606931AD9C4","Description":"ContainerFor86FB5220-2882-48E2-B54B-2606931AD9C4","ElementOrder":"3","Map":[{"ElementOID":"DCA6181E-8DAA-42B8-8BCD-F1A50C93D921","Description":"Have not had any sexual activity in the past 30 days","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"F5F57254-BCC4-4021-B2CC-4F1E27A31C0D", "Value":"88","Position":"1"},{"ElementOID":"B7F6F90D-7B95-4422-BA9D-4E672E8D299D","Description":"No Pain","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"4C75261D-9CA5-4C0A-8A5D-F758F6D8EEB5", "Value":"0","Position":"2"},{"ElementOID":"536BDD67-4947-4E31-B3D1-442FC557DD66","Description":"","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"397D7EA2-618C-49CD-966C-08A67D25BE59", "Value":"1","Position":"3"},{"ElementOID":"84E5A59B-A26E-4E8A-8327-45456D4DE961","Description":"","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"A3EF88DB-1E2D-4563-8C70-1E115915295D", "Value":"2","Position":"4"},{"ElementOID":"1469B61A-4A6C-47B2-9CFF-829AC436411F","Description":"","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"10DE51D6-576A-4089-B911-14C3DBFCCFC4", "Value":"3","Position":"5"},{"ElementOID":"58D8B62C-8675-4089-9772-DBD1641D6FF4","Description":"","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"AE8107E5-4D2C-4ADB-96B7-1CDB298E3CEC", "Value":"4","Position":"6"},{"ElementOID":"38E651D6-BAFF-4E69-8A95-2884C4DDE5B2","Description":"","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"034F15B1-D963-4B5F-8BE0-94D13C4CA8F1", "Value":"5","Position":"7"},{"ElementOID":"AB23E0C6-BEE5-4969-93C7-86B88ABF8457","Description":"","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"3BA3A14B-572C-468C-82C9-ABDE1EBCA21C", "Value":"6","Position":"8"},{"ElementOID":"D45F5AD7-F2A2-454A-8076-F9A048B0E64B","Description":"","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"5CAFE2AE-52F6-43C8-9BA7-3BCF618970D7", "Value":"7","Position":"9"},{"ElementOID":"0B107EAC-C7B6-480B-9FD0-5E7E1F35AC6F","Description":"","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"EB99D8D9-A944-4BC4-ACE4-1AC38430C66D", "Value":"8","Position":"10"},{"ElementOID":"5BF76A98-90D0-4434-AB6A-45F9609527AF","Description":"","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"620D8693-3E9A-4A65-BE5E-28F0DE3D7BBC", "Value":"9","Position":"11"},{"ElementOID":"22828A73-C30C-46C1-9F4F-AA56233327B5","Description":"Pain as bad as it can be","FormItemOID":"D0DA18F3-7CA6-40C1-B987-2707BA135A57","ItemResponseOID":"DC09B540-F62C-46E0-A23E-59708B233D26", "Value":"10","Position":"12"}]}]},{"FormItemOID":"F90DA432-1E6A-42A2-A965-5F6F4D0950E3","ID":"SFFAC104","Order":"4","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"9ACA7A25-21DF-4C42-A2C3-2C0A32E5935F","Description":"How much has recent weight loss affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n","ElementOrder":"2"},{"ElementOID":"5832CB23-FE56-44CE-9741-EDE03492DEDE","Description":"ContainerFor5832CB23-FE56-44CE-9741-EDE03492DEDE","ElementOrder":"3","Map":[{"ElementOID":"0D28D969-0546-4D55-BAE3-3A0CC1E1AAD7","Description":"Have not had weight loss in the past 30 days","FormItemOID":"F90DA432-1E6A-42A2-A965-5F6F4D0950E3","ItemResponseOID":"D5872D9F-0A73-40B1-BAE2-C617CDC3D59B", "Value":"0","Position":"1"},{"ElementOID":"F40D2024-C47C-4082-8221-C59AFE3A845B","Description":"Not at all","FormItemOID":"F90DA432-1E6A-42A2-A965-5F6F4D0950E3","ItemResponseOID":"7CA52051-B72E-4622-AC9A-5D3DCA9C5395", "Value":"1","Position":"2"},{"ElementOID":"E2937D65-F0D4-4C86-BC5F-ABCBE2FB33AA","Description":"A little bit","FormItemOID":"F90DA432-1E6A-42A2-A965-5F6F4D0950E3","ItemResponseOID":"6ABD30A4-623E-4B5E-AB22-9DC2053C010D", "Value":"2","Position":"3"},{"ElementOID":"ED089841-BEFE-4557-ABFC-F1B7E4D0B4E1","Description":"Somewhat","FormItemOID":"F90DA432-1E6A-42A2-A965-5F6F4D0950E3","ItemResponseOID":"76CBC164-F53C-47F4-B152-2BCDFF23559C", "Value":"3","Position":"4"},{"ElementOID":"A21C1C23-4F3B-408E-8D46-57EACE0BCA29","Description":"Quite a bit","FormItemOID":"F90DA432-1E6A-42A2-A965-5F6F4D0950E3","ItemResponseOID":"1103E6D3-B443-4A18-A797-0DA733DDB73F", "Value":"4","Position":"5"},{"ElementOID":"300590C6-F964-462D-B9F6-F3E6FE878E42","Description":"Very much","FormItemOID":"F90DA432-1E6A-42A2-A965-5F6F4D0950E3","ItemResponseOID":"BCE9DCF7-4402-496A-B650-F90679595EE0", "Value":"5","Position":"6"}]}]},{"FormItemOID":"84A21486-239F-4F5D-9697-A0B217B17AD3","ID":"SFFAC105","Order":"5","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"8A9BDA9D-A774-4E0F-8A8D-D5B86A8027E1","Description":"How much has recent weight gain affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n","ElementOrder":"2"},{"ElementOID":"CC4579D5-392E-4B6D-AE4A-8DC62FD820B6","Description":"ContainerForCC4579D5-392E-4B6D-AE4A-8DC62FD820B6","ElementOrder":"3","Map":[{"ElementOID":"D010AA5F-69A7-453C-B6F1-4D54F3704886","Description":"Have not had weight gain in the past 30 days","FormItemOID":"84A21486-239F-4F5D-9697-A0B217B17AD3","ItemResponseOID":"3F676113-4EEF-4C43-84E5-9A14F75366BB", "Value":"0","Position":"1"},{"ElementOID":"7E61502A-E69A-47D4-A594-34DC6E263AE5","Description":"Not at all","FormItemOID":"84A21486-239F-4F5D-9697-A0B217B17AD3","ItemResponseOID":"70FCA9D4-77E5-4398-9E92-EB916EF9F1AE", "Value":"1","Position":"2"},{"ElementOID":"048B1C20-710B-45BC-9F1A-E87E3A198F76","Description":"A little bit","FormItemOID":"84A21486-239F-4F5D-9697-A0B217B17AD3","ItemResponseOID":"65D2A1DB-FE52-4717-881D-5730839FF436", "Value":"2","Position":"3"},{"ElementOID":"22849798-03F3-40CD-B860-97B8DFE78989","Description":"Somewhat","FormItemOID":"84A21486-239F-4F5D-9697-A0B217B17AD3","ItemResponseOID":"931635BA-3A66-4FB9-B1E8-AA4A68B8E9BD", "Value":"3","Position":"4"},{"ElementOID":"9DE5363A-9477-4F25-AA12-795BE5700C9E","Description":"Quite a bit","FormItemOID":"84A21486-239F-4F5D-9697-A0B217B17AD3","ItemResponseOID":"B2B16EE5-AF24-4501-A77A-D5DEEFCC1BC1", "Value":"4","Position":"5"},{"ElementOID":"576D3312-B526-4EF5-BA88-EBFCBEAD4911","Description":"Very much","FormItemOID":"84A21486-239F-4F5D-9697-A0B217B17AD3","ItemResponseOID":"0DC86118-88DB-4569-96E0-8F4D87352652", "Value":"5","Position":"6"}]}]},{"FormItemOID":"83BBFC6C-371F-4539-8BDF-0321CDC21868","ID":"SFFAC106","Order":"6","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"EDAE9A05-E3F4-4397-A4F4-E2909FD13ED3","Description":"How much has hair loss from medical treatments affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"2"},{"ElementOID":"950032EB-FAB9-4399-B20A-0A1B858EC016","Description":"ContainerFor950032EB-FAB9-4399-B20A-0A1B858EC016","ElementOrder":"3","Map":[{"ElementOID":"340A1D83-0FCB-455B-B789-73BB918EC808","Description":"Have not had hair loss in the past 30 days","FormItemOID":"83BBFC6C-371F-4539-8BDF-0321CDC21868","ItemResponseOID":"6007AD58-AEC3-4BB8-8271-76AF9B48405B", "Value":"0","Position":"1"},{"ElementOID":"9805FEC2-4E8F-43E5-8AFB-A183ABEBBB6D","Description":"Not at all","FormItemOID":"83BBFC6C-371F-4539-8BDF-0321CDC21868","ItemResponseOID":"02C91FFE-5FB0-4241-84F4-1797A1B22414", "Value":"1","Position":"2"},{"ElementOID":"6B2EFDCA-EAEB-4254-B350-8DB11C61518D","Description":"A little bit","FormItemOID":"83BBFC6C-371F-4539-8BDF-0321CDC21868","ItemResponseOID":"C015344C-48B5-4886-9B78-6998FD5E7446", "Value":"2","Position":"3"},{"ElementOID":"36991E36-4D8C-43E8-869C-8D1A8BF93290","Description":"Somewhat","FormItemOID":"83BBFC6C-371F-4539-8BDF-0321CDC21868","ItemResponseOID":"D4BFFA8A-3A34-4CA0-AF78-7F52B06F96F4", "Value":"3","Position":"4"},{"ElementOID":"E2A7AE00-860B-4316-A57D-9372D405E072","Description":"Quite a bit","FormItemOID":"83BBFC6C-371F-4539-8BDF-0321CDC21868","ItemResponseOID":"C3E64004-4D2A-4947-8940-6BA97F528D7E", "Value":"4","Position":"5"},{"ElementOID":"E02D3B7F-76B5-4708-89DA-BE68540FFE4A","Description":"Very much","FormItemOID":"83BBFC6C-371F-4539-8BDF-0321CDC21868","ItemResponseOID":"22A6A3D8-27F8-426F-8133-9D7679B7EA90", "Value":"5","Position":"6"}]}]},{"FormItemOID":"1CA6EA3B-5A80-4241-9D78-883691E77289","ID":"SFFAC107","Order":"7","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"6638E146-ABC6-4711-9F1D-0B2B99532719","Description":"How much has a medical device (for example, port, colostomy bag, or oxygen tank) affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"2"},{"ElementOID":"551CF113-9B0E-422A-A73E-6A9ADE7BCA64","Description":"ContainerFor551CF113-9B0E-422A-A73E-6A9ADE7BCA64","ElementOrder":"3","Map":[{"ElementOID":"FF6847FB-8E92-4FBA-9655-0D3B5EFAF65E","Description":"Have not had a medical device in the past 30 days","FormItemOID":"1CA6EA3B-5A80-4241-9D78-883691E77289","ItemResponseOID":"4BC22758-B419-4106-AF7C-E18583EF2469", "Value":"0","Position":"1"},{"ElementOID":"840AF1FD-4E3F-41DC-A53C-646D56565873","Description":"Not at all","FormItemOID":"1CA6EA3B-5A80-4241-9D78-883691E77289","ItemResponseOID":"40AEAD06-8B36-4233-90D3-DD8735F7A915", "Value":"1","Position":"2"},{"ElementOID":"39F66028-630E-4874-8147-3D56880E2EC0","Description":"A little bit","FormItemOID":"1CA6EA3B-5A80-4241-9D78-883691E77289","ItemResponseOID":"1022310D-2722-4D0B-9915-C4DF2D1AD4EB", "Value":"2","Position":"3"},{"ElementOID":"96D4B3E3-E565-4071-A790-EBEFC05E4537","Description":"Somewhat","FormItemOID":"1CA6EA3B-5A80-4241-9D78-883691E77289","ItemResponseOID":"052A9B11-E58B-402A-8530-7FD7B59F7C13", "Value":"3","Position":"4"},{"ElementOID":"E4EC2185-1FC2-4140-B07F-07D08FBF0DC1","Description":"Quite a bit","FormItemOID":"1CA6EA3B-5A80-4241-9D78-883691E77289","ItemResponseOID":"7360E7DF-5B91-497D-828C-E60B8A23D320", "Value":"4","Position":"5"},{"ElementOID":"40341164-6447-44E4-904F-F4F596332672","Description":"Very much","FormItemOID":"1CA6EA3B-5A80-4241-9D78-883691E77289","ItemResponseOID":"7899F3A1-8FC3-4B80-AEED-94327DA13FD9", "Value":"5","Position":"6"}]}]},{"FormItemOID":"5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311","ID":"SFFAC108","Order":"8","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"7BF4880C-8D09-4361-84C4-2172A34E520A","Description":"How much have scars from surgery affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"2"},{"ElementOID":"68AF50D8-EE1A-4C51-9FC2-364849A4149E","Description":"ContainerFor68AF50D8-EE1A-4C51-9FC2-364849A4149E","ElementOrder":"3","Map":[{"ElementOID":"63117F0C-1AC7-4059-860D-EC267F005E68","Description":"Have not had surgery in the past 30 days","FormItemOID":"5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311","ItemResponseOID":"350C2B12-1E55-483E-AECD-17298728FFB9", "Value":"0","Position":"1"},{"ElementOID":"FE2D43B1-0379-4C4F-AFAE-06664FF2AE9B","Description":"Not at all","FormItemOID":"5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311","ItemResponseOID":"999C0933-BE01-4A6C-A947-C514D2F25AA8", "Value":"1","Position":"2"},{"ElementOID":"F409ABF4-A016-4E5B-99F4-09E08B9C77B1","Description":"A little bit","FormItemOID":"5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311","ItemResponseOID":"DDC1A73F-9932-4F30-B897-7EA96ABAB2D3", "Value":"2","Position":"3"},{"ElementOID":"C26B0BEF-925C-4864-9FB7-D2F52C8E2FF3","Description":"Somewhat","FormItemOID":"5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311","ItemResponseOID":"79DE57A0-3A54-4708-B3B6-2207817F77D3", "Value":"3","Position":"4"},{"ElementOID":"FA863E1A-576E-4819-8C76-0EC867F297FA","Description":"Quite a bit","FormItemOID":"5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311","ItemResponseOID":"94BECEB2-868D-402D-BC9E-8FDC6286CBE1", "Value":"4","Position":"5"},{"ElementOID":"BB203FDB-EBF8-4FAA-960E-DB4DA1887CCE","Description":"Very much","FormItemOID":"5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311","ItemResponseOID":"3001B6ED-0B69-44BC-84C5-4D582A971FB3", "Value":"5","Position":"6"}]}]},{"FormItemOID":"7C2D9198-57E0-4290-B09B-C2A87EB5D0F0","ID":"SFFAC109","Order":"9","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"B3E6FA52-8215-4A0E-851B-A3C190DB45FD","Description":"How much has breast tenderness/enlargement affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"2"},{"ElementOID":"FFB2D6AC-7B3E-4D15-90E5-3B9D20539569","Description":"ContainerForFFB2D6AC-7B3E-4D15-90E5-3B9D20539569","ElementOrder":"3","Map":[{"ElementOID":"EDD6FA5B-DC50-45F3-8E56-57D8BB5A78E6","Description":"Have not had breast tenderness/enlargement in the past 30 days","FormItemOID":"7C2D9198-57E0-4290-B09B-C2A87EB5D0F0","ItemResponseOID":"1BA85D85-8E44-4AAD-A3FA-57ACDFB43746", "Value":"0","Position":"1"},{"ElementOID":"EC62053C-B5A6-4794-8324-33B85A941095","Description":"Not at all","FormItemOID":"7C2D9198-57E0-4290-B09B-C2A87EB5D0F0","ItemResponseOID":"AA7C9828-0AA8-4BB7-9A70-FD34716191FC", "Value":"1","Position":"2"},{"ElementOID":"88FF148E-FE41-45E8-9A73-01A93A99631C","Description":"A little bit","FormItemOID":"7C2D9198-57E0-4290-B09B-C2A87EB5D0F0","ItemResponseOID":"C04C8315-B824-44EE-A326-D2490CF722AA", "Value":"2","Position":"3"},{"ElementOID":"F9ADC128-2E48-4610-ACC4-9440A4C35D9F","Description":"Somewhat","FormItemOID":"7C2D9198-57E0-4290-B09B-C2A87EB5D0F0","ItemResponseOID":"4FB19484-C4B2-49AE-A177-6A7E64B48C75", "Value":"3","Position":"4"},{"ElementOID":"0277986C-0D6A-4E3D-AF6A-382F2051DF98","Description":"Quite a bit","FormItemOID":"7C2D9198-57E0-4290-B09B-C2A87EB5D0F0","ItemResponseOID":"34BD19A6-B323-4967-863E-5EBF8F6D860C", "Value":"4","Position":"5"},{"ElementOID":"51C5F008-F124-47AC-9102-BBBFBF23A92B","Description":"Very much","FormItemOID":"7C2D9198-57E0-4290-B09B-C2A87EB5D0F0","ItemResponseOID":"646D8599-A4B9-4006-9F65-35240D3C7EF5", "Value":"5","Position":"6"}]}]},{"FormItemOID":"03F3E1A4-0DA1-48E9-A454-4D013DFA79A2","ID":"SFFAC110","Order":"10","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"19A18725-0F30-4ABB-90DB-4664DC933294","Description":"How much have hot flashes affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"2"},{"ElementOID":"497B0602-C062-41E1-B70E-59C0C3D1967C","Description":"ContainerFor497B0602-C062-41E1-B70E-59C0C3D1967C","ElementOrder":"3","Map":[{"ElementOID":"129C2E6D-31D9-4840-86E7-0C079A52173B","Description":"Have not had hot flashes in the past 30 days","FormItemOID":"03F3E1A4-0DA1-48E9-A454-4D013DFA79A2","ItemResponseOID":"B9598364-50A9-4870-91D1-5CB6BCE09FE9", "Value":"0","Position":"1"},{"ElementOID":"3416E557-73FD-4C63-A51B-C15682260326","Description":"Not at all","FormItemOID":"03F3E1A4-0DA1-48E9-A454-4D013DFA79A2","ItemResponseOID":"852130B2-8678-44A1-8E3D-65DAA706B0E4", "Value":"1","Position":"2"},{"ElementOID":"01ED10FB-325C-4C01-A892-A7DF1DB0F357","Description":"A little bit","FormItemOID":"03F3E1A4-0DA1-48E9-A454-4D013DFA79A2","ItemResponseOID":"DE515E8E-7EEB-42C6-AD60-567FAAED908B", "Value":"2","Position":"3"},{"ElementOID":"8EDB96CB-7856-4971-9659-732C98FF9F1F","Description":"Somewhat","FormItemOID":"03F3E1A4-0DA1-48E9-A454-4D013DFA79A2","ItemResponseOID":"D1EC853C-2904-437F-8B1A-E1E62E26E29C", "Value":"3","Position":"4"},{"ElementOID":"E3E4F97A-974A-4CF8-B41E-7B8E79B5D392","Description":"Quite a bit","FormItemOID":"03F3E1A4-0DA1-48E9-A454-4D013DFA79A2","ItemResponseOID":"3B0D49C0-47EB-4769-87C2-7DE6A4F27B64", "Value":"4","Position":"5"},{"ElementOID":"0C7AA64B-D4E8-4BEE-ADCD-B0769286EAE4","Description":"Very much","FormItemOID":"03F3E1A4-0DA1-48E9-A454-4D013DFA79A2","ItemResponseOID":"3D84B3EF-2A68-403C-8460-C099ABDEF213", "Value":"5","Position":"6"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0",
+			"ID": "SFFAC101",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "3DCDAC51-E124-47A8-B707-A8F6B29E3766",
+					"Description": "How much has fatigue or lack of energy affected your satisfaction with your sex life?\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D2E0C626-865C-495E-8D70-EF17A415E184",
+					"Description": "ContainerForD2E0C626-865C-495E-8D70-EF17A415E184",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "618CB25E-E0BE-496E-BC9A-45BF76B00614",
+							"Description": "Have not had fatigue or lack of energy in the past 30 days",
+							"FormItemOID": "7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0",
+							"ItemResponseOID": "7A5BC796-9465-4EB0-9545-4EA4F50E66D8",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "5D57FF1C-4454-4149-ACD6-1E2204631B56",
+							"Description": "Not at all",
+							"FormItemOID": "7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0",
+							"ItemResponseOID": "0C6667EA-E322-4C20-898D-C935EFF249C6",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "C45116D4-8B98-4DFD-8A82-E3827C4F45E9",
+							"Description": "A little bit",
+							"FormItemOID": "7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0",
+							"ItemResponseOID": "18354E01-CFB5-4068-B979-E2BA0610E4DD",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "0FDF3F7F-CB03-409E-AAD1-75FBEFD9BA74",
+							"Description": "Somewhat",
+							"FormItemOID": "7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0",
+							"ItemResponseOID": "77E4D6F7-4B64-4DBF-8F78-02F211ED264F",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "E758FB10-A47B-448C-A89B-8152C35D3A29",
+							"Description": "Quite a bit",
+							"FormItemOID": "7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0",
+							"ItemResponseOID": "C39AD99D-5EE3-454B-8FFF-76D8291F212D",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "F108583D-5A8E-4D43-BDAA-388281697D08",
+							"Description": "Very much",
+							"FormItemOID": "7EE3B7F5-7B7C-4F1F-BF65-D2129FB7A1E0",
+							"ItemResponseOID": "F5D35F89-3A0A-4B47-B23A-D3E2D1222514",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "698C3BE5-110E-4C0C-8793-42BD18242234",
+			"ID": "SFFAC102",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "BA18970E-1F09-4CD2-9D56-BDCF5722DC82",
+					"Description": "How much has pain affected your satisfaction with your sex life?\r\n\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "6B264CDC-FA4F-414A-BA7F-42693F91B643",
+					"Description": "ContainerFor6B264CDC-FA4F-414A-BA7F-42693F91B643",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "F4FE3C44-EDCB-420A-98F1-D5A023652234",
+							"Description": "Have not had pain in the past 30 days",
+							"FormItemOID": "698C3BE5-110E-4C0C-8793-42BD18242234",
+							"ItemResponseOID": "41AE5FF3-E335-4584-81EC-FD2E8784FF40",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "4940976D-4202-4B47-9089-3FE254B4D7A0",
+							"Description": "Not at all",
+							"FormItemOID": "698C3BE5-110E-4C0C-8793-42BD18242234",
+							"ItemResponseOID": "46D35B7B-6EFD-4285-93C7-A87F4C04F76A",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "BF7A7B53-0A01-4960-9A6E-F39E224DE4A0",
+							"Description": "A little bit",
+							"FormItemOID": "698C3BE5-110E-4C0C-8793-42BD18242234",
+							"ItemResponseOID": "4108A93A-03C7-4335-BE43-693852129610",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "A17C6E88-75AF-4880-857C-42FF9D433ACF",
+							"Description": "Somewhat",
+							"FormItemOID": "698C3BE5-110E-4C0C-8793-42BD18242234",
+							"ItemResponseOID": "370174B7-7321-4506-9E4C-82818D6D7F93",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "AF38EBCB-D36C-4370-BD16-2621BB2E83F6",
+							"Description": "Quite a bit",
+							"FormItemOID": "698C3BE5-110E-4C0C-8793-42BD18242234",
+							"ItemResponseOID": "57FD2506-1709-4294-8375-C6AC768E7EBE",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "6711C7A0-E65E-4C1C-B059-69C73626BE25",
+							"Description": "Very much",
+							"FormItemOID": "698C3BE5-110E-4C0C-8793-42BD18242234",
+							"ItemResponseOID": "F6F3BFDC-C750-4DD2-A644-8783F173BA39",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+			"ID": "SFFAC103",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "EE1F9EC0-BC98-426D-9BAF-AAD8DA42D3A8",
+					"Description": "How much pain have you had during sexual activity?\r\n\r\n\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "86FB5220-2882-48E2-B54B-2606931AD9C4",
+					"Description": "ContainerFor86FB5220-2882-48E2-B54B-2606931AD9C4",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "DCA6181E-8DAA-42B8-8BCD-F1A50C93D921",
+							"Description": "Have not had any sexual activity in the past 30 days",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "F5F57254-BCC4-4021-B2CC-4F1E27A31C0D",
+							"Value": "88",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B7F6F90D-7B95-4422-BA9D-4E672E8D299D",
+							"Description": "No Pain",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "4C75261D-9CA5-4C0A-8A5D-F758F6D8EEB5",
+							"Value": "0",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "536BDD67-4947-4E31-B3D1-442FC557DD66",
+							"Description": "",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "397D7EA2-618C-49CD-966C-08A67D25BE59",
+							"Value": "1",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "84E5A59B-A26E-4E8A-8327-45456D4DE961",
+							"Description": "",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "A3EF88DB-1E2D-4563-8C70-1E115915295D",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "1469B61A-4A6C-47B2-9CFF-829AC436411F",
+							"Description": "",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "10DE51D6-576A-4089-B911-14C3DBFCCFC4",
+							"Value": "3",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "58D8B62C-8675-4089-9772-DBD1641D6FF4",
+							"Description": "",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "AE8107E5-4D2C-4ADB-96B7-1CDB298E3CEC",
+							"Value": "4",
+							"Position": "6"
+						},
+						{
+							"ElementOID": "38E651D6-BAFF-4E69-8A95-2884C4DDE5B2",
+							"Description": "",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "034F15B1-D963-4B5F-8BE0-94D13C4CA8F1",
+							"Value": "5",
+							"Position": "7"
+						},
+						{
+							"ElementOID": "AB23E0C6-BEE5-4969-93C7-86B88ABF8457",
+							"Description": "",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "3BA3A14B-572C-468C-82C9-ABDE1EBCA21C",
+							"Value": "6",
+							"Position": "8"
+						},
+						{
+							"ElementOID": "D45F5AD7-F2A2-454A-8076-F9A048B0E64B",
+							"Description": "",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "5CAFE2AE-52F6-43C8-9BA7-3BCF618970D7",
+							"Value": "7",
+							"Position": "9"
+						},
+						{
+							"ElementOID": "0B107EAC-C7B6-480B-9FD0-5E7E1F35AC6F",
+							"Description": "",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "EB99D8D9-A944-4BC4-ACE4-1AC38430C66D",
+							"Value": "8",
+							"Position": "10"
+						},
+						{
+							"ElementOID": "5BF76A98-90D0-4434-AB6A-45F9609527AF",
+							"Description": "",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "620D8693-3E9A-4A65-BE5E-28F0DE3D7BBC",
+							"Value": "9",
+							"Position": "11"
+						},
+						{
+							"ElementOID": "22828A73-C30C-46C1-9F4F-AA56233327B5",
+							"Description": "Pain as bad as it can be",
+							"FormItemOID": "D0DA18F3-7CA6-40C1-B987-2707BA135A57",
+							"ItemResponseOID": "DC09B540-F62C-46E0-A23E-59708B233D26",
+							"Value": "10",
+							"Position": "12"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F90DA432-1E6A-42A2-A965-5F6F4D0950E3",
+			"ID": "SFFAC104",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "9ACA7A25-21DF-4C42-A2C3-2C0A32E5935F",
+					"Description": "How much has recent weight loss affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "5832CB23-FE56-44CE-9741-EDE03492DEDE",
+					"Description": "ContainerFor5832CB23-FE56-44CE-9741-EDE03492DEDE",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "0D28D969-0546-4D55-BAE3-3A0CC1E1AAD7",
+							"Description": "Have not had weight loss in the past 30 days",
+							"FormItemOID": "F90DA432-1E6A-42A2-A965-5F6F4D0950E3",
+							"ItemResponseOID": "D5872D9F-0A73-40B1-BAE2-C617CDC3D59B",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "F40D2024-C47C-4082-8221-C59AFE3A845B",
+							"Description": "Not at all",
+							"FormItemOID": "F90DA432-1E6A-42A2-A965-5F6F4D0950E3",
+							"ItemResponseOID": "7CA52051-B72E-4622-AC9A-5D3DCA9C5395",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "E2937D65-F0D4-4C86-BC5F-ABCBE2FB33AA",
+							"Description": "A little bit",
+							"FormItemOID": "F90DA432-1E6A-42A2-A965-5F6F4D0950E3",
+							"ItemResponseOID": "6ABD30A4-623E-4B5E-AB22-9DC2053C010D",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "ED089841-BEFE-4557-ABFC-F1B7E4D0B4E1",
+							"Description": "Somewhat",
+							"FormItemOID": "F90DA432-1E6A-42A2-A965-5F6F4D0950E3",
+							"ItemResponseOID": "76CBC164-F53C-47F4-B152-2BCDFF23559C",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "A21C1C23-4F3B-408E-8D46-57EACE0BCA29",
+							"Description": "Quite a bit",
+							"FormItemOID": "F90DA432-1E6A-42A2-A965-5F6F4D0950E3",
+							"ItemResponseOID": "1103E6D3-B443-4A18-A797-0DA733DDB73F",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "300590C6-F964-462D-B9F6-F3E6FE878E42",
+							"Description": "Very much",
+							"FormItemOID": "F90DA432-1E6A-42A2-A965-5F6F4D0950E3",
+							"ItemResponseOID": "BCE9DCF7-4402-496A-B650-F90679595EE0",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "84A21486-239F-4F5D-9697-A0B217B17AD3",
+			"ID": "SFFAC105",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8A9BDA9D-A774-4E0F-8A8D-D5B86A8027E1",
+					"Description": "How much has recent weight gain affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "CC4579D5-392E-4B6D-AE4A-8DC62FD820B6",
+					"Description": "ContainerForCC4579D5-392E-4B6D-AE4A-8DC62FD820B6",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "D010AA5F-69A7-453C-B6F1-4D54F3704886",
+							"Description": "Have not had weight gain in the past 30 days",
+							"FormItemOID": "84A21486-239F-4F5D-9697-A0B217B17AD3",
+							"ItemResponseOID": "3F676113-4EEF-4C43-84E5-9A14F75366BB",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7E61502A-E69A-47D4-A594-34DC6E263AE5",
+							"Description": "Not at all",
+							"FormItemOID": "84A21486-239F-4F5D-9697-A0B217B17AD3",
+							"ItemResponseOID": "70FCA9D4-77E5-4398-9E92-EB916EF9F1AE",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "048B1C20-710B-45BC-9F1A-E87E3A198F76",
+							"Description": "A little bit",
+							"FormItemOID": "84A21486-239F-4F5D-9697-A0B217B17AD3",
+							"ItemResponseOID": "65D2A1DB-FE52-4717-881D-5730839FF436",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "22849798-03F3-40CD-B860-97B8DFE78989",
+							"Description": "Somewhat",
+							"FormItemOID": "84A21486-239F-4F5D-9697-A0B217B17AD3",
+							"ItemResponseOID": "931635BA-3A66-4FB9-B1E8-AA4A68B8E9BD",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9DE5363A-9477-4F25-AA12-795BE5700C9E",
+							"Description": "Quite a bit",
+							"FormItemOID": "84A21486-239F-4F5D-9697-A0B217B17AD3",
+							"ItemResponseOID": "B2B16EE5-AF24-4501-A77A-D5DEEFCC1BC1",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "576D3312-B526-4EF5-BA88-EBFCBEAD4911",
+							"Description": "Very much",
+							"FormItemOID": "84A21486-239F-4F5D-9697-A0B217B17AD3",
+							"ItemResponseOID": "0DC86118-88DB-4569-96E0-8F4D87352652",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "83BBFC6C-371F-4539-8BDF-0321CDC21868",
+			"ID": "SFFAC106",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "EDAE9A05-E3F4-4397-A4F4-E2909FD13ED3",
+					"Description": "How much has hair loss from medical treatments affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "950032EB-FAB9-4399-B20A-0A1B858EC016",
+					"Description": "ContainerFor950032EB-FAB9-4399-B20A-0A1B858EC016",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "340A1D83-0FCB-455B-B789-73BB918EC808",
+							"Description": "Have not had hair loss in the past 30 days",
+							"FormItemOID": "83BBFC6C-371F-4539-8BDF-0321CDC21868",
+							"ItemResponseOID": "6007AD58-AEC3-4BB8-8271-76AF9B48405B",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "9805FEC2-4E8F-43E5-8AFB-A183ABEBBB6D",
+							"Description": "Not at all",
+							"FormItemOID": "83BBFC6C-371F-4539-8BDF-0321CDC21868",
+							"ItemResponseOID": "02C91FFE-5FB0-4241-84F4-1797A1B22414",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "6B2EFDCA-EAEB-4254-B350-8DB11C61518D",
+							"Description": "A little bit",
+							"FormItemOID": "83BBFC6C-371F-4539-8BDF-0321CDC21868",
+							"ItemResponseOID": "C015344C-48B5-4886-9B78-6998FD5E7446",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "36991E36-4D8C-43E8-869C-8D1A8BF93290",
+							"Description": "Somewhat",
+							"FormItemOID": "83BBFC6C-371F-4539-8BDF-0321CDC21868",
+							"ItemResponseOID": "D4BFFA8A-3A34-4CA0-AF78-7F52B06F96F4",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "E2A7AE00-860B-4316-A57D-9372D405E072",
+							"Description": "Quite a bit",
+							"FormItemOID": "83BBFC6C-371F-4539-8BDF-0321CDC21868",
+							"ItemResponseOID": "C3E64004-4D2A-4947-8940-6BA97F528D7E",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "E02D3B7F-76B5-4708-89DA-BE68540FFE4A",
+							"Description": "Very much",
+							"FormItemOID": "83BBFC6C-371F-4539-8BDF-0321CDC21868",
+							"ItemResponseOID": "22A6A3D8-27F8-426F-8133-9D7679B7EA90",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "1CA6EA3B-5A80-4241-9D78-883691E77289",
+			"ID": "SFFAC107",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6638E146-ABC6-4711-9F1D-0B2B99532719",
+					"Description": "How much has a medical device (for example, port, colostomy bag, or oxygen tank) affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "551CF113-9B0E-422A-A73E-6A9ADE7BCA64",
+					"Description": "ContainerFor551CF113-9B0E-422A-A73E-6A9ADE7BCA64",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "FF6847FB-8E92-4FBA-9655-0D3B5EFAF65E",
+							"Description": "Have not had a medical device in the past 30 days",
+							"FormItemOID": "1CA6EA3B-5A80-4241-9D78-883691E77289",
+							"ItemResponseOID": "4BC22758-B419-4106-AF7C-E18583EF2469",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "840AF1FD-4E3F-41DC-A53C-646D56565873",
+							"Description": "Not at all",
+							"FormItemOID": "1CA6EA3B-5A80-4241-9D78-883691E77289",
+							"ItemResponseOID": "40AEAD06-8B36-4233-90D3-DD8735F7A915",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "39F66028-630E-4874-8147-3D56880E2EC0",
+							"Description": "A little bit",
+							"FormItemOID": "1CA6EA3B-5A80-4241-9D78-883691E77289",
+							"ItemResponseOID": "1022310D-2722-4D0B-9915-C4DF2D1AD4EB",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "96D4B3E3-E565-4071-A790-EBEFC05E4537",
+							"Description": "Somewhat",
+							"FormItemOID": "1CA6EA3B-5A80-4241-9D78-883691E77289",
+							"ItemResponseOID": "052A9B11-E58B-402A-8530-7FD7B59F7C13",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "E4EC2185-1FC2-4140-B07F-07D08FBF0DC1",
+							"Description": "Quite a bit",
+							"FormItemOID": "1CA6EA3B-5A80-4241-9D78-883691E77289",
+							"ItemResponseOID": "7360E7DF-5B91-497D-828C-E60B8A23D320",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "40341164-6447-44E4-904F-F4F596332672",
+							"Description": "Very much",
+							"FormItemOID": "1CA6EA3B-5A80-4241-9D78-883691E77289",
+							"ItemResponseOID": "7899F3A1-8FC3-4B80-AEED-94327DA13FD9",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311",
+			"ID": "SFFAC108",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7BF4880C-8D09-4361-84C4-2172A34E520A",
+					"Description": "How much have scars from surgery affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "68AF50D8-EE1A-4C51-9FC2-364849A4149E",
+					"Description": "ContainerFor68AF50D8-EE1A-4C51-9FC2-364849A4149E",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "63117F0C-1AC7-4059-860D-EC267F005E68",
+							"Description": "Have not had surgery in the past 30 days",
+							"FormItemOID": "5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311",
+							"ItemResponseOID": "350C2B12-1E55-483E-AECD-17298728FFB9",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "FE2D43B1-0379-4C4F-AFAE-06664FF2AE9B",
+							"Description": "Not at all",
+							"FormItemOID": "5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311",
+							"ItemResponseOID": "999C0933-BE01-4A6C-A947-C514D2F25AA8",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F409ABF4-A016-4E5B-99F4-09E08B9C77B1",
+							"Description": "A little bit",
+							"FormItemOID": "5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311",
+							"ItemResponseOID": "DDC1A73F-9932-4F30-B897-7EA96ABAB2D3",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "C26B0BEF-925C-4864-9FB7-D2F52C8E2FF3",
+							"Description": "Somewhat",
+							"FormItemOID": "5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311",
+							"ItemResponseOID": "79DE57A0-3A54-4708-B3B6-2207817F77D3",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "FA863E1A-576E-4819-8C76-0EC867F297FA",
+							"Description": "Quite a bit",
+							"FormItemOID": "5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311",
+							"ItemResponseOID": "94BECEB2-868D-402D-BC9E-8FDC6286CBE1",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "BB203FDB-EBF8-4FAA-960E-DB4DA1887CCE",
+							"Description": "Very much",
+							"FormItemOID": "5E6C76AA-F793-4E9F-AE3D-6B0F1ACE7311",
+							"ItemResponseOID": "3001B6ED-0B69-44BC-84C5-4D582A971FB3",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "7C2D9198-57E0-4290-B09B-C2A87EB5D0F0",
+			"ID": "SFFAC109",
+			"Order": "9",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "B3E6FA52-8215-4A0E-851B-A3C190DB45FD",
+					"Description": "How much has breast tenderness/enlargement affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "FFB2D6AC-7B3E-4D15-90E5-3B9D20539569",
+					"Description": "ContainerForFFB2D6AC-7B3E-4D15-90E5-3B9D20539569",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "EDD6FA5B-DC50-45F3-8E56-57D8BB5A78E6",
+							"Description": "Have not had breast tenderness/enlargement in the past 30 days",
+							"FormItemOID": "7C2D9198-57E0-4290-B09B-C2A87EB5D0F0",
+							"ItemResponseOID": "1BA85D85-8E44-4AAD-A3FA-57ACDFB43746",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "EC62053C-B5A6-4794-8324-33B85A941095",
+							"Description": "Not at all",
+							"FormItemOID": "7C2D9198-57E0-4290-B09B-C2A87EB5D0F0",
+							"ItemResponseOID": "AA7C9828-0AA8-4BB7-9A70-FD34716191FC",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "88FF148E-FE41-45E8-9A73-01A93A99631C",
+							"Description": "A little bit",
+							"FormItemOID": "7C2D9198-57E0-4290-B09B-C2A87EB5D0F0",
+							"ItemResponseOID": "C04C8315-B824-44EE-A326-D2490CF722AA",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "F9ADC128-2E48-4610-ACC4-9440A4C35D9F",
+							"Description": "Somewhat",
+							"FormItemOID": "7C2D9198-57E0-4290-B09B-C2A87EB5D0F0",
+							"ItemResponseOID": "4FB19484-C4B2-49AE-A177-6A7E64B48C75",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0277986C-0D6A-4E3D-AF6A-382F2051DF98",
+							"Description": "Quite a bit",
+							"FormItemOID": "7C2D9198-57E0-4290-B09B-C2A87EB5D0F0",
+							"ItemResponseOID": "34BD19A6-B323-4967-863E-5EBF8F6D860C",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "51C5F008-F124-47AC-9102-BBBFBF23A92B",
+							"Description": "Very much",
+							"FormItemOID": "7C2D9198-57E0-4290-B09B-C2A87EB5D0F0",
+							"ItemResponseOID": "646D8599-A4B9-4006-9F65-35240D3C7EF5",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "03F3E1A4-0DA1-48E9-A454-4D013DFA79A2",
+			"ID": "SFFAC110",
+			"Order": "10",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "19A18725-0F30-4ABB-90DB-4664DC933294",
+					"Description": "How much have hot flashes affected your satisfaction with your sex life?\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "497B0602-C062-41E1-B70E-59C0C3D1967C",
+					"Description": "ContainerFor497B0602-C062-41E1-B70E-59C0C3D1967C",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "129C2E6D-31D9-4840-86E7-0C079A52173B",
+							"Description": "Have not had hot flashes in the past 30 days",
+							"FormItemOID": "03F3E1A4-0DA1-48E9-A454-4D013DFA79A2",
+							"ItemResponseOID": "B9598364-50A9-4870-91D1-5CB6BCE09FE9",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "3416E557-73FD-4C63-A51B-C15682260326",
+							"Description": "Not at all",
+							"FormItemOID": "03F3E1A4-0DA1-48E9-A454-4D013DFA79A2",
+							"ItemResponseOID": "852130B2-8678-44A1-8E3D-65DAA706B0E4",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "01ED10FB-325C-4C01-A892-A7DF1DB0F357",
+							"Description": "A little bit",
+							"FormItemOID": "03F3E1A4-0DA1-48E9-A454-4D013DFA79A2",
+							"ItemResponseOID": "DE515E8E-7EEB-42C6-AD60-567FAAED908B",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "8EDB96CB-7856-4971-9659-732C98FF9F1F",
+							"Description": "Somewhat",
+							"FormItemOID": "03F3E1A4-0DA1-48E9-A454-4D013DFA79A2",
+							"ItemResponseOID": "D1EC853C-2904-437F-8B1A-E1E62E26E29C",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "E3E4F97A-974A-4CF8-B41E-7B8E79B5D392",
+							"Description": "Quite a bit",
+							"FormItemOID": "03F3E1A4-0DA1-48E9-A454-4D013DFA79A2",
+							"ItemResponseOID": "3B0D49C0-47EB-4769-87C2-7DE6A4F27B64",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "0C7AA64B-D4E8-4BEE-ADCD-B0769286EAE4",
+							"Description": "Very much",
+							"FormItemOID": "03F3E1A4-0DA1-48E9-A454-4D013DFA79A2",
+							"ItemResponseOID": "3D84B3EF-2A68-403C-8460-C099ABDEF213",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		}
+	]
+}

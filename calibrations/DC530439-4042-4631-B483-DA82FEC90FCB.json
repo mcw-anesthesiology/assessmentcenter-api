@@ -1,1 +1,215 @@
-{"FormOID":"DC530439-4042-4631-B483-DA82FEC90FCB","Form":"PROMIS Smoking Emotional/Sensory Expectancies 6-item Non-daily Short Form","Properties":[{"MinNumItems":"6"},{"MaxNumItems":"6"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"-0.34"},{"DistStdDev":"1.04"},{"FirstItem":""},{"CalibrationSample":"PROMIS Smoking Study W1"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"2CD3C3E4-5B16-44D6-8486-EE7E36AD0BE0","ID":"SMKEMSEN06_nd","A_GRM":"2.06000","Map":[{"ItemResponseOID":"FB2325F2-6B47-4606-A0C6-8865BECAA758","StepOrder":"1","Threshold":"-2.8600"},{"ItemResponseOID":"C53FD8C9-E399-4615-82CA-C84C4B8A18FC","StepOrder":"2","Threshold":"-1.4800"},{"ItemResponseOID":"5E5F1932-B877-46EF-874A-E06BE8614337","StepOrder":"3","Threshold":"-0.4800"},{"ItemResponseOID":"FB3E0BD9-8418-443C-8FF4-8552CA5AE05C","StepOrder":"4","Threshold":"0.5600"}]},{"FormItemOID":"30E7EF2D-D45E-40B2-B5EA-17C1A8E7FBDD","ID":"SMKEMSEN04_nd","A_GRM":"1.66000","Map":[{"ItemResponseOID":"68851477-F8C8-41D7-B3FC-29E6C6C3E4C5","StepOrder":"1","Threshold":"-1.6200"},{"ItemResponseOID":"9E9273B9-CB26-4010-A952-B6ECE7691316","StepOrder":"2","Threshold":"-0.7000"},{"ItemResponseOID":"1F3F26FC-8F64-41AC-BB49-DDC54C0C3254","StepOrder":"3","Threshold":"0.2000"},{"ItemResponseOID":"C5384756-45BC-4A7D-B72C-D55C3EA9F77C","StepOrder":"4","Threshold":"1.0600"}]},{"FormItemOID":"3F9EA818-A660-4D15-A67E-5521057CA7B7","ID":"SMKEMSEN01_nd","A_GRM":"2.37000","Map":[{"ItemResponseOID":"C8AC2C90-8731-4231-9984-EFEF89D275B0","StepOrder":"1","Threshold":"-1.7600"},{"ItemResponseOID":"470A5991-F137-47D9-8AA6-9B5F17766BE3","StepOrder":"2","Threshold":"-0.6200"},{"ItemResponseOID":"6E466984-0302-45F2-A914-D2DCB632CD7E","StepOrder":"3","Threshold":"0.3300"},{"ItemResponseOID":"750F26B1-63BD-43C0-9D82-B58E8E87FC2B","StepOrder":"4","Threshold":"1.2400"}]},{"FormItemOID":"47E75E4D-BD12-4D4F-BD6B-C431EB6F88B0","ID":"SMKEMSEN03_nd","A_GRM":"1.93000","Map":[{"ItemResponseOID":"06C138F9-2A31-4893-A43E-E2323D70BAB4","StepOrder":"1","Threshold":"-0.7900"},{"ItemResponseOID":"A45B0441-34D2-41A1-A342-5FAAD9795C92","StepOrder":"2","Threshold":"-0.0100"},{"ItemResponseOID":"698695BC-5FCC-4FDB-9086-2D0B24FAC2A5","StepOrder":"3","Threshold":"0.9300"},{"ItemResponseOID":"A0254E03-6976-46AA-8C4A-491718805543","StepOrder":"4","Threshold":"1.8000"}]},{"FormItemOID":"95A2281F-3A2A-4747-82E6-AE0B9679EB6F","ID":"SMKEMSEN05_nd","A_GRM":"2.11000","Map":[{"ItemResponseOID":"C40FB655-979B-4D69-A031-42F189FD1510","StepOrder":"1","Threshold":"-1.5800"},{"ItemResponseOID":"3E718F5F-4357-45CB-889C-B82DF573ACAE","StepOrder":"2","Threshold":"-0.4800"},{"ItemResponseOID":"9EA3A562-A4CA-4934-AEE1-06A14EF2BFCB","StepOrder":"3","Threshold":"0.4000"},{"ItemResponseOID":"764497FA-A606-4618-B174-A24EE3637949","StepOrder":"4","Threshold":"1.3500"}]},{"FormItemOID":"BD5762E7-0014-414E-83B6-B6FFF8EDC379","ID":"SMKEMSEN02_nd","A_GRM":"1.92000","Map":[{"ItemResponseOID":"34772A06-82D9-4DD9-AAAF-40A3D095086B","StepOrder":"1","Threshold":"-1.3200"},{"ItemResponseOID":"5F6A0AE7-5710-4889-855B-C69F13516231","StepOrder":"2","Threshold":"-0.2700"},{"ItemResponseOID":"3491ECC3-8180-4BDE-B6F1-B87F44F8EABE","StepOrder":"3","Threshold":"0.8100"},{"ItemResponseOID":"6F793C23-84F9-401A-AAF5-26B5D3D27B08","StepOrder":"4","Threshold":"1.7400"}]}]}
+{
+	"FormOID": "DC530439-4042-4631-B483-DA82FEC90FCB",
+	"Form": "PROMIS Smoking Emotional/Sensory Expectancies 6-item Non-daily Short Form",
+	"Properties": [
+		{
+			"MinNumItems": "6"
+		},
+		{
+			"MaxNumItems": "6"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "-0.34"
+		},
+		{
+			"DistStdDev": "1.04"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "PROMIS Smoking Study W1"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "2CD3C3E4-5B16-44D6-8486-EE7E36AD0BE0",
+			"ID": "SMKEMSEN06_nd",
+			"A_GRM": "2.06000",
+			"Map": [
+				{
+					"ItemResponseOID": "FB2325F2-6B47-4606-A0C6-8865BECAA758",
+					"StepOrder": "1",
+					"Threshold": "-2.8600"
+				},
+				{
+					"ItemResponseOID": "C53FD8C9-E399-4615-82CA-C84C4B8A18FC",
+					"StepOrder": "2",
+					"Threshold": "-1.4800"
+				},
+				{
+					"ItemResponseOID": "5E5F1932-B877-46EF-874A-E06BE8614337",
+					"StepOrder": "3",
+					"Threshold": "-0.4800"
+				},
+				{
+					"ItemResponseOID": "FB3E0BD9-8418-443C-8FF4-8552CA5AE05C",
+					"StepOrder": "4",
+					"Threshold": "0.5600"
+				}
+			]
+		},
+		{
+			"FormItemOID": "30E7EF2D-D45E-40B2-B5EA-17C1A8E7FBDD",
+			"ID": "SMKEMSEN04_nd",
+			"A_GRM": "1.66000",
+			"Map": [
+				{
+					"ItemResponseOID": "68851477-F8C8-41D7-B3FC-29E6C6C3E4C5",
+					"StepOrder": "1",
+					"Threshold": "-1.6200"
+				},
+				{
+					"ItemResponseOID": "9E9273B9-CB26-4010-A952-B6ECE7691316",
+					"StepOrder": "2",
+					"Threshold": "-0.7000"
+				},
+				{
+					"ItemResponseOID": "1F3F26FC-8F64-41AC-BB49-DDC54C0C3254",
+					"StepOrder": "3",
+					"Threshold": "0.2000"
+				},
+				{
+					"ItemResponseOID": "C5384756-45BC-4A7D-B72C-D55C3EA9F77C",
+					"StepOrder": "4",
+					"Threshold": "1.0600"
+				}
+			]
+		},
+		{
+			"FormItemOID": "3F9EA818-A660-4D15-A67E-5521057CA7B7",
+			"ID": "SMKEMSEN01_nd",
+			"A_GRM": "2.37000",
+			"Map": [
+				{
+					"ItemResponseOID": "C8AC2C90-8731-4231-9984-EFEF89D275B0",
+					"StepOrder": "1",
+					"Threshold": "-1.7600"
+				},
+				{
+					"ItemResponseOID": "470A5991-F137-47D9-8AA6-9B5F17766BE3",
+					"StepOrder": "2",
+					"Threshold": "-0.6200"
+				},
+				{
+					"ItemResponseOID": "6E466984-0302-45F2-A914-D2DCB632CD7E",
+					"StepOrder": "3",
+					"Threshold": "0.3300"
+				},
+				{
+					"ItemResponseOID": "750F26B1-63BD-43C0-9D82-B58E8E87FC2B",
+					"StepOrder": "4",
+					"Threshold": "1.2400"
+				}
+			]
+		},
+		{
+			"FormItemOID": "47E75E4D-BD12-4D4F-BD6B-C431EB6F88B0",
+			"ID": "SMKEMSEN03_nd",
+			"A_GRM": "1.93000",
+			"Map": [
+				{
+					"ItemResponseOID": "06C138F9-2A31-4893-A43E-E2323D70BAB4",
+					"StepOrder": "1",
+					"Threshold": "-0.7900"
+				},
+				{
+					"ItemResponseOID": "A45B0441-34D2-41A1-A342-5FAAD9795C92",
+					"StepOrder": "2",
+					"Threshold": "-0.0100"
+				},
+				{
+					"ItemResponseOID": "698695BC-5FCC-4FDB-9086-2D0B24FAC2A5",
+					"StepOrder": "3",
+					"Threshold": "0.9300"
+				},
+				{
+					"ItemResponseOID": "A0254E03-6976-46AA-8C4A-491718805543",
+					"StepOrder": "4",
+					"Threshold": "1.8000"
+				}
+			]
+		},
+		{
+			"FormItemOID": "95A2281F-3A2A-4747-82E6-AE0B9679EB6F",
+			"ID": "SMKEMSEN05_nd",
+			"A_GRM": "2.11000",
+			"Map": [
+				{
+					"ItemResponseOID": "C40FB655-979B-4D69-A031-42F189FD1510",
+					"StepOrder": "1",
+					"Threshold": "-1.5800"
+				},
+				{
+					"ItemResponseOID": "3E718F5F-4357-45CB-889C-B82DF573ACAE",
+					"StepOrder": "2",
+					"Threshold": "-0.4800"
+				},
+				{
+					"ItemResponseOID": "9EA3A562-A4CA-4934-AEE1-06A14EF2BFCB",
+					"StepOrder": "3",
+					"Threshold": "0.4000"
+				},
+				{
+					"ItemResponseOID": "764497FA-A606-4618-B174-A24EE3637949",
+					"StepOrder": "4",
+					"Threshold": "1.3500"
+				}
+			]
+		},
+		{
+			"FormItemOID": "BD5762E7-0014-414E-83B6-B6FFF8EDC379",
+			"ID": "SMKEMSEN02_nd",
+			"A_GRM": "1.92000",
+			"Map": [
+				{
+					"ItemResponseOID": "34772A06-82D9-4DD9-AAAF-40A3D095086B",
+					"StepOrder": "1",
+					"Threshold": "-1.3200"
+				},
+				{
+					"ItemResponseOID": "5F6A0AE7-5710-4889-855B-C69F13516231",
+					"StepOrder": "2",
+					"Threshold": "-0.2700"
+				},
+				{
+					"ItemResponseOID": "3491ECC3-8180-4BDE-B6F1-B87F44F8EABE",
+					"StepOrder": "3",
+					"Threshold": "0.8100"
+				},
+				{
+					"ItemResponseOID": "6F793C23-84F9-401A-AAF5-26B5D3D27B08",
+					"StepOrder": "4",
+					"Threshold": "1.7400"
+				}
+			]
+		}
+	]
+}

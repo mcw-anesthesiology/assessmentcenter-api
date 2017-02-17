@@ -1,1 +1,711 @@
-{"DateFinished":"","Items":[{"FormItemOID":"FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9","ID":"SFINT101","Order":"1","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"23EAF433-5970-4757-AF3C-D133CFB6551B","Description":"How interested have you been in sexual activity?","ElementOrder":"2"},{"ElementOID":"A99D7B60-2DEE-4FC3-8D35-1F4FB427290F","Description":"ContainerForA99D7B60-2DEE-4FC3-8D35-1F4FB427290F","ElementOrder":"3","Map":[{"ElementOID":"4A4B84EC-C82B-442D-856B-987B97C5F3F0","Description":"Not at all","FormItemOID":"FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9","ItemResponseOID":"10F26957-29EE-4C02-BDA0-7C6C51E9E9C6", "Value":"1","Position":"1"},{"ElementOID":"9DE8AFA6-BC08-4C04-B6A1-666289C36E8C","Description":"A little bit","FormItemOID":"FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9","ItemResponseOID":"88288A95-628D-4C46-B271-632E6048803B", "Value":"2","Position":"2"},{"ElementOID":"9376ED9F-045F-4B38-B060-39AA1AAAC0C1","Description":"Somewhat","FormItemOID":"FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9","ItemResponseOID":"C23F1D83-A06A-456F-968B-E4D149349123", "Value":"3","Position":"3"},{"ElementOID":"B5328DDD-8DE6-429A-A081-33A429E2AABF","Description":"Quite a bit","FormItemOID":"FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9","ItemResponseOID":"4603B30A-9434-4E52-B2D4-84143ED5EEB7", "Value":"4","Position":"4"},{"ElementOID":"8B00F112-ABC2-40A8-AAD2-9B2B4163F8AC","Description":"Very","FormItemOID":"FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9","ItemResponseOID":"A7ED4B77-7500-424C-8465-0DD2A50B5D89", "Value":"5","Position":"5"}]}]},{"FormItemOID":"17F7EE71-4BFE-4F0A-8935-99B91A363F55","ID":"SFINT102","Order":"2","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"E86412C3-5F91-4680-A1DD-460EF26A8D68","Description":"How often have you felt like you wanted to have sex?\r\n","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Never","FormItemOID":"17F7EE71-4BFE-4F0A-8935-99B91A363F55","ItemResponseOID":"128672E8-CDB7-4EE8-AE05-F20895E67556", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rarely","FormItemOID":"17F7EE71-4BFE-4F0A-8935-99B91A363F55","ItemResponseOID":"3BBA8862-A2B8-4B0B-8167-9DB2F12B6837", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Sometimes","FormItemOID":"17F7EE71-4BFE-4F0A-8935-99B91A363F55","ItemResponseOID":"9176F667-A46F-49DA-B13F-C0290A7B0016", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"Often","FormItemOID":"17F7EE71-4BFE-4F0A-8935-99B91A363F55","ItemResponseOID":"D3C2B381-6DE0-4AE4-825B-7597836C604E", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Always","FormItemOID":"17F7EE71-4BFE-4F0A-8935-99B91A363F55","ItemResponseOID":"A20B46E0-31DD-40B1-AA54-7271D6246F4C", "Value":"5","Position":"5"}]}]},{"FormItemOID":"028900A0-3AE0-42A2-AD71-BF76AEDD6DD8","ID":"SFLUB001","Order":"3","ItemType":"","Elements":[{"ElementOID":"1FE45DB1-D2E0-47A2-BADB-97D90B886EB7","Description":"Over the past 4 weeks","ElementOrder":"1"},{"ElementOID":"F57D97B1-6C8A-443D-A661-22A1901765F8","Description":"How <I>often</I> did you become lubricated (\"wet\") during sexual activity or intercourse?","ElementOrder":"2"},{"ElementOID":"D92025D0-D633-44E4-948D-4518B045C077","Description":"ContainerForD92025D0-D633-44E4-948D-4518B045C077","ElementOrder":"3","Map":[{"ElementOID":"FDF39B65-88DD-44BC-AECF-225ABCF6BA3F","Description":"No sexual activity","FormItemOID":"028900A0-3AE0-42A2-AD71-BF76AEDD6DD8","ItemResponseOID":"E21A0938-E6C2-4A19-9048-1EB8546C9FB1", "Value":"00000000-0000-0000-0000-000000000000","Position":"1"},{"ElementOID":"F9A6B727-3866-49A2-8B9E-A0D2BB774217","Description":"Almost always or always","FormItemOID":"028900A0-3AE0-42A2-AD71-BF76AEDD6DD8","ItemResponseOID":"B75DB976-BD19-4F77-AA7B-58F35A6FDB3E", "Value":"5","Position":"2"},{"ElementOID":"60C1E863-FA1E-48AA-9E8F-5425F7D4750D","Description":"Most times (more than half the time)","FormItemOID":"028900A0-3AE0-42A2-AD71-BF76AEDD6DD8","ItemResponseOID":"7FE05323-2859-42DD-A43A-0AB9ADB5B787", "Value":"4","Position":"3"},{"ElementOID":"066E53F4-D223-4678-887B-E14685486255","Description":"Sometimes (about half the time)","FormItemOID":"028900A0-3AE0-42A2-AD71-BF76AEDD6DD8","ItemResponseOID":"E4C0E298-ABD2-43C6-964C-FF358C9364D9", "Value":"3","Position":"4"},{"ElementOID":"EFDFBD1F-B548-477A-9521-F8FC48211C74","Description":"A few times (less than half the time)","FormItemOID":"028900A0-3AE0-42A2-AD71-BF76AEDD6DD8","ItemResponseOID":"DA9CAFB4-0269-4A0B-A7F1-D8E61F5E8609", "Value":"2","Position":"5"},{"ElementOID":"3EBED105-6DDA-4891-BEEE-D21AC582CFA8","Description":"Almost never or never","FormItemOID":"028900A0-3AE0-42A2-AD71-BF76AEDD6DD8","ItemResponseOID":"01629687-CF50-4E84-922D-E3EC48DECE73", "Value":"1","Position":"6"}]}]},{"FormItemOID":"3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B","ID":"SFLUB101","Order":"4","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"743C8CBD-4988-44D0-88F3-AB6F399FA9F0","Description":"How difficult has it been for your vagina to get lubricated (\"wet\") when you wanted it to?\r\n","ElementOrder":"2"},{"ElementOID":"B6509DB4-2715-485E-B98B-DD5BDB0D7FFF","Description":"ContainerForB6509DB4-2715-485E-B98B-DD5BDB0D7FFF","ElementOrder":"3","Map":[{"ElementOID":"41AB655C-4591-4493-A58F-F2056E7AE1EB","Description":"Have not tried to get lubricated in the past 30 days","FormItemOID":"3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B","ItemResponseOID":"89D211B9-BA15-40B4-9622-DAC5D5C8F325", "Value":"00000000-0000-0000-0000-000000000000","Position":"1"},{"ElementOID":"D0E741B2-547C-4120-B9A9-8B8B99D2DEC1","Description":"Not at all","FormItemOID":"3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B","ItemResponseOID":"EBB4062A-A0EF-4AF5-AF22-F168780B1B16", "Value":"5","Position":"2"},{"ElementOID":"2C733736-2ED5-4FD3-8BB0-C494567E9D56","Description":"A little bit","FormItemOID":"3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B","ItemResponseOID":"D3C74264-063E-452E-89BE-4342860DF58D", "Value":"4","Position":"3"},{"ElementOID":"91F6BB5F-5D88-47B0-9731-BE43AA4ABC3D","Description":"Somewhat","FormItemOID":"3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B","ItemResponseOID":"FA1425D1-CFFE-4B70-A941-96BB243A14EB", "Value":"3","Position":"4"},{"ElementOID":"5A77C145-ADF3-4305-BB7A-2CE1CB0D0448","Description":"Quite a bit","FormItemOID":"3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B","ItemResponseOID":"8FCE5F28-614A-4459-9E0A-66FF543FF3A9", "Value":"2","Position":"5"},{"ElementOID":"06411D48-5ECC-4186-BFC3-D567A9DF1ECF","Description":"Very","FormItemOID":"3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B","ItemResponseOID":"00D14196-A63E-4C4A-BBE4-4B479B89E5F8", "Value":"1","Position":"6"}]}]},{"FormItemOID":"45DEAAE1-B436-4D96-B247-4E9009AD7347","ID":"SFVAG101","Order":"5","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"3E174F77-AD6E-495E-8FBC-B250DE0C0C6A","Description":"How would you describe the comfort of your vagina during sexual activity?","ElementOrder":"2"},{"ElementOID":"70FC6E81-6B55-4067-A717-E32DC03B2BC9","Description":"ContainerFor70FC6E81-6B55-4067-A717-E32DC03B2BC9","ElementOrder":"3","Map":[{"ElementOID":"1A4D64EC-C4B0-4D63-A94D-280C6501A35E","Description":"Have not had any sexual activity in the past 30 days","FormItemOID":"45DEAAE1-B436-4D96-B247-4E9009AD7347","ItemResponseOID":"035E8A6C-5D8F-4AB0-8EC4-87582B721958", "Value":"00000000-0000-0000-0000-000000000000","Position":"1"},{"ElementOID":"18F3E3E3-3B48-4127-B466-02543EB60E86","Description":"Very comfortable","FormItemOID":"45DEAAE1-B436-4D96-B247-4E9009AD7347","ItemResponseOID":"96F3DFA4-29AA-4BA0-AE46-13E29575E4C1", "Value":"1","Position":"2"},{"ElementOID":"82E69D51-1570-47EE-B3BC-B618C6CBA773","Description":"Comfortable","FormItemOID":"45DEAAE1-B436-4D96-B247-4E9009AD7347","ItemResponseOID":"9ACFA39F-7CFA-4C9F-8C82-5B0F3F331117", "Value":"2","Position":"3"},{"ElementOID":"D0297E66-075A-47CA-A66F-1AE16C46DA1D","Description":"Uncomfortable","FormItemOID":"45DEAAE1-B436-4D96-B247-4E9009AD7347","ItemResponseOID":"2F39A33A-3BD3-4EBD-9EFA-830D9E9D611F", "Value":"3","Position":"4"},{"ElementOID":"68F1ED2D-3121-46F8-BBC8-DBC494FA6E27","Description":"Very uncomfortable","FormItemOID":"45DEAAE1-B436-4D96-B247-4E9009AD7347","ItemResponseOID":"59D0CE45-4413-4990-82B0-03DBBAB662EF", "Value":"4","Position":"5"}]}]},{"FormItemOID":"D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA","ID":"SFVAG102","Order":"6","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"D26BA6F7-ED1A-48EC-9166-EB97CFB67907","Description":"How often have you had difficulty with sexual activity because of discomfort or pain in your vagina?","ElementOrder":"2"},{"ElementOID":"DCD0FE4A-DFFC-4B98-8743-8D441A1E989C","Description":"ContainerForDCD0FE4A-DFFC-4B98-8743-8D441A1E989C","ElementOrder":"3","Map":[{"ElementOID":"D46C4A67-9B26-4349-97B5-945964F58813","Description":"Have not had any sexual activity in the past 30 days","FormItemOID":"D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA","ItemResponseOID":"31457103-98A3-4202-BEA0-67E9E5F5BCFE", "Value":"00000000-0000-0000-0000-000000000000","Position":"1"},{"ElementOID":"E1DD857C-9A4A-4F5E-A001-D8412739AC23","Description":"Never","FormItemOID":"D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA","ItemResponseOID":"52650712-8AC6-42C4-9746-8E0BEA213AB3", "Value":"1","Position":"2"},{"ElementOID":"A01A52F6-48D1-4F2A-92CA-9BB265EF2BAD","Description":"Rarely","FormItemOID":"D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA","ItemResponseOID":"8E90D7CD-FF9E-4E9F-B4E5-04A7411E2122", "Value":"2","Position":"3"},{"ElementOID":"B9FB1C1D-3827-4A53-92E6-788BD50BFA6D","Description":"Sometimes","FormItemOID":"D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA","ItemResponseOID":"1505C235-3C18-433F-912C-C3BE0E036F55", "Value":"3","Position":"4"},{"ElementOID":"6738047C-540A-4C6C-A1A2-DB6ECB8C010E","Description":"Often","FormItemOID":"D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA","ItemResponseOID":"2E55C7E0-CAA8-4D25-9832-BB3A7AC95746", "Value":"4","Position":"5"},{"ElementOID":"52DF912D-0F14-4838-B0AC-0FB62CB4856F","Description":"Always","FormItemOID":"D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA","ItemResponseOID":"4BDF2C2D-7247-4D9E-AF2E-1C099D612131", "Value":"5","Position":"6"}]}]},{"FormItemOID":"932B9549-560B-4B2A-9664-558EBF44A462","ID":"SFVAG103","Order":"7","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"3AFC3FFA-7B66-48D5-A5D0-186B7475DBB7","Description":"How often have you stopped sexual activity because of discomfort or pain in your vagina?","ElementOrder":"2"},{"ElementOID":"DCD0FE4A-DFFC-4B98-8743-8D441A1E989C","Description":"ContainerForDCD0FE4A-DFFC-4B98-8743-8D441A1E989C","ElementOrder":"3","Map":[{"ElementOID":"D46C4A67-9B26-4349-97B5-945964F58813","Description":"Have not had any sexual activity in the past 30 days","FormItemOID":"932B9549-560B-4B2A-9664-558EBF44A462","ItemResponseOID":"A209F149-108B-4C8D-ACF6-90737A7968E0", "Value":"00000000-0000-0000-0000-000000000000","Position":"1"},{"ElementOID":"E1DD857C-9A4A-4F5E-A001-D8412739AC23","Description":"Never","FormItemOID":"932B9549-560B-4B2A-9664-558EBF44A462","ItemResponseOID":"83E1DF4A-AD69-423A-B147-BD1B3BC28A55", "Value":"1","Position":"2"},{"ElementOID":"A01A52F6-48D1-4F2A-92CA-9BB265EF2BAD","Description":"Rarely","FormItemOID":"932B9549-560B-4B2A-9664-558EBF44A462","ItemResponseOID":"37F23636-A2C6-492C-869B-9D4AA6A4692B", "Value":"2","Position":"3"},{"ElementOID":"B9FB1C1D-3827-4A53-92E6-788BD50BFA6D","Description":"Sometimes","FormItemOID":"932B9549-560B-4B2A-9664-558EBF44A462","ItemResponseOID":"AE8C78D0-1700-44D9-BFAF-A606B6622C28", "Value":"3","Position":"4"},{"ElementOID":"6738047C-540A-4C6C-A1A2-DB6ECB8C010E","Description":"Often","FormItemOID":"932B9549-560B-4B2A-9664-558EBF44A462","ItemResponseOID":"01EFE0E3-8755-4C89-B414-1A4283DC758E", "Value":"4","Position":"5"},{"ElementOID":"52DF912D-0F14-4838-B0AC-0FB62CB4856F","Description":"Always","FormItemOID":"932B9549-560B-4B2A-9664-558EBF44A462","ItemResponseOID":"5BFE6894-9DAF-40D0-B0BE-85BF8CF23754", "Value":"5","Position":"6"}]}]},{"FormItemOID":"9703C4E1-DB32-4C0B-9E0D-E47451A6A661","ID":"SFORG101","Order":"8","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"DB489243-E7EB-497F-9574-C26233CFBA44","Description":"How would you rate your ability to have a satisfying orgasm/climax?\r\n","ElementOrder":"2"},{"ElementOID":"9FFA992E-9DB4-458A-B2EB-5915835D484E","Description":"ContainerFor9FFA992E-9DB4-458A-B2EB-5915835D484E","ElementOrder":"3","Map":[{"ElementOID":"5BA820C9-0B1A-4EDF-8DEA-AE106411819C","Description":"Have not tried to have an orgasm/climax in the past 30 days","FormItemOID":"9703C4E1-DB32-4C0B-9E0D-E47451A6A661","ItemResponseOID":"CECCCAD3-F531-4D16-ADAA-74AA77675749", "Value":"0","Position":"1"},{"ElementOID":"3C5C9EDE-A283-4896-B2A1-69744C9A09ED","Description":"Excellent","FormItemOID":"9703C4E1-DB32-4C0B-9E0D-E47451A6A661","ItemResponseOID":"9D484B45-B275-45C0-ACB4-3348DD3FF96C", "Value":"5","Position":"2"},{"ElementOID":"2E554C86-DD10-4DC9-9DD1-27BED614ACB6","Description":"Very good","FormItemOID":"9703C4E1-DB32-4C0B-9E0D-E47451A6A661","ItemResponseOID":"DE2D2698-5F7E-4671-A68F-BF4188381DA5", "Value":"4","Position":"3"},{"ElementOID":"F14AB7B5-9CF1-4C27-B5B6-850F37D28009","Description":"Good","FormItemOID":"9703C4E1-DB32-4C0B-9E0D-E47451A6A661","ItemResponseOID":"E40AADA4-B344-42B2-ACA8-C33D10C18A79", "Value":"3","Position":"4"},{"ElementOID":"A10C0CEC-AD4A-4262-99AB-8BCA83770A57","Description":"Fair","FormItemOID":"9703C4E1-DB32-4C0B-9E0D-E47451A6A661","ItemResponseOID":"4D3C5F0D-7231-49C9-B9FD-C4BBE94756CD", "Value":"2","Position":"5"},{"ElementOID":"DE83AAA1-E6CB-4F97-B5EB-D6C8740F83FF","Description":"Poor","FormItemOID":"9703C4E1-DB32-4C0B-9E0D-E47451A6A661","ItemResponseOID":"921F9E87-80BE-42C5-8E7D-C3EBF48BF04A", "Value":"1","Position":"6"}]}]},{"FormItemOID":"ED803407-F387-4754-94F7-3039C3EB0BD6","ID":"SFSAT105","Order":"9","ItemType":"","Elements":[{"ElementOID":"79DF782D-4330-46C9-A3F5-F6EA4496DD79","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"C41EBE1D-0D29-4806-BC7F-8D3F62B3E043","Description":"When you have had sexual activity, how much have you enjoyed it?","ElementOrder":"2"},{"ElementOID":"29D36E6F-EAEB-489D-A8E0-07A57A965869","Description":"ContainerFor29D36E6F-EAEB-489D-A8E0-07A57A965869","ElementOrder":"3","Map":[{"ElementOID":"AB42FAB8-D972-48ED-9975-43D39A4B2E3F","Description":"Have not had sexual activity in the past 30 days","FormItemOID":"ED803407-F387-4754-94F7-3039C3EB0BD6","ItemResponseOID":"D25BB3CB-D8EE-478D-B82C-44BD88CF28CB", "Value":"00000000-0000-0000-0000-000000000000","Position":"1"},{"ElementOID":"9392C3C3-C804-4492-ADD5-AF99EA715C4B","Description":"Not at all","FormItemOID":"ED803407-F387-4754-94F7-3039C3EB0BD6","ItemResponseOID":"03814FB0-E5FC-4041-BDD6-F3F3AEA05C56", "Value":"1","Position":"2"},{"ElementOID":"0581B3DB-5C10-4025-8F88-2655CA54322C","Description":"A little bit","FormItemOID":"ED803407-F387-4754-94F7-3039C3EB0BD6","ItemResponseOID":"A0DFC526-A510-4EF1-8F88-8BA062D91C74", "Value":"2","Position":"3"},{"ElementOID":"8006CE5A-8702-47B1-8BC7-6CEBD56FC217","Description":"Somewhat","FormItemOID":"ED803407-F387-4754-94F7-3039C3EB0BD6","ItemResponseOID":"8D15C0C1-FFD4-42E0-9C7E-954AFB51CDAF", "Value":"3","Position":"4"},{"ElementOID":"6AC22ADA-2F05-40CE-BFE5-EDEF6A037172","Description":"Quite a bit","FormItemOID":"ED803407-F387-4754-94F7-3039C3EB0BD6","ItemResponseOID":"36257AC4-9CB7-49D5-A690-3BB33A236D43", "Value":"4","Position":"5"},{"ElementOID":"73231E84-6CC5-42A5-8226-10BD8F5AE32A","Description":"Very much","FormItemOID":"ED803407-F387-4754-94F7-3039C3EB0BD6","ItemResponseOID":"7B2E7A5C-ECBE-48AE-ACD2-6ECAB3DECBFB", "Value":"5","Position":"6"}]}]},{"FormItemOID":"B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E","ID":"SFSAT106","Order":"10","ItemType":"","Elements":[{"ElementOID":"79DF782D-4330-46C9-A3F5-F6EA4496DD79","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"7CF0FD83-B554-4158-B79B-54282E89DB6D","Description":"When you have had sexual activity, how satisfying has it been?","ElementOrder":"2"},{"ElementOID":"04FAAC1D-178C-462D-9DF1-016230B6A4F6","Description":"ContainerFor04FAAC1D-178C-462D-9DF1-016230B6A4F6","ElementOrder":"3","Map":[{"ElementOID":"FDEEF96C-E09D-4B8E-980A-A45C00DCCFD4","Description":"Have not had sexual activity in the past 30 days","FormItemOID":"B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E","ItemResponseOID":"D6597E68-16EC-45F4-ADDE-7A2B80C3D452", "Value":"00000000-0000-0000-0000-000000000000","Position":"1"},{"ElementOID":"7C538B31-D975-4833-86F1-FFA7B7580B14","Description":"Not at all","FormItemOID":"B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E","ItemResponseOID":"013A8277-3E54-46CC-9B93-E477372B2E5F", "Value":"1","Position":"2"},{"ElementOID":"E37E92BA-F2F5-4B07-A78E-57E8B39722E2","Description":"A little bit","FormItemOID":"B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E","ItemResponseOID":"F78F8A4C-7458-43E9-B63C-775F2E36DFCB", "Value":"2","Position":"3"},{"ElementOID":"A8D007BB-7FD7-408F-9B91-18D8A793DB2A","Description":"Somewhat","FormItemOID":"B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E","ItemResponseOID":"D9E4D7C3-1BE3-45AE-9CF8-5C977BB6A53F", "Value":"3","Position":"4"},{"ElementOID":"DE3163C0-114E-4EAC-9C88-49B449107E05","Description":"Quite a bit","FormItemOID":"B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E","ItemResponseOID":"497BF48F-C64A-4862-91AB-5FB6A7CA7DC8", "Value":"4","Position":"5"},{"ElementOID":"DC099929-F8C9-4673-9CC1-94682F033359","Description":"Very","FormItemOID":"B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E","ItemResponseOID":"A954E6EC-D5E9-49A7-8DD1-B5F23B95CAAF", "Value":"5","Position":"6"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9",
+			"ID": "SFINT101",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "23EAF433-5970-4757-AF3C-D133CFB6551B",
+					"Description": "How interested have you been in sexual activity?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "A99D7B60-2DEE-4FC3-8D35-1F4FB427290F",
+					"Description": "ContainerForA99D7B60-2DEE-4FC3-8D35-1F4FB427290F",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "4A4B84EC-C82B-442D-856B-987B97C5F3F0",
+							"Description": "Not at all",
+							"FormItemOID": "FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9",
+							"ItemResponseOID": "10F26957-29EE-4C02-BDA0-7C6C51E9E9C6",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "9DE8AFA6-BC08-4C04-B6A1-666289C36E8C",
+							"Description": "A little bit",
+							"FormItemOID": "FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9",
+							"ItemResponseOID": "88288A95-628D-4C46-B271-632E6048803B",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "9376ED9F-045F-4B38-B060-39AA1AAAC0C1",
+							"Description": "Somewhat",
+							"FormItemOID": "FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9",
+							"ItemResponseOID": "C23F1D83-A06A-456F-968B-E4D149349123",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B5328DDD-8DE6-429A-A081-33A429E2AABF",
+							"Description": "Quite a bit",
+							"FormItemOID": "FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9",
+							"ItemResponseOID": "4603B30A-9434-4E52-B2D4-84143ED5EEB7",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "8B00F112-ABC2-40A8-AAD2-9B2B4163F8AC",
+							"Description": "Very",
+							"FormItemOID": "FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9",
+							"ItemResponseOID": "A7ED4B77-7500-424C-8465-0DD2A50B5D89",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "17F7EE71-4BFE-4F0A-8935-99B91A363F55",
+			"ID": "SFINT102",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E86412C3-5F91-4680-A1DD-460EF26A8D68",
+					"Description": "How often have you felt like you wanted to have sex?\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Never",
+							"FormItemOID": "17F7EE71-4BFE-4F0A-8935-99B91A363F55",
+							"ItemResponseOID": "128672E8-CDB7-4EE8-AE05-F20895E67556",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rarely",
+							"FormItemOID": "17F7EE71-4BFE-4F0A-8935-99B91A363F55",
+							"ItemResponseOID": "3BBA8862-A2B8-4B0B-8167-9DB2F12B6837",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Sometimes",
+							"FormItemOID": "17F7EE71-4BFE-4F0A-8935-99B91A363F55",
+							"ItemResponseOID": "9176F667-A46F-49DA-B13F-C0290A7B0016",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "Often",
+							"FormItemOID": "17F7EE71-4BFE-4F0A-8935-99B91A363F55",
+							"ItemResponseOID": "D3C2B381-6DE0-4AE4-825B-7597836C604E",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Always",
+							"FormItemOID": "17F7EE71-4BFE-4F0A-8935-99B91A363F55",
+							"ItemResponseOID": "A20B46E0-31DD-40B1-AA54-7271D6246F4C",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "028900A0-3AE0-42A2-AD71-BF76AEDD6DD8",
+			"ID": "SFLUB001",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "1FE45DB1-D2E0-47A2-BADB-97D90B886EB7",
+					"Description": "Over the past 4 weeks",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "F57D97B1-6C8A-443D-A661-22A1901765F8",
+					"Description": "How <I>often</I> did you become lubricated (\"wet\") during sexual activity or intercourse?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D92025D0-D633-44E4-948D-4518B045C077",
+					"Description": "ContainerForD92025D0-D633-44E4-948D-4518B045C077",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "FDF39B65-88DD-44BC-AECF-225ABCF6BA3F",
+							"Description": "No sexual activity",
+							"FormItemOID": "028900A0-3AE0-42A2-AD71-BF76AEDD6DD8",
+							"ItemResponseOID": "E21A0938-E6C2-4A19-9048-1EB8546C9FB1",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "F9A6B727-3866-49A2-8B9E-A0D2BB774217",
+							"Description": "Almost always or always",
+							"FormItemOID": "028900A0-3AE0-42A2-AD71-BF76AEDD6DD8",
+							"ItemResponseOID": "B75DB976-BD19-4F77-AA7B-58F35A6FDB3E",
+							"Value": "5",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "60C1E863-FA1E-48AA-9E8F-5425F7D4750D",
+							"Description": "Most times (more than half the time)",
+							"FormItemOID": "028900A0-3AE0-42A2-AD71-BF76AEDD6DD8",
+							"ItemResponseOID": "7FE05323-2859-42DD-A43A-0AB9ADB5B787",
+							"Value": "4",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "066E53F4-D223-4678-887B-E14685486255",
+							"Description": "Sometimes (about half the time)",
+							"FormItemOID": "028900A0-3AE0-42A2-AD71-BF76AEDD6DD8",
+							"ItemResponseOID": "E4C0E298-ABD2-43C6-964C-FF358C9364D9",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "EFDFBD1F-B548-477A-9521-F8FC48211C74",
+							"Description": "A few times (less than half the time)",
+							"FormItemOID": "028900A0-3AE0-42A2-AD71-BF76AEDD6DD8",
+							"ItemResponseOID": "DA9CAFB4-0269-4A0B-A7F1-D8E61F5E8609",
+							"Value": "2",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "3EBED105-6DDA-4891-BEEE-D21AC582CFA8",
+							"Description": "Almost never or never",
+							"FormItemOID": "028900A0-3AE0-42A2-AD71-BF76AEDD6DD8",
+							"ItemResponseOID": "01629687-CF50-4E84-922D-E3EC48DECE73",
+							"Value": "1",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B",
+			"ID": "SFLUB101",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "743C8CBD-4988-44D0-88F3-AB6F399FA9F0",
+					"Description": "How difficult has it been for your vagina to get lubricated (\"wet\") when you wanted it to?\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B6509DB4-2715-485E-B98B-DD5BDB0D7FFF",
+					"Description": "ContainerForB6509DB4-2715-485E-B98B-DD5BDB0D7FFF",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "41AB655C-4591-4493-A58F-F2056E7AE1EB",
+							"Description": "Have not tried to get lubricated in the past 30 days",
+							"FormItemOID": "3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B",
+							"ItemResponseOID": "89D211B9-BA15-40B4-9622-DAC5D5C8F325",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D0E741B2-547C-4120-B9A9-8B8B99D2DEC1",
+							"Description": "Not at all",
+							"FormItemOID": "3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B",
+							"ItemResponseOID": "EBB4062A-A0EF-4AF5-AF22-F168780B1B16",
+							"Value": "5",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "2C733736-2ED5-4FD3-8BB0-C494567E9D56",
+							"Description": "A little bit",
+							"FormItemOID": "3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B",
+							"ItemResponseOID": "D3C74264-063E-452E-89BE-4342860DF58D",
+							"Value": "4",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "91F6BB5F-5D88-47B0-9731-BE43AA4ABC3D",
+							"Description": "Somewhat",
+							"FormItemOID": "3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B",
+							"ItemResponseOID": "FA1425D1-CFFE-4B70-A941-96BB243A14EB",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "5A77C145-ADF3-4305-BB7A-2CE1CB0D0448",
+							"Description": "Quite a bit",
+							"FormItemOID": "3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B",
+							"ItemResponseOID": "8FCE5F28-614A-4459-9E0A-66FF543FF3A9",
+							"Value": "2",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "06411D48-5ECC-4186-BFC3-D567A9DF1ECF",
+							"Description": "Very",
+							"FormItemOID": "3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B",
+							"ItemResponseOID": "00D14196-A63E-4C4A-BBE4-4B479B89E5F8",
+							"Value": "1",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "45DEAAE1-B436-4D96-B247-4E9009AD7347",
+			"ID": "SFVAG101",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "3E174F77-AD6E-495E-8FBC-B250DE0C0C6A",
+					"Description": "How would you describe the comfort of your vagina during sexual activity?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "70FC6E81-6B55-4067-A717-E32DC03B2BC9",
+					"Description": "ContainerFor70FC6E81-6B55-4067-A717-E32DC03B2BC9",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "1A4D64EC-C4B0-4D63-A94D-280C6501A35E",
+							"Description": "Have not had any sexual activity in the past 30 days",
+							"FormItemOID": "45DEAAE1-B436-4D96-B247-4E9009AD7347",
+							"ItemResponseOID": "035E8A6C-5D8F-4AB0-8EC4-87582B721958",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "18F3E3E3-3B48-4127-B466-02543EB60E86",
+							"Description": "Very comfortable",
+							"FormItemOID": "45DEAAE1-B436-4D96-B247-4E9009AD7347",
+							"ItemResponseOID": "96F3DFA4-29AA-4BA0-AE46-13E29575E4C1",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "82E69D51-1570-47EE-B3BC-B618C6CBA773",
+							"Description": "Comfortable",
+							"FormItemOID": "45DEAAE1-B436-4D96-B247-4E9009AD7347",
+							"ItemResponseOID": "9ACFA39F-7CFA-4C9F-8C82-5B0F3F331117",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "D0297E66-075A-47CA-A66F-1AE16C46DA1D",
+							"Description": "Uncomfortable",
+							"FormItemOID": "45DEAAE1-B436-4D96-B247-4E9009AD7347",
+							"ItemResponseOID": "2F39A33A-3BD3-4EBD-9EFA-830D9E9D611F",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "68F1ED2D-3121-46F8-BBC8-DBC494FA6E27",
+							"Description": "Very uncomfortable",
+							"FormItemOID": "45DEAAE1-B436-4D96-B247-4E9009AD7347",
+							"ItemResponseOID": "59D0CE45-4413-4990-82B0-03DBBAB662EF",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA",
+			"ID": "SFVAG102",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D26BA6F7-ED1A-48EC-9166-EB97CFB67907",
+					"Description": "How often have you had difficulty with sexual activity because of discomfort or pain in your vagina?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "DCD0FE4A-DFFC-4B98-8743-8D441A1E989C",
+					"Description": "ContainerForDCD0FE4A-DFFC-4B98-8743-8D441A1E989C",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "D46C4A67-9B26-4349-97B5-945964F58813",
+							"Description": "Have not had any sexual activity in the past 30 days",
+							"FormItemOID": "D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA",
+							"ItemResponseOID": "31457103-98A3-4202-BEA0-67E9E5F5BCFE",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "E1DD857C-9A4A-4F5E-A001-D8412739AC23",
+							"Description": "Never",
+							"FormItemOID": "D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA",
+							"ItemResponseOID": "52650712-8AC6-42C4-9746-8E0BEA213AB3",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "A01A52F6-48D1-4F2A-92CA-9BB265EF2BAD",
+							"Description": "Rarely",
+							"FormItemOID": "D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA",
+							"ItemResponseOID": "8E90D7CD-FF9E-4E9F-B4E5-04A7411E2122",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9FB1C1D-3827-4A53-92E6-788BD50BFA6D",
+							"Description": "Sometimes",
+							"FormItemOID": "D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA",
+							"ItemResponseOID": "1505C235-3C18-433F-912C-C3BE0E036F55",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "6738047C-540A-4C6C-A1A2-DB6ECB8C010E",
+							"Description": "Often",
+							"FormItemOID": "D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA",
+							"ItemResponseOID": "2E55C7E0-CAA8-4D25-9832-BB3A7AC95746",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "52DF912D-0F14-4838-B0AC-0FB62CB4856F",
+							"Description": "Always",
+							"FormItemOID": "D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA",
+							"ItemResponseOID": "4BDF2C2D-7247-4D9E-AF2E-1C099D612131",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "932B9549-560B-4B2A-9664-558EBF44A462",
+			"ID": "SFVAG103",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "3AFC3FFA-7B66-48D5-A5D0-186B7475DBB7",
+					"Description": "How often have you stopped sexual activity because of discomfort or pain in your vagina?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "DCD0FE4A-DFFC-4B98-8743-8D441A1E989C",
+					"Description": "ContainerForDCD0FE4A-DFFC-4B98-8743-8D441A1E989C",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "D46C4A67-9B26-4349-97B5-945964F58813",
+							"Description": "Have not had any sexual activity in the past 30 days",
+							"FormItemOID": "932B9549-560B-4B2A-9664-558EBF44A462",
+							"ItemResponseOID": "A209F149-108B-4C8D-ACF6-90737A7968E0",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "E1DD857C-9A4A-4F5E-A001-D8412739AC23",
+							"Description": "Never",
+							"FormItemOID": "932B9549-560B-4B2A-9664-558EBF44A462",
+							"ItemResponseOID": "83E1DF4A-AD69-423A-B147-BD1B3BC28A55",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "A01A52F6-48D1-4F2A-92CA-9BB265EF2BAD",
+							"Description": "Rarely",
+							"FormItemOID": "932B9549-560B-4B2A-9664-558EBF44A462",
+							"ItemResponseOID": "37F23636-A2C6-492C-869B-9D4AA6A4692B",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9FB1C1D-3827-4A53-92E6-788BD50BFA6D",
+							"Description": "Sometimes",
+							"FormItemOID": "932B9549-560B-4B2A-9664-558EBF44A462",
+							"ItemResponseOID": "AE8C78D0-1700-44D9-BFAF-A606B6622C28",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "6738047C-540A-4C6C-A1A2-DB6ECB8C010E",
+							"Description": "Often",
+							"FormItemOID": "932B9549-560B-4B2A-9664-558EBF44A462",
+							"ItemResponseOID": "01EFE0E3-8755-4C89-B414-1A4283DC758E",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "52DF912D-0F14-4838-B0AC-0FB62CB4856F",
+							"Description": "Always",
+							"FormItemOID": "932B9549-560B-4B2A-9664-558EBF44A462",
+							"ItemResponseOID": "5BFE6894-9DAF-40D0-B0BE-85BF8CF23754",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "9703C4E1-DB32-4C0B-9E0D-E47451A6A661",
+			"ID": "SFORG101",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "DB489243-E7EB-497F-9574-C26233CFBA44",
+					"Description": "How would you rate your ability to have a satisfying orgasm/climax?\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "9FFA992E-9DB4-458A-B2EB-5915835D484E",
+					"Description": "ContainerFor9FFA992E-9DB4-458A-B2EB-5915835D484E",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "5BA820C9-0B1A-4EDF-8DEA-AE106411819C",
+							"Description": "Have not tried to have an orgasm/climax in the past 30 days",
+							"FormItemOID": "9703C4E1-DB32-4C0B-9E0D-E47451A6A661",
+							"ItemResponseOID": "CECCCAD3-F531-4D16-ADAA-74AA77675749",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "3C5C9EDE-A283-4896-B2A1-69744C9A09ED",
+							"Description": "Excellent",
+							"FormItemOID": "9703C4E1-DB32-4C0B-9E0D-E47451A6A661",
+							"ItemResponseOID": "9D484B45-B275-45C0-ACB4-3348DD3FF96C",
+							"Value": "5",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "2E554C86-DD10-4DC9-9DD1-27BED614ACB6",
+							"Description": "Very good",
+							"FormItemOID": "9703C4E1-DB32-4C0B-9E0D-E47451A6A661",
+							"ItemResponseOID": "DE2D2698-5F7E-4671-A68F-BF4188381DA5",
+							"Value": "4",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "F14AB7B5-9CF1-4C27-B5B6-850F37D28009",
+							"Description": "Good",
+							"FormItemOID": "9703C4E1-DB32-4C0B-9E0D-E47451A6A661",
+							"ItemResponseOID": "E40AADA4-B344-42B2-ACA8-C33D10C18A79",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "A10C0CEC-AD4A-4262-99AB-8BCA83770A57",
+							"Description": "Fair",
+							"FormItemOID": "9703C4E1-DB32-4C0B-9E0D-E47451A6A661",
+							"ItemResponseOID": "4D3C5F0D-7231-49C9-B9FD-C4BBE94756CD",
+							"Value": "2",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "DE83AAA1-E6CB-4F97-B5EB-D6C8740F83FF",
+							"Description": "Poor",
+							"FormItemOID": "9703C4E1-DB32-4C0B-9E0D-E47451A6A661",
+							"ItemResponseOID": "921F9E87-80BE-42C5-8E7D-C3EBF48BF04A",
+							"Value": "1",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "ED803407-F387-4754-94F7-3039C3EB0BD6",
+			"ID": "SFSAT105",
+			"Order": "9",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "79DF782D-4330-46C9-A3F5-F6EA4496DD79",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C41EBE1D-0D29-4806-BC7F-8D3F62B3E043",
+					"Description": "When you have had sexual activity, how much have you enjoyed it?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "29D36E6F-EAEB-489D-A8E0-07A57A965869",
+					"Description": "ContainerFor29D36E6F-EAEB-489D-A8E0-07A57A965869",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "AB42FAB8-D972-48ED-9975-43D39A4B2E3F",
+							"Description": "Have not had sexual activity in the past 30 days",
+							"FormItemOID": "ED803407-F387-4754-94F7-3039C3EB0BD6",
+							"ItemResponseOID": "D25BB3CB-D8EE-478D-B82C-44BD88CF28CB",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "9392C3C3-C804-4492-ADD5-AF99EA715C4B",
+							"Description": "Not at all",
+							"FormItemOID": "ED803407-F387-4754-94F7-3039C3EB0BD6",
+							"ItemResponseOID": "03814FB0-E5FC-4041-BDD6-F3F3AEA05C56",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "0581B3DB-5C10-4025-8F88-2655CA54322C",
+							"Description": "A little bit",
+							"FormItemOID": "ED803407-F387-4754-94F7-3039C3EB0BD6",
+							"ItemResponseOID": "A0DFC526-A510-4EF1-8F88-8BA062D91C74",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "8006CE5A-8702-47B1-8BC7-6CEBD56FC217",
+							"Description": "Somewhat",
+							"FormItemOID": "ED803407-F387-4754-94F7-3039C3EB0BD6",
+							"ItemResponseOID": "8D15C0C1-FFD4-42E0-9C7E-954AFB51CDAF",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "6AC22ADA-2F05-40CE-BFE5-EDEF6A037172",
+							"Description": "Quite a bit",
+							"FormItemOID": "ED803407-F387-4754-94F7-3039C3EB0BD6",
+							"ItemResponseOID": "36257AC4-9CB7-49D5-A690-3BB33A236D43",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "73231E84-6CC5-42A5-8226-10BD8F5AE32A",
+							"Description": "Very much",
+							"FormItemOID": "ED803407-F387-4754-94F7-3039C3EB0BD6",
+							"ItemResponseOID": "7B2E7A5C-ECBE-48AE-ACD2-6ECAB3DECBFB",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E",
+			"ID": "SFSAT106",
+			"Order": "10",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "79DF782D-4330-46C9-A3F5-F6EA4496DD79",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7CF0FD83-B554-4158-B79B-54282E89DB6D",
+					"Description": "When you have had sexual activity, how satisfying has it been?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "04FAAC1D-178C-462D-9DF1-016230B6A4F6",
+					"Description": "ContainerFor04FAAC1D-178C-462D-9DF1-016230B6A4F6",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "FDEEF96C-E09D-4B8E-980A-A45C00DCCFD4",
+							"Description": "Have not had sexual activity in the past 30 days",
+							"FormItemOID": "B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E",
+							"ItemResponseOID": "D6597E68-16EC-45F4-ADDE-7A2B80C3D452",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C538B31-D975-4833-86F1-FFA7B7580B14",
+							"Description": "Not at all",
+							"FormItemOID": "B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E",
+							"ItemResponseOID": "013A8277-3E54-46CC-9B93-E477372B2E5F",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "E37E92BA-F2F5-4B07-A78E-57E8B39722E2",
+							"Description": "A little bit",
+							"FormItemOID": "B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E",
+							"ItemResponseOID": "F78F8A4C-7458-43E9-B63C-775F2E36DFCB",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "A8D007BB-7FD7-408F-9B91-18D8A793DB2A",
+							"Description": "Somewhat",
+							"FormItemOID": "B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E",
+							"ItemResponseOID": "D9E4D7C3-1BE3-45AE-9CF8-5C977BB6A53F",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "DE3163C0-114E-4EAC-9C88-49B449107E05",
+							"Description": "Quite a bit",
+							"FormItemOID": "B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E",
+							"ItemResponseOID": "497BF48F-C64A-4862-91AB-5FB6A7CA7DC8",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "DC099929-F8C9-4673-9CC1-94682F033359",
+							"Description": "Very",
+							"FormItemOID": "B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E",
+							"ItemResponseOID": "A954E6EC-D5E9-49A7-8DD1-B5F23B95CAAF",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		}
+	]
+}

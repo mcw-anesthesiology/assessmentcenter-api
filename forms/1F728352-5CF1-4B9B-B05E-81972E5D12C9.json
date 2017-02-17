@@ -1,1 +1,537 @@
-{"DateFinished":"","Items":[{"FormItemOID":"F1F5546E-0C68-4612-AEB7-57E610DC5A6B","ID":"SFAID101","Order":"1","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"6308EF92-FF3B-4842-9B39-DC713461B63D","Description":"How often have you used personal lubricants (such as KY Jelly or Astroglide) for sexual activity?","ElementOrder":"2"},{"ElementOID":"DCD0FE4A-DFFC-4B98-8743-8D441A1E989C","Description":"ContainerForDCD0FE4A-DFFC-4B98-8743-8D441A1E989C","ElementOrder":"3","Map":[{"ElementOID":"D46C4A67-9B26-4349-97B5-945964F58813","Description":"Have not had any sexual activity in the past 30 days","FormItemOID":"F1F5546E-0C68-4612-AEB7-57E610DC5A6B","ItemResponseOID":"B51D6F89-FB5E-415E-A178-27030634EF7A", "Value":"0","Position":"1"},{"ElementOID":"E1DD857C-9A4A-4F5E-A001-D8412739AC23","Description":"Never","FormItemOID":"F1F5546E-0C68-4612-AEB7-57E610DC5A6B","ItemResponseOID":"1C3FF86B-142A-4FCD-BF2C-0C05207517FF", "Value":"1","Position":"2"},{"ElementOID":"A01A52F6-48D1-4F2A-92CA-9BB265EF2BAD","Description":"Rarely","FormItemOID":"F1F5546E-0C68-4612-AEB7-57E610DC5A6B","ItemResponseOID":"81FCE327-081F-45EA-96B1-64C9C61F3635", "Value":"2","Position":"3"},{"ElementOID":"B9FB1C1D-3827-4A53-92E6-788BD50BFA6D","Description":"Sometimes","FormItemOID":"F1F5546E-0C68-4612-AEB7-57E610DC5A6B","ItemResponseOID":"C620D8AC-707A-4ACF-A53F-77C4A5793CEF", "Value":"3","Position":"4"},{"ElementOID":"6738047C-540A-4C6C-A1A2-DB6ECB8C010E","Description":"Often","FormItemOID":"F1F5546E-0C68-4612-AEB7-57E610DC5A6B","ItemResponseOID":"1B33CBCD-A9BE-4B5A-921A-CC4DB2CB5CFE", "Value":"4","Position":"5"},{"ElementOID":"52DF912D-0F14-4838-B0AC-0FB62CB4856F","Description":"Always","FormItemOID":"F1F5546E-0C68-4612-AEB7-57E610DC5A6B","ItemResponseOID":"0301253B-BDEF-4FC6-8227-54B459EFBEF2", "Value":"5","Position":"6"}]}]},{"FormItemOID":"A4C44C84-B1AD-40A3-89F3-A007412A1250","ID":"SFAID102","Order":"2","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"131C7717-4983-4B19-9003-AD7D6EDD9FC2","Description":"How often have you used vaginal moisturizers (such as Replens)?","ElementOrder":"2"},{"ElementOID":"DCD0FE4A-DFFC-4B98-8743-8D441A1E989C","Description":"ContainerForDCD0FE4A-DFFC-4B98-8743-8D441A1E989C","ElementOrder":"3","Map":[{"ElementOID":"D46C4A67-9B26-4349-97B5-945964F58813","Description":"Have not had any sexual activity in the past 30 days","FormItemOID":"A4C44C84-B1AD-40A3-89F3-A007412A1250","ItemResponseOID":"E3706C38-4D66-43F8-A63F-B037D2328E1A", "Value":"0","Position":"1"},{"ElementOID":"E1DD857C-9A4A-4F5E-A001-D8412739AC23","Description":"Never","FormItemOID":"A4C44C84-B1AD-40A3-89F3-A007412A1250","ItemResponseOID":"60170BBE-F954-47EE-81C6-042567A244D7", "Value":"1","Position":"2"},{"ElementOID":"A01A52F6-48D1-4F2A-92CA-9BB265EF2BAD","Description":"Rarely","FormItemOID":"A4C44C84-B1AD-40A3-89F3-A007412A1250","ItemResponseOID":"5D830FD0-177A-4611-88E8-ABDF2EB7A206", "Value":"2","Position":"3"},{"ElementOID":"B9FB1C1D-3827-4A53-92E6-788BD50BFA6D","Description":"Sometimes","FormItemOID":"A4C44C84-B1AD-40A3-89F3-A007412A1250","ItemResponseOID":"7A5F6F15-E368-4296-A74F-D22CAAED5B1F", "Value":"3","Position":"4"},{"ElementOID":"6738047C-540A-4C6C-A1A2-DB6ECB8C010E","Description":"Often","FormItemOID":"A4C44C84-B1AD-40A3-89F3-A007412A1250","ItemResponseOID":"D79B0B39-52F0-48F9-845F-B8BBD056684E", "Value":"4","Position":"5"},{"ElementOID":"52DF912D-0F14-4838-B0AC-0FB62CB4856F","Description":"Always","FormItemOID":"A4C44C84-B1AD-40A3-89F3-A007412A1250","ItemResponseOID":"C8898331-82DB-45CD-AFC9-11BAF59F6E4C", "Value":"5","Position":"6"}]}]},{"FormItemOID":"50C4F5B9-2E0D-4E0F-A451-B871520B055A","ID":"SFAID103","Order":"3","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"7DF43C88-A5AB-418A-9CA7-F10E0551FDAE","Description":"Have you used hormones (for example, estrogen, testosterone, or progesterone) for sexual activity either as a patch on your skin, or a cream, tablet, or ring inserted into your vagina?\r\n","ElementOrder":"2"},{"ElementOID":"6EAF49A7-66E4-4445-8DBE-8FAC47120213","Description":"ContainerFor6EAF49A7-66E4-4445-8DBE-8FAC47120213","ElementOrder":"3","Map":[{"ElementOID":"155679CE-2DFD-4CC7-8B22-52133723F5DD","Description":"No","FormItemOID":"50C4F5B9-2E0D-4E0F-A451-B871520B055A","ItemResponseOID":"684D86FD-44ED-4957-8250-4B6CF3CBD099", "Value":"1","Position":"1"},{"ElementOID":"44BAD48A-1F69-4D99-A68F-6442F244A151","Description":"Yes","FormItemOID":"50C4F5B9-2E0D-4E0F-A451-B871520B055A","ItemResponseOID":"886E4120-0081-47CD-A297-5A23FEE1199E", "Value":"2","Position":"2"},{"ElementOID":"FF1DE4D8-C0C0-40B4-8B85-1AFB408D7B5B","Description":"I don't know","FormItemOID":"50C4F5B9-2E0D-4E0F-A451-B871520B055A","ItemResponseOID":"DBFF0D69-A884-4515-92F2-919054DF9324", "Value":"0","Position":"3"}]}]},{"FormItemOID":"CE65472A-ED84-4E55-B848-B18BE57D188F","ID":"SFAID104","Order":"4","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"0F22A1E8-BB88-4398-85DD-2BF492830DF1","Description":"Have you used a vaginal dilator?","ElementOrder":"2"},{"ElementOID":"94C8B6B9-FE2E-465E-82C5-C52DDE3ECBE0","Description":"ContainerFor94C8B6B9-FE2E-465E-82C5-C52DDE3ECBE0","ElementOrder":"3","Map":[{"ElementOID":"8AE7088D-FE7F-4551-B622-20D70C4A387B","Description":"No","FormItemOID":"CE65472A-ED84-4E55-B848-B18BE57D188F","ItemResponseOID":"B6194951-C8ED-4025-8EBB-B22E68B79F0E", "Value":"1","Position":"1"},{"ElementOID":"0051D59D-2C02-4DE3-A498-F7B8355CD0DB","Description":"Yes","FormItemOID":"CE65472A-ED84-4E55-B848-B18BE57D188F","ItemResponseOID":"52CE7EC4-BCFD-4BC7-B720-F5C4F243D094", "Value":"2","Position":"2"},{"ElementOID":"EE18AA55-5A9F-48B8-AD10-D8F954BA79A9","Description":"I am not sure what a vaginal dilator is","FormItemOID":"CE65472A-ED84-4E55-B848-B18BE57D188F","ItemResponseOID":"C5F45AF6-B3E1-4F0A-AEE6-F646A65485B8", "Value":"0","Position":"3"}]}]},{"FormItemOID":"5E2B6913-BE7F-4A81-AC57-A6036C611972","ID":"SFAID105","Order":"5","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"EA962D4C-5594-4E1D-A584-227882C63161","Description":"How often have you taken a pill such as Viagra, Cialis, or Levitra for sexual activity?","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Never","FormItemOID":"5E2B6913-BE7F-4A81-AC57-A6036C611972","ItemResponseOID":"060DC922-3F13-4C8A-A123-6E53C76710D5", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rarely","FormItemOID":"5E2B6913-BE7F-4A81-AC57-A6036C611972","ItemResponseOID":"9222B00E-BE3E-47F1-A2BE-34A3A0160963", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Sometimes","FormItemOID":"5E2B6913-BE7F-4A81-AC57-A6036C611972","ItemResponseOID":"ED1AE245-A501-45CA-8B2F-15EF121FEAEE", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"Often","FormItemOID":"5E2B6913-BE7F-4A81-AC57-A6036C611972","ItemResponseOID":"C3519C84-4ECC-4BF4-B7CA-C2D68ECB909B", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Always","FormItemOID":"5E2B6913-BE7F-4A81-AC57-A6036C611972","ItemResponseOID":"A92251C3-BBC1-4A11-8F14-F5573FAEA349", "Value":"5","Position":"5"}]}]},{"FormItemOID":"FE1EC732-8B00-4E97-AFA0-6B3BE08A9BF7","ID":"SFAID106","Order":"6","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"EE5CC07A-0410-4B9B-810F-ED3912BC14C2","Description":"Have you taken testosterone for sexual activity?","ElementOrder":"2"},{"ElementOID":"6EAF49A7-66E4-4445-8DBE-8FAC47120213","Description":"ContainerFor6EAF49A7-66E4-4445-8DBE-8FAC47120213","ElementOrder":"3","Map":[{"ElementOID":"155679CE-2DFD-4CC7-8B22-52133723F5DD","Description":"No","FormItemOID":"FE1EC732-8B00-4E97-AFA0-6B3BE08A9BF7","ItemResponseOID":"3B7C2073-DEF5-49FF-B54F-8ACD6102A5E0", "Value":"1","Position":"1"},{"ElementOID":"44BAD48A-1F69-4D99-A68F-6442F244A151","Description":"Yes","FormItemOID":"FE1EC732-8B00-4E97-AFA0-6B3BE08A9BF7","ItemResponseOID":"2781D059-75A4-4E3C-9BE6-62AC2122CF31", "Value":"2","Position":"2"},{"ElementOID":"FF1DE4D8-C0C0-40B4-8B85-1AFB408D7B5B","Description":"I don't know","FormItemOID":"FE1EC732-8B00-4E97-AFA0-6B3BE08A9BF7","ItemResponseOID":"6A5A8463-6BBF-496F-AE73-8290F5DF8F1C", "Value":"0","Position":"3"}]}]},{"FormItemOID":"0E7862D5-4CA7-461C-A7CF-C00DFAB8D534","ID":"SFAID107","Order":"7","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"C68B6913-D33D-4F58-8F40-B28FE29654CF","Description":"How often have you used an injection into your penis to get an erection?","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Never","FormItemOID":"0E7862D5-4CA7-461C-A7CF-C00DFAB8D534","ItemResponseOID":"5704553B-C655-4A30-AF79-D330C702DCD9", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rarely","FormItemOID":"0E7862D5-4CA7-461C-A7CF-C00DFAB8D534","ItemResponseOID":"D6E8101A-96C2-4CE8-8AB2-BC5FDD1E94AF", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Sometimes","FormItemOID":"0E7862D5-4CA7-461C-A7CF-C00DFAB8D534","ItemResponseOID":"227E0272-B4E0-4868-8677-D65D797E183B", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"Often","FormItemOID":"0E7862D5-4CA7-461C-A7CF-C00DFAB8D534","ItemResponseOID":"03AE337A-2DC9-4063-B5B8-26C2B9B57F55", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Always","FormItemOID":"0E7862D5-4CA7-461C-A7CF-C00DFAB8D534","ItemResponseOID":"C8799A56-48CB-4814-9170-A08E68996D01", "Value":"5","Position":"5"}]}]},{"FormItemOID":"874DAA74-3B0E-49FE-BDD7-AC072DFE3415","ID":"SFAID108","Order":"8","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"7D2B0F15-B329-4687-A7E5-D7DA3EC1D36E","Description":"How often have you used a vacuum pump (penis pump) to get an erection?","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Never","FormItemOID":"874DAA74-3B0E-49FE-BDD7-AC072DFE3415","ItemResponseOID":"F6612E24-872A-4052-B53C-6A36F520DCB8", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rarely","FormItemOID":"874DAA74-3B0E-49FE-BDD7-AC072DFE3415","ItemResponseOID":"ED790C7D-01D5-408B-BFED-610B4DB95F8F", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Sometimes","FormItemOID":"874DAA74-3B0E-49FE-BDD7-AC072DFE3415","ItemResponseOID":"62B21DFA-DA3D-4429-B6EF-A25E5BFC1257", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"Often","FormItemOID":"874DAA74-3B0E-49FE-BDD7-AC072DFE3415","ItemResponseOID":"C048749A-66EC-498D-8D80-CC7E4E37113E", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Always","FormItemOID":"874DAA74-3B0E-49FE-BDD7-AC072DFE3415","ItemResponseOID":"570F3EF6-805F-4A51-82F4-AF2595631545", "Value":"5","Position":"5"}]}]},{"FormItemOID":"DC3CD71B-4551-47AE-9D65-3358E8741C2B","ID":"SFAID109","Order":"9","ItemType":"","Elements":[{"ElementOID":"F53F5C7C-71CF-4429-AAC4-1D9AAADD8F9F","Description":"Have you had a penile implant?","ElementOrder":"1"},{"ElementOID":"6152B279-ED59-487D-B684-25D1DC82AE48","Description":"ContainerFor6152B279-ED59-487D-B684-25D1DC82AE48","ElementOrder":"2","Map":[{"ElementOID":"3AD50CB2-F214-44EB-9AD4-4E63BBB302B5","Description":"No","FormItemOID":"DC3CD71B-4551-47AE-9D65-3358E8741C2B","ItemResponseOID":"31E948CA-9443-43CB-92F2-E5146165A518", "Value":"1","Position":"1"},{"ElementOID":"1A7FF0BC-A9AC-4506-A67E-B301F7A3F669","Description":"Yes","FormItemOID":"DC3CD71B-4551-47AE-9D65-3358E8741C2B","ItemResponseOID":"B431011E-27FA-4E0F-B81C-F6705AE00AA2", "Value":"2","Position":"2"},{"ElementOID":"AA54C8E5-5E74-46B5-94EA-9170C9318F93","Description":"I am not sure what a penile implant is","FormItemOID":"DC3CD71B-4551-47AE-9D65-3358E8741C2B","ItemResponseOID":"BD0E2AC2-0EE6-4ADA-AA90-6516C4FA2503", "Value":"0","Position":"3"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "F1F5546E-0C68-4612-AEB7-57E610DC5A6B",
+			"ID": "SFAID101",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6308EF92-FF3B-4842-9B39-DC713461B63D",
+					"Description": "How often have you used personal lubricants (such as KY Jelly or Astroglide) for sexual activity?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "DCD0FE4A-DFFC-4B98-8743-8D441A1E989C",
+					"Description": "ContainerForDCD0FE4A-DFFC-4B98-8743-8D441A1E989C",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "D46C4A67-9B26-4349-97B5-945964F58813",
+							"Description": "Have not had any sexual activity in the past 30 days",
+							"FormItemOID": "F1F5546E-0C68-4612-AEB7-57E610DC5A6B",
+							"ItemResponseOID": "B51D6F89-FB5E-415E-A178-27030634EF7A",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "E1DD857C-9A4A-4F5E-A001-D8412739AC23",
+							"Description": "Never",
+							"FormItemOID": "F1F5546E-0C68-4612-AEB7-57E610DC5A6B",
+							"ItemResponseOID": "1C3FF86B-142A-4FCD-BF2C-0C05207517FF",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "A01A52F6-48D1-4F2A-92CA-9BB265EF2BAD",
+							"Description": "Rarely",
+							"FormItemOID": "F1F5546E-0C68-4612-AEB7-57E610DC5A6B",
+							"ItemResponseOID": "81FCE327-081F-45EA-96B1-64C9C61F3635",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9FB1C1D-3827-4A53-92E6-788BD50BFA6D",
+							"Description": "Sometimes",
+							"FormItemOID": "F1F5546E-0C68-4612-AEB7-57E610DC5A6B",
+							"ItemResponseOID": "C620D8AC-707A-4ACF-A53F-77C4A5793CEF",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "6738047C-540A-4C6C-A1A2-DB6ECB8C010E",
+							"Description": "Often",
+							"FormItemOID": "F1F5546E-0C68-4612-AEB7-57E610DC5A6B",
+							"ItemResponseOID": "1B33CBCD-A9BE-4B5A-921A-CC4DB2CB5CFE",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "52DF912D-0F14-4838-B0AC-0FB62CB4856F",
+							"Description": "Always",
+							"FormItemOID": "F1F5546E-0C68-4612-AEB7-57E610DC5A6B",
+							"ItemResponseOID": "0301253B-BDEF-4FC6-8227-54B459EFBEF2",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "A4C44C84-B1AD-40A3-89F3-A007412A1250",
+			"ID": "SFAID102",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "131C7717-4983-4B19-9003-AD7D6EDD9FC2",
+					"Description": "How often have you used vaginal moisturizers (such as Replens)?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "DCD0FE4A-DFFC-4B98-8743-8D441A1E989C",
+					"Description": "ContainerForDCD0FE4A-DFFC-4B98-8743-8D441A1E989C",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "D46C4A67-9B26-4349-97B5-945964F58813",
+							"Description": "Have not had any sexual activity in the past 30 days",
+							"FormItemOID": "A4C44C84-B1AD-40A3-89F3-A007412A1250",
+							"ItemResponseOID": "E3706C38-4D66-43F8-A63F-B037D2328E1A",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "E1DD857C-9A4A-4F5E-A001-D8412739AC23",
+							"Description": "Never",
+							"FormItemOID": "A4C44C84-B1AD-40A3-89F3-A007412A1250",
+							"ItemResponseOID": "60170BBE-F954-47EE-81C6-042567A244D7",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "A01A52F6-48D1-4F2A-92CA-9BB265EF2BAD",
+							"Description": "Rarely",
+							"FormItemOID": "A4C44C84-B1AD-40A3-89F3-A007412A1250",
+							"ItemResponseOID": "5D830FD0-177A-4611-88E8-ABDF2EB7A206",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9FB1C1D-3827-4A53-92E6-788BD50BFA6D",
+							"Description": "Sometimes",
+							"FormItemOID": "A4C44C84-B1AD-40A3-89F3-A007412A1250",
+							"ItemResponseOID": "7A5F6F15-E368-4296-A74F-D22CAAED5B1F",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "6738047C-540A-4C6C-A1A2-DB6ECB8C010E",
+							"Description": "Often",
+							"FormItemOID": "A4C44C84-B1AD-40A3-89F3-A007412A1250",
+							"ItemResponseOID": "D79B0B39-52F0-48F9-845F-B8BBD056684E",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "52DF912D-0F14-4838-B0AC-0FB62CB4856F",
+							"Description": "Always",
+							"FormItemOID": "A4C44C84-B1AD-40A3-89F3-A007412A1250",
+							"ItemResponseOID": "C8898331-82DB-45CD-AFC9-11BAF59F6E4C",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "50C4F5B9-2E0D-4E0F-A451-B871520B055A",
+			"ID": "SFAID103",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7DF43C88-A5AB-418A-9CA7-F10E0551FDAE",
+					"Description": "Have you used hormones (for example, estrogen, testosterone, or progesterone) for sexual activity either as a patch on your skin, or a cream, tablet, or ring inserted into your vagina?\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "6EAF49A7-66E4-4445-8DBE-8FAC47120213",
+					"Description": "ContainerFor6EAF49A7-66E4-4445-8DBE-8FAC47120213",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "155679CE-2DFD-4CC7-8B22-52133723F5DD",
+							"Description": "No",
+							"FormItemOID": "50C4F5B9-2E0D-4E0F-A451-B871520B055A",
+							"ItemResponseOID": "684D86FD-44ED-4957-8250-4B6CF3CBD099",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "44BAD48A-1F69-4D99-A68F-6442F244A151",
+							"Description": "Yes",
+							"FormItemOID": "50C4F5B9-2E0D-4E0F-A451-B871520B055A",
+							"ItemResponseOID": "886E4120-0081-47CD-A297-5A23FEE1199E",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "FF1DE4D8-C0C0-40B4-8B85-1AFB408D7B5B",
+							"Description": "I don't know",
+							"FormItemOID": "50C4F5B9-2E0D-4E0F-A451-B871520B055A",
+							"ItemResponseOID": "DBFF0D69-A884-4515-92F2-919054DF9324",
+							"Value": "0",
+							"Position": "3"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "CE65472A-ED84-4E55-B848-B18BE57D188F",
+			"ID": "SFAID104",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "0F22A1E8-BB88-4398-85DD-2BF492830DF1",
+					"Description": "Have you used a vaginal dilator?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "94C8B6B9-FE2E-465E-82C5-C52DDE3ECBE0",
+					"Description": "ContainerFor94C8B6B9-FE2E-465E-82C5-C52DDE3ECBE0",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "8AE7088D-FE7F-4551-B622-20D70C4A387B",
+							"Description": "No",
+							"FormItemOID": "CE65472A-ED84-4E55-B848-B18BE57D188F",
+							"ItemResponseOID": "B6194951-C8ED-4025-8EBB-B22E68B79F0E",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "0051D59D-2C02-4DE3-A498-F7B8355CD0DB",
+							"Description": "Yes",
+							"FormItemOID": "CE65472A-ED84-4E55-B848-B18BE57D188F",
+							"ItemResponseOID": "52CE7EC4-BCFD-4BC7-B720-F5C4F243D094",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "EE18AA55-5A9F-48B8-AD10-D8F954BA79A9",
+							"Description": "I am not sure what a vaginal dilator is",
+							"FormItemOID": "CE65472A-ED84-4E55-B848-B18BE57D188F",
+							"ItemResponseOID": "C5F45AF6-B3E1-4F0A-AEE6-F646A65485B8",
+							"Value": "0",
+							"Position": "3"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "5E2B6913-BE7F-4A81-AC57-A6036C611972",
+			"ID": "SFAID105",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "EA962D4C-5594-4E1D-A584-227882C63161",
+					"Description": "How often have you taken a pill such as Viagra, Cialis, or Levitra for sexual activity?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Never",
+							"FormItemOID": "5E2B6913-BE7F-4A81-AC57-A6036C611972",
+							"ItemResponseOID": "060DC922-3F13-4C8A-A123-6E53C76710D5",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rarely",
+							"FormItemOID": "5E2B6913-BE7F-4A81-AC57-A6036C611972",
+							"ItemResponseOID": "9222B00E-BE3E-47F1-A2BE-34A3A0160963",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Sometimes",
+							"FormItemOID": "5E2B6913-BE7F-4A81-AC57-A6036C611972",
+							"ItemResponseOID": "ED1AE245-A501-45CA-8B2F-15EF121FEAEE",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "Often",
+							"FormItemOID": "5E2B6913-BE7F-4A81-AC57-A6036C611972",
+							"ItemResponseOID": "C3519C84-4ECC-4BF4-B7CA-C2D68ECB909B",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Always",
+							"FormItemOID": "5E2B6913-BE7F-4A81-AC57-A6036C611972",
+							"ItemResponseOID": "A92251C3-BBC1-4A11-8F14-F5573FAEA349",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "FE1EC732-8B00-4E97-AFA0-6B3BE08A9BF7",
+			"ID": "SFAID106",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "EE5CC07A-0410-4B9B-810F-ED3912BC14C2",
+					"Description": "Have you taken testosterone for sexual activity?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "6EAF49A7-66E4-4445-8DBE-8FAC47120213",
+					"Description": "ContainerFor6EAF49A7-66E4-4445-8DBE-8FAC47120213",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "155679CE-2DFD-4CC7-8B22-52133723F5DD",
+							"Description": "No",
+							"FormItemOID": "FE1EC732-8B00-4E97-AFA0-6B3BE08A9BF7",
+							"ItemResponseOID": "3B7C2073-DEF5-49FF-B54F-8ACD6102A5E0",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "44BAD48A-1F69-4D99-A68F-6442F244A151",
+							"Description": "Yes",
+							"FormItemOID": "FE1EC732-8B00-4E97-AFA0-6B3BE08A9BF7",
+							"ItemResponseOID": "2781D059-75A4-4E3C-9BE6-62AC2122CF31",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "FF1DE4D8-C0C0-40B4-8B85-1AFB408D7B5B",
+							"Description": "I don't know",
+							"FormItemOID": "FE1EC732-8B00-4E97-AFA0-6B3BE08A9BF7",
+							"ItemResponseOID": "6A5A8463-6BBF-496F-AE73-8290F5DF8F1C",
+							"Value": "0",
+							"Position": "3"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "0E7862D5-4CA7-461C-A7CF-C00DFAB8D534",
+			"ID": "SFAID107",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C68B6913-D33D-4F58-8F40-B28FE29654CF",
+					"Description": "How often have you used an injection into your penis to get an erection?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Never",
+							"FormItemOID": "0E7862D5-4CA7-461C-A7CF-C00DFAB8D534",
+							"ItemResponseOID": "5704553B-C655-4A30-AF79-D330C702DCD9",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rarely",
+							"FormItemOID": "0E7862D5-4CA7-461C-A7CF-C00DFAB8D534",
+							"ItemResponseOID": "D6E8101A-96C2-4CE8-8AB2-BC5FDD1E94AF",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Sometimes",
+							"FormItemOID": "0E7862D5-4CA7-461C-A7CF-C00DFAB8D534",
+							"ItemResponseOID": "227E0272-B4E0-4868-8677-D65D797E183B",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "Often",
+							"FormItemOID": "0E7862D5-4CA7-461C-A7CF-C00DFAB8D534",
+							"ItemResponseOID": "03AE337A-2DC9-4063-B5B8-26C2B9B57F55",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Always",
+							"FormItemOID": "0E7862D5-4CA7-461C-A7CF-C00DFAB8D534",
+							"ItemResponseOID": "C8799A56-48CB-4814-9170-A08E68996D01",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "874DAA74-3B0E-49FE-BDD7-AC072DFE3415",
+			"ID": "SFAID108",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7D2B0F15-B329-4687-A7E5-D7DA3EC1D36E",
+					"Description": "How often have you used a vacuum pump (penis pump) to get an erection?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Never",
+							"FormItemOID": "874DAA74-3B0E-49FE-BDD7-AC072DFE3415",
+							"ItemResponseOID": "F6612E24-872A-4052-B53C-6A36F520DCB8",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rarely",
+							"FormItemOID": "874DAA74-3B0E-49FE-BDD7-AC072DFE3415",
+							"ItemResponseOID": "ED790C7D-01D5-408B-BFED-610B4DB95F8F",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Sometimes",
+							"FormItemOID": "874DAA74-3B0E-49FE-BDD7-AC072DFE3415",
+							"ItemResponseOID": "62B21DFA-DA3D-4429-B6EF-A25E5BFC1257",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "Often",
+							"FormItemOID": "874DAA74-3B0E-49FE-BDD7-AC072DFE3415",
+							"ItemResponseOID": "C048749A-66EC-498D-8D80-CC7E4E37113E",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Always",
+							"FormItemOID": "874DAA74-3B0E-49FE-BDD7-AC072DFE3415",
+							"ItemResponseOID": "570F3EF6-805F-4A51-82F4-AF2595631545",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "DC3CD71B-4551-47AE-9D65-3358E8741C2B",
+			"ID": "SFAID109",
+			"Order": "9",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F53F5C7C-71CF-4429-AAC4-1D9AAADD8F9F",
+					"Description": "Have you had a penile implant?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6152B279-ED59-487D-B684-25D1DC82AE48",
+					"Description": "ContainerFor6152B279-ED59-487D-B684-25D1DC82AE48",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3AD50CB2-F214-44EB-9AD4-4E63BBB302B5",
+							"Description": "No",
+							"FormItemOID": "DC3CD71B-4551-47AE-9D65-3358E8741C2B",
+							"ItemResponseOID": "31E948CA-9443-43CB-92F2-E5146165A518",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "1A7FF0BC-A9AC-4506-A67E-B301F7A3F669",
+							"Description": "Yes",
+							"FormItemOID": "DC3CD71B-4551-47AE-9D65-3358E8741C2B",
+							"ItemResponseOID": "B431011E-27FA-4E0F-B81C-F6705AE00AA2",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "AA54C8E5-5E74-46B5-94EA-9170C9318F93",
+							"Description": "I am not sure what a penile implant is",
+							"FormItemOID": "DC3CD71B-4551-47AE-9D65-3358E8741C2B",
+							"ItemResponseOID": "BD0E2AC2-0EE6-4ADA-AA90-6516C4FA2503",
+							"Value": "0",
+							"Position": "3"
+						}
+					]
+				}
+			]
+		}
+	]
+}

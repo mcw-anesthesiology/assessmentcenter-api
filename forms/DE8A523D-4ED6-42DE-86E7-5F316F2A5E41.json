@@ -1,1 +1,485 @@
-{"DateFinished":"","Items":[{"FormItemOID":"4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC","ID":"FSE31054x2","Order":"1","ItemType":"","Elements":[{"ElementOID":"60E0872D-EC68-4C34-B9EE-AC93B6D87F76","Description":"I have someone to give me good advice about a crisis if I need it","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC","ItemResponseOID":"E15B7A1B-4590-4B18-A8F1-7177317813CF", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC","ItemResponseOID":"FA1C22E5-63FC-4C7B-87F8-A584D4ED8DBB", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC","ItemResponseOID":"504C34D1-2A86-4A61-9A5E-C125DED4FECE", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC","ItemResponseOID":"D8B151A4-089B-4992-A4EE-D7FE4F112CF5", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC","ItemResponseOID":"F08E73EC-CFB6-46FE-BDD4-47984DAA7775", "Value":"5","Position":"5"}]}]},{"FormItemOID":"DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2","ID":"SS7x","Order":"2","ItemType":"","Elements":[{"ElementOID":"E2F35DF8-465C-4A8E-AE6F-F120CFB859C6","Description":"I have someone to turn to for suggestions about how to deal with a problem","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2","ItemResponseOID":"4FBDD030-4381-41C1-9B4B-DDAC89A0926A", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2","ItemResponseOID":"7A70A33B-4D00-4AE9-868D-D9932A7F6EAD", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2","ItemResponseOID":"60024E25-B0A9-478F-903D-F85D2085ADB7", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2","ItemResponseOID":"71F9A33C-0DD9-4F25-8185-0CA20A85A35A", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2","ItemResponseOID":"D44CEBC3-A614-4D06-8960-D5107215F81E", "Value":"5","Position":"5"}]}]},{"FormItemOID":"F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F","ID":"FSE31058x2","Order":"3","ItemType":"","Elements":[{"ElementOID":"CFC1FD2E-13A8-44AA-9C96-6683651F7A9A","Description":"I have someone to give me information if I need it","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F","ItemResponseOID":"F13661E7-258A-44A2-87FA-8CAFFC1898FB", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F","ItemResponseOID":"F5725CE4-5A15-437E-B01C-2D48DE153030", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F","ItemResponseOID":"1B740DDD-7E9B-4EB5-A6B5-CAFDDD5D360A", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F","ItemResponseOID":"21EA3AF3-76FC-46D4-8CF3-B3D828234B12", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F","ItemResponseOID":"EFC34F16-15F7-41CC-BC40-20616DFA53B3", "Value":"5","Position":"5"}]}]},{"FormItemOID":"008BAAC6-1499-4813-99AD-EAF898AB9445","ID":"SSQ7x","Order":"4","ItemType":"","Elements":[{"ElementOID":"B60F5391-5B9B-42D3-87C0-3E3E378CB9F6","Description":"I get useful advice about important things in life","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"008BAAC6-1499-4813-99AD-EAF898AB9445","ItemResponseOID":"ACF78DA3-447E-4C48-A680-D7507858E1F8", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"008BAAC6-1499-4813-99AD-EAF898AB9445","ItemResponseOID":"40F91B43-3959-492F-A2D1-5D1FEF7124A1", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"008BAAC6-1499-4813-99AD-EAF898AB9445","ItemResponseOID":"EC1E3B70-AD21-4C3F-B39A-C76969DCAE04", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"008BAAC6-1499-4813-99AD-EAF898AB9445","ItemResponseOID":"767E1CE1-C1C3-4828-9B84-A1C389430374", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"008BAAC6-1499-4813-99AD-EAF898AB9445","ItemResponseOID":"16C3C61E-2900-4411-B93B-3FEAC300EC73", "Value":"5","Position":"5"}]}]},{"FormItemOID":"BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE","ID":"INF-CaPS2","Order":"5","ItemType":"","Elements":[{"ElementOID":"A9C15556-6AEA-4E46-ABC0-F71D922D6F5E","Description":"I can get helpful advice from others when dealing with a problem","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE","ItemResponseOID":"C6F535B7-E482-410C-8F3C-C87E7941CDBF", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE","ItemResponseOID":"400F0502-204E-4091-831E-6DE8D4069E01", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE","ItemResponseOID":"C8055329-B1A8-4F10-91C4-5D3BF6DFD903", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE","ItemResponseOID":"09AC34D1-DFCD-4DF0-B7E6-E45350B5C578", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE","ItemResponseOID":"A03F540A-4B06-4B83-880F-E4480DFFC391", "Value":"5","Position":"5"}]}]},{"FormItemOID":"EB4A22CB-3079-45A6-88B0-39B80D776557","ID":"INF-CaPS4","Order":"6","ItemType":"","Elements":[{"ElementOID":"F4638729-E367-4AAD-A10C-956880796F0C","Description":"My friends have useful information when I have problems to solve","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"EB4A22CB-3079-45A6-88B0-39B80D776557","ItemResponseOID":"D9F0961B-FFDE-4502-BCD2-1DBBAE243F7E", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"EB4A22CB-3079-45A6-88B0-39B80D776557","ItemResponseOID":"6C8E100B-FEC2-471B-A557-9131BD86DAE0", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"EB4A22CB-3079-45A6-88B0-39B80D776557","ItemResponseOID":"E1758495-F105-4F46-98B6-E54EA98625A5", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"EB4A22CB-3079-45A6-88B0-39B80D776557","ItemResponseOID":"8FFCE9B7-3D9E-493C-9CED-E39378B6AE47", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"EB4A22CB-3079-45A6-88B0-39B80D776557","ItemResponseOID":"A2A3C8E9-C94D-412A-A5F6-256BD437BD3E", "Value":"5","Position":"5"}]}]},{"FormItemOID":"E680D34F-869B-44C0-A0CF-AF804E6538E5","ID":"INF-CaPS3","Order":"7","ItemType":"","Elements":[{"ElementOID":"C3DC2576-62D6-40CE-8795-350509C29549","Description":"I can turn to people who know how to solve problems like mine","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"E680D34F-869B-44C0-A0CF-AF804E6538E5","ItemResponseOID":"D2EDA723-D16F-49F1-B3E7-9C15748ACE49", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"E680D34F-869B-44C0-A0CF-AF804E6538E5","ItemResponseOID":"2FDAD0D4-0C24-4B43-83C2-02769829BE29", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"E680D34F-869B-44C0-A0CF-AF804E6538E5","ItemResponseOID":"51DAF899-052B-4CA2-817F-6414D2194505", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"E680D34F-869B-44C0-A0CF-AF804E6538E5","ItemResponseOID":"CD681404-3AFF-4749-AFE3-79B32DBDCDC1", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"E680D34F-869B-44C0-A0CF-AF804E6538E5","ItemResponseOID":"588543A5-8AF1-4526-BBB1-62C6EC699902", "Value":"5","Position":"5"}]}]},{"FormItemOID":"4DD0D5C3-2E01-47B3-8B78-238D63754E82","ID":"INF-CaPS1","Order":"8","ItemType":"","Elements":[{"ElementOID":"0B805D25-7DCF-4178-97F0-83F4421E27DA","Description":"Other people help me get information when I have a problem","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"4DD0D5C3-2E01-47B3-8B78-238D63754E82","ItemResponseOID":"E07579C6-4ED4-4920-90C4-2CE171F70578", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"4DD0D5C3-2E01-47B3-8B78-238D63754E82","ItemResponseOID":"B61B81E5-60C5-4BAC-AB61-87A036D50303", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"4DD0D5C3-2E01-47B3-8B78-238D63754E82","ItemResponseOID":"043552B6-945E-424D-8B67-365E0313B713", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"4DD0D5C3-2E01-47B3-8B78-238D63754E82","ItemResponseOID":"137637EC-A1FF-4A75-9911-7A809D117464", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"4DD0D5C3-2E01-47B3-8B78-238D63754E82","ItemResponseOID":"53997DFA-B58E-4ED2-820F-D2E44D664DF1", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC",
+			"ID": "FSE31054x2",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "60E0872D-EC68-4C34-B9EE-AC93B6D87F76",
+					"Description": "I have someone to give me good advice about a crisis if I need it",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC",
+							"ItemResponseOID": "E15B7A1B-4590-4B18-A8F1-7177317813CF",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC",
+							"ItemResponseOID": "FA1C22E5-63FC-4C7B-87F8-A584D4ED8DBB",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC",
+							"ItemResponseOID": "504C34D1-2A86-4A61-9A5E-C125DED4FECE",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC",
+							"ItemResponseOID": "D8B151A4-089B-4992-A4EE-D7FE4F112CF5",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "4DEE5A02-47E9-4E30-A18D-CA64FD79B2AC",
+							"ItemResponseOID": "F08E73EC-CFB6-46FE-BDD4-47984DAA7775",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2",
+			"ID": "SS7x",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "E2F35DF8-465C-4A8E-AE6F-F120CFB859C6",
+					"Description": "I have someone to turn to for suggestions about how to deal with a problem",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2",
+							"ItemResponseOID": "4FBDD030-4381-41C1-9B4B-DDAC89A0926A",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2",
+							"ItemResponseOID": "7A70A33B-4D00-4AE9-868D-D9932A7F6EAD",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2",
+							"ItemResponseOID": "60024E25-B0A9-478F-903D-F85D2085ADB7",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2",
+							"ItemResponseOID": "71F9A33C-0DD9-4F25-8185-0CA20A85A35A",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "DC4A3606-C4E3-4345-A4E6-E9C7678A5EF2",
+							"ItemResponseOID": "D44CEBC3-A614-4D06-8960-D5107215F81E",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F",
+			"ID": "FSE31058x2",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "CFC1FD2E-13A8-44AA-9C96-6683651F7A9A",
+					"Description": "I have someone to give me information if I need it",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F",
+							"ItemResponseOID": "F13661E7-258A-44A2-87FA-8CAFFC1898FB",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F",
+							"ItemResponseOID": "F5725CE4-5A15-437E-B01C-2D48DE153030",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F",
+							"ItemResponseOID": "1B740DDD-7E9B-4EB5-A6B5-CAFDDD5D360A",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F",
+							"ItemResponseOID": "21EA3AF3-76FC-46D4-8CF3-B3D828234B12",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "F08E77F3-AB5F-4B06-BA0F-CC4BA07F541F",
+							"ItemResponseOID": "EFC34F16-15F7-41CC-BC40-20616DFA53B3",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "008BAAC6-1499-4813-99AD-EAF898AB9445",
+			"ID": "SSQ7x",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "B60F5391-5B9B-42D3-87C0-3E3E378CB9F6",
+					"Description": "I get useful advice about important things in life",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "008BAAC6-1499-4813-99AD-EAF898AB9445",
+							"ItemResponseOID": "ACF78DA3-447E-4C48-A680-D7507858E1F8",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "008BAAC6-1499-4813-99AD-EAF898AB9445",
+							"ItemResponseOID": "40F91B43-3959-492F-A2D1-5D1FEF7124A1",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "008BAAC6-1499-4813-99AD-EAF898AB9445",
+							"ItemResponseOID": "EC1E3B70-AD21-4C3F-B39A-C76969DCAE04",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "008BAAC6-1499-4813-99AD-EAF898AB9445",
+							"ItemResponseOID": "767E1CE1-C1C3-4828-9B84-A1C389430374",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "008BAAC6-1499-4813-99AD-EAF898AB9445",
+							"ItemResponseOID": "16C3C61E-2900-4411-B93B-3FEAC300EC73",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE",
+			"ID": "INF-CaPS2",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "A9C15556-6AEA-4E46-ABC0-F71D922D6F5E",
+					"Description": "I can get helpful advice from others when dealing with a problem",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE",
+							"ItemResponseOID": "C6F535B7-E482-410C-8F3C-C87E7941CDBF",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE",
+							"ItemResponseOID": "400F0502-204E-4091-831E-6DE8D4069E01",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE",
+							"ItemResponseOID": "C8055329-B1A8-4F10-91C4-5D3BF6DFD903",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE",
+							"ItemResponseOID": "09AC34D1-DFCD-4DF0-B7E6-E45350B5C578",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "BCC581CA-CEDC-4C25-9A29-5F80CD6C34BE",
+							"ItemResponseOID": "A03F540A-4B06-4B83-880F-E4480DFFC391",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "EB4A22CB-3079-45A6-88B0-39B80D776557",
+			"ID": "INF-CaPS4",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F4638729-E367-4AAD-A10C-956880796F0C",
+					"Description": "My friends have useful information when I have problems to solve",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "EB4A22CB-3079-45A6-88B0-39B80D776557",
+							"ItemResponseOID": "D9F0961B-FFDE-4502-BCD2-1DBBAE243F7E",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "EB4A22CB-3079-45A6-88B0-39B80D776557",
+							"ItemResponseOID": "6C8E100B-FEC2-471B-A557-9131BD86DAE0",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "EB4A22CB-3079-45A6-88B0-39B80D776557",
+							"ItemResponseOID": "E1758495-F105-4F46-98B6-E54EA98625A5",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "EB4A22CB-3079-45A6-88B0-39B80D776557",
+							"ItemResponseOID": "8FFCE9B7-3D9E-493C-9CED-E39378B6AE47",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "EB4A22CB-3079-45A6-88B0-39B80D776557",
+							"ItemResponseOID": "A2A3C8E9-C94D-412A-A5F6-256BD437BD3E",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "E680D34F-869B-44C0-A0CF-AF804E6538E5",
+			"ID": "INF-CaPS3",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "C3DC2576-62D6-40CE-8795-350509C29549",
+					"Description": "I can turn to people who know how to solve problems like mine",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "E680D34F-869B-44C0-A0CF-AF804E6538E5",
+							"ItemResponseOID": "D2EDA723-D16F-49F1-B3E7-9C15748ACE49",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "E680D34F-869B-44C0-A0CF-AF804E6538E5",
+							"ItemResponseOID": "2FDAD0D4-0C24-4B43-83C2-02769829BE29",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "E680D34F-869B-44C0-A0CF-AF804E6538E5",
+							"ItemResponseOID": "51DAF899-052B-4CA2-817F-6414D2194505",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "E680D34F-869B-44C0-A0CF-AF804E6538E5",
+							"ItemResponseOID": "CD681404-3AFF-4749-AFE3-79B32DBDCDC1",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "E680D34F-869B-44C0-A0CF-AF804E6538E5",
+							"ItemResponseOID": "588543A5-8AF1-4526-BBB1-62C6EC699902",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "4DD0D5C3-2E01-47B3-8B78-238D63754E82",
+			"ID": "INF-CaPS1",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "0B805D25-7DCF-4178-97F0-83F4421E27DA",
+					"Description": "Other people help me get information when I have a problem",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "4DD0D5C3-2E01-47B3-8B78-238D63754E82",
+							"ItemResponseOID": "E07579C6-4ED4-4920-90C4-2CE171F70578",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "4DD0D5C3-2E01-47B3-8B78-238D63754E82",
+							"ItemResponseOID": "B61B81E5-60C5-4BAC-AB61-87A036D50303",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "4DD0D5C3-2E01-47B3-8B78-238D63754E82",
+							"ItemResponseOID": "043552B6-945E-424D-8B67-365E0313B713",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "4DD0D5C3-2E01-47B3-8B78-238D63754E82",
+							"ItemResponseOID": "137637EC-A1FF-4A75-9911-7A809D117464",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "4DD0D5C3-2E01-47B3-8B78-238D63754E82",
+							"ItemResponseOID": "53997DFA-B58E-4ED2-820F-D2E44D664DF1",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

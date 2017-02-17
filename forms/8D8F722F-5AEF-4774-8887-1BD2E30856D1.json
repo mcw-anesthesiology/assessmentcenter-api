@@ -1,1 +1,245 @@
-{"DateFinished":"","Items":[{"FormItemOID":"45537456-5D64-4EAE-B4DA-539E0CCDA6E8","ID":"SMKSOC01","Order":"1","ItemType":"","Elements":[{"ElementOID":"8ED047CD-AE6F-4FCD-86B2-9DD1FE0948F3","Description":"Smoking makes me feel better in social situations.","ElementOrder":"1"},{"ElementOID":"A09FF3D7-ABF2-4E8E-8A75-F424B051083B","Description":"ContainerForA09FF3D7-ABF2-4E8E-8A75-F424B051083B","ElementOrder":"2","Map":[{"ElementOID":"80768F68-ED59-4417-ABA1-9B076CFF362C","Description":"Not at all","FormItemOID":"45537456-5D64-4EAE-B4DA-539E0CCDA6E8","ItemResponseOID":"9698EB90-DCD0-495E-9953-FF33CA5F06D7", "Value":"1","Position":"1"},{"ElementOID":"C30F6CB6-6476-40E0-A04F-3EDD6206FEB0","Description":"A little bit","FormItemOID":"45537456-5D64-4EAE-B4DA-539E0CCDA6E8","ItemResponseOID":"06C50FA8-E378-405C-96EC-FCEF00EB5871", "Value":"2","Position":"2"},{"ElementOID":"FA25B1C8-1B16-4AFD-AF30-AB8A756AB058","Description":"Somewhat","FormItemOID":"45537456-5D64-4EAE-B4DA-539E0CCDA6E8","ItemResponseOID":"3F609125-D8AC-40EE-9F96-14873CF269D9", "Value":"3","Position":"3"},{"ElementOID":"6DF6A9CE-438F-49FB-B137-F92CAFB8A68B","Description":"Quite a bit","FormItemOID":"45537456-5D64-4EAE-B4DA-539E0CCDA6E8","ItemResponseOID":"D742D4A8-1E07-4922-AF45-B33DB4402A5E", "Value":"4","Position":"4"},{"ElementOID":"EE1C9C94-1219-4602-A510-6BB251186406","Description":"Very much","FormItemOID":"45537456-5D64-4EAE-B4DA-539E0CCDA6E8","ItemResponseOID":"D34F0D78-64FE-4BE7-8B30-52F23EC21628", "Value":"5","Position":"5"}]}]},{"FormItemOID":"BB9EFAB9-8665-4C28-9E08-E4911158CCA1","ID":"SMKSOC02","Order":"2","ItemType":"","Elements":[{"ElementOID":"084EA63A-C361-465C-9942-84B6DBEB32C3","Description":"Smoking helps me feel more relaxed when I'm with other people.","ElementOrder":"1"},{"ElementOID":"5F004C8C-CBEC-4F81-BDB2-5295EBBBD40C","Description":"ContainerFor5F004C8C-CBEC-4F81-BDB2-5295EBBBD40C","ElementOrder":"2","Map":[{"ElementOID":"74C54437-155C-478C-911F-37DB9883FA7F","Description":"Not at all","FormItemOID":"BB9EFAB9-8665-4C28-9E08-E4911158CCA1","ItemResponseOID":"2A9C4D26-D5DB-495B-934F-0342CA22079D", "Value":"1","Position":"1"},{"ElementOID":"AFE49415-6755-4A1D-8FE5-C35DFE62DAFB","Description":"A little bit","FormItemOID":"BB9EFAB9-8665-4C28-9E08-E4911158CCA1","ItemResponseOID":"CA152EAC-F26E-4922-A5B5-F4004A9F713E", "Value":"2","Position":"2"},{"ElementOID":"E4FDB0A9-2588-4EF9-A1C1-F3E182625781","Description":"Somewhat","FormItemOID":"BB9EFAB9-8665-4C28-9E08-E4911158CCA1","ItemResponseOID":"AA8AFC69-A0C7-4BEC-8467-EF8157E04ADB", "Value":"3","Position":"3"},{"ElementOID":"9F39E3B2-1268-4A4A-AFFB-8F62BAA796F4","Description":"Quite a bit","FormItemOID":"BB9EFAB9-8665-4C28-9E08-E4911158CCA1","ItemResponseOID":"FEBF2A06-D57F-494B-9E75-7174D5EF75E5", "Value":"4","Position":"4"},{"ElementOID":"93810C2E-1DB2-4D43-B16F-B8F66D8ED926","Description":"Very much","FormItemOID":"BB9EFAB9-8665-4C28-9E08-E4911158CCA1","ItemResponseOID":"0E4CCE77-3187-49EF-9BC8-5C052CBDC5AA", "Value":"5","Position":"5"}]}]},{"FormItemOID":"91BF73C8-104A-451E-83E2-81D8FA7F36E9","ID":"SMKSOC03","Order":"3","ItemType":"","Elements":[{"ElementOID":"DA73399F-0574-4B74-B459-C0488C57FB43","Description":"I feel like part of a group when I'm around other smokers.","ElementOrder":"1"},{"ElementOID":"6B89ED33-1668-42F4-9DFC-80A39788B591","Description":"ContainerFor6B89ED33-1668-42F4-9DFC-80A39788B591","ElementOrder":"2","Map":[{"ElementOID":"B05EF94E-0934-4FF5-9462-E3FFB9B24151","Description":"Not at all","FormItemOID":"91BF73C8-104A-451E-83E2-81D8FA7F36E9","ItemResponseOID":"A31D7D43-D862-48CD-8F9C-52DD41E5F4FC", "Value":"1","Position":"1"},{"ElementOID":"A47E6AEA-C65E-4960-AD00-838128C19AD1","Description":"A little bit","FormItemOID":"91BF73C8-104A-451E-83E2-81D8FA7F36E9","ItemResponseOID":"77751060-C10E-4B84-B481-0A6B9F0AD03A", "Value":"2","Position":"2"},{"ElementOID":"0E344C40-AB72-4535-A503-52BE7B1AE32A","Description":"Somewhat","FormItemOID":"91BF73C8-104A-451E-83E2-81D8FA7F36E9","ItemResponseOID":"3CE58452-4BB9-408B-94BD-E3ACC815D816", "Value":"3","Position":"3"},{"ElementOID":"E43E4405-03EA-4A4F-AAB7-19C1F9B3115A","Description":"Quite a bit","FormItemOID":"91BF73C8-104A-451E-83E2-81D8FA7F36E9","ItemResponseOID":"4137104C-20F9-4FBB-AEFB-1F25F613A6DE", "Value":"4","Position":"4"},{"ElementOID":"B7ACD3FD-8986-4DAB-9464-682F85A0D82A","Description":"Very much","FormItemOID":"91BF73C8-104A-451E-83E2-81D8FA7F36E9","ItemResponseOID":"96F82610-28E2-40FA-9752-AF164936758E", "Value":"5","Position":"5"}]}]},{"FormItemOID":"ACF45455-C675-4D59-887A-A58D91652E76","ID":"SMKSOC04","Order":"4","ItemType":"","Elements":[{"ElementOID":"3AF7ECAE-583B-436C-9B2A-764CD88A4996","Description":"I enjoy the social aspect of smoking with other smokers.","ElementOrder":"1"},{"ElementOID":"8DEBC8B6-1165-4FC0-AB17-38901079CD00","Description":"ContainerFor8DEBC8B6-1165-4FC0-AB17-38901079CD00","ElementOrder":"2","Map":[{"ElementOID":"2BEEC282-CCF2-4B21-AF54-C608C6C4D125","Description":"Not at all","FormItemOID":"ACF45455-C675-4D59-887A-A58D91652E76","ItemResponseOID":"CC309063-A179-4070-908B-CC4838D665E3", "Value":"1","Position":"1"},{"ElementOID":"5C17F27E-4E29-410B-BBF1-0EACC16EE9C5","Description":"A little bit","FormItemOID":"ACF45455-C675-4D59-887A-A58D91652E76","ItemResponseOID":"979B648E-8ACD-4151-8BAF-6DAA9B3150AC", "Value":"2","Position":"2"},{"ElementOID":"FD2F14BE-FE36-4CC3-B021-8739BE8126B6","Description":"Somewhat","FormItemOID":"ACF45455-C675-4D59-887A-A58D91652E76","ItemResponseOID":"EBED7C21-7998-4452-9925-BFE39F3D1DA4", "Value":"3","Position":"3"},{"ElementOID":"FB59825A-8170-4291-91F5-3F40CBFA0B36","Description":"Quite a bit","FormItemOID":"ACF45455-C675-4D59-887A-A58D91652E76","ItemResponseOID":"AB23ABC5-DAF3-49D6-B21F-629025754824", "Value":"4","Position":"4"},{"ElementOID":"C2177881-88A9-4D13-9B6C-594534780D79","Description":"Very much","FormItemOID":"ACF45455-C675-4D59-887A-A58D91652E76","ItemResponseOID":"384F0FF4-08F5-42F9-A8C7-1CA2BF49F1AF", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "45537456-5D64-4EAE-B4DA-539E0CCDA6E8",
+			"ID": "SMKSOC01",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8ED047CD-AE6F-4FCD-86B2-9DD1FE0948F3",
+					"Description": "Smoking makes me feel better in social situations.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "A09FF3D7-ABF2-4E8E-8A75-F424B051083B",
+					"Description": "ContainerForA09FF3D7-ABF2-4E8E-8A75-F424B051083B",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "80768F68-ED59-4417-ABA1-9B076CFF362C",
+							"Description": "Not at all",
+							"FormItemOID": "45537456-5D64-4EAE-B4DA-539E0CCDA6E8",
+							"ItemResponseOID": "9698EB90-DCD0-495E-9953-FF33CA5F06D7",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "C30F6CB6-6476-40E0-A04F-3EDD6206FEB0",
+							"Description": "A little bit",
+							"FormItemOID": "45537456-5D64-4EAE-B4DA-539E0CCDA6E8",
+							"ItemResponseOID": "06C50FA8-E378-405C-96EC-FCEF00EB5871",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "FA25B1C8-1B16-4AFD-AF30-AB8A756AB058",
+							"Description": "Somewhat",
+							"FormItemOID": "45537456-5D64-4EAE-B4DA-539E0CCDA6E8",
+							"ItemResponseOID": "3F609125-D8AC-40EE-9F96-14873CF269D9",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "6DF6A9CE-438F-49FB-B137-F92CAFB8A68B",
+							"Description": "Quite a bit",
+							"FormItemOID": "45537456-5D64-4EAE-B4DA-539E0CCDA6E8",
+							"ItemResponseOID": "D742D4A8-1E07-4922-AF45-B33DB4402A5E",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "EE1C9C94-1219-4602-A510-6BB251186406",
+							"Description": "Very much",
+							"FormItemOID": "45537456-5D64-4EAE-B4DA-539E0CCDA6E8",
+							"ItemResponseOID": "D34F0D78-64FE-4BE7-8B30-52F23EC21628",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "BB9EFAB9-8665-4C28-9E08-E4911158CCA1",
+			"ID": "SMKSOC02",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "084EA63A-C361-465C-9942-84B6DBEB32C3",
+					"Description": "Smoking helps me feel more relaxed when I'm with other people.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "5F004C8C-CBEC-4F81-BDB2-5295EBBBD40C",
+					"Description": "ContainerFor5F004C8C-CBEC-4F81-BDB2-5295EBBBD40C",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "74C54437-155C-478C-911F-37DB9883FA7F",
+							"Description": "Not at all",
+							"FormItemOID": "BB9EFAB9-8665-4C28-9E08-E4911158CCA1",
+							"ItemResponseOID": "2A9C4D26-D5DB-495B-934F-0342CA22079D",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFE49415-6755-4A1D-8FE5-C35DFE62DAFB",
+							"Description": "A little bit",
+							"FormItemOID": "BB9EFAB9-8665-4C28-9E08-E4911158CCA1",
+							"ItemResponseOID": "CA152EAC-F26E-4922-A5B5-F4004A9F713E",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "E4FDB0A9-2588-4EF9-A1C1-F3E182625781",
+							"Description": "Somewhat",
+							"FormItemOID": "BB9EFAB9-8665-4C28-9E08-E4911158CCA1",
+							"ItemResponseOID": "AA8AFC69-A0C7-4BEC-8467-EF8157E04ADB",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "9F39E3B2-1268-4A4A-AFFB-8F62BAA796F4",
+							"Description": "Quite a bit",
+							"FormItemOID": "BB9EFAB9-8665-4C28-9E08-E4911158CCA1",
+							"ItemResponseOID": "FEBF2A06-D57F-494B-9E75-7174D5EF75E5",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "93810C2E-1DB2-4D43-B16F-B8F66D8ED926",
+							"Description": "Very much",
+							"FormItemOID": "BB9EFAB9-8665-4C28-9E08-E4911158CCA1",
+							"ItemResponseOID": "0E4CCE77-3187-49EF-9BC8-5C052CBDC5AA",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "91BF73C8-104A-451E-83E2-81D8FA7F36E9",
+			"ID": "SMKSOC03",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "DA73399F-0574-4B74-B459-C0488C57FB43",
+					"Description": "I feel like part of a group when I'm around other smokers.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6B89ED33-1668-42F4-9DFC-80A39788B591",
+					"Description": "ContainerFor6B89ED33-1668-42F4-9DFC-80A39788B591",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "B05EF94E-0934-4FF5-9462-E3FFB9B24151",
+							"Description": "Not at all",
+							"FormItemOID": "91BF73C8-104A-451E-83E2-81D8FA7F36E9",
+							"ItemResponseOID": "A31D7D43-D862-48CD-8F9C-52DD41E5F4FC",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "A47E6AEA-C65E-4960-AD00-838128C19AD1",
+							"Description": "A little bit",
+							"FormItemOID": "91BF73C8-104A-451E-83E2-81D8FA7F36E9",
+							"ItemResponseOID": "77751060-C10E-4B84-B481-0A6B9F0AD03A",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "0E344C40-AB72-4535-A503-52BE7B1AE32A",
+							"Description": "Somewhat",
+							"FormItemOID": "91BF73C8-104A-451E-83E2-81D8FA7F36E9",
+							"ItemResponseOID": "3CE58452-4BB9-408B-94BD-E3ACC815D816",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "E43E4405-03EA-4A4F-AAB7-19C1F9B3115A",
+							"Description": "Quite a bit",
+							"FormItemOID": "91BF73C8-104A-451E-83E2-81D8FA7F36E9",
+							"ItemResponseOID": "4137104C-20F9-4FBB-AEFB-1F25F613A6DE",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "B7ACD3FD-8986-4DAB-9464-682F85A0D82A",
+							"Description": "Very much",
+							"FormItemOID": "91BF73C8-104A-451E-83E2-81D8FA7F36E9",
+							"ItemResponseOID": "96F82610-28E2-40FA-9752-AF164936758E",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "ACF45455-C675-4D59-887A-A58D91652E76",
+			"ID": "SMKSOC04",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "3AF7ECAE-583B-436C-9B2A-764CD88A4996",
+					"Description": "I enjoy the social aspect of smoking with other smokers.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8DEBC8B6-1165-4FC0-AB17-38901079CD00",
+					"Description": "ContainerFor8DEBC8B6-1165-4FC0-AB17-38901079CD00",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "2BEEC282-CCF2-4B21-AF54-C608C6C4D125",
+							"Description": "Not at all",
+							"FormItemOID": "ACF45455-C675-4D59-887A-A58D91652E76",
+							"ItemResponseOID": "CC309063-A179-4070-908B-CC4838D665E3",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "5C17F27E-4E29-410B-BBF1-0EACC16EE9C5",
+							"Description": "A little bit",
+							"FormItemOID": "ACF45455-C675-4D59-887A-A58D91652E76",
+							"ItemResponseOID": "979B648E-8ACD-4151-8BAF-6DAA9B3150AC",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "FD2F14BE-FE36-4CC3-B021-8739BE8126B6",
+							"Description": "Somewhat",
+							"FormItemOID": "ACF45455-C675-4D59-887A-A58D91652E76",
+							"ItemResponseOID": "EBED7C21-7998-4452-9925-BFE39F3D1DA4",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "FB59825A-8170-4291-91F5-3F40CBFA0B36",
+							"Description": "Quite a bit",
+							"FormItemOID": "ACF45455-C675-4D59-887A-A58D91652E76",
+							"ItemResponseOID": "AB23ABC5-DAF3-49D6-B21F-629025754824",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "C2177881-88A9-4D13-9B6C-594534780D79",
+							"Description": "Very much",
+							"FormItemOID": "ACF45455-C675-4D59-887A-A58D91652E76",
+							"ItemResponseOID": "384F0FF4-08F5-42F9-A8C7-1CA2BF49F1AF",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

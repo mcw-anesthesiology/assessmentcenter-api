@@ -1,1 +1,417 @@
-{"DateFinished":"","Items":[{"FormItemOID":"452E5DCE-8659-4153-96F6-C74CAE7F9092","ID":"DYSTEIntro","Order":"1","ItemType":"","Elements":[{"ElementOID":"AFCB4FAF-375C-49A7-B6BB-162F626E4742","Description":"Considering your shortness of breath <u>over the past 7 days</u>, rate the amount of time it has taken you to <u>complete</u> the following activities to your satisfaction.","ElementOrder":"1"}]},{"FormItemOID":"4B781E30-8461-4D7C-8177-196FE0BC46E7","ID":"DYSTE001","Order":"2","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"C54AC6EF-BA6C-4FD6-9F1A-B9BBBD8CF4DA","Description":"How much time did it take you to <u>use the toilet without help</u> compared to 3 months ago?","ElementOrder":"2"},{"ElementOID":"43FCB48C-ACCC-436F-A686-1C3132E96B5C","Description":"ContainerFor43FCB48C-ACCC-436F-A686-1C3132E96B5C","ElementOrder":"3","Map":[{"ElementOID":"6947F56E-898B-4B1F-8510-F6896FAB802B","Description":"Less time","FormItemOID":"4B781E30-8461-4D7C-8177-196FE0BC46E7","ItemResponseOID":"FB72E913-2BF8-420A-8064-4BA11A5BC141", "Value":"-1","Position":"1"},{"ElementOID":"968BAA2C-5D3A-421E-8BA2-303AFCA6CD0E","Description":"The same amount of time","FormItemOID":"4B781E30-8461-4D7C-8177-196FE0BC46E7","ItemResponseOID":"B1A1F713-4E25-46DE-9395-1C850657D709", "Value":"0","Position":"2"},{"ElementOID":"97015A1B-218B-437A-A2CB-E47B0CAF307E","Description":"More time","FormItemOID":"4B781E30-8461-4D7C-8177-196FE0BC46E7","ItemResponseOID":"1B597238-80F2-4945-9CED-39AA7220E99C", "Value":"1","Position":"3"},{"ElementOID":"2A2AF7E7-D281-426C-88EA-F8749456B564","Description":"Does not apply","FormItemOID":"4B781E30-8461-4D7C-8177-196FE0BC46E7","ItemResponseOID":"24B53323-F47C-4814-9F0D-8AFF8092BE9C", "Value":"0","Position":"4"}]}]},{"FormItemOID":"9E3E8C29-4DA5-4D77-B69B-AC3B773FB82B","ID":"DYSTE002","Order":"3","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"19347142-16EA-4679-A474-76037D5FEED5","Description":"How much time did it take you to <u>wash your face completely</u> compared to 3 months ago?","ElementOrder":"2"},{"ElementOID":"0010FAA1-5A18-4A00-B732-4747FA975781","Description":"ContainerFor0010FAA1-5A18-4A00-B732-4747FA975781","ElementOrder":"3","Map":[{"ElementOID":"5EB613FB-896D-4ED5-91B5-4E5F582DB4F5","Description":"Less time","FormItemOID":"9E3E8C29-4DA5-4D77-B69B-AC3B773FB82B","ItemResponseOID":"5930315D-107E-438E-BAF0-AAD8CAFF0E64", "Value":"-1","Position":"1"},{"ElementOID":"EBAE4B77-B320-4634-B224-31959E0AF37A","Description":"The same amount of time","FormItemOID":"9E3E8C29-4DA5-4D77-B69B-AC3B773FB82B","ItemResponseOID":"0E883E8E-A32E-4F3F-BDA9-B9A005EBE843", "Value":"0","Position":"2"},{"ElementOID":"198F3D80-AF21-4FFB-BEA0-D6313C70C75E","Description":"More time","FormItemOID":"9E3E8C29-4DA5-4D77-B69B-AC3B773FB82B","ItemResponseOID":"9ADAA7C5-A1C6-495B-BFB8-A9FBBDD79BD5", "Value":"1","Position":"3"},{"ElementOID":"D92FC746-08A8-4DDA-B76E-2A2A1C2DAFC8","Description":"Does not apply","FormItemOID":"9E3E8C29-4DA5-4D77-B69B-AC3B773FB82B","ItemResponseOID":"07F3387E-E6BC-4289-9434-B3B8460B0C45", "Value":"0","Position":"4"}]}]},{"FormItemOID":"F8B12811-BE9E-4DF5-9DCC-12BC50151FF3","ID":"DYSTE003","Order":"4","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"82947C78-969C-4532-A375-0FE42D586A36","Description":"How much time did it take you to <u>make your bed completely</u> compared to 3 months ago?","ElementOrder":"2"},{"ElementOID":"DA150C5D-E615-427D-BB27-DF2FD87F6DF8","Description":"ContainerForDA150C5D-E615-427D-BB27-DF2FD87F6DF8","ElementOrder":"3","Map":[{"ElementOID":"4549B645-6057-4423-9B14-CFB2A12C09BF","Description":"Less time","FormItemOID":"F8B12811-BE9E-4DF5-9DCC-12BC50151FF3","ItemResponseOID":"17A6D4BE-807B-4C4C-A03E-1AA91BBC35DA", "Value":"-1","Position":"1"},{"ElementOID":"56A5854C-9FA1-47D8-93F2-12DB92B9BD35","Description":"The same amount of time","FormItemOID":"F8B12811-BE9E-4DF5-9DCC-12BC50151FF3","ItemResponseOID":"88685255-2702-4641-B0F1-407C8C264CD5", "Value":"0","Position":"2"},{"ElementOID":"9B4002CB-CE8C-4201-8344-85A7CA80C31E","Description":"More time","FormItemOID":"F8B12811-BE9E-4DF5-9DCC-12BC50151FF3","ItemResponseOID":"A2171AF9-B9D3-4CDC-8885-4404AFC3DBD7", "Value":"1","Position":"3"},{"ElementOID":"12BF29B3-2E7A-4377-827C-F9DC9FFCAFDA","Description":"Does not apply","FormItemOID":"F8B12811-BE9E-4DF5-9DCC-12BC50151FF3","ItemResponseOID":"57214185-38E7-46AC-9A2D-33220C78B1E9", "Value":"0","Position":"4"}]}]},{"FormItemOID":"0940968F-F4CF-4107-9DB9-0E6863F7CF44","ID":"DYSTE004","Order":"5","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"D27B3CD8-62F6-4434-8F22-045DFC3D854A","Description":"How much time did it take you to <u>carry less than 5 lbs (about 2 kg)</u> compared to 3 months ago?","ElementOrder":"2"},{"ElementOID":"4137AFAD-DE65-454E-8D2C-91D3DB478BFD","Description":"ContainerFor4137AFAD-DE65-454E-8D2C-91D3DB478BFD","ElementOrder":"3","Map":[{"ElementOID":"6178805B-EEC9-4966-B079-8A9C1B2FE9D8","Description":"Less time","FormItemOID":"0940968F-F4CF-4107-9DB9-0E6863F7CF44","ItemResponseOID":"06E371C8-D312-4937-A537-149F5D30AEE7", "Value":"-1","Position":"1"},{"ElementOID":"E020D90E-D81A-4100-A136-26765CDEC15F","Description":"The same amount of time","FormItemOID":"0940968F-F4CF-4107-9DB9-0E6863F7CF44","ItemResponseOID":"4FC9AA6C-F2A3-4647-8EBA-7CCB4CACB8D4", "Value":"0","Position":"2"},{"ElementOID":"4D893E23-B9E9-4B43-9631-1123E99B5677","Description":"More time","FormItemOID":"0940968F-F4CF-4107-9DB9-0E6863F7CF44","ItemResponseOID":"8511BD6F-3D50-45A4-9B1F-70841888E703", "Value":"1","Position":"3"},{"ElementOID":"CA756BA0-50F5-48FE-AC4B-C167B8A5B4AC","Description":"Does not apply","FormItemOID":"0940968F-F4CF-4107-9DB9-0E6863F7CF44","ItemResponseOID":"E6896A80-4864-403D-8290-DD91BFC6E946", "Value":"0","Position":"4"}]}]},{"FormItemOID":"DF6A63DD-BF4B-4A25-9B1F-8C3D42ED0516","ID":"DYSTE005","Order":"6","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"E45245FF-54AA-4EE8-A439-95A1FBA2BC3F","Description":"How much time did it take you to <u>walk up 10 stairs (1 flight) without stopping</u> compared to 3 months ago?","ElementOrder":"2"},{"ElementOID":"F632CA2D-4924-42D3-9727-791237BCE21A","Description":"ContainerForF632CA2D-4924-42D3-9727-791237BCE21A","ElementOrder":"3","Map":[{"ElementOID":"E5495322-A2BB-48F8-A9AD-ADC408059EA2","Description":"Less time","FormItemOID":"DF6A63DD-BF4B-4A25-9B1F-8C3D42ED0516","ItemResponseOID":"39E03582-7A91-43C6-8597-8BB3AAE7F2A3", "Value":"-1","Position":"1"},{"ElementOID":"54099ED5-FC84-48EB-B569-2D847BCBA0A4","Description":"The same amount of time","FormItemOID":"DF6A63DD-BF4B-4A25-9B1F-8C3D42ED0516","ItemResponseOID":"F798AABA-4A28-45AA-9908-A285C1CA8226", "Value":"0","Position":"2"},{"ElementOID":"30F53DF7-B1CA-4AE1-AFF5-D5570FFE5097","Description":"More time","FormItemOID":"DF6A63DD-BF4B-4A25-9B1F-8C3D42ED0516","ItemResponseOID":"2912A19F-373A-410A-8F49-48F486A2D401", "Value":"1","Position":"3"},{"ElementOID":"BE4A4030-2FEB-43D1-B38A-5FC508E1AE81","Description":"Does not apply","FormItemOID":"DF6A63DD-BF4B-4A25-9B1F-8C3D42ED0516","ItemResponseOID":"69ED053E-FE04-49D9-9583-FC848C27A2E2", "Value":"0","Position":"4"}]}]},{"FormItemOID":"5E2A3339-286F-4C82-80B1-D91E96C79C37","ID":"DYSTE006","Order":"7","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"28FA004C-BF7D-49CF-83B6-49479E8C25E6","Description":"How much time did it take you to <u>carry something weighing 10-20 pounds (like a large bag of groceries) from one room to another</u> compared to 3 months ago?","ElementOrder":"2"},{"ElementOID":"15A48A2D-BBA4-4A5A-B2ED-BF3561C0BF4F","Description":"ContainerFor15A48A2D-BBA4-4A5A-B2ED-BF3561C0BF4F","ElementOrder":"3","Map":[{"ElementOID":"B17E8909-C619-4C2A-955D-B3DCFDEE6B59","Description":"Less time","FormItemOID":"5E2A3339-286F-4C82-80B1-D91E96C79C37","ItemResponseOID":"FFC920A6-C864-4E91-874C-62B171733F42", "Value":"-1","Position":"1"},{"ElementOID":"AF6E50F5-F7B8-40B0-BDB7-B633EA9069DB","Description":"The same amount of time","FormItemOID":"5E2A3339-286F-4C82-80B1-D91E96C79C37","ItemResponseOID":"7E7EC4DD-73C1-4776-BF08-BA8A30F1EEF4", "Value":"0","Position":"2"},{"ElementOID":"94C49D72-2BD9-45B7-9A9C-A8B812A197AF","Description":"More time","FormItemOID":"5E2A3339-286F-4C82-80B1-D91E96C79C37","ItemResponseOID":"DCF35684-12AE-4189-A2A7-70054A95B418", "Value":"1","Position":"3"},{"ElementOID":"C1264946-8E03-4473-B3A5-01E002FE37F6","Description":"Does not apply","FormItemOID":"5E2A3339-286F-4C82-80B1-D91E96C79C37","ItemResponseOID":"8A9C15F5-ACDF-4246-AD85-517D62165211", "Value":"0","Position":"4"}]}]},{"FormItemOID":"61457CBF-945F-4E23-A1F5-13AAF6EACC7C","ID":"DYSTE007","Order":"8","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"387554DB-1E16-4A2C-9BDD-D53D627C03DC","Description":"How much time has it taken you to do your usual activities in general, compared to 3 months ago?","ElementOrder":"2"},{"ElementOID":"EA61BBCC-A2DA-4021-80F8-C0F91BAD50B5","Description":"ContainerForEA61BBCC-A2DA-4021-80F8-C0F91BAD50B5","ElementOrder":"3","Map":[{"ElementOID":"14C52BAA-3874-4F2C-A600-6D7EDEBFBC22","Description":"Less time","FormItemOID":"61457CBF-945F-4E23-A1F5-13AAF6EACC7C","ItemResponseOID":"3B50CB59-BF86-40C4-9891-FAC67B6A1657", "Value":"-1","Position":"1"},{"ElementOID":"A8657234-9691-4120-8DC4-AE45B256E40D","Description":"The same amount of time","FormItemOID":"61457CBF-945F-4E23-A1F5-13AAF6EACC7C","ItemResponseOID":"36C38485-06A8-4DBF-A8AC-1A771F5B3FD4", "Value":"0","Position":"2"},{"ElementOID":"D75582AC-DCC4-43C1-8340-6A7E78570141","Description":"More time","FormItemOID":"61457CBF-945F-4E23-A1F5-13AAF6EACC7C","ItemResponseOID":"9B28165C-DFC5-4B69-8C68-16FDDE288E5F", "Value":"1","Position":"3"},{"ElementOID":"B1DD7C16-65A9-4F67-88FC-A22D98C76AEF","Description":"Does not apply","FormItemOID":"61457CBF-945F-4E23-A1F5-13AAF6EACC7C","ItemResponseOID":"6E1FF5B7-D738-4B57-955C-BE3BB49EDEC0", "Value":"0","Position":"4"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "452E5DCE-8659-4153-96F6-C74CAE7F9092",
+			"ID": "DYSTEIntro",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "AFCB4FAF-375C-49A7-B6BB-162F626E4742",
+					"Description": "Considering your shortness of breath <u>over the past 7 days</u>, rate the amount of time it has taken you to <u>complete</u> the following activities to your satisfaction.",
+					"ElementOrder": "1"
+				}
+			]
+		},
+		{
+			"FormItemOID": "4B781E30-8461-4D7C-8177-196FE0BC46E7",
+			"ID": "DYSTE001",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C54AC6EF-BA6C-4FD6-9F1A-B9BBBD8CF4DA",
+					"Description": "How much time did it take you to <u>use the toilet without help</u> compared to 3 months ago?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "43FCB48C-ACCC-436F-A686-1C3132E96B5C",
+					"Description": "ContainerFor43FCB48C-ACCC-436F-A686-1C3132E96B5C",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "6947F56E-898B-4B1F-8510-F6896FAB802B",
+							"Description": "Less time",
+							"FormItemOID": "4B781E30-8461-4D7C-8177-196FE0BC46E7",
+							"ItemResponseOID": "FB72E913-2BF8-420A-8064-4BA11A5BC141",
+							"Value": "-1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "968BAA2C-5D3A-421E-8BA2-303AFCA6CD0E",
+							"Description": "The same amount of time",
+							"FormItemOID": "4B781E30-8461-4D7C-8177-196FE0BC46E7",
+							"ItemResponseOID": "B1A1F713-4E25-46DE-9395-1C850657D709",
+							"Value": "0",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "97015A1B-218B-437A-A2CB-E47B0CAF307E",
+							"Description": "More time",
+							"FormItemOID": "4B781E30-8461-4D7C-8177-196FE0BC46E7",
+							"ItemResponseOID": "1B597238-80F2-4945-9CED-39AA7220E99C",
+							"Value": "1",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "2A2AF7E7-D281-426C-88EA-F8749456B564",
+							"Description": "Does not apply",
+							"FormItemOID": "4B781E30-8461-4D7C-8177-196FE0BC46E7",
+							"ItemResponseOID": "24B53323-F47C-4814-9F0D-8AFF8092BE9C",
+							"Value": "0",
+							"Position": "4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "9E3E8C29-4DA5-4D77-B69B-AC3B773FB82B",
+			"ID": "DYSTE002",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "19347142-16EA-4679-A474-76037D5FEED5",
+					"Description": "How much time did it take you to <u>wash your face completely</u> compared to 3 months ago?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "0010FAA1-5A18-4A00-B732-4747FA975781",
+					"Description": "ContainerFor0010FAA1-5A18-4A00-B732-4747FA975781",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "5EB613FB-896D-4ED5-91B5-4E5F582DB4F5",
+							"Description": "Less time",
+							"FormItemOID": "9E3E8C29-4DA5-4D77-B69B-AC3B773FB82B",
+							"ItemResponseOID": "5930315D-107E-438E-BAF0-AAD8CAFF0E64",
+							"Value": "-1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "EBAE4B77-B320-4634-B224-31959E0AF37A",
+							"Description": "The same amount of time",
+							"FormItemOID": "9E3E8C29-4DA5-4D77-B69B-AC3B773FB82B",
+							"ItemResponseOID": "0E883E8E-A32E-4F3F-BDA9-B9A005EBE843",
+							"Value": "0",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "198F3D80-AF21-4FFB-BEA0-D6313C70C75E",
+							"Description": "More time",
+							"FormItemOID": "9E3E8C29-4DA5-4D77-B69B-AC3B773FB82B",
+							"ItemResponseOID": "9ADAA7C5-A1C6-495B-BFB8-A9FBBDD79BD5",
+							"Value": "1",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "D92FC746-08A8-4DDA-B76E-2A2A1C2DAFC8",
+							"Description": "Does not apply",
+							"FormItemOID": "9E3E8C29-4DA5-4D77-B69B-AC3B773FB82B",
+							"ItemResponseOID": "07F3387E-E6BC-4289-9434-B3B8460B0C45",
+							"Value": "0",
+							"Position": "4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F8B12811-BE9E-4DF5-9DCC-12BC50151FF3",
+			"ID": "DYSTE003",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "82947C78-969C-4532-A375-0FE42D586A36",
+					"Description": "How much time did it take you to <u>make your bed completely</u> compared to 3 months ago?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "DA150C5D-E615-427D-BB27-DF2FD87F6DF8",
+					"Description": "ContainerForDA150C5D-E615-427D-BB27-DF2FD87F6DF8",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "4549B645-6057-4423-9B14-CFB2A12C09BF",
+							"Description": "Less time",
+							"FormItemOID": "F8B12811-BE9E-4DF5-9DCC-12BC50151FF3",
+							"ItemResponseOID": "17A6D4BE-807B-4C4C-A03E-1AA91BBC35DA",
+							"Value": "-1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "56A5854C-9FA1-47D8-93F2-12DB92B9BD35",
+							"Description": "The same amount of time",
+							"FormItemOID": "F8B12811-BE9E-4DF5-9DCC-12BC50151FF3",
+							"ItemResponseOID": "88685255-2702-4641-B0F1-407C8C264CD5",
+							"Value": "0",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "9B4002CB-CE8C-4201-8344-85A7CA80C31E",
+							"Description": "More time",
+							"FormItemOID": "F8B12811-BE9E-4DF5-9DCC-12BC50151FF3",
+							"ItemResponseOID": "A2171AF9-B9D3-4CDC-8885-4404AFC3DBD7",
+							"Value": "1",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "12BF29B3-2E7A-4377-827C-F9DC9FFCAFDA",
+							"Description": "Does not apply",
+							"FormItemOID": "F8B12811-BE9E-4DF5-9DCC-12BC50151FF3",
+							"ItemResponseOID": "57214185-38E7-46AC-9A2D-33220C78B1E9",
+							"Value": "0",
+							"Position": "4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "0940968F-F4CF-4107-9DB9-0E6863F7CF44",
+			"ID": "DYSTE004",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D27B3CD8-62F6-4434-8F22-045DFC3D854A",
+					"Description": "How much time did it take you to <u>carry less than 5 lbs (about 2 kg)</u> compared to 3 months ago?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "4137AFAD-DE65-454E-8D2C-91D3DB478BFD",
+					"Description": "ContainerFor4137AFAD-DE65-454E-8D2C-91D3DB478BFD",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "6178805B-EEC9-4966-B079-8A9C1B2FE9D8",
+							"Description": "Less time",
+							"FormItemOID": "0940968F-F4CF-4107-9DB9-0E6863F7CF44",
+							"ItemResponseOID": "06E371C8-D312-4937-A537-149F5D30AEE7",
+							"Value": "-1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "E020D90E-D81A-4100-A136-26765CDEC15F",
+							"Description": "The same amount of time",
+							"FormItemOID": "0940968F-F4CF-4107-9DB9-0E6863F7CF44",
+							"ItemResponseOID": "4FC9AA6C-F2A3-4647-8EBA-7CCB4CACB8D4",
+							"Value": "0",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4D893E23-B9E9-4B43-9631-1123E99B5677",
+							"Description": "More time",
+							"FormItemOID": "0940968F-F4CF-4107-9DB9-0E6863F7CF44",
+							"ItemResponseOID": "8511BD6F-3D50-45A4-9B1F-70841888E703",
+							"Value": "1",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CA756BA0-50F5-48FE-AC4B-C167B8A5B4AC",
+							"Description": "Does not apply",
+							"FormItemOID": "0940968F-F4CF-4107-9DB9-0E6863F7CF44",
+							"ItemResponseOID": "E6896A80-4864-403D-8290-DD91BFC6E946",
+							"Value": "0",
+							"Position": "4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "DF6A63DD-BF4B-4A25-9B1F-8C3D42ED0516",
+			"ID": "DYSTE005",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E45245FF-54AA-4EE8-A439-95A1FBA2BC3F",
+					"Description": "How much time did it take you to <u>walk up 10 stairs (1 flight) without stopping</u> compared to 3 months ago?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "F632CA2D-4924-42D3-9727-791237BCE21A",
+					"Description": "ContainerForF632CA2D-4924-42D3-9727-791237BCE21A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E5495322-A2BB-48F8-A9AD-ADC408059EA2",
+							"Description": "Less time",
+							"FormItemOID": "DF6A63DD-BF4B-4A25-9B1F-8C3D42ED0516",
+							"ItemResponseOID": "39E03582-7A91-43C6-8597-8BB3AAE7F2A3",
+							"Value": "-1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "54099ED5-FC84-48EB-B569-2D847BCBA0A4",
+							"Description": "The same amount of time",
+							"FormItemOID": "DF6A63DD-BF4B-4A25-9B1F-8C3D42ED0516",
+							"ItemResponseOID": "F798AABA-4A28-45AA-9908-A285C1CA8226",
+							"Value": "0",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "30F53DF7-B1CA-4AE1-AFF5-D5570FFE5097",
+							"Description": "More time",
+							"FormItemOID": "DF6A63DD-BF4B-4A25-9B1F-8C3D42ED0516",
+							"ItemResponseOID": "2912A19F-373A-410A-8F49-48F486A2D401",
+							"Value": "1",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "BE4A4030-2FEB-43D1-B38A-5FC508E1AE81",
+							"Description": "Does not apply",
+							"FormItemOID": "DF6A63DD-BF4B-4A25-9B1F-8C3D42ED0516",
+							"ItemResponseOID": "69ED053E-FE04-49D9-9583-FC848C27A2E2",
+							"Value": "0",
+							"Position": "4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "5E2A3339-286F-4C82-80B1-D91E96C79C37",
+			"ID": "DYSTE006",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "28FA004C-BF7D-49CF-83B6-49479E8C25E6",
+					"Description": "How much time did it take you to <u>carry something weighing 10-20 pounds (like a large bag of groceries) from one room to another</u> compared to 3 months ago?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "15A48A2D-BBA4-4A5A-B2ED-BF3561C0BF4F",
+					"Description": "ContainerFor15A48A2D-BBA4-4A5A-B2ED-BF3561C0BF4F",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "B17E8909-C619-4C2A-955D-B3DCFDEE6B59",
+							"Description": "Less time",
+							"FormItemOID": "5E2A3339-286F-4C82-80B1-D91E96C79C37",
+							"ItemResponseOID": "FFC920A6-C864-4E91-874C-62B171733F42",
+							"Value": "-1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AF6E50F5-F7B8-40B0-BDB7-B633EA9069DB",
+							"Description": "The same amount of time",
+							"FormItemOID": "5E2A3339-286F-4C82-80B1-D91E96C79C37",
+							"ItemResponseOID": "7E7EC4DD-73C1-4776-BF08-BA8A30F1EEF4",
+							"Value": "0",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "94C49D72-2BD9-45B7-9A9C-A8B812A197AF",
+							"Description": "More time",
+							"FormItemOID": "5E2A3339-286F-4C82-80B1-D91E96C79C37",
+							"ItemResponseOID": "DCF35684-12AE-4189-A2A7-70054A95B418",
+							"Value": "1",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "C1264946-8E03-4473-B3A5-01E002FE37F6",
+							"Description": "Does not apply",
+							"FormItemOID": "5E2A3339-286F-4C82-80B1-D91E96C79C37",
+							"ItemResponseOID": "8A9C15F5-ACDF-4246-AD85-517D62165211",
+							"Value": "0",
+							"Position": "4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "61457CBF-945F-4E23-A1F5-13AAF6EACC7C",
+			"ID": "DYSTE007",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "387554DB-1E16-4A2C-9BDD-D53D627C03DC",
+					"Description": "How much time has it taken you to do your usual activities in general, compared to 3 months ago?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "EA61BBCC-A2DA-4021-80F8-C0F91BAD50B5",
+					"Description": "ContainerForEA61BBCC-A2DA-4021-80F8-C0F91BAD50B5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "14C52BAA-3874-4F2C-A600-6D7EDEBFBC22",
+							"Description": "Less time",
+							"FormItemOID": "61457CBF-945F-4E23-A1F5-13AAF6EACC7C",
+							"ItemResponseOID": "3B50CB59-BF86-40C4-9891-FAC67B6A1657",
+							"Value": "-1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "A8657234-9691-4120-8DC4-AE45B256E40D",
+							"Description": "The same amount of time",
+							"FormItemOID": "61457CBF-945F-4E23-A1F5-13AAF6EACC7C",
+							"ItemResponseOID": "36C38485-06A8-4DBF-A8AC-1A771F5B3FD4",
+							"Value": "0",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "D75582AC-DCC4-43C1-8340-6A7E78570141",
+							"Description": "More time",
+							"FormItemOID": "61457CBF-945F-4E23-A1F5-13AAF6EACC7C",
+							"ItemResponseOID": "9B28165C-DFC5-4B69-8C68-16FDDE288E5F",
+							"Value": "1",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B1DD7C16-65A9-4F67-88FC-A22D98C76AEF",
+							"Description": "Does not apply",
+							"FormItemOID": "61457CBF-945F-4E23-A1F5-13AAF6EACC7C",
+							"ItemResponseOID": "6E1FF5B7-D738-4B57-955C-BE3BB49EDEC0",
+							"Value": "0",
+							"Position": "4"
+						}
+					]
+				}
+			]
+		}
+	]
+}

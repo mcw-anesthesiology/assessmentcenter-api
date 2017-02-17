@@ -1,1 +1,850 @@
-{"DateFinished":"","Items":[{"FormItemOID":"991D5C23-5722-43AF-AED6-D4671714982B","ID":"Pf1pain4","Order":"1","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"C43830DD-913C-4969-ADA2-2892C5F3623A","Description":"It was hard for my child to walk one block when he/she had pain.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"991D5C23-5722-43AF-AED6-D4671714982B","ItemResponseOID":"F8CEE68B-7456-478E-87A9-4E8F24F7E1D3", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"991D5C23-5722-43AF-AED6-D4671714982B","ItemResponseOID":"09B51EE6-7368-4CAB-98D0-4A22AB7981D4", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"991D5C23-5722-43AF-AED6-D4671714982B","ItemResponseOID":"BB4F663E-1880-4E3B-8806-03392450B3B0", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"991D5C23-5722-43AF-AED6-D4671714982B","ItemResponseOID":"E3126797-83D5-493B-9AD7-0B3481E3927F", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"991D5C23-5722-43AF-AED6-D4671714982B","ItemResponseOID":"F1E487A5-361A-499F-820A-4AFA5F29105A", "Value":"4","Position":"5"}]}]},{"FormItemOID":"C882E10D-6A0A-40E0-9B1F-C9D094D732CF","ID":"Pf2pain2","Order":"2","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"E95DE821-2F17-4AED-821F-2D14F427788C","Description":"My child had trouble doing schoolwork when he/she had pain.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"C882E10D-6A0A-40E0-9B1F-C9D094D732CF","ItemResponseOID":"C3DAB7DF-1A0B-4C33-A2C2-EF7A608E6FC8", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"C882E10D-6A0A-40E0-9B1F-C9D094D732CF","ItemResponseOID":"82911601-4A85-4172-A45B-B596FDFB5404", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"C882E10D-6A0A-40E0-9B1F-C9D094D732CF","ItemResponseOID":"E7CF7D5B-9154-4D22-A93C-C901510C2FDD", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"C882E10D-6A0A-40E0-9B1F-C9D094D732CF","ItemResponseOID":"905155E2-0779-46C7-9FB4-ADECBFAB70F1", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"C882E10D-6A0A-40E0-9B1F-C9D094D732CF","ItemResponseOID":"EA71E56A-1BC6-4E05-9B1C-4BA4215ECCA7", "Value":"4","Position":"5"}]}]},{"FormItemOID":"9A726CA4-80A4-49F8-AF01-3B7FF0349C62","ID":"Pf2pain4","Order":"3","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"AC8FDD9E-0B13-4524-9DB5-A051E2469D43","Description":"It was hard for my child to run when he/she had pain.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"9A726CA4-80A4-49F8-AF01-3B7FF0349C62","ItemResponseOID":"F784F572-5C8F-45AE-806E-AF8E43952C40", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"9A726CA4-80A4-49F8-AF01-3B7FF0349C62","ItemResponseOID":"1D37865A-D2B6-4900-8199-CF93726E253F", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"9A726CA4-80A4-49F8-AF01-3B7FF0349C62","ItemResponseOID":"C27D14AB-3468-4D88-A6A4-9E76426FF520", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"9A726CA4-80A4-49F8-AF01-3B7FF0349C62","ItemResponseOID":"72030990-315E-476C-9505-AD2A84AA686E", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"9A726CA4-80A4-49F8-AF01-3B7FF0349C62","ItemResponseOID":"371C1823-0DB2-460B-AA24-3646A72C75A9", "Value":"4","Position":"5"}]}]},{"FormItemOID":"4F3139BE-9A38-4749-A05D-93AC9484BA35","ID":"Pf2pain5","Order":"4","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"C001BB93-647A-4298-8673-DE88EF23A1ED","Description":"My child had trouble sleeping when he/she had pain.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"4F3139BE-9A38-4749-A05D-93AC9484BA35","ItemResponseOID":"548E65FA-1792-4E9C-8E98-3EB68FE4EF8C", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"4F3139BE-9A38-4749-A05D-93AC9484BA35","ItemResponseOID":"36A960BB-F15A-40CB-BC21-7F3423AE3226", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"4F3139BE-9A38-4749-A05D-93AC9484BA35","ItemResponseOID":"9A3D944A-DF58-4BD5-B809-CB6DDD34571B", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"4F3139BE-9A38-4749-A05D-93AC9484BA35","ItemResponseOID":"B99D547E-D5F2-44B1-BFC7-A8C527ADB5E2", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"4F3139BE-9A38-4749-A05D-93AC9484BA35","ItemResponseOID":"F79F955D-037F-4945-A051-5AA6DC3AB019", "Value":"4","Position":"5"}]}]},{"FormItemOID":"90594394-EC34-4B9A-8086-540042928067","ID":"Pf3pain2","Order":"5","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"CDFC53C4-72E9-4635-A6AE-5ACD5ACF11E6","Description":"It was hard for my child to pay attention when he/she had pain.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"90594394-EC34-4B9A-8086-540042928067","ItemResponseOID":"55B28BCB-AF08-48B5-8DD1-96512BF32B8E", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"90594394-EC34-4B9A-8086-540042928067","ItemResponseOID":"0A2D3C51-E9B4-4087-A0CC-53A9F7ED89E4", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"90594394-EC34-4B9A-8086-540042928067","ItemResponseOID":"24A6E471-7B37-4556-86AB-39BA11BE18F1", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"90594394-EC34-4B9A-8086-540042928067","ItemResponseOID":"ACC29BCD-64FB-47F1-8544-6A920E6119B7", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"90594394-EC34-4B9A-8086-540042928067","ItemResponseOID":"6B003D4D-2C83-4AC3-9DB9-47AF37178E98", "Value":"4","Position":"5"}]}]},{"FormItemOID":"9397876B-EA56-4444-9B37-53D6A1FC84DF","ID":"Pf3pain4","Order":"6","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"7F23F200-3AB1-4074-BED7-5C1E4C935881","Description":"It was hard for my child to have fun when he/she had pain.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"9397876B-EA56-4444-9B37-53D6A1FC84DF","ItemResponseOID":"89C34A7C-90E0-46A1-B82F-163BAB8A9BD7", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"9397876B-EA56-4444-9B37-53D6A1FC84DF","ItemResponseOID":"06E456B2-D6FC-41C1-8444-76F40C46CD57", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"9397876B-EA56-4444-9B37-53D6A1FC84DF","ItemResponseOID":"E601BBF4-DB11-484D-88B8-A132F3F5B5A5", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"9397876B-EA56-4444-9B37-53D6A1FC84DF","ItemResponseOID":"354B4B74-8BC3-4FAC-95C3-CF0D6F709974", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"9397876B-EA56-4444-9B37-53D6A1FC84DF","ItemResponseOID":"646A6E05-73DF-4E21-9B9B-3B63D55BF95D", "Value":"4","Position":"5"}]}]},{"FormItemOID":"306827AA-1887-4766-9F99-6912A8FEAE7C","ID":"Pf3pain6","Order":"7","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"CDD69170-84FC-441E-A0F6-84A9D0B6B6AD","Description":"My child hurt all over his/her body.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"306827AA-1887-4766-9F99-6912A8FEAE7C","ItemResponseOID":"715299EE-68E4-4642-ADB4-5B02782B45B7", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"306827AA-1887-4766-9F99-6912A8FEAE7C","ItemResponseOID":"CDEFC5AD-90FA-4F41-954E-068EE72B0021", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"306827AA-1887-4766-9F99-6912A8FEAE7C","ItemResponseOID":"9DDA71CA-7C90-4464-9FEC-7CAD0EA8AF83", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"306827AA-1887-4766-9F99-6912A8FEAE7C","ItemResponseOID":"D8A8BAE9-A496-460B-9201-35EC676A0D93", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"306827AA-1887-4766-9F99-6912A8FEAE7C","ItemResponseOID":"CC66E57F-FD8F-4C27-B719-C282C7BD3963", "Value":"4","Position":"5"}]}]},{"FormItemOID":"B7CF6B82-809E-4529-8198-070ADDE99BDE","ID":"Pf3pain7","Order":"8","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"361E3831-C970-4577-8BC7-F7B3AA524698","Description":"My child felt angry when he/she had pain.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"B7CF6B82-809E-4529-8198-070ADDE99BDE","ItemResponseOID":"E1590AB8-BFD9-400A-8116-2DA594CC29C6", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"B7CF6B82-809E-4529-8198-070ADDE99BDE","ItemResponseOID":"D4FE59B7-758F-4E59-8B14-3D525CAF8C4E", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"B7CF6B82-809E-4529-8198-070ADDE99BDE","ItemResponseOID":"522067DF-158E-4221-AD1C-9BEE17C81CAC", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"B7CF6B82-809E-4529-8198-070ADDE99BDE","ItemResponseOID":"85349117-00B9-4C9D-BA60-0A523C21DB22", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"B7CF6B82-809E-4529-8198-070ADDE99BDE","ItemResponseOID":"E9BCAAF3-C381-4CE2-814D-232D06B129C2", "Value":"4","Position":"5"}]}]},{"FormItemOID":"C44228B4-023A-48B3-9DBB-CF916CF08211","ID":"Pf4pain1","Order":"9","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"EC533E55-1055-42A0-8F45-7C19B069BA44","Description":"My child hurt a lot.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"C44228B4-023A-48B3-9DBB-CF916CF08211","ItemResponseOID":"00E207D1-622A-4FBA-81EF-399E7C1346C2", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"C44228B4-023A-48B3-9DBB-CF916CF08211","ItemResponseOID":"187A4EDF-A0B9-404D-90DB-A67704E6ABF0", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"C44228B4-023A-48B3-9DBB-CF916CF08211","ItemResponseOID":"CC556248-A9D8-47C3-A1CD-57F585B38E87", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"C44228B4-023A-48B3-9DBB-CF916CF08211","ItemResponseOID":"4622B1AC-AEA5-45EB-BA12-8F08CA417C16", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"C44228B4-023A-48B3-9DBB-CF916CF08211","ItemResponseOID":"B2DAA7AC-0ED2-4BD3-9428-FCF3FD563211", "Value":"4","Position":"5"}]}]},{"FormItemOID":"D6B05446-E3D8-4F41-9598-650FCFC780CF","ID":"Pf4pain2","Order":"10","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"F9B83765-733A-46B0-B118-F43F9396EEB0","Description":"It was hard for my child to remember things when he/she had pain.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"D6B05446-E3D8-4F41-9598-650FCFC780CF","ItemResponseOID":"7A0C03E0-8001-4A0E-B82C-3BDD83F23B0A", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"D6B05446-E3D8-4F41-9598-650FCFC780CF","ItemResponseOID":"C3BBD5C8-171B-4FC0-8333-A1294A259DC2", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"D6B05446-E3D8-4F41-9598-650FCFC780CF","ItemResponseOID":"6876F920-BDC9-4269-B35B-4FAA4D416A8B", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"D6B05446-E3D8-4F41-9598-650FCFC780CF","ItemResponseOID":"89831AA9-F66E-4318-BE11-818C9F649FF6", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"D6B05446-E3D8-4F41-9598-650FCFC780CF","ItemResponseOID":"35A84803-E08D-4463-B081-80FE4EB6F319", "Value":"4","Position":"5"}]}]},{"FormItemOID":"9BC103C8-DF77-4D75-A3BA-0145508ABA8B","ID":"Pf4pain4","Order":"11","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"B0BDC5BA-A255-419B-9038-DC2347D0DC44","Description":"It was hard for my child to get along with other people when he/she had pain.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"9BC103C8-DF77-4D75-A3BA-0145508ABA8B","ItemResponseOID":"B79701A8-9C89-4BA5-B2A9-174EBBE152FD", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"9BC103C8-DF77-4D75-A3BA-0145508ABA8B","ItemResponseOID":"F8F25190-07AA-4D89-96FE-FE4766CC6D8B", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"9BC103C8-DF77-4D75-A3BA-0145508ABA8B","ItemResponseOID":"AE3E4440-6F6E-494F-BC6B-2EC00C0F2AD0", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"9BC103C8-DF77-4D75-A3BA-0145508ABA8B","ItemResponseOID":"6D2F234F-D0A3-4154-8376-3A7D7DA3A2F7", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"9BC103C8-DF77-4D75-A3BA-0145508ABA8B","ItemResponseOID":"75F35F52-9AAF-47E4-BDE8-05C84905948E", "Value":"4","Position":"5"}]}]},{"FormItemOID":"D349E391-B6A9-4813-B9C8-EE02F21E9BFB","ID":"Pf4pain5","Order":"12","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"9C51D926-F303-4518-A06E-56D635EAA8E5","Description":"My child missed school when he/she had pain.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"D349E391-B6A9-4813-B9C8-EE02F21E9BFB","ItemResponseOID":"7FC12007-788C-45BA-8013-99F2002E0E39", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"D349E391-B6A9-4813-B9C8-EE02F21E9BFB","ItemResponseOID":"93F319E7-DDBD-415C-844A-5ACF1C571608", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"D349E391-B6A9-4813-B9C8-EE02F21E9BFB","ItemResponseOID":"F8B4CC47-EC66-4FB4-B1FB-3EF9B36C08BF", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"D349E391-B6A9-4813-B9C8-EE02F21E9BFB","ItemResponseOID":"E304D379-CE30-4674-A87D-F7A76AD7BD74", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"D349E391-B6A9-4813-B9C8-EE02F21E9BFB","ItemResponseOID":"5A059C37-BEF5-47DA-B2F2-E6F074453C31", "Value":"4","Position":"5"}]}]},{"FormItemOID":"46910984-42FD-4224-B169-F5FAE030A804","ID":"Pf4pain6","Order":"13","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"21785CCE-008C-493F-B83F-96B22427483F","Description":"It was hard for my child to stay standing when he/she had pain.","ElementOrder":"2"},{"ElementOID":"D5D4A813-B36A-4351-BA6D-140E0DB3245A","Description":"Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A","ElementOrder":"3","Map":[{"ElementOID":"C83A3CE2-AB40-438F-8CEF-8DC34FE44406","Description":"Never","FormItemOID":"46910984-42FD-4224-B169-F5FAE030A804","ItemResponseOID":"1F2E1B5D-F404-4A9C-B65D-7054E8144C96", "Value":"0","Position":"1"},{"ElementOID":"B6A191A1-3E69-462B-BCAF-045D2A0784E8","Description":"Almost Never","FormItemOID":"46910984-42FD-4224-B169-F5FAE030A804","ItemResponseOID":"0B7B1972-6CE0-461C-AB90-91CE3A299210", "Value":"1","Position":"2"},{"ElementOID":"65B3F893-FA31-4727-923D-DD7202355EDC","Description":"Sometimes","FormItemOID":"46910984-42FD-4224-B169-F5FAE030A804","ItemResponseOID":"1B996FA6-B41B-4019-BA95-B05153BE330B", "Value":"2","Position":"3"},{"ElementOID":"5199F046-C055-4738-8229-9C3422E3D4CB","Description":"Often","FormItemOID":"46910984-42FD-4224-B169-F5FAE030A804","ItemResponseOID":"FA09CA64-98A0-4DFD-A637-180DC1D56619", "Value":"3","Position":"4"},{"ElementOID":"0BF50EAD-97DA-46D5-907F-0C6883965EFA","Description":"Almost Always","FormItemOID":"46910984-42FD-4224-B169-F5FAE030A804","ItemResponseOID":"1C6733C8-FACC-47CE-82CC-B508BC72CD39", "Value":"4","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "991D5C23-5722-43AF-AED6-D4671714982B",
+			"ID": "Pf1pain4",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C43830DD-913C-4969-ADA2-2892C5F3623A",
+					"Description": "It was hard for my child to walk one block when he/she had pain.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "991D5C23-5722-43AF-AED6-D4671714982B",
+							"ItemResponseOID": "F8CEE68B-7456-478E-87A9-4E8F24F7E1D3",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "991D5C23-5722-43AF-AED6-D4671714982B",
+							"ItemResponseOID": "09B51EE6-7368-4CAB-98D0-4A22AB7981D4",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "991D5C23-5722-43AF-AED6-D4671714982B",
+							"ItemResponseOID": "BB4F663E-1880-4E3B-8806-03392450B3B0",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "991D5C23-5722-43AF-AED6-D4671714982B",
+							"ItemResponseOID": "E3126797-83D5-493B-9AD7-0B3481E3927F",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "991D5C23-5722-43AF-AED6-D4671714982B",
+							"ItemResponseOID": "F1E487A5-361A-499F-820A-4AFA5F29105A",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "C882E10D-6A0A-40E0-9B1F-C9D094D732CF",
+			"ID": "Pf2pain2",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E95DE821-2F17-4AED-821F-2D14F427788C",
+					"Description": "My child had trouble doing schoolwork when he/she had pain.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "C882E10D-6A0A-40E0-9B1F-C9D094D732CF",
+							"ItemResponseOID": "C3DAB7DF-1A0B-4C33-A2C2-EF7A608E6FC8",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "C882E10D-6A0A-40E0-9B1F-C9D094D732CF",
+							"ItemResponseOID": "82911601-4A85-4172-A45B-B596FDFB5404",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "C882E10D-6A0A-40E0-9B1F-C9D094D732CF",
+							"ItemResponseOID": "E7CF7D5B-9154-4D22-A93C-C901510C2FDD",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "C882E10D-6A0A-40E0-9B1F-C9D094D732CF",
+							"ItemResponseOID": "905155E2-0779-46C7-9FB4-ADECBFAB70F1",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "C882E10D-6A0A-40E0-9B1F-C9D094D732CF",
+							"ItemResponseOID": "EA71E56A-1BC6-4E05-9B1C-4BA4215ECCA7",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "9A726CA4-80A4-49F8-AF01-3B7FF0349C62",
+			"ID": "Pf2pain4",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "AC8FDD9E-0B13-4524-9DB5-A051E2469D43",
+					"Description": "It was hard for my child to run when he/she had pain.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "9A726CA4-80A4-49F8-AF01-3B7FF0349C62",
+							"ItemResponseOID": "F784F572-5C8F-45AE-806E-AF8E43952C40",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "9A726CA4-80A4-49F8-AF01-3B7FF0349C62",
+							"ItemResponseOID": "1D37865A-D2B6-4900-8199-CF93726E253F",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "9A726CA4-80A4-49F8-AF01-3B7FF0349C62",
+							"ItemResponseOID": "C27D14AB-3468-4D88-A6A4-9E76426FF520",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "9A726CA4-80A4-49F8-AF01-3B7FF0349C62",
+							"ItemResponseOID": "72030990-315E-476C-9505-AD2A84AA686E",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "9A726CA4-80A4-49F8-AF01-3B7FF0349C62",
+							"ItemResponseOID": "371C1823-0DB2-460B-AA24-3646A72C75A9",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "4F3139BE-9A38-4749-A05D-93AC9484BA35",
+			"ID": "Pf2pain5",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C001BB93-647A-4298-8673-DE88EF23A1ED",
+					"Description": "My child had trouble sleeping when he/she had pain.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "4F3139BE-9A38-4749-A05D-93AC9484BA35",
+							"ItemResponseOID": "548E65FA-1792-4E9C-8E98-3EB68FE4EF8C",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "4F3139BE-9A38-4749-A05D-93AC9484BA35",
+							"ItemResponseOID": "36A960BB-F15A-40CB-BC21-7F3423AE3226",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "4F3139BE-9A38-4749-A05D-93AC9484BA35",
+							"ItemResponseOID": "9A3D944A-DF58-4BD5-B809-CB6DDD34571B",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "4F3139BE-9A38-4749-A05D-93AC9484BA35",
+							"ItemResponseOID": "B99D547E-D5F2-44B1-BFC7-A8C527ADB5E2",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "4F3139BE-9A38-4749-A05D-93AC9484BA35",
+							"ItemResponseOID": "F79F955D-037F-4945-A051-5AA6DC3AB019",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "90594394-EC34-4B9A-8086-540042928067",
+			"ID": "Pf3pain2",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "CDFC53C4-72E9-4635-A6AE-5ACD5ACF11E6",
+					"Description": "It was hard for my child to pay attention when he/she had pain.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "90594394-EC34-4B9A-8086-540042928067",
+							"ItemResponseOID": "55B28BCB-AF08-48B5-8DD1-96512BF32B8E",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "90594394-EC34-4B9A-8086-540042928067",
+							"ItemResponseOID": "0A2D3C51-E9B4-4087-A0CC-53A9F7ED89E4",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "90594394-EC34-4B9A-8086-540042928067",
+							"ItemResponseOID": "24A6E471-7B37-4556-86AB-39BA11BE18F1",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "90594394-EC34-4B9A-8086-540042928067",
+							"ItemResponseOID": "ACC29BCD-64FB-47F1-8544-6A920E6119B7",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "90594394-EC34-4B9A-8086-540042928067",
+							"ItemResponseOID": "6B003D4D-2C83-4AC3-9DB9-47AF37178E98",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "9397876B-EA56-4444-9B37-53D6A1FC84DF",
+			"ID": "Pf3pain4",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7F23F200-3AB1-4074-BED7-5C1E4C935881",
+					"Description": "It was hard for my child to have fun when he/she had pain.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "9397876B-EA56-4444-9B37-53D6A1FC84DF",
+							"ItemResponseOID": "89C34A7C-90E0-46A1-B82F-163BAB8A9BD7",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "9397876B-EA56-4444-9B37-53D6A1FC84DF",
+							"ItemResponseOID": "06E456B2-D6FC-41C1-8444-76F40C46CD57",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "9397876B-EA56-4444-9B37-53D6A1FC84DF",
+							"ItemResponseOID": "E601BBF4-DB11-484D-88B8-A132F3F5B5A5",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "9397876B-EA56-4444-9B37-53D6A1FC84DF",
+							"ItemResponseOID": "354B4B74-8BC3-4FAC-95C3-CF0D6F709974",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "9397876B-EA56-4444-9B37-53D6A1FC84DF",
+							"ItemResponseOID": "646A6E05-73DF-4E21-9B9B-3B63D55BF95D",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "306827AA-1887-4766-9F99-6912A8FEAE7C",
+			"ID": "Pf3pain6",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "CDD69170-84FC-441E-A0F6-84A9D0B6B6AD",
+					"Description": "My child hurt all over his/her body.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "306827AA-1887-4766-9F99-6912A8FEAE7C",
+							"ItemResponseOID": "715299EE-68E4-4642-ADB4-5B02782B45B7",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "306827AA-1887-4766-9F99-6912A8FEAE7C",
+							"ItemResponseOID": "CDEFC5AD-90FA-4F41-954E-068EE72B0021",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "306827AA-1887-4766-9F99-6912A8FEAE7C",
+							"ItemResponseOID": "9DDA71CA-7C90-4464-9FEC-7CAD0EA8AF83",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "306827AA-1887-4766-9F99-6912A8FEAE7C",
+							"ItemResponseOID": "D8A8BAE9-A496-460B-9201-35EC676A0D93",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "306827AA-1887-4766-9F99-6912A8FEAE7C",
+							"ItemResponseOID": "CC66E57F-FD8F-4C27-B719-C282C7BD3963",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "B7CF6B82-809E-4529-8198-070ADDE99BDE",
+			"ID": "Pf3pain7",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "361E3831-C970-4577-8BC7-F7B3AA524698",
+					"Description": "My child felt angry when he/she had pain.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "B7CF6B82-809E-4529-8198-070ADDE99BDE",
+							"ItemResponseOID": "E1590AB8-BFD9-400A-8116-2DA594CC29C6",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "B7CF6B82-809E-4529-8198-070ADDE99BDE",
+							"ItemResponseOID": "D4FE59B7-758F-4E59-8B14-3D525CAF8C4E",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "B7CF6B82-809E-4529-8198-070ADDE99BDE",
+							"ItemResponseOID": "522067DF-158E-4221-AD1C-9BEE17C81CAC",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "B7CF6B82-809E-4529-8198-070ADDE99BDE",
+							"ItemResponseOID": "85349117-00B9-4C9D-BA60-0A523C21DB22",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "B7CF6B82-809E-4529-8198-070ADDE99BDE",
+							"ItemResponseOID": "E9BCAAF3-C381-4CE2-814D-232D06B129C2",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "C44228B4-023A-48B3-9DBB-CF916CF08211",
+			"ID": "Pf4pain1",
+			"Order": "9",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "EC533E55-1055-42A0-8F45-7C19B069BA44",
+					"Description": "My child hurt a lot.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "C44228B4-023A-48B3-9DBB-CF916CF08211",
+							"ItemResponseOID": "00E207D1-622A-4FBA-81EF-399E7C1346C2",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "C44228B4-023A-48B3-9DBB-CF916CF08211",
+							"ItemResponseOID": "187A4EDF-A0B9-404D-90DB-A67704E6ABF0",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "C44228B4-023A-48B3-9DBB-CF916CF08211",
+							"ItemResponseOID": "CC556248-A9D8-47C3-A1CD-57F585B38E87",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "C44228B4-023A-48B3-9DBB-CF916CF08211",
+							"ItemResponseOID": "4622B1AC-AEA5-45EB-BA12-8F08CA417C16",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "C44228B4-023A-48B3-9DBB-CF916CF08211",
+							"ItemResponseOID": "B2DAA7AC-0ED2-4BD3-9428-FCF3FD563211",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "D6B05446-E3D8-4F41-9598-650FCFC780CF",
+			"ID": "Pf4pain2",
+			"Order": "10",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "F9B83765-733A-46B0-B118-F43F9396EEB0",
+					"Description": "It was hard for my child to remember things when he/she had pain.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "D6B05446-E3D8-4F41-9598-650FCFC780CF",
+							"ItemResponseOID": "7A0C03E0-8001-4A0E-B82C-3BDD83F23B0A",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "D6B05446-E3D8-4F41-9598-650FCFC780CF",
+							"ItemResponseOID": "C3BBD5C8-171B-4FC0-8333-A1294A259DC2",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "D6B05446-E3D8-4F41-9598-650FCFC780CF",
+							"ItemResponseOID": "6876F920-BDC9-4269-B35B-4FAA4D416A8B",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "D6B05446-E3D8-4F41-9598-650FCFC780CF",
+							"ItemResponseOID": "89831AA9-F66E-4318-BE11-818C9F649FF6",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "D6B05446-E3D8-4F41-9598-650FCFC780CF",
+							"ItemResponseOID": "35A84803-E08D-4463-B081-80FE4EB6F319",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "9BC103C8-DF77-4D75-A3BA-0145508ABA8B",
+			"ID": "Pf4pain4",
+			"Order": "11",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "B0BDC5BA-A255-419B-9038-DC2347D0DC44",
+					"Description": "It was hard for my child to get along with other people when he/she had pain.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "9BC103C8-DF77-4D75-A3BA-0145508ABA8B",
+							"ItemResponseOID": "B79701A8-9C89-4BA5-B2A9-174EBBE152FD",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "9BC103C8-DF77-4D75-A3BA-0145508ABA8B",
+							"ItemResponseOID": "F8F25190-07AA-4D89-96FE-FE4766CC6D8B",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "9BC103C8-DF77-4D75-A3BA-0145508ABA8B",
+							"ItemResponseOID": "AE3E4440-6F6E-494F-BC6B-2EC00C0F2AD0",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "9BC103C8-DF77-4D75-A3BA-0145508ABA8B",
+							"ItemResponseOID": "6D2F234F-D0A3-4154-8376-3A7D7DA3A2F7",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "9BC103C8-DF77-4D75-A3BA-0145508ABA8B",
+							"ItemResponseOID": "75F35F52-9AAF-47E4-BDE8-05C84905948E",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "D349E391-B6A9-4813-B9C8-EE02F21E9BFB",
+			"ID": "Pf4pain5",
+			"Order": "12",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "9C51D926-F303-4518-A06E-56D635EAA8E5",
+					"Description": "My child missed school when he/she had pain.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "D349E391-B6A9-4813-B9C8-EE02F21E9BFB",
+							"ItemResponseOID": "7FC12007-788C-45BA-8013-99F2002E0E39",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "D349E391-B6A9-4813-B9C8-EE02F21E9BFB",
+							"ItemResponseOID": "93F319E7-DDBD-415C-844A-5ACF1C571608",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "D349E391-B6A9-4813-B9C8-EE02F21E9BFB",
+							"ItemResponseOID": "F8B4CC47-EC66-4FB4-B1FB-3EF9B36C08BF",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "D349E391-B6A9-4813-B9C8-EE02F21E9BFB",
+							"ItemResponseOID": "E304D379-CE30-4674-A87D-F7A76AD7BD74",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "D349E391-B6A9-4813-B9C8-EE02F21E9BFB",
+							"ItemResponseOID": "5A059C37-BEF5-47DA-B2F2-E6F074453C31",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "46910984-42FD-4224-B169-F5FAE030A804",
+			"ID": "Pf4pain6",
+			"Order": "13",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "21785CCE-008C-493F-B83F-96B22427483F",
+					"Description": "It was hard for my child to stay standing when he/she had pain.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"Description": "Container: D5D4A813-B36A-4351-BA6D-140E0DB3245A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C83A3CE2-AB40-438F-8CEF-8DC34FE44406",
+							"Description": "Never",
+							"FormItemOID": "46910984-42FD-4224-B169-F5FAE030A804",
+							"ItemResponseOID": "1F2E1B5D-F404-4A9C-B65D-7054E8144C96",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B6A191A1-3E69-462B-BCAF-045D2A0784E8",
+							"Description": "Almost Never",
+							"FormItemOID": "46910984-42FD-4224-B169-F5FAE030A804",
+							"ItemResponseOID": "0B7B1972-6CE0-461C-AB90-91CE3A299210",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "65B3F893-FA31-4727-923D-DD7202355EDC",
+							"Description": "Sometimes",
+							"FormItemOID": "46910984-42FD-4224-B169-F5FAE030A804",
+							"ItemResponseOID": "1B996FA6-B41B-4019-BA95-B05153BE330B",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5199F046-C055-4738-8229-9C3422E3D4CB",
+							"Description": "Often",
+							"FormItemOID": "46910984-42FD-4224-B169-F5FAE030A804",
+							"ItemResponseOID": "FA09CA64-98A0-4DFD-A637-180DC1D56619",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0BF50EAD-97DA-46D5-907F-0C6883965EFA",
+							"Description": "Almost Always",
+							"FormItemOID": "46910984-42FD-4224-B169-F5FAE030A804",
+							"ItemResponseOID": "1C6733C8-FACC-47CE-82CC-B508BC72CD39",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,1 +1,655 @@
-{"DateFinished":"","Items":[{"FormItemOID":"0CCB9053-7077-4E81-B5CA-6BF08B8808FB","ID":"DYSSV001","Order":"1","ItemType":"","Elements":[{"ElementOID":"15F49FF0-8FDA-4774-BA0B-224AD04E90EA","Description":"<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?","ElementOrder":"1"},{"ElementOID":"C5009BC5-97B5-451D-A9A8-6333F4911E89","Description":"Dressing yourself without help","ElementOrder":"2"},{"ElementOID":"8EFD7D1B-2A75-4AA8-B096-E7D0087AA456","Description":"ContainerFor8EFD7D1B-2A75-4AA8-B096-E7D0087AA456","ElementOrder":"3","Map":[{"ElementOID":"3AE8187E-984D-4A9B-894B-2E3EB4C9A36A","Description":"No shortness of breath","FormItemOID":"0CCB9053-7077-4E81-B5CA-6BF08B8808FB","ItemResponseOID":"6CC60C9E-2023-42CB-91A2-A1EA37A2CBC9", "Value":"0","Position":"1"},{"ElementOID":"AC4BD081-9E0D-4213-AD93-CF822DCC9343","Description":"Mildly short of breath","FormItemOID":"0CCB9053-7077-4E81-B5CA-6BF08B8808FB","ItemResponseOID":"29B04F4D-7FBE-438F-8118-E273B5CE5812", "Value":"1","Position":"2"},{"ElementOID":"84DCE62E-A674-421C-80BD-A302DAF896FE","Description":"Moderately short of breath","FormItemOID":"0CCB9053-7077-4E81-B5CA-6BF08B8808FB","ItemResponseOID":"74345FC9-DB27-447E-8742-8771043F5D2E", "Value":"2","Position":"3"},{"ElementOID":"91FFCABA-7955-4C88-A62B-D86BFF5A7BA3","Description":"Severely short of breath","FormItemOID":"0CCB9053-7077-4E81-B5CA-6BF08B8808FB","ItemResponseOID":"EBDBA5F4-03EF-4FF6-BFB0-280037FD139E", "Value":"3","Position":"4"},{"ElementOID":"CE81FFA0-EDB3-4688-9644-F04B7A288640","Description":"I did not do this in the past 7 days","FormItemOID":"0CCB9053-7077-4E81-B5CA-6BF08B8808FB","ItemResponseOID":"C677181E-E908-426D-B802-F8CB49FE0BDE", "Value":"00000000-0000-0000-0000-000000000000","Position":"5"}]}]},{"FormItemOID":"E2559500-714B-49CA-A9C5-EC18781DE4CC","ID":"DYSSV002","Order":"2","ItemType":"","Elements":[{"ElementOID":"15F49FF0-8FDA-4774-BA0B-224AD04E90EA","Description":"<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?","ElementOrder":"1"},{"ElementOID":"6CCFF66D-DA17-401F-A538-C2FCC896F924","Description":"Walking 50 steps/paces on flat ground at a normal speed without stopping","ElementOrder":"2"},{"ElementOID":"AC5A0C30-11A8-49F6-B4A0-65835CE0258D","Description":"ContainerForAC5A0C30-11A8-49F6-B4A0-65835CE0258D","ElementOrder":"3","Map":[{"ElementOID":"86D87124-3EF3-4ABD-AA8C-D35E42A1472B","Description":"No shortness of breath","FormItemOID":"E2559500-714B-49CA-A9C5-EC18781DE4CC","ItemResponseOID":"C6C9040A-40D1-44E1-AF2F-072BF216B711", "Value":"0","Position":"1"},{"ElementOID":"D8619142-4538-48AC-9DA4-AE4B3DA77A95","Description":"Mildly short of breath","FormItemOID":"E2559500-714B-49CA-A9C5-EC18781DE4CC","ItemResponseOID":"9DE32438-D5EC-4264-83F1-BD1EA21D2085", "Value":"1","Position":"2"},{"ElementOID":"FF295F55-DF2B-4F12-95C7-073FA37CA5E5","Description":"Moderately short of breath","FormItemOID":"E2559500-714B-49CA-A9C5-EC18781DE4CC","ItemResponseOID":"BD0380C5-C09E-4E22-BC1E-0C61CB0AAC25", "Value":"2","Position":"3"},{"ElementOID":"70BC3874-AC21-4856-AC90-D0EC85E0F3C5","Description":"Severely short of breath","FormItemOID":"E2559500-714B-49CA-A9C5-EC18781DE4CC","ItemResponseOID":"0E3D2B82-900F-4682-B27E-1E340E5F038C", "Value":"3","Position":"4"},{"ElementOID":"177A48F9-69A0-4F0D-8739-26068FB5865C","Description":"I did not do this in the past 7 days","FormItemOID":"E2559500-714B-49CA-A9C5-EC18781DE4CC","ItemResponseOID":"426F514C-00CF-4CEF-A109-2B760B604F26", "Value":"00000000-0000-0000-0000-000000000000","Position":"5"}]}]},{"FormItemOID":"9A36E5DB-9044-46CD-B20E-A0C4693B0F9E","ID":"DYSSV003","Order":"3","ItemType":"","Elements":[{"ElementOID":"15F49FF0-8FDA-4774-BA0B-224AD04E90EA","Description":"<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?","ElementOrder":"1"},{"ElementOID":"46F7B5EF-0358-4C9C-8923-7B78C447E80E","Description":"Walking up 20 stairs (2 flights) without stopping","ElementOrder":"2"},{"ElementOID":"C57309D9-8A31-46DC-99EB-8BA9FFCDB934","Description":"ContainerForC57309D9-8A31-46DC-99EB-8BA9FFCDB934","ElementOrder":"3","Map":[{"ElementOID":"62DD430D-A106-4E70-8C1A-E5247F412999","Description":"No shortness of breath","FormItemOID":"9A36E5DB-9044-46CD-B20E-A0C4693B0F9E","ItemResponseOID":"1944C2EB-5E94-4421-90AA-58F7CF91B2A2", "Value":"0","Position":"1"},{"ElementOID":"D0723841-2BC7-49C2-8010-EBC7BB549220","Description":"Mildly short of breath","FormItemOID":"9A36E5DB-9044-46CD-B20E-A0C4693B0F9E","ItemResponseOID":"53682DB6-B118-4A64-84F3-72B96A2E80F3", "Value":"1","Position":"2"},{"ElementOID":"54EECF4B-867C-4CDA-BD2E-626D2D7902D5","Description":"Moderately short of breath","FormItemOID":"9A36E5DB-9044-46CD-B20E-A0C4693B0F9E","ItemResponseOID":"E610E5EA-A498-42DF-A08F-DB49C966A075", "Value":"2","Position":"3"},{"ElementOID":"47C2F604-C294-4992-8E78-74AD1E887B53","Description":"Severely short of breath","FormItemOID":"9A36E5DB-9044-46CD-B20E-A0C4693B0F9E","ItemResponseOID":"6987F54C-2AA9-40BB-891C-B768CD0BE80E", "Value":"3","Position":"4"},{"ElementOID":"573F42AE-81B2-48DD-8E9C-AC95D5E4AB8B","Description":"I did not do this in the past 7 days","FormItemOID":"9A36E5DB-9044-46CD-B20E-A0C4693B0F9E","ItemResponseOID":"D0635DDA-E10C-4591-B644-4DB5E998638D", "Value":"00000000-0000-0000-0000-000000000000","Position":"5"}]}]},{"FormItemOID":"7DA76CDF-3190-4851-A639-FE8B79E5A2BC","ID":"DYSSV004","Order":"4","ItemType":"","Elements":[{"ElementOID":"15F49FF0-8FDA-4774-BA0B-224AD04E90EA","Description":"<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?","ElementOrder":"1"},{"ElementOID":"BEDAE5B4-1936-490B-A66D-1076B2F69C4E","Description":"Preparing meals","ElementOrder":"2"},{"ElementOID":"ADAD5BC6-309C-4932-9B23-5008FFEAD6A5","Description":"ContainerForADAD5BC6-309C-4932-9B23-5008FFEAD6A5","ElementOrder":"3","Map":[{"ElementOID":"2BA817F4-F4FB-4490-9388-E994ECBE5C33","Description":"No shortness of breath","FormItemOID":"7DA76CDF-3190-4851-A639-FE8B79E5A2BC","ItemResponseOID":"636E1359-9CB6-4D74-A255-81ADF35F4441", "Value":"0","Position":"1"},{"ElementOID":"7688C84B-E906-4BC2-B49E-43C2003DA301","Description":"Mildly short of breath","FormItemOID":"7DA76CDF-3190-4851-A639-FE8B79E5A2BC","ItemResponseOID":"B1E89CA9-A9C4-40E8-B25C-ABD3CCCB369A", "Value":"1","Position":"2"},{"ElementOID":"BB754A73-4723-4167-A22A-2458363CE5CD","Description":"Moderately short of breath","FormItemOID":"7DA76CDF-3190-4851-A639-FE8B79E5A2BC","ItemResponseOID":"4BB6EE86-8466-4649-8A48-EB5F8DFC07AF", "Value":"2","Position":"3"},{"ElementOID":"880DF36E-A56E-46C9-811B-59CDADE2C583","Description":"Severely short of breath","FormItemOID":"7DA76CDF-3190-4851-A639-FE8B79E5A2BC","ItemResponseOID":"5A62F8DE-2B4D-40A2-9A71-3C0F4568F89E", "Value":"3","Position":"4"},{"ElementOID":"F444E206-9A24-47E8-A8E8-DC521D362E2F","Description":"I did not do this in the past 7 days","FormItemOID":"7DA76CDF-3190-4851-A639-FE8B79E5A2BC","ItemResponseOID":"2A3E2BFB-DA9A-4CF4-9289-6BBA3DAE61AE", "Value":"00000000-0000-0000-0000-000000000000","Position":"5"}]}]},{"FormItemOID":"392F08BD-634B-4E98-B9E9-BDA047778C49","ID":"DYSSV005","Order":"5","ItemType":"","Elements":[{"ElementOID":"15F49FF0-8FDA-4774-BA0B-224AD04E90EA","Description":"<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?","ElementOrder":"1"},{"ElementOID":"D9D22B66-25D9-4D12-906C-9B897D25E50D","Description":"Washing dishes","ElementOrder":"2"},{"ElementOID":"B93A4A84-E9A0-456D-A92C-62607440C5E9","Description":"ContainerForB93A4A84-E9A0-456D-A92C-62607440C5E9","ElementOrder":"3","Map":[{"ElementOID":"5FCE1595-2AD3-4FEE-99FF-21D31784E78E","Description":"No shortness of breath","FormItemOID":"392F08BD-634B-4E98-B9E9-BDA047778C49","ItemResponseOID":"4617D6E8-3A8B-4C71-ACD6-4D796461ED5F", "Value":"0","Position":"1"},{"ElementOID":"6E355A89-30E8-467C-943A-A3C7399C23EC","Description":"Mildly short of breath","FormItemOID":"392F08BD-634B-4E98-B9E9-BDA047778C49","ItemResponseOID":"BB4C9ED8-3B98-4A87-94C8-813C12B6BD16", "Value":"1","Position":"2"},{"ElementOID":"FC4C52CC-7C25-4193-82FD-CD2F4493897D","Description":"Moderately short of breath","FormItemOID":"392F08BD-634B-4E98-B9E9-BDA047778C49","ItemResponseOID":"E92F6F6C-A4B2-470E-AC9E-FDF5916324F8", "Value":"2","Position":"3"},{"ElementOID":"80076689-E332-44F7-906B-AEF7DE245B04","Description":"Severely short of breath","FormItemOID":"392F08BD-634B-4E98-B9E9-BDA047778C49","ItemResponseOID":"B8E5FD09-9667-441D-9DA8-BE3C8ED18DEC", "Value":"3","Position":"4"},{"ElementOID":"FA6DDFA2-3324-4A4D-AD3F-51B90F6F8DD2","Description":"I did not do this in the past 7 days","FormItemOID":"392F08BD-634B-4E98-B9E9-BDA047778C49","ItemResponseOID":"869081AF-5FBE-4D73-BA2F-828D71F592C0", "Value":"00000000-0000-0000-0000-000000000000","Position":"5"}]}]},{"FormItemOID":"A2C77AD5-F727-4CA9-BDFF-48A4B87BE829","ID":"DYSSV006","Order":"6","ItemType":"","Elements":[{"ElementOID":"15F49FF0-8FDA-4774-BA0B-224AD04E90EA","Description":"<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?","ElementOrder":"1"},{"ElementOID":"08DE2B88-6D96-4FD4-874D-9230AEF9D5C5","Description":"Sweeping or mopping","ElementOrder":"2"},{"ElementOID":"32697749-F5C1-4E9E-9D21-84ED4ACFF37C","Description":"ContainerFor32697749-F5C1-4E9E-9D21-84ED4ACFF37C","ElementOrder":"3","Map":[{"ElementOID":"1E6157FD-78E4-4626-8818-54CC778BC5D8","Description":"No shortness of breath","FormItemOID":"A2C77AD5-F727-4CA9-BDFF-48A4B87BE829","ItemResponseOID":"C8B1075A-FF8C-4B6F-A971-99D8077604F0", "Value":"0","Position":"1"},{"ElementOID":"F57EBBB7-11D4-4571-A2E5-457A80039376","Description":"Mildly short of breath","FormItemOID":"A2C77AD5-F727-4CA9-BDFF-48A4B87BE829","ItemResponseOID":"E7F72BAA-0277-441D-B16E-7189EBFA6088", "Value":"1","Position":"2"},{"ElementOID":"FB6A24EB-083B-41C7-8C73-18092D2D9949","Description":"Moderately short of breath","FormItemOID":"A2C77AD5-F727-4CA9-BDFF-48A4B87BE829","ItemResponseOID":"61E01421-08FB-4E2A-934A-A99DDBEDF9DB", "Value":"2","Position":"3"},{"ElementOID":"96958A14-7F72-4D88-AA07-F3B48E341DFA","Description":"Severely short of breath","FormItemOID":"A2C77AD5-F727-4CA9-BDFF-48A4B87BE829","ItemResponseOID":"1A02B73C-2D5E-4E25-A5EA-AFB8E7E8BCEC", "Value":"3","Position":"4"},{"ElementOID":"82277A78-742E-499C-B25A-17C6F60BAA65","Description":"I did not do this in the past 7 days","FormItemOID":"A2C77AD5-F727-4CA9-BDFF-48A4B87BE829","ItemResponseOID":"514BE782-6A0B-409D-BD95-9E02EB6F91DB", "Value":"00000000-0000-0000-0000-000000000000","Position":"5"}]}]},{"FormItemOID":"16ADD2F5-3BC8-4D16-BAA3-1346A03B827C","ID":"DYSSV007","Order":"7","ItemType":"","Elements":[{"ElementOID":"15F49FF0-8FDA-4774-BA0B-224AD04E90EA","Description":"<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?","ElementOrder":"1"},{"ElementOID":"F2899FCA-D32A-4B04-B391-94201EFABCA8","Description":"Making a bed","ElementOrder":"2"},{"ElementOID":"A3753B12-003D-4D10-844E-943D0B514BC6","Description":"ContainerForA3753B12-003D-4D10-844E-943D0B514BC6","ElementOrder":"3","Map":[{"ElementOID":"330BC7A9-C5E2-46C7-A34A-A7541FECCA88","Description":"No shortness of breath","FormItemOID":"16ADD2F5-3BC8-4D16-BAA3-1346A03B827C","ItemResponseOID":"F8998725-0FE4-4C73-B826-1089BC26C82C", "Value":"0","Position":"1"},{"ElementOID":"AAD6DABC-08DF-4C8D-AD08-7C2496A98649","Description":"Mildly short of breath","FormItemOID":"16ADD2F5-3BC8-4D16-BAA3-1346A03B827C","ItemResponseOID":"CFD06D22-42AD-4808-8A10-C91CCB6BA902", "Value":"1","Position":"2"},{"ElementOID":"C344415C-3B63-45D6-8502-5F42C4A50914","Description":"Moderately short of breath","FormItemOID":"16ADD2F5-3BC8-4D16-BAA3-1346A03B827C","ItemResponseOID":"2E06F471-5740-484D-92CE-8E3D47FA3D6D", "Value":"2","Position":"3"},{"ElementOID":"27662B60-4E31-45D8-91ED-D316536325BE","Description":"Severely short of breath","FormItemOID":"16ADD2F5-3BC8-4D16-BAA3-1346A03B827C","ItemResponseOID":"3A987CF1-7E0D-4C73-BA8D-8569C0FE9DDC", "Value":"3","Position":"4"},{"ElementOID":"235CEF5E-7D00-4716-A1D7-0A5FEFF87104","Description":"I did not do this in the past 7 days","FormItemOID":"16ADD2F5-3BC8-4D16-BAA3-1346A03B827C","ItemResponseOID":"B5AE27B8-41EB-4649-9285-6B70CC2FEC73", "Value":"00000000-0000-0000-0000-000000000000","Position":"5"}]}]},{"FormItemOID":"B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9","ID":"DYSSV008","Order":"8","ItemType":"","Elements":[{"ElementOID":"15F49FF0-8FDA-4774-BA0B-224AD04E90EA","Description":"<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?","ElementOrder":"1"},{"ElementOID":"3C9BF934-B084-47E3-9C36-555055922281","Description":"Lifting something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries)","ElementOrder":"2"},{"ElementOID":"99B00C20-520E-4182-8731-66252427B33B","Description":"ContainerFor99B00C20-520E-4182-8731-66252427B33B","ElementOrder":"3","Map":[{"ElementOID":"D680DF81-DDDA-422F-AFEE-CA699C2E86A5","Description":"No shortness of breath","FormItemOID":"B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9","ItemResponseOID":"795FE8D2-D03C-4D6C-B905-D2E2E303D57A", "Value":"0","Position":"1"},{"ElementOID":"F243CB36-7BDB-4CF6-A62F-17D09ACCB31F","Description":"Mildly short of breath","FormItemOID":"B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9","ItemResponseOID":"B3549734-3E14-4C3B-9E6B-CC2454625626", "Value":"1","Position":"2"},{"ElementOID":"5EA7383E-3FFE-416A-B68E-98FD3004A038","Description":"Moderately short of breath","FormItemOID":"B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9","ItemResponseOID":"09ACBEA2-289C-49FE-9911-D208D8A14020", "Value":"2","Position":"3"},{"ElementOID":"75EED9D8-1AE4-46ED-B933-26C5131E0180","Description":"Severely short of breath","FormItemOID":"B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9","ItemResponseOID":"A9344175-8BB4-41AB-8D74-BC26B01CE20B", "Value":"3","Position":"4"},{"ElementOID":"01F3C62A-2508-4F1D-BD98-FD9D8F8CD1F3","Description":"I did not do this in the past 7 days","FormItemOID":"B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9","ItemResponseOID":"8DF91F8C-8693-432F-A1C4-4BCB6535808C", "Value":"00000000-0000-0000-0000-000000000000","Position":"5"}]}]},{"FormItemOID":"D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5","ID":"DYSSV009","Order":"9","ItemType":"","Elements":[{"ElementOID":"15F49FF0-8FDA-4774-BA0B-224AD04E90EA","Description":"<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?","ElementOrder":"1"},{"ElementOID":"80DB0BD4-D852-4E0B-8BEE-B821A8C104B4","Description":"Carrying something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries) from one room to another","ElementOrder":"2"},{"ElementOID":"FF3D82FA-86C2-45BC-8E02-7CBA184E9EBA","Description":"ContainerForFF3D82FA-86C2-45BC-8E02-7CBA184E9EBA","ElementOrder":"3","Map":[{"ElementOID":"15D2036C-7F80-4CBE-B5AB-B857A7E95DB5","Description":"No shortness of breath","FormItemOID":"D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5","ItemResponseOID":"F06B525B-F1AA-450A-B425-A95DE2933052", "Value":"0","Position":"1"},{"ElementOID":"6B72D409-C89A-4EED-9FA6-6D6FEC74C40A","Description":"Mildly short of breath","FormItemOID":"D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5","ItemResponseOID":"4634CFEA-9D58-4DA5-B37F-3BA5033D78A5", "Value":"1","Position":"2"},{"ElementOID":"CF55FFF5-CEE6-4D1D-AB03-9A28A548AF94","Description":"Moderately short of breath","FormItemOID":"D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5","ItemResponseOID":"4CEF3411-0D8E-4BCF-9BBE-635AF37E964D", "Value":"2","Position":"3"},{"ElementOID":"21B4A683-9DEF-450C-A7AA-B80E6B31B279","Description":"Severely short of breath","FormItemOID":"D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5","ItemResponseOID":"049D3A4A-D958-4D41-8779-FB03952F6CD6", "Value":"3","Position":"4"},{"ElementOID":"275A2578-DDF3-4D68-99AB-4959E1938F4F","Description":"I did not do this in the past 7 days","FormItemOID":"D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5","ItemResponseOID":"EA60E8E3-4F43-482F-A535-41F9D585E509", "Value":"00000000-0000-0000-0000-000000000000","Position":"5"}]}]},{"FormItemOID":"316B96D6-D0B5-454A-AE5B-7D55D81F449D","ID":"DYSSV010","Order":"10","ItemType":"","Elements":[{"ElementOID":"15F49FF0-8FDA-4774-BA0B-224AD04E90EA","Description":"<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?","ElementOrder":"1"},{"ElementOID":"BB7B4181-2870-41B3-A91E-B6A41976AED7","Description":"Walking (faster than your usual speed) for ?? mile (almost 1 km) without stopping","ElementOrder":"2"},{"ElementOID":"D21F9A78-74F1-4D88-AA70-57623CE3C7E3","Description":"ContainerForD21F9A78-74F1-4D88-AA70-57623CE3C7E3","ElementOrder":"3","Map":[{"ElementOID":"7A23AE38-9256-437F-9E95-43BC11B3D9EC","Description":"No shortness of breath","FormItemOID":"316B96D6-D0B5-454A-AE5B-7D55D81F449D","ItemResponseOID":"4B0984D7-0928-4579-B4D0-CDFD2538E701", "Value":"0","Position":"1"},{"ElementOID":"8809500F-341F-40A9-BA60-5D41FB3FDF3A","Description":"Mildly short of breath","FormItemOID":"316B96D6-D0B5-454A-AE5B-7D55D81F449D","ItemResponseOID":"70EF1ED6-C4A4-4E6A-A3B0-57F471B3C6E0", "Value":"1","Position":"2"},{"ElementOID":"B70AD344-9516-4CB2-AE30-5B655DBAFE61","Description":"Moderately short of breath","FormItemOID":"316B96D6-D0B5-454A-AE5B-7D55D81F449D","ItemResponseOID":"CBA88B77-263C-44EA-A26C-D818D1AE9248", "Value":"2","Position":"3"},{"ElementOID":"5997B908-1F92-4D50-B7A6-9286DE2A8080","Description":"Severely short of breath","FormItemOID":"316B96D6-D0B5-454A-AE5B-7D55D81F449D","ItemResponseOID":"F8FB669F-C148-4057-8E5B-100FD145B74E", "Value":"3","Position":"4"},{"ElementOID":"25AB1B12-435D-460A-9130-8B46EFE30992","Description":"I did not do this in the past 7 days","FormItemOID":"316B96D6-D0B5-454A-AE5B-7D55D81F449D","ItemResponseOID":"10F5C516-EBB3-4EDF-94AA-0C24C827AFE6", "Value":"00000000-0000-0000-0000-000000000000","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "0CCB9053-7077-4E81-B5CA-6BF08B8808FB",
+			"ID": "DYSSV001",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "15F49FF0-8FDA-4774-BA0B-224AD04E90EA",
+					"Description": "<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C5009BC5-97B5-451D-A9A8-6333F4911E89",
+					"Description": "Dressing yourself without help",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "8EFD7D1B-2A75-4AA8-B096-E7D0087AA456",
+					"Description": "ContainerFor8EFD7D1B-2A75-4AA8-B096-E7D0087AA456",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "3AE8187E-984D-4A9B-894B-2E3EB4C9A36A",
+							"Description": "No shortness of breath",
+							"FormItemOID": "0CCB9053-7077-4E81-B5CA-6BF08B8808FB",
+							"ItemResponseOID": "6CC60C9E-2023-42CB-91A2-A1EA37A2CBC9",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AC4BD081-9E0D-4213-AD93-CF822DCC9343",
+							"Description": "Mildly short of breath",
+							"FormItemOID": "0CCB9053-7077-4E81-B5CA-6BF08B8808FB",
+							"ItemResponseOID": "29B04F4D-7FBE-438F-8118-E273B5CE5812",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "84DCE62E-A674-421C-80BD-A302DAF896FE",
+							"Description": "Moderately short of breath",
+							"FormItemOID": "0CCB9053-7077-4E81-B5CA-6BF08B8808FB",
+							"ItemResponseOID": "74345FC9-DB27-447E-8742-8771043F5D2E",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "91FFCABA-7955-4C88-A62B-D86BFF5A7BA3",
+							"Description": "Severely short of breath",
+							"FormItemOID": "0CCB9053-7077-4E81-B5CA-6BF08B8808FB",
+							"ItemResponseOID": "EBDBA5F4-03EF-4FF6-BFB0-280037FD139E",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "CE81FFA0-EDB3-4688-9644-F04B7A288640",
+							"Description": "I did not do this in the past 7 days",
+							"FormItemOID": "0CCB9053-7077-4E81-B5CA-6BF08B8808FB",
+							"ItemResponseOID": "C677181E-E908-426D-B802-F8CB49FE0BDE",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "E2559500-714B-49CA-A9C5-EC18781DE4CC",
+			"ID": "DYSSV002",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "15F49FF0-8FDA-4774-BA0B-224AD04E90EA",
+					"Description": "<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6CCFF66D-DA17-401F-A538-C2FCC896F924",
+					"Description": "Walking 50 steps/paces on flat ground at a normal speed without stopping",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "AC5A0C30-11A8-49F6-B4A0-65835CE0258D",
+					"Description": "ContainerForAC5A0C30-11A8-49F6-B4A0-65835CE0258D",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "86D87124-3EF3-4ABD-AA8C-D35E42A1472B",
+							"Description": "No shortness of breath",
+							"FormItemOID": "E2559500-714B-49CA-A9C5-EC18781DE4CC",
+							"ItemResponseOID": "C6C9040A-40D1-44E1-AF2F-072BF216B711",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D8619142-4538-48AC-9DA4-AE4B3DA77A95",
+							"Description": "Mildly short of breath",
+							"FormItemOID": "E2559500-714B-49CA-A9C5-EC18781DE4CC",
+							"ItemResponseOID": "9DE32438-D5EC-4264-83F1-BD1EA21D2085",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "FF295F55-DF2B-4F12-95C7-073FA37CA5E5",
+							"Description": "Moderately short of breath",
+							"FormItemOID": "E2559500-714B-49CA-A9C5-EC18781DE4CC",
+							"ItemResponseOID": "BD0380C5-C09E-4E22-BC1E-0C61CB0AAC25",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "70BC3874-AC21-4856-AC90-D0EC85E0F3C5",
+							"Description": "Severely short of breath",
+							"FormItemOID": "E2559500-714B-49CA-A9C5-EC18781DE4CC",
+							"ItemResponseOID": "0E3D2B82-900F-4682-B27E-1E340E5F038C",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "177A48F9-69A0-4F0D-8739-26068FB5865C",
+							"Description": "I did not do this in the past 7 days",
+							"FormItemOID": "E2559500-714B-49CA-A9C5-EC18781DE4CC",
+							"ItemResponseOID": "426F514C-00CF-4CEF-A109-2B760B604F26",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "9A36E5DB-9044-46CD-B20E-A0C4693B0F9E",
+			"ID": "DYSSV003",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "15F49FF0-8FDA-4774-BA0B-224AD04E90EA",
+					"Description": "<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "46F7B5EF-0358-4C9C-8923-7B78C447E80E",
+					"Description": "Walking up 20 stairs (2 flights) without stopping",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "C57309D9-8A31-46DC-99EB-8BA9FFCDB934",
+					"Description": "ContainerForC57309D9-8A31-46DC-99EB-8BA9FFCDB934",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "62DD430D-A106-4E70-8C1A-E5247F412999",
+							"Description": "No shortness of breath",
+							"FormItemOID": "9A36E5DB-9044-46CD-B20E-A0C4693B0F9E",
+							"ItemResponseOID": "1944C2EB-5E94-4421-90AA-58F7CF91B2A2",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D0723841-2BC7-49C2-8010-EBC7BB549220",
+							"Description": "Mildly short of breath",
+							"FormItemOID": "9A36E5DB-9044-46CD-B20E-A0C4693B0F9E",
+							"ItemResponseOID": "53682DB6-B118-4A64-84F3-72B96A2E80F3",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "54EECF4B-867C-4CDA-BD2E-626D2D7902D5",
+							"Description": "Moderately short of breath",
+							"FormItemOID": "9A36E5DB-9044-46CD-B20E-A0C4693B0F9E",
+							"ItemResponseOID": "E610E5EA-A498-42DF-A08F-DB49C966A075",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "47C2F604-C294-4992-8E78-74AD1E887B53",
+							"Description": "Severely short of breath",
+							"FormItemOID": "9A36E5DB-9044-46CD-B20E-A0C4693B0F9E",
+							"ItemResponseOID": "6987F54C-2AA9-40BB-891C-B768CD0BE80E",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "573F42AE-81B2-48DD-8E9C-AC95D5E4AB8B",
+							"Description": "I did not do this in the past 7 days",
+							"FormItemOID": "9A36E5DB-9044-46CD-B20E-A0C4693B0F9E",
+							"ItemResponseOID": "D0635DDA-E10C-4591-B644-4DB5E998638D",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "7DA76CDF-3190-4851-A639-FE8B79E5A2BC",
+			"ID": "DYSSV004",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "15F49FF0-8FDA-4774-BA0B-224AD04E90EA",
+					"Description": "<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "BEDAE5B4-1936-490B-A66D-1076B2F69C4E",
+					"Description": "Preparing meals",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "ADAD5BC6-309C-4932-9B23-5008FFEAD6A5",
+					"Description": "ContainerForADAD5BC6-309C-4932-9B23-5008FFEAD6A5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "2BA817F4-F4FB-4490-9388-E994ECBE5C33",
+							"Description": "No shortness of breath",
+							"FormItemOID": "7DA76CDF-3190-4851-A639-FE8B79E5A2BC",
+							"ItemResponseOID": "636E1359-9CB6-4D74-A255-81ADF35F4441",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7688C84B-E906-4BC2-B49E-43C2003DA301",
+							"Description": "Mildly short of breath",
+							"FormItemOID": "7DA76CDF-3190-4851-A639-FE8B79E5A2BC",
+							"ItemResponseOID": "B1E89CA9-A9C4-40E8-B25C-ABD3CCCB369A",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "BB754A73-4723-4167-A22A-2458363CE5CD",
+							"Description": "Moderately short of breath",
+							"FormItemOID": "7DA76CDF-3190-4851-A639-FE8B79E5A2BC",
+							"ItemResponseOID": "4BB6EE86-8466-4649-8A48-EB5F8DFC07AF",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "880DF36E-A56E-46C9-811B-59CDADE2C583",
+							"Description": "Severely short of breath",
+							"FormItemOID": "7DA76CDF-3190-4851-A639-FE8B79E5A2BC",
+							"ItemResponseOID": "5A62F8DE-2B4D-40A2-9A71-3C0F4568F89E",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "F444E206-9A24-47E8-A8E8-DC521D362E2F",
+							"Description": "I did not do this in the past 7 days",
+							"FormItemOID": "7DA76CDF-3190-4851-A639-FE8B79E5A2BC",
+							"ItemResponseOID": "2A3E2BFB-DA9A-4CF4-9289-6BBA3DAE61AE",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "392F08BD-634B-4E98-B9E9-BDA047778C49",
+			"ID": "DYSSV005",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "15F49FF0-8FDA-4774-BA0B-224AD04E90EA",
+					"Description": "<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D9D22B66-25D9-4D12-906C-9B897D25E50D",
+					"Description": "Washing dishes",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B93A4A84-E9A0-456D-A92C-62607440C5E9",
+					"Description": "ContainerForB93A4A84-E9A0-456D-A92C-62607440C5E9",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "5FCE1595-2AD3-4FEE-99FF-21D31784E78E",
+							"Description": "No shortness of breath",
+							"FormItemOID": "392F08BD-634B-4E98-B9E9-BDA047778C49",
+							"ItemResponseOID": "4617D6E8-3A8B-4C71-ACD6-4D796461ED5F",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6E355A89-30E8-467C-943A-A3C7399C23EC",
+							"Description": "Mildly short of breath",
+							"FormItemOID": "392F08BD-634B-4E98-B9E9-BDA047778C49",
+							"ItemResponseOID": "BB4C9ED8-3B98-4A87-94C8-813C12B6BD16",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "FC4C52CC-7C25-4193-82FD-CD2F4493897D",
+							"Description": "Moderately short of breath",
+							"FormItemOID": "392F08BD-634B-4E98-B9E9-BDA047778C49",
+							"ItemResponseOID": "E92F6F6C-A4B2-470E-AC9E-FDF5916324F8",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "80076689-E332-44F7-906B-AEF7DE245B04",
+							"Description": "Severely short of breath",
+							"FormItemOID": "392F08BD-634B-4E98-B9E9-BDA047778C49",
+							"ItemResponseOID": "B8E5FD09-9667-441D-9DA8-BE3C8ED18DEC",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "FA6DDFA2-3324-4A4D-AD3F-51B90F6F8DD2",
+							"Description": "I did not do this in the past 7 days",
+							"FormItemOID": "392F08BD-634B-4E98-B9E9-BDA047778C49",
+							"ItemResponseOID": "869081AF-5FBE-4D73-BA2F-828D71F592C0",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "A2C77AD5-F727-4CA9-BDFF-48A4B87BE829",
+			"ID": "DYSSV006",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "15F49FF0-8FDA-4774-BA0B-224AD04E90EA",
+					"Description": "<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "08DE2B88-6D96-4FD4-874D-9230AEF9D5C5",
+					"Description": "Sweeping or mopping",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "32697749-F5C1-4E9E-9D21-84ED4ACFF37C",
+					"Description": "ContainerFor32697749-F5C1-4E9E-9D21-84ED4ACFF37C",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "1E6157FD-78E4-4626-8818-54CC778BC5D8",
+							"Description": "No shortness of breath",
+							"FormItemOID": "A2C77AD5-F727-4CA9-BDFF-48A4B87BE829",
+							"ItemResponseOID": "C8B1075A-FF8C-4B6F-A971-99D8077604F0",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "F57EBBB7-11D4-4571-A2E5-457A80039376",
+							"Description": "Mildly short of breath",
+							"FormItemOID": "A2C77AD5-F727-4CA9-BDFF-48A4B87BE829",
+							"ItemResponseOID": "E7F72BAA-0277-441D-B16E-7189EBFA6088",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "FB6A24EB-083B-41C7-8C73-18092D2D9949",
+							"Description": "Moderately short of breath",
+							"FormItemOID": "A2C77AD5-F727-4CA9-BDFF-48A4B87BE829",
+							"ItemResponseOID": "61E01421-08FB-4E2A-934A-A99DDBEDF9DB",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "96958A14-7F72-4D88-AA07-F3B48E341DFA",
+							"Description": "Severely short of breath",
+							"FormItemOID": "A2C77AD5-F727-4CA9-BDFF-48A4B87BE829",
+							"ItemResponseOID": "1A02B73C-2D5E-4E25-A5EA-AFB8E7E8BCEC",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "82277A78-742E-499C-B25A-17C6F60BAA65",
+							"Description": "I did not do this in the past 7 days",
+							"FormItemOID": "A2C77AD5-F727-4CA9-BDFF-48A4B87BE829",
+							"ItemResponseOID": "514BE782-6A0B-409D-BD95-9E02EB6F91DB",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "16ADD2F5-3BC8-4D16-BAA3-1346A03B827C",
+			"ID": "DYSSV007",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "15F49FF0-8FDA-4774-BA0B-224AD04E90EA",
+					"Description": "<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "F2899FCA-D32A-4B04-B391-94201EFABCA8",
+					"Description": "Making a bed",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "A3753B12-003D-4D10-844E-943D0B514BC6",
+					"Description": "ContainerForA3753B12-003D-4D10-844E-943D0B514BC6",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "330BC7A9-C5E2-46C7-A34A-A7541FECCA88",
+							"Description": "No shortness of breath",
+							"FormItemOID": "16ADD2F5-3BC8-4D16-BAA3-1346A03B827C",
+							"ItemResponseOID": "F8998725-0FE4-4C73-B826-1089BC26C82C",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AAD6DABC-08DF-4C8D-AD08-7C2496A98649",
+							"Description": "Mildly short of breath",
+							"FormItemOID": "16ADD2F5-3BC8-4D16-BAA3-1346A03B827C",
+							"ItemResponseOID": "CFD06D22-42AD-4808-8A10-C91CCB6BA902",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "C344415C-3B63-45D6-8502-5F42C4A50914",
+							"Description": "Moderately short of breath",
+							"FormItemOID": "16ADD2F5-3BC8-4D16-BAA3-1346A03B827C",
+							"ItemResponseOID": "2E06F471-5740-484D-92CE-8E3D47FA3D6D",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "27662B60-4E31-45D8-91ED-D316536325BE",
+							"Description": "Severely short of breath",
+							"FormItemOID": "16ADD2F5-3BC8-4D16-BAA3-1346A03B827C",
+							"ItemResponseOID": "3A987CF1-7E0D-4C73-BA8D-8569C0FE9DDC",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "235CEF5E-7D00-4716-A1D7-0A5FEFF87104",
+							"Description": "I did not do this in the past 7 days",
+							"FormItemOID": "16ADD2F5-3BC8-4D16-BAA3-1346A03B827C",
+							"ItemResponseOID": "B5AE27B8-41EB-4649-9285-6B70CC2FEC73",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9",
+			"ID": "DYSSV008",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "15F49FF0-8FDA-4774-BA0B-224AD04E90EA",
+					"Description": "<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "3C9BF934-B084-47E3-9C36-555055922281",
+					"Description": "Lifting something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries)",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "99B00C20-520E-4182-8731-66252427B33B",
+					"Description": "ContainerFor99B00C20-520E-4182-8731-66252427B33B",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "D680DF81-DDDA-422F-AFEE-CA699C2E86A5",
+							"Description": "No shortness of breath",
+							"FormItemOID": "B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9",
+							"ItemResponseOID": "795FE8D2-D03C-4D6C-B905-D2E2E303D57A",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "F243CB36-7BDB-4CF6-A62F-17D09ACCB31F",
+							"Description": "Mildly short of breath",
+							"FormItemOID": "B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9",
+							"ItemResponseOID": "B3549734-3E14-4C3B-9E6B-CC2454625626",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "5EA7383E-3FFE-416A-B68E-98FD3004A038",
+							"Description": "Moderately short of breath",
+							"FormItemOID": "B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9",
+							"ItemResponseOID": "09ACBEA2-289C-49FE-9911-D208D8A14020",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "75EED9D8-1AE4-46ED-B933-26C5131E0180",
+							"Description": "Severely short of breath",
+							"FormItemOID": "B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9",
+							"ItemResponseOID": "A9344175-8BB4-41AB-8D74-BC26B01CE20B",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "01F3C62A-2508-4F1D-BD98-FD9D8F8CD1F3",
+							"Description": "I did not do this in the past 7 days",
+							"FormItemOID": "B1C38174-11C4-44E8-BF6C-18C7CD9CC4F9",
+							"ItemResponseOID": "8DF91F8C-8693-432F-A1C4-4BCB6535808C",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5",
+			"ID": "DYSSV009",
+			"Order": "9",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "15F49FF0-8FDA-4774-BA0B-224AD04E90EA",
+					"Description": "<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "80DB0BD4-D852-4E0B-8BEE-B821A8C104B4",
+					"Description": "Carrying something weighing 10-20 lbs (about 4.5-9 kg, like a large bag of groceries) from one room to another",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "FF3D82FA-86C2-45BC-8E02-7CBA184E9EBA",
+					"Description": "ContainerForFF3D82FA-86C2-45BC-8E02-7CBA184E9EBA",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "15D2036C-7F80-4CBE-B5AB-B857A7E95DB5",
+							"Description": "No shortness of breath",
+							"FormItemOID": "D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5",
+							"ItemResponseOID": "F06B525B-F1AA-450A-B425-A95DE2933052",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6B72D409-C89A-4EED-9FA6-6D6FEC74C40A",
+							"Description": "Mildly short of breath",
+							"FormItemOID": "D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5",
+							"ItemResponseOID": "4634CFEA-9D58-4DA5-B37F-3BA5033D78A5",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "CF55FFF5-CEE6-4D1D-AB03-9A28A548AF94",
+							"Description": "Moderately short of breath",
+							"FormItemOID": "D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5",
+							"ItemResponseOID": "4CEF3411-0D8E-4BCF-9BBE-635AF37E964D",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "21B4A683-9DEF-450C-A7AA-B80E6B31B279",
+							"Description": "Severely short of breath",
+							"FormItemOID": "D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5",
+							"ItemResponseOID": "049D3A4A-D958-4D41-8779-FB03952F6CD6",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "275A2578-DDF3-4D68-99AB-4959E1938F4F",
+							"Description": "I did not do this in the past 7 days",
+							"FormItemOID": "D52673CF-6C3F-4EFD-A4E5-CE6506AE7BE5",
+							"ItemResponseOID": "EA60E8E3-4F43-482F-A535-41F9D585E509",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "316B96D6-D0B5-454A-AE5B-7D55D81F449D",
+			"ID": "DYSSV010",
+			"Order": "10",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "15F49FF0-8FDA-4774-BA0B-224AD04E90EA",
+					"Description": "<u>Over the past 7 days</u>, how short of breath did you get with each of these activities?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "BB7B4181-2870-41B3-A91E-B6A41976AED7",
+					"Description": "Walking (faster than your usual speed) for ?? mile (almost 1 km) without stopping",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "D21F9A78-74F1-4D88-AA70-57623CE3C7E3",
+					"Description": "ContainerForD21F9A78-74F1-4D88-AA70-57623CE3C7E3",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "7A23AE38-9256-437F-9E95-43BC11B3D9EC",
+							"Description": "No shortness of breath",
+							"FormItemOID": "316B96D6-D0B5-454A-AE5B-7D55D81F449D",
+							"ItemResponseOID": "4B0984D7-0928-4579-B4D0-CDFD2538E701",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "8809500F-341F-40A9-BA60-5D41FB3FDF3A",
+							"Description": "Mildly short of breath",
+							"FormItemOID": "316B96D6-D0B5-454A-AE5B-7D55D81F449D",
+							"ItemResponseOID": "70EF1ED6-C4A4-4E6A-A3B0-57F471B3C6E0",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "B70AD344-9516-4CB2-AE30-5B655DBAFE61",
+							"Description": "Moderately short of breath",
+							"FormItemOID": "316B96D6-D0B5-454A-AE5B-7D55D81F449D",
+							"ItemResponseOID": "CBA88B77-263C-44EA-A26C-D818D1AE9248",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5997B908-1F92-4D50-B7A6-9286DE2A8080",
+							"Description": "Severely short of breath",
+							"FormItemOID": "316B96D6-D0B5-454A-AE5B-7D55D81F449D",
+							"ItemResponseOID": "F8FB669F-C148-4057-8E5B-100FD145B74E",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "25AB1B12-435D-460A-9130-8B46EFE30992",
+							"Description": "I did not do this in the past 7 days",
+							"FormItemOID": "316B96D6-D0B5-454A-AE5B-7D55D81F449D",
+							"ItemResponseOID": "10F5C516-EBB3-4EDF-94AA-0C24C827AFE6",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

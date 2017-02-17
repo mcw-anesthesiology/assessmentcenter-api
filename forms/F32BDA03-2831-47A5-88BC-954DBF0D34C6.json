@@ -1,1 +1,522 @@
-{"DateFinished":"","Items":[{"FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ID":"DYSCA001","Order":"1","ItemType":"","Elements":[{"ElementOID":"74F58447-C4AB-41E8-8C05-B3F9F1506F15","Description":"Please indicate the number that best reflects the amount of shortness of breath you experienced <u>in the past 7 days</u>???","ElementOrder":"1"},{"ElementOID":"E40FBC4E-24EF-4724-9837-D958B62F4799","Description":"<u>Shortness of breath in general</u>","ElementOrder":"2"},{"ElementOID":"6A8015FB-B237-4A6F-BC2F-A203C1AF06E5","Description":"ContainerFor6A8015FB-B237-4A6F-BC2F-A203C1AF06E5","ElementOrder":"3","Map":[{"ElementOID":"7097C3D7-5F69-4556-A9B6-1595317DE728","Description":"0","FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ItemResponseOID":"2C8AC363-DE34-4062-976A-BC635CCAD7FE", "Value":"0","Position":"1"},{"ElementOID":"A9D4E57B-2ABC-4818-BC84-1551487437BC","Description":"1","FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ItemResponseOID":"61550C31-18D7-4358-9E90-1141FAA3FEF7", "Value":"1","Position":"2"},{"ElementOID":"88240C4F-097A-4D5F-ADE3-37DC10764F23","Description":"2","FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ItemResponseOID":"C6624FC6-0846-44DD-B6E0-0234BF986ECF", "Value":"2","Position":"3"},{"ElementOID":"7FA24092-23E9-4C7F-BFA4-580AC415CBDB","Description":"3","FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ItemResponseOID":"126DF7AE-0B7A-4EC0-A923-E6095367BBAA", "Value":"3","Position":"4"},{"ElementOID":"563A86AA-B9F5-4BFC-9D06-26AE4A20B440","Description":"4","FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ItemResponseOID":"14FD0261-2705-43BC-A521-18374CED001A", "Value":"4","Position":"5"},{"ElementOID":"AA41BE95-EA97-4CC2-B2F2-5378F63CBE90","Description":"5","FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ItemResponseOID":"8702C452-A05F-4628-A65E-073D4F993BE8", "Value":"5","Position":"6"},{"ElementOID":"FBD47470-24E9-4718-9351-401246FC6AA1","Description":"6","FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ItemResponseOID":"62DC9C57-BE19-409E-9E88-7A46217AB8A1", "Value":"6","Position":"7"},{"ElementOID":"1E103A5F-677B-4708-AB8D-6B4E97B016AA","Description":"7","FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ItemResponseOID":"99FDD2A8-D39D-4325-97BF-DE1C7B6A715E", "Value":"7","Position":"8"},{"ElementOID":"E46865F1-E055-43A9-B17C-C1FB63B04B6D","Description":"8","FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ItemResponseOID":"FE84472E-8F76-4125-9E43-BC6D4EA5D457", "Value":"8","Position":"9"},{"ElementOID":"485CD32D-668A-45BB-8B03-0B4A6F6377B4","Description":"9","FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ItemResponseOID":"C8FC8542-4F62-45B9-B526-79E4A6F0E7BF", "Value":"9","Position":"10"},{"ElementOID":"414392AA-FAD6-47D7-8F3D-EBCC7000BC1A","Description":"10","FormItemOID":"60114EC0-6112-4B35-AAF9-63C64F3B00E3","ItemResponseOID":"ED09234C-14A6-4C44-8A8A-B5A7DB875A95", "Value":"10","Position":"11"}]}]},{"FormItemOID":"6B36E26D-205A-4E30-8D4F-BE902B3049CA","ID":"DYSCB001","Order":"2","ItemType":"","Elements":[{"ElementOID":"74F58447-C4AB-41E8-8C05-B3F9F1506F15","Description":"Please indicate the number that best reflects the amount of shortness of breath you experienced <u>in the past 7 days</u>???","ElementOrder":"1"},{"ElementOID":"CD69D4EE-6EB4-4853-9202-BE851D2B5D28","Description":"I have been short of breath???","ElementOrder":"2"},{"ElementOID":"A316F316-B63F-415B-84C4-C67E54C8B594","Description":"ContainerForA316F316-B63F-415B-84C4-C67E54C8B594","ElementOrder":"3","Map":[{"ElementOID":"18F7EE7D-A9F2-4F92-BD63-453744C21DC2","Description":"Not at all","FormItemOID":"6B36E26D-205A-4E30-8D4F-BE902B3049CA","ItemResponseOID":"BA86B959-63EB-4D76-93D0-137290DB5160", "Value":"0","Position":"1"},{"ElementOID":"609BA4EA-FA81-40D1-96DB-52AFEB90641D","Description":"A little bit","FormItemOID":"6B36E26D-205A-4E30-8D4F-BE902B3049CA","ItemResponseOID":"0712A86C-D9D0-464A-92B0-494BACD14989", "Value":"1","Position":"2"},{"ElementOID":"C35DE2BD-1D37-4F67-8CE2-1647F33FC40A","Description":"Somewhat","FormItemOID":"6B36E26D-205A-4E30-8D4F-BE902B3049CA","ItemResponseOID":"F9C22989-6CEE-49E1-8F0F-60CF873E6572", "Value":"2","Position":"3"},{"ElementOID":"8BD1CD1E-CB69-4BFB-ADEA-48AB2FC837AF","Description":"Quite a bit","FormItemOID":"6B36E26D-205A-4E30-8D4F-BE902B3049CA","ItemResponseOID":"E3F5AFA1-4B99-4B67-8232-81A7672F76CF", "Value":"3","Position":"4"},{"ElementOID":"FC7A9BFD-48A0-4B99-A37C-5F0AE955A1CD","Description":"Very much","FormItemOID":"6B36E26D-205A-4E30-8D4F-BE902B3049CA","ItemResponseOID":"2FC0D246-364A-4C77-8DE5-906473E9E969", "Value":"4","Position":"5"}]}]},{"FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ID":"DYSC002","Order":"3","ItemType":"","Elements":[{"ElementOID":"74F58447-C4AB-41E8-8C05-B3F9F1506F15","Description":"Please indicate the number that best reflects the amount of shortness of breath you experienced <u>in the past 7 days</u>???","ElementOrder":"1"},{"ElementOID":"A349B1CD-0081-41D8-A1BE-BFE0C10A8351","Description":"<u>Intensity of shortness of breath</u>","ElementOrder":"2"},{"ElementOID":"ECB7B694-90DE-4EEB-A79A-FCB19DB110E6","Description":"ContainerForECB7B694-90DE-4EEB-A79A-FCB19DB110E6","ElementOrder":"3","Map":[{"ElementOID":"CE3F4E86-CEBA-4297-9E20-2EC3BB9E4B73","Description":"0","FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ItemResponseOID":"E7B31351-3A73-4E1B-88D8-CDE13E0121C4", "Value":"0","Position":"1"},{"ElementOID":"6FDA6510-922E-4475-835F-6AFE78570F1A","Description":"1","FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ItemResponseOID":"6479CEE5-A526-497E-9683-1AA66209B71C", "Value":"1","Position":"2"},{"ElementOID":"3B49E6C8-380F-452B-9A20-55BE8547BBFB","Description":"2","FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ItemResponseOID":"A6A2CC94-5942-445B-A130-74107DCA0C33", "Value":"2","Position":"3"},{"ElementOID":"D5EEC8E8-1642-4AC4-9391-31CFDAFD1964","Description":"3","FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ItemResponseOID":"9C72657B-919F-4814-8658-4A0C743C5E4D", "Value":"3","Position":"4"},{"ElementOID":"71887EC5-E320-429C-B0E9-EB26953C8122","Description":"4","FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ItemResponseOID":"92821CD0-CC64-46FB-AD5B-BE4365FF83F3", "Value":"4","Position":"5"},{"ElementOID":"5CD56F67-ED6A-4C2D-988F-9C6237AAF786","Description":"5","FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ItemResponseOID":"F098130D-1D05-405D-82EE-C2C29B56D00D", "Value":"5","Position":"6"},{"ElementOID":"ABF18BCC-878D-4677-B827-FD3637EBFB97","Description":"6","FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ItemResponseOID":"429F3C49-3146-4789-B076-3CD7F9B973F4", "Value":"6","Position":"7"},{"ElementOID":"AABA7D43-E200-4A46-80D3-AD4202FE2F42","Description":"7","FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ItemResponseOID":"503092C6-247F-4228-9DA1-2B871C52EF52", "Value":"7","Position":"8"},{"ElementOID":"14935CE5-50B5-4091-96CF-05262735F33F","Description":"8","FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ItemResponseOID":"81CFD120-9068-4F79-8254-CB4E8B7C5186", "Value":"8","Position":"9"},{"ElementOID":"D60C6E77-AEF7-4C3F-B8A9-7F85F65CA263","Description":"9","FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ItemResponseOID":"7713092B-9EB6-4D6D-8798-311707559DC9", "Value":"9","Position":"10"},{"ElementOID":"EE4FA26D-C807-463E-B117-52B7B1735F87","Description":"10","FormItemOID":"3C9C256B-58B9-4FA7-B834-2C8E580742E2","ItemResponseOID":"CC9EC7D5-945B-4603-9299-FC2901901425", "Value":"10","Position":"11"}]}]},{"FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ID":"DYSC003","Order":"4","ItemType":"","Elements":[{"ElementOID":"74F58447-C4AB-41E8-8C05-B3F9F1506F15","Description":"Please indicate the number that best reflects the amount of shortness of breath you experienced <u>in the past 7 days</u>???","ElementOrder":"1"},{"ElementOID":"B8506BCE-67F5-4620-A4E5-5936ECFC50DA","Description":"<u>Frequency of shortness of breath</u>","ElementOrder":"2"},{"ElementOID":"4B419786-F5CC-418C-AE0E-17525379E57F","Description":"ContainerFor4B419786-F5CC-418C-AE0E-17525379E57F","ElementOrder":"3","Map":[{"ElementOID":"2251A3EE-05A0-4ECD-B323-5D81A59DF2D1","Description":"0","FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ItemResponseOID":"FA60A198-90A0-4686-B084-B8A31B3FD767", "Value":"0","Position":"1"},{"ElementOID":"30CD11A7-1FBC-484D-A938-9A7BC67DCCD3","Description":"1","FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ItemResponseOID":"E488659A-739A-4AA2-8890-7D70D952CDB7", "Value":"1","Position":"2"},{"ElementOID":"7EF04F94-9076-4B54-91A1-446FEE741B21","Description":"2","FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ItemResponseOID":"130DE3C0-AD19-48DC-921A-AD74C681D1E0", "Value":"2","Position":"3"},{"ElementOID":"A416FE6F-E254-4587-81E6-3B304A5E547D","Description":"3","FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ItemResponseOID":"6BC7038E-6AAD-4237-A548-1E61B9F09A36", "Value":"3","Position":"4"},{"ElementOID":"BF7DADDE-007A-4241-BDE7-691675869476","Description":"4","FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ItemResponseOID":"6A569352-1AFD-42B1-B608-0467E8B6D74F", "Value":"4","Position":"5"},{"ElementOID":"7350A30E-0B76-447D-ADA2-CFECB14447D7","Description":"5","FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ItemResponseOID":"00BB722D-3F03-48D6-A528-21DFBF0CED08", "Value":"5","Position":"6"},{"ElementOID":"098E37B4-E338-4FA0-972E-93092BC28442","Description":"6","FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ItemResponseOID":"8F93E3EA-EF67-401D-9EE0-48C2828C72CD", "Value":"6","Position":"7"},{"ElementOID":"E945C6EE-26B5-47F1-BCCE-DC483DD22C3E","Description":"7","FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ItemResponseOID":"4F25C510-11AF-46FB-94E1-4E63AC8C05A0", "Value":"7","Position":"8"},{"ElementOID":"CD61E8FE-A007-4544-819C-B6658E6FCE0F","Description":"8","FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ItemResponseOID":"6FE255C1-6CC8-406B-B716-5EECCA6EA53C", "Value":"8","Position":"9"},{"ElementOID":"1CFA67BB-55F0-4AF5-A737-5B2D6F99C682","Description":"9","FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ItemResponseOID":"06367BAA-4059-4B58-AED7-81FA7D5B41C7", "Value":"9","Position":"10"},{"ElementOID":"2BE29286-9C67-4108-97BE-EB9BD1E8186D","Description":"10","FormItemOID":"438C917D-AAEC-4C58-B165-BD63D99F4DB2","ItemResponseOID":"A0E2F093-35B0-4FFD-8091-0166904ADB42", "Value":"10","Position":"11"}]}]},{"FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ID":"DYSC004","Order":"5","ItemType":"","Elements":[{"ElementOID":"74F58447-C4AB-41E8-8C05-B3F9F1506F15","Description":"Please indicate the number that best reflects the amount of shortness of breath you experienced <u>in the past 7 days</u>???","ElementOrder":"1"},{"ElementOID":"B3252723-500F-400A-A723-6137AE25E5DF","Description":"<u>Duration of shortness of breath</u>","ElementOrder":"2"},{"ElementOID":"0F71EBBA-1D32-403F-92B4-7107B6372F84","Description":"ContainerFor0F71EBBA-1D32-403F-92B4-7107B6372F84","ElementOrder":"3","Map":[{"ElementOID":"5D3CA7CE-92FB-43A9-AEE6-533649ED6C1F","Description":"0","FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ItemResponseOID":"D112A1A7-BE57-46FA-8645-64F44BD9555D", "Value":"0","Position":"1"},{"ElementOID":"DF897E89-F09E-4CAC-91DB-F5D7F2B200C6","Description":"1","FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ItemResponseOID":"E89A43BE-1C73-44B1-84EA-72FF3DDC0B59", "Value":"1","Position":"2"},{"ElementOID":"C44B67A1-5FE1-43BE-9DA0-97685962EFA6","Description":"2","FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ItemResponseOID":"930D3D19-586B-41B1-8EB1-B7EAD2652DA1", "Value":"2","Position":"3"},{"ElementOID":"A4D527F5-923E-46A5-89F8-1DA3D3287F4F","Description":"3","FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ItemResponseOID":"8F0B4A09-0BB2-42AD-97F6-D91A07EAC4F0", "Value":"3","Position":"4"},{"ElementOID":"5662F140-AF58-4B88-8512-3AFF693096C1","Description":"4","FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ItemResponseOID":"BCDD5861-72D6-4BBE-A6EB-2EB6C4F0B227", "Value":"4","Position":"5"},{"ElementOID":"2D0AF03C-1CDE-4BB3-B19E-F5A44AB30C1A","Description":"5","FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ItemResponseOID":"AEC40DFA-B23C-475E-8B43-0B6224EAA91B", "Value":"5","Position":"6"},{"ElementOID":"85467F2A-C1D7-4ADA-AB72-6C793058868F","Description":"6","FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ItemResponseOID":"C835F0F3-76A0-46CA-8E08-5E0C5655A49F", "Value":"6","Position":"7"},{"ElementOID":"125CA237-DDCF-477C-9C44-AC5FD4A3618C","Description":"7","FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ItemResponseOID":"518CB158-1867-4F28-BFAC-BC09DF7D1B5D", "Value":"7","Position":"8"},{"ElementOID":"8BD0DB13-24F6-48B3-B1BC-5EBF2A0F19B5","Description":"8","FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ItemResponseOID":"F767E2E5-AC33-4409-A020-1F9856A61639", "Value":"8","Position":"9"},{"ElementOID":"4F61A742-9B43-44ED-AC08-040AEA3EBC8E","Description":"9","FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ItemResponseOID":"A1117BEA-9047-4453-93A7-993D4BF56004", "Value":"9","Position":"10"},{"ElementOID":"DBDA2583-7011-4722-B835-86D9D85D93F1","Description":"10","FormItemOID":"A7F6B1CE-CBCE-401A-9028-B55932DF53E2","ItemResponseOID":"B4895AC9-1684-4822-87C8-A36DA2A6BE18", "Value":"10","Position":"11"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+			"ID": "DYSCA001",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "74F58447-C4AB-41E8-8C05-B3F9F1506F15",
+					"Description": "Please indicate the number that best reflects the amount of shortness of breath you experienced <u>in the past 7 days</u>???",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E40FBC4E-24EF-4724-9837-D958B62F4799",
+					"Description": "<u>Shortness of breath in general</u>",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "6A8015FB-B237-4A6F-BC2F-A203C1AF06E5",
+					"Description": "ContainerFor6A8015FB-B237-4A6F-BC2F-A203C1AF06E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "7097C3D7-5F69-4556-A9B6-1595317DE728",
+							"Description": "0",
+							"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+							"ItemResponseOID": "2C8AC363-DE34-4062-976A-BC635CCAD7FE",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "A9D4E57B-2ABC-4818-BC84-1551487437BC",
+							"Description": "1",
+							"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+							"ItemResponseOID": "61550C31-18D7-4358-9E90-1141FAA3FEF7",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "88240C4F-097A-4D5F-ADE3-37DC10764F23",
+							"Description": "2",
+							"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+							"ItemResponseOID": "C6624FC6-0846-44DD-B6E0-0234BF986ECF",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "7FA24092-23E9-4C7F-BFA4-580AC415CBDB",
+							"Description": "3",
+							"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+							"ItemResponseOID": "126DF7AE-0B7A-4EC0-A923-E6095367BBAA",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "563A86AA-B9F5-4BFC-9D06-26AE4A20B440",
+							"Description": "4",
+							"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+							"ItemResponseOID": "14FD0261-2705-43BC-A521-18374CED001A",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "AA41BE95-EA97-4CC2-B2F2-5378F63CBE90",
+							"Description": "5",
+							"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+							"ItemResponseOID": "8702C452-A05F-4628-A65E-073D4F993BE8",
+							"Value": "5",
+							"Position": "6"
+						},
+						{
+							"ElementOID": "FBD47470-24E9-4718-9351-401246FC6AA1",
+							"Description": "6",
+							"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+							"ItemResponseOID": "62DC9C57-BE19-409E-9E88-7A46217AB8A1",
+							"Value": "6",
+							"Position": "7"
+						},
+						{
+							"ElementOID": "1E103A5F-677B-4708-AB8D-6B4E97B016AA",
+							"Description": "7",
+							"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+							"ItemResponseOID": "99FDD2A8-D39D-4325-97BF-DE1C7B6A715E",
+							"Value": "7",
+							"Position": "8"
+						},
+						{
+							"ElementOID": "E46865F1-E055-43A9-B17C-C1FB63B04B6D",
+							"Description": "8",
+							"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+							"ItemResponseOID": "FE84472E-8F76-4125-9E43-BC6D4EA5D457",
+							"Value": "8",
+							"Position": "9"
+						},
+						{
+							"ElementOID": "485CD32D-668A-45BB-8B03-0B4A6F6377B4",
+							"Description": "9",
+							"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+							"ItemResponseOID": "C8FC8542-4F62-45B9-B526-79E4A6F0E7BF",
+							"Value": "9",
+							"Position": "10"
+						},
+						{
+							"ElementOID": "414392AA-FAD6-47D7-8F3D-EBCC7000BC1A",
+							"Description": "10",
+							"FormItemOID": "60114EC0-6112-4B35-AAF9-63C64F3B00E3",
+							"ItemResponseOID": "ED09234C-14A6-4C44-8A8A-B5A7DB875A95",
+							"Value": "10",
+							"Position": "11"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "6B36E26D-205A-4E30-8D4F-BE902B3049CA",
+			"ID": "DYSCB001",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "74F58447-C4AB-41E8-8C05-B3F9F1506F15",
+					"Description": "Please indicate the number that best reflects the amount of shortness of breath you experienced <u>in the past 7 days</u>???",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "CD69D4EE-6EB4-4853-9202-BE851D2B5D28",
+					"Description": "I have been short of breath???",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "A316F316-B63F-415B-84C4-C67E54C8B594",
+					"Description": "ContainerForA316F316-B63F-415B-84C4-C67E54C8B594",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "18F7EE7D-A9F2-4F92-BD63-453744C21DC2",
+							"Description": "Not at all",
+							"FormItemOID": "6B36E26D-205A-4E30-8D4F-BE902B3049CA",
+							"ItemResponseOID": "BA86B959-63EB-4D76-93D0-137290DB5160",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "609BA4EA-FA81-40D1-96DB-52AFEB90641D",
+							"Description": "A little bit",
+							"FormItemOID": "6B36E26D-205A-4E30-8D4F-BE902B3049CA",
+							"ItemResponseOID": "0712A86C-D9D0-464A-92B0-494BACD14989",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "C35DE2BD-1D37-4F67-8CE2-1647F33FC40A",
+							"Description": "Somewhat",
+							"FormItemOID": "6B36E26D-205A-4E30-8D4F-BE902B3049CA",
+							"ItemResponseOID": "F9C22989-6CEE-49E1-8F0F-60CF873E6572",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "8BD1CD1E-CB69-4BFB-ADEA-48AB2FC837AF",
+							"Description": "Quite a bit",
+							"FormItemOID": "6B36E26D-205A-4E30-8D4F-BE902B3049CA",
+							"ItemResponseOID": "E3F5AFA1-4B99-4B67-8232-81A7672F76CF",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "FC7A9BFD-48A0-4B99-A37C-5F0AE955A1CD",
+							"Description": "Very much",
+							"FormItemOID": "6B36E26D-205A-4E30-8D4F-BE902B3049CA",
+							"ItemResponseOID": "2FC0D246-364A-4C77-8DE5-906473E9E969",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+			"ID": "DYSC002",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "74F58447-C4AB-41E8-8C05-B3F9F1506F15",
+					"Description": "Please indicate the number that best reflects the amount of shortness of breath you experienced <u>in the past 7 days</u>???",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "A349B1CD-0081-41D8-A1BE-BFE0C10A8351",
+					"Description": "<u>Intensity of shortness of breath</u>",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "ECB7B694-90DE-4EEB-A79A-FCB19DB110E6",
+					"Description": "ContainerForECB7B694-90DE-4EEB-A79A-FCB19DB110E6",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "CE3F4E86-CEBA-4297-9E20-2EC3BB9E4B73",
+							"Description": "0",
+							"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+							"ItemResponseOID": "E7B31351-3A73-4E1B-88D8-CDE13E0121C4",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6FDA6510-922E-4475-835F-6AFE78570F1A",
+							"Description": "1",
+							"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+							"ItemResponseOID": "6479CEE5-A526-497E-9683-1AA66209B71C",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "3B49E6C8-380F-452B-9A20-55BE8547BBFB",
+							"Description": "2",
+							"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+							"ItemResponseOID": "A6A2CC94-5942-445B-A130-74107DCA0C33",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "D5EEC8E8-1642-4AC4-9391-31CFDAFD1964",
+							"Description": "3",
+							"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+							"ItemResponseOID": "9C72657B-919F-4814-8658-4A0C743C5E4D",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "71887EC5-E320-429C-B0E9-EB26953C8122",
+							"Description": "4",
+							"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+							"ItemResponseOID": "92821CD0-CC64-46FB-AD5B-BE4365FF83F3",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "5CD56F67-ED6A-4C2D-988F-9C6237AAF786",
+							"Description": "5",
+							"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+							"ItemResponseOID": "F098130D-1D05-405D-82EE-C2C29B56D00D",
+							"Value": "5",
+							"Position": "6"
+						},
+						{
+							"ElementOID": "ABF18BCC-878D-4677-B827-FD3637EBFB97",
+							"Description": "6",
+							"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+							"ItemResponseOID": "429F3C49-3146-4789-B076-3CD7F9B973F4",
+							"Value": "6",
+							"Position": "7"
+						},
+						{
+							"ElementOID": "AABA7D43-E200-4A46-80D3-AD4202FE2F42",
+							"Description": "7",
+							"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+							"ItemResponseOID": "503092C6-247F-4228-9DA1-2B871C52EF52",
+							"Value": "7",
+							"Position": "8"
+						},
+						{
+							"ElementOID": "14935CE5-50B5-4091-96CF-05262735F33F",
+							"Description": "8",
+							"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+							"ItemResponseOID": "81CFD120-9068-4F79-8254-CB4E8B7C5186",
+							"Value": "8",
+							"Position": "9"
+						},
+						{
+							"ElementOID": "D60C6E77-AEF7-4C3F-B8A9-7F85F65CA263",
+							"Description": "9",
+							"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+							"ItemResponseOID": "7713092B-9EB6-4D6D-8798-311707559DC9",
+							"Value": "9",
+							"Position": "10"
+						},
+						{
+							"ElementOID": "EE4FA26D-C807-463E-B117-52B7B1735F87",
+							"Description": "10",
+							"FormItemOID": "3C9C256B-58B9-4FA7-B834-2C8E580742E2",
+							"ItemResponseOID": "CC9EC7D5-945B-4603-9299-FC2901901425",
+							"Value": "10",
+							"Position": "11"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+			"ID": "DYSC003",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "74F58447-C4AB-41E8-8C05-B3F9F1506F15",
+					"Description": "Please indicate the number that best reflects the amount of shortness of breath you experienced <u>in the past 7 days</u>???",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "B8506BCE-67F5-4620-A4E5-5936ECFC50DA",
+					"Description": "<u>Frequency of shortness of breath</u>",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "4B419786-F5CC-418C-AE0E-17525379E57F",
+					"Description": "ContainerFor4B419786-F5CC-418C-AE0E-17525379E57F",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "2251A3EE-05A0-4ECD-B323-5D81A59DF2D1",
+							"Description": "0",
+							"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+							"ItemResponseOID": "FA60A198-90A0-4686-B084-B8A31B3FD767",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "30CD11A7-1FBC-484D-A938-9A7BC67DCCD3",
+							"Description": "1",
+							"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+							"ItemResponseOID": "E488659A-739A-4AA2-8890-7D70D952CDB7",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7EF04F94-9076-4B54-91A1-446FEE741B21",
+							"Description": "2",
+							"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+							"ItemResponseOID": "130DE3C0-AD19-48DC-921A-AD74C681D1E0",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "A416FE6F-E254-4587-81E6-3B304A5E547D",
+							"Description": "3",
+							"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+							"ItemResponseOID": "6BC7038E-6AAD-4237-A548-1E61B9F09A36",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "BF7DADDE-007A-4241-BDE7-691675869476",
+							"Description": "4",
+							"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+							"ItemResponseOID": "6A569352-1AFD-42B1-B608-0467E8B6D74F",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "7350A30E-0B76-447D-ADA2-CFECB14447D7",
+							"Description": "5",
+							"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+							"ItemResponseOID": "00BB722D-3F03-48D6-A528-21DFBF0CED08",
+							"Value": "5",
+							"Position": "6"
+						},
+						{
+							"ElementOID": "098E37B4-E338-4FA0-972E-93092BC28442",
+							"Description": "6",
+							"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+							"ItemResponseOID": "8F93E3EA-EF67-401D-9EE0-48C2828C72CD",
+							"Value": "6",
+							"Position": "7"
+						},
+						{
+							"ElementOID": "E945C6EE-26B5-47F1-BCCE-DC483DD22C3E",
+							"Description": "7",
+							"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+							"ItemResponseOID": "4F25C510-11AF-46FB-94E1-4E63AC8C05A0",
+							"Value": "7",
+							"Position": "8"
+						},
+						{
+							"ElementOID": "CD61E8FE-A007-4544-819C-B6658E6FCE0F",
+							"Description": "8",
+							"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+							"ItemResponseOID": "6FE255C1-6CC8-406B-B716-5EECCA6EA53C",
+							"Value": "8",
+							"Position": "9"
+						},
+						{
+							"ElementOID": "1CFA67BB-55F0-4AF5-A737-5B2D6F99C682",
+							"Description": "9",
+							"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+							"ItemResponseOID": "06367BAA-4059-4B58-AED7-81FA7D5B41C7",
+							"Value": "9",
+							"Position": "10"
+						},
+						{
+							"ElementOID": "2BE29286-9C67-4108-97BE-EB9BD1E8186D",
+							"Description": "10",
+							"FormItemOID": "438C917D-AAEC-4C58-B165-BD63D99F4DB2",
+							"ItemResponseOID": "A0E2F093-35B0-4FFD-8091-0166904ADB42",
+							"Value": "10",
+							"Position": "11"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+			"ID": "DYSC004",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "74F58447-C4AB-41E8-8C05-B3F9F1506F15",
+					"Description": "Please indicate the number that best reflects the amount of shortness of breath you experienced <u>in the past 7 days</u>???",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "B3252723-500F-400A-A723-6137AE25E5DF",
+					"Description": "<u>Duration of shortness of breath</u>",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "0F71EBBA-1D32-403F-92B4-7107B6372F84",
+					"Description": "ContainerFor0F71EBBA-1D32-403F-92B4-7107B6372F84",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "5D3CA7CE-92FB-43A9-AEE6-533649ED6C1F",
+							"Description": "0",
+							"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+							"ItemResponseOID": "D112A1A7-BE57-46FA-8645-64F44BD9555D",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DF897E89-F09E-4CAC-91DB-F5D7F2B200C6",
+							"Description": "1",
+							"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+							"ItemResponseOID": "E89A43BE-1C73-44B1-84EA-72FF3DDC0B59",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "C44B67A1-5FE1-43BE-9DA0-97685962EFA6",
+							"Description": "2",
+							"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+							"ItemResponseOID": "930D3D19-586B-41B1-8EB1-B7EAD2652DA1",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "A4D527F5-923E-46A5-89F8-1DA3D3287F4F",
+							"Description": "3",
+							"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+							"ItemResponseOID": "8F0B4A09-0BB2-42AD-97F6-D91A07EAC4F0",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "5662F140-AF58-4B88-8512-3AFF693096C1",
+							"Description": "4",
+							"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+							"ItemResponseOID": "BCDD5861-72D6-4BBE-A6EB-2EB6C4F0B227",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "2D0AF03C-1CDE-4BB3-B19E-F5A44AB30C1A",
+							"Description": "5",
+							"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+							"ItemResponseOID": "AEC40DFA-B23C-475E-8B43-0B6224EAA91B",
+							"Value": "5",
+							"Position": "6"
+						},
+						{
+							"ElementOID": "85467F2A-C1D7-4ADA-AB72-6C793058868F",
+							"Description": "6",
+							"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+							"ItemResponseOID": "C835F0F3-76A0-46CA-8E08-5E0C5655A49F",
+							"Value": "6",
+							"Position": "7"
+						},
+						{
+							"ElementOID": "125CA237-DDCF-477C-9C44-AC5FD4A3618C",
+							"Description": "7",
+							"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+							"ItemResponseOID": "518CB158-1867-4F28-BFAC-BC09DF7D1B5D",
+							"Value": "7",
+							"Position": "8"
+						},
+						{
+							"ElementOID": "8BD0DB13-24F6-48B3-B1BC-5EBF2A0F19B5",
+							"Description": "8",
+							"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+							"ItemResponseOID": "F767E2E5-AC33-4409-A020-1F9856A61639",
+							"Value": "8",
+							"Position": "9"
+						},
+						{
+							"ElementOID": "4F61A742-9B43-44ED-AC08-040AEA3EBC8E",
+							"Description": "9",
+							"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+							"ItemResponseOID": "A1117BEA-9047-4453-93A7-993D4BF56004",
+							"Value": "9",
+							"Position": "10"
+						},
+						{
+							"ElementOID": "DBDA2583-7011-4722-B835-86D9D85D93F1",
+							"Description": "10",
+							"FormItemOID": "A7F6B1CE-CBCE-401A-9028-B55932DF53E2",
+							"ItemResponseOID": "B4895AC9-1684-4822-87C8-A36DA2A6BE18",
+							"Value": "10",
+							"Position": "11"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,1 +1,242 @@
-{"FormOID":"65958F02-3B6D-47CF-B6D7-F682EDBE7004","Form":"Emotional Distress - Anxiety short form from PROMIS Wave 1 testing.","Properties":[{"CalibrationSample":"Spanish"},{"DistMean":"0.00"},{"DistStdDev":"1.00"},{"FirstItem":""},{"IRTModel":"0"},{"LogisticScaling":"1.0000"},{"MaxNumItems":"7"},{"MaxStdErr":"0.30"},{"MaxTheta":"4.00"},{"MinNumItems":"7"},{"MinTheta":"-4.00"},{"SelectionGroupSize":"1"},{"SelectionMethod":"1"},{"SetSelectionMethod":"Instance"},{"ThetaIncrement":"0.1000"}],"Items":[{"FormItemOID":"52CAD6A3-2DD2-4DAA-B3BA-7709CF31EAE7","ID":"EDANX30","A_GRM":"3.03184","Map":[{"ItemResponseOID":"38ACEDFF-2725-4199-96E3-2BA71ECDABB1","StepOrder":"1","Threshold":"-0.5154"},{"ItemResponseOID":"273C46A8-C2F2-4912-8C99-9FF50B579A12","StepOrder":"2","Threshold":"0.3156"},{"ItemResponseOID":"66BBFEF3-5D1A-47A9-A348-84F98B0B8893","StepOrder":"3","Threshold":"1.3516"},{"ItemResponseOID":"1C35CA29-3FDC-48CB-A2EA-E18823AC84E4","StepOrder":"4","Threshold":"2.2997"}]},{"FormItemOID":"53375DA5-311F-43A9-B5E5-D7FCCFFE6966","ID":"EDANX53","A_GRM":"3.65611","Map":[{"ItemResponseOID":"B893A2C7-D9F7-4A3D-A34B-69F931C71848","StepOrder":"1","Threshold":"-0.2318"},{"ItemResponseOID":"C975B478-BB5C-416A-9FE2-A3C36E6E6A23","StepOrder":"2","Threshold":"0.5952"},{"ItemResponseOID":"DFFB72C7-8652-4563-B94F-8434896163F1","StepOrder":"3","Threshold":"1.5635"},{"ItemResponseOID":"B411616A-4344-4A86-997F-7B8EFD90109C","StepOrder":"4","Threshold":"2.4991"}]},{"FormItemOID":"5A6CE293-7DC5-46BB-A6A5-6C8F0D629EFA","ID":"EDANX46","A_GRM":"3.39814","Map":[{"ItemResponseOID":"FCE1F9CB-F8FF-4FE7-B53A-BC54DA649983","StepOrder":"1","Threshold":"-0.2166"},{"ItemResponseOID":"83DF3580-1787-4414-A354-5382CA84A048","StepOrder":"2","Threshold":"0.6321"},{"ItemResponseOID":"9E21289F-8661-4AC9-A648-FF9B9EE097FB","StepOrder":"3","Threshold":"1.6444"},{"ItemResponseOID":"B4C1B5FA-344B-4B30-9035-204421D35B59","StepOrder":"4","Threshold":"2.7312"}]},{"FormItemOID":"747A74B6-18D2-4399-9DD8-B26C2F4D4E9A","ID":"EDANX40","A_GRM":"3.88320","Map":[{"ItemResponseOID":"4E1A6BD8-4B19-4353-9866-DEEB78293361","StepOrder":"1","Threshold":"0.4859"},{"ItemResponseOID":"7D6B977B-FA56-4A59-8DB7-3BBD7B48F33A","StepOrder":"2","Threshold":"1.2632"},{"ItemResponseOID":"1FAEDE56-C726-4CA1-94BF-10BD2BBA80F4","StepOrder":"3","Threshold":"2.1111"},{"ItemResponseOID":"FD4BA15B-9265-4CC0-A13C-1846950CDB1C","StepOrder":"4","Threshold":"2.8985"}]},{"FormItemOID":"89F43752-B110-4BC1-9679-23AD32D61C14","ID":"EDANX05","A_GRM":"3.35528","Map":[{"ItemResponseOID":"9DEF5D77-36BF-47B7-8810-B00E30D15146","StepOrder":"1","Threshold":"-0.1897"},{"ItemResponseOID":"1E5B9818-B0A3-4F73-9C65-9B7248DA5E7E","StepOrder":"2","Threshold":"0.5981"},{"ItemResponseOID":"9EB4F32E-657F-49EA-8B36-9A160A2AA8C0","StepOrder":"3","Threshold":"1.5749"},{"ItemResponseOID":"88C26592-6908-46D5-8E87-474A8983EAF5","StepOrder":"4","Threshold":"2.4458"}]},{"FormItemOID":"9780E18B-C2EA-4811-831F-5DFE04B6ED19","ID":"EDANX01","A_GRM":"3.60215","Map":[{"ItemResponseOID":"28915D8B-8E92-4832-88EB-6EB5A71A1301","StepOrder":"1","Threshold":"0.3416"},{"ItemResponseOID":"CA97B61B-7A6A-410A-8A7A-4B7DB73A1DBD","StepOrder":"2","Threshold":"1.0895"},{"ItemResponseOID":"B401AB19-4440-4E9C-8B92-0E09D1F4B453","StepOrder":"3","Threshold":"1.9601"},{"ItemResponseOID":"7E94811E-105E-452B-BADA-375669AECDDB","StepOrder":"4","Threshold":"2.6987"}]},{"FormItemOID":"C9645263-ADE8-43C8-9F14-FF8CD2FB3D99","ID":"EDANX54","A_GRM":"3.35033","Map":[{"ItemResponseOID":"E22CED00-8DE5-4800-8DA5-9EDE1AF2E75B","StepOrder":"1","Threshold":"-0.5094"},{"ItemResponseOID":"86B255DA-890B-4CF3-8CDC-F50FDA60B156","StepOrder":"2","Threshold":"0.3107"},{"ItemResponseOID":"6F6FF16A-A43A-4E7D-BDC3-9BAE92BBA774","StepOrder":"3","Threshold":"1.2502"},{"ItemResponseOID":"F6750A54-D64F-4784-BF04-4F4E07837A7B","StepOrder":"4","Threshold":"2.2966"}]}]}
+{
+	"FormOID": "65958F02-3B6D-47CF-B6D7-F682EDBE7004",
+	"Form": "Emotional Distress - Anxiety short form from PROMIS Wave 1 testing.",
+	"Properties": [
+		{
+			"CalibrationSample": "Spanish"
+		},
+		{
+			"DistMean": "0.00"
+		},
+		{
+			"DistStdDev": "1.00"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"MaxNumItems": "7"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"MinNumItems": "7"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "52CAD6A3-2DD2-4DAA-B3BA-7709CF31EAE7",
+			"ID": "EDANX30",
+			"A_GRM": "3.03184",
+			"Map": [
+				{
+					"ItemResponseOID": "38ACEDFF-2725-4199-96E3-2BA71ECDABB1",
+					"StepOrder": "1",
+					"Threshold": "-0.5154"
+				},
+				{
+					"ItemResponseOID": "273C46A8-C2F2-4912-8C99-9FF50B579A12",
+					"StepOrder": "2",
+					"Threshold": "0.3156"
+				},
+				{
+					"ItemResponseOID": "66BBFEF3-5D1A-47A9-A348-84F98B0B8893",
+					"StepOrder": "3",
+					"Threshold": "1.3516"
+				},
+				{
+					"ItemResponseOID": "1C35CA29-3FDC-48CB-A2EA-E18823AC84E4",
+					"StepOrder": "4",
+					"Threshold": "2.2997"
+				}
+			]
+		},
+		{
+			"FormItemOID": "53375DA5-311F-43A9-B5E5-D7FCCFFE6966",
+			"ID": "EDANX53",
+			"A_GRM": "3.65611",
+			"Map": [
+				{
+					"ItemResponseOID": "B893A2C7-D9F7-4A3D-A34B-69F931C71848",
+					"StepOrder": "1",
+					"Threshold": "-0.2318"
+				},
+				{
+					"ItemResponseOID": "C975B478-BB5C-416A-9FE2-A3C36E6E6A23",
+					"StepOrder": "2",
+					"Threshold": "0.5952"
+				},
+				{
+					"ItemResponseOID": "DFFB72C7-8652-4563-B94F-8434896163F1",
+					"StepOrder": "3",
+					"Threshold": "1.5635"
+				},
+				{
+					"ItemResponseOID": "B411616A-4344-4A86-997F-7B8EFD90109C",
+					"StepOrder": "4",
+					"Threshold": "2.4991"
+				}
+			]
+		},
+		{
+			"FormItemOID": "5A6CE293-7DC5-46BB-A6A5-6C8F0D629EFA",
+			"ID": "EDANX46",
+			"A_GRM": "3.39814",
+			"Map": [
+				{
+					"ItemResponseOID": "FCE1F9CB-F8FF-4FE7-B53A-BC54DA649983",
+					"StepOrder": "1",
+					"Threshold": "-0.2166"
+				},
+				{
+					"ItemResponseOID": "83DF3580-1787-4414-A354-5382CA84A048",
+					"StepOrder": "2",
+					"Threshold": "0.6321"
+				},
+				{
+					"ItemResponseOID": "9E21289F-8661-4AC9-A648-FF9B9EE097FB",
+					"StepOrder": "3",
+					"Threshold": "1.6444"
+				},
+				{
+					"ItemResponseOID": "B4C1B5FA-344B-4B30-9035-204421D35B59",
+					"StepOrder": "4",
+					"Threshold": "2.7312"
+				}
+			]
+		},
+		{
+			"FormItemOID": "747A74B6-18D2-4399-9DD8-B26C2F4D4E9A",
+			"ID": "EDANX40",
+			"A_GRM": "3.88320",
+			"Map": [
+				{
+					"ItemResponseOID": "4E1A6BD8-4B19-4353-9866-DEEB78293361",
+					"StepOrder": "1",
+					"Threshold": "0.4859"
+				},
+				{
+					"ItemResponseOID": "7D6B977B-FA56-4A59-8DB7-3BBD7B48F33A",
+					"StepOrder": "2",
+					"Threshold": "1.2632"
+				},
+				{
+					"ItemResponseOID": "1FAEDE56-C726-4CA1-94BF-10BD2BBA80F4",
+					"StepOrder": "3",
+					"Threshold": "2.1111"
+				},
+				{
+					"ItemResponseOID": "FD4BA15B-9265-4CC0-A13C-1846950CDB1C",
+					"StepOrder": "4",
+					"Threshold": "2.8985"
+				}
+			]
+		},
+		{
+			"FormItemOID": "89F43752-B110-4BC1-9679-23AD32D61C14",
+			"ID": "EDANX05",
+			"A_GRM": "3.35528",
+			"Map": [
+				{
+					"ItemResponseOID": "9DEF5D77-36BF-47B7-8810-B00E30D15146",
+					"StepOrder": "1",
+					"Threshold": "-0.1897"
+				},
+				{
+					"ItemResponseOID": "1E5B9818-B0A3-4F73-9C65-9B7248DA5E7E",
+					"StepOrder": "2",
+					"Threshold": "0.5981"
+				},
+				{
+					"ItemResponseOID": "9EB4F32E-657F-49EA-8B36-9A160A2AA8C0",
+					"StepOrder": "3",
+					"Threshold": "1.5749"
+				},
+				{
+					"ItemResponseOID": "88C26592-6908-46D5-8E87-474A8983EAF5",
+					"StepOrder": "4",
+					"Threshold": "2.4458"
+				}
+			]
+		},
+		{
+			"FormItemOID": "9780E18B-C2EA-4811-831F-5DFE04B6ED19",
+			"ID": "EDANX01",
+			"A_GRM": "3.60215",
+			"Map": [
+				{
+					"ItemResponseOID": "28915D8B-8E92-4832-88EB-6EB5A71A1301",
+					"StepOrder": "1",
+					"Threshold": "0.3416"
+				},
+				{
+					"ItemResponseOID": "CA97B61B-7A6A-410A-8A7A-4B7DB73A1DBD",
+					"StepOrder": "2",
+					"Threshold": "1.0895"
+				},
+				{
+					"ItemResponseOID": "B401AB19-4440-4E9C-8B92-0E09D1F4B453",
+					"StepOrder": "3",
+					"Threshold": "1.9601"
+				},
+				{
+					"ItemResponseOID": "7E94811E-105E-452B-BADA-375669AECDDB",
+					"StepOrder": "4",
+					"Threshold": "2.6987"
+				}
+			]
+		},
+		{
+			"FormItemOID": "C9645263-ADE8-43C8-9F14-FF8CD2FB3D99",
+			"ID": "EDANX54",
+			"A_GRM": "3.35033",
+			"Map": [
+				{
+					"ItemResponseOID": "E22CED00-8DE5-4800-8DA5-9EDE1AF2E75B",
+					"StepOrder": "1",
+					"Threshold": "-0.5094"
+				},
+				{
+					"ItemResponseOID": "86B255DA-890B-4CF3-8CDC-F50FDA60B156",
+					"StepOrder": "2",
+					"Threshold": "0.3107"
+				},
+				{
+					"ItemResponseOID": "6F6FF16A-A43A-4E7D-BDC3-9BAE92BBA774",
+					"StepOrder": "3",
+					"Threshold": "1.2502"
+				},
+				{
+					"ItemResponseOID": "F6750A54-D64F-4784-BF04-4F4E07837A7B",
+					"StepOrder": "4",
+					"Threshold": "2.2966"
+				}
+			]
+		}
+	]
+}

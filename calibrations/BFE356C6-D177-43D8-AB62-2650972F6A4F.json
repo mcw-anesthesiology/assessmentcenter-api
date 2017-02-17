@@ -1,1 +1,242 @@
-{"FormOID":"BFE356C6-D177-43D8-AB62-2650972F6A4F","Form":"PROMIS Pediatric version 1 Global Health 7-item plus 2 Scale","Properties":[{"MinNumItems":"9"},{"MaxNumItems":"9"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"0.00"},{"DistStdDev":"1.00"},{"FirstItem":""},{"CalibrationSample":"General Population and Clinical"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"018759E0-9A35-4B59-BBE5-F045D53CA462","ID":"Global04R1","A_GRM":"2.62700","Map":[{"ItemResponseOID":"C91D80D4-F28C-48A9-ABED-888AEF63363C","StepOrder":"2","Threshold":"-2.6840"},{"ItemResponseOID":"3C0D642B-5C78-4975-BD0E-EFD5635B1ABD","StepOrder":"3","Threshold":"-1.7950"},{"ItemResponseOID":"21F81B32-1ADB-41CD-8C61-FECB1A7806E3","StepOrder":"4","Threshold":"-0.7590"},{"ItemResponseOID":"DD139A23-50EB-472A-90B0-4FEE0B5286AC","StepOrder":"5","Threshold":"0.3290"}]},{"FormItemOID":"30B784B9-EC2E-45E5-8DD2-29FDDA1E57FA","ID":"PedGlobal5R1","A_GRM":"1.16300","Map":[{"ItemResponseOID":"AED3F1CC-3F18-49CE-BC37-51422D791033","StepOrder":"2","Threshold":"-4.4080"},{"ItemResponseOID":"8626D400-BCCF-4CEF-8433-F42382B19B8C","StepOrder":"3","Threshold":"-3.0710"},{"ItemResponseOID":"B29BF46C-02FE-4FBB-8F40-D93B3B314737","StepOrder":"4","Threshold":"-1.3410"},{"ItemResponseOID":"BBD25AFB-CB4C-4D86-869D-CDD832D19615","StepOrder":"5","Threshold":"0.5180"}]},{"FormItemOID":"55F832B6-4E6E-4036-ABF6-A3E29133EAEF","ID":"Global03R1","A_GRM":"3.59200","Map":[{"ItemResponseOID":"8A167CD8-C71E-402F-BAE6-4F5A6CB46ADC","StepOrder":"2","Threshold":"-2.5810"},{"ItemResponseOID":"E2814DC4-F726-4A7D-9359-B198AE6C9DE6","StepOrder":"3","Threshold":"-1.7960"},{"ItemResponseOID":"E2557B1A-B1F3-427D-AA29-9E6585FF0FE3","StepOrder":"4","Threshold":"-0.7190"},{"ItemResponseOID":"404A5DF6-B69A-4761-B833-B493B0AC48BA","StepOrder":"5","Threshold":"0.3630"}]},{"FormItemOID":"6B46126C-6003-4B67-9E41-D44881F0A491","ID":"Global01R1","A_GRM":"3.52200","Map":[{"ItemResponseOID":"DC339CAC-B11B-4E8C-B3D1-A252D3885EA7","StepOrder":"2","Threshold":"-2.6500"},{"ItemResponseOID":"AFB6262E-2B9F-42D4-82BB-E556A307141B","StepOrder":"3","Threshold":"-1.9420"},{"ItemResponseOID":"8AE5339A-1643-4D77-8686-C81546E918A0","StepOrder":"4","Threshold":"-0.7820"},{"ItemResponseOID":"B198AFB2-E9BD-4A30-B8B9-B3052CA04135","StepOrder":"5","Threshold":"0.4000"}]},{"FormItemOID":"7178A621-BA3A-4471-887B-E25355B90E4C","ID":"Global02R1","A_GRM":"2.97000","Map":[{"ItemResponseOID":"3A6A52B8-9BD5-490A-8844-E0FDE0C603F6","StepOrder":"2","Threshold":"-2.8120"},{"ItemResponseOID":"5623B4F7-0085-46CD-9A79-D43B2DEC49CB","StepOrder":"3","Threshold":"-1.8950"},{"ItemResponseOID":"DF562537-E4B5-4201-9223-DEC46988E476","StepOrder":"4","Threshold":"-0.8100"},{"ItemResponseOID":"BC0514BF-A52A-4E04-8B85-554F6A01D4C2","StepOrder":"5","Threshold":"0.4170"}]},{"FormItemOID":"A1F687CB-8091-46D4-9E5D-FD6D0C17C662","ID":"PedGlobal6R1","A_GRM":"0.99800","Map":[{"ItemResponseOID":"0C89A274-860F-412C-AE66-B5D9403786B1","StepOrder":"2","Threshold":"-4.5670"},{"ItemResponseOID":"153DFADD-9FEC-42F4-BC28-3BFA88CC16E3","StepOrder":"3","Threshold":"-2.9610"},{"ItemResponseOID":"75F3B0DC-6B2F-428A-BDBE-EDD5C355805C","StepOrder":"4","Threshold":"-0.8340"},{"ItemResponseOID":"D8106D22-562B-4EC2-B227-13B8560A7027","StepOrder":"5","Threshold":"1.1160"}]},{"FormItemOID":"C14169AD-B6C9-4CA8-AD12-6B47C34082C6","ID":"PedGlobal2R1","A_GRM":"0.95100","Map":[{"ItemResponseOID":"3A293560-770B-4B88-BC1B-59A0714AE8EF","StepOrder":"2","Threshold":"-4.2890"},{"ItemResponseOID":"48E585B8-9D69-4BF6-8B97-CADBDF23EEFA","StepOrder":"3","Threshold":"-2.8520"},{"ItemResponseOID":"CDB4EC36-5EAE-496A-A156-290BE3A36B91","StepOrder":"4","Threshold":"-0.7510"},{"ItemResponseOID":"700AAD89-F256-4246-AC45-2D8DD9D5414C","StepOrder":"5","Threshold":"2.3510"}]}]}
+{
+	"FormOID": "BFE356C6-D177-43D8-AB62-2650972F6A4F",
+	"Form": "PROMIS Pediatric version 1 Global Health 7-item plus 2 Scale",
+	"Properties": [
+		{
+			"MinNumItems": "9"
+		},
+		{
+			"MaxNumItems": "9"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "0.00"
+		},
+		{
+			"DistStdDev": "1.00"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "General Population and Clinical"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "018759E0-9A35-4B59-BBE5-F045D53CA462",
+			"ID": "Global04R1",
+			"A_GRM": "2.62700",
+			"Map": [
+				{
+					"ItemResponseOID": "C91D80D4-F28C-48A9-ABED-888AEF63363C",
+					"StepOrder": "2",
+					"Threshold": "-2.6840"
+				},
+				{
+					"ItemResponseOID": "3C0D642B-5C78-4975-BD0E-EFD5635B1ABD",
+					"StepOrder": "3",
+					"Threshold": "-1.7950"
+				},
+				{
+					"ItemResponseOID": "21F81B32-1ADB-41CD-8C61-FECB1A7806E3",
+					"StepOrder": "4",
+					"Threshold": "-0.7590"
+				},
+				{
+					"ItemResponseOID": "DD139A23-50EB-472A-90B0-4FEE0B5286AC",
+					"StepOrder": "5",
+					"Threshold": "0.3290"
+				}
+			]
+		},
+		{
+			"FormItemOID": "30B784B9-EC2E-45E5-8DD2-29FDDA1E57FA",
+			"ID": "PedGlobal5R1",
+			"A_GRM": "1.16300",
+			"Map": [
+				{
+					"ItemResponseOID": "AED3F1CC-3F18-49CE-BC37-51422D791033",
+					"StepOrder": "2",
+					"Threshold": "-4.4080"
+				},
+				{
+					"ItemResponseOID": "8626D400-BCCF-4CEF-8433-F42382B19B8C",
+					"StepOrder": "3",
+					"Threshold": "-3.0710"
+				},
+				{
+					"ItemResponseOID": "B29BF46C-02FE-4FBB-8F40-D93B3B314737",
+					"StepOrder": "4",
+					"Threshold": "-1.3410"
+				},
+				{
+					"ItemResponseOID": "BBD25AFB-CB4C-4D86-869D-CDD832D19615",
+					"StepOrder": "5",
+					"Threshold": "0.5180"
+				}
+			]
+		},
+		{
+			"FormItemOID": "55F832B6-4E6E-4036-ABF6-A3E29133EAEF",
+			"ID": "Global03R1",
+			"A_GRM": "3.59200",
+			"Map": [
+				{
+					"ItemResponseOID": "8A167CD8-C71E-402F-BAE6-4F5A6CB46ADC",
+					"StepOrder": "2",
+					"Threshold": "-2.5810"
+				},
+				{
+					"ItemResponseOID": "E2814DC4-F726-4A7D-9359-B198AE6C9DE6",
+					"StepOrder": "3",
+					"Threshold": "-1.7960"
+				},
+				{
+					"ItemResponseOID": "E2557B1A-B1F3-427D-AA29-9E6585FF0FE3",
+					"StepOrder": "4",
+					"Threshold": "-0.7190"
+				},
+				{
+					"ItemResponseOID": "404A5DF6-B69A-4761-B833-B493B0AC48BA",
+					"StepOrder": "5",
+					"Threshold": "0.3630"
+				}
+			]
+		},
+		{
+			"FormItemOID": "6B46126C-6003-4B67-9E41-D44881F0A491",
+			"ID": "Global01R1",
+			"A_GRM": "3.52200",
+			"Map": [
+				{
+					"ItemResponseOID": "DC339CAC-B11B-4E8C-B3D1-A252D3885EA7",
+					"StepOrder": "2",
+					"Threshold": "-2.6500"
+				},
+				{
+					"ItemResponseOID": "AFB6262E-2B9F-42D4-82BB-E556A307141B",
+					"StepOrder": "3",
+					"Threshold": "-1.9420"
+				},
+				{
+					"ItemResponseOID": "8AE5339A-1643-4D77-8686-C81546E918A0",
+					"StepOrder": "4",
+					"Threshold": "-0.7820"
+				},
+				{
+					"ItemResponseOID": "B198AFB2-E9BD-4A30-B8B9-B3052CA04135",
+					"StepOrder": "5",
+					"Threshold": "0.4000"
+				}
+			]
+		},
+		{
+			"FormItemOID": "7178A621-BA3A-4471-887B-E25355B90E4C",
+			"ID": "Global02R1",
+			"A_GRM": "2.97000",
+			"Map": [
+				{
+					"ItemResponseOID": "3A6A52B8-9BD5-490A-8844-E0FDE0C603F6",
+					"StepOrder": "2",
+					"Threshold": "-2.8120"
+				},
+				{
+					"ItemResponseOID": "5623B4F7-0085-46CD-9A79-D43B2DEC49CB",
+					"StepOrder": "3",
+					"Threshold": "-1.8950"
+				},
+				{
+					"ItemResponseOID": "DF562537-E4B5-4201-9223-DEC46988E476",
+					"StepOrder": "4",
+					"Threshold": "-0.8100"
+				},
+				{
+					"ItemResponseOID": "BC0514BF-A52A-4E04-8B85-554F6A01D4C2",
+					"StepOrder": "5",
+					"Threshold": "0.4170"
+				}
+			]
+		},
+		{
+			"FormItemOID": "A1F687CB-8091-46D4-9E5D-FD6D0C17C662",
+			"ID": "PedGlobal6R1",
+			"A_GRM": "0.99800",
+			"Map": [
+				{
+					"ItemResponseOID": "0C89A274-860F-412C-AE66-B5D9403786B1",
+					"StepOrder": "2",
+					"Threshold": "-4.5670"
+				},
+				{
+					"ItemResponseOID": "153DFADD-9FEC-42F4-BC28-3BFA88CC16E3",
+					"StepOrder": "3",
+					"Threshold": "-2.9610"
+				},
+				{
+					"ItemResponseOID": "75F3B0DC-6B2F-428A-BDBE-EDD5C355805C",
+					"StepOrder": "4",
+					"Threshold": "-0.8340"
+				},
+				{
+					"ItemResponseOID": "D8106D22-562B-4EC2-B227-13B8560A7027",
+					"StepOrder": "5",
+					"Threshold": "1.1160"
+				}
+			]
+		},
+		{
+			"FormItemOID": "C14169AD-B6C9-4CA8-AD12-6B47C34082C6",
+			"ID": "PedGlobal2R1",
+			"A_GRM": "0.95100",
+			"Map": [
+				{
+					"ItemResponseOID": "3A293560-770B-4B88-BC1B-59A0714AE8EF",
+					"StepOrder": "2",
+					"Threshold": "-4.2890"
+				},
+				{
+					"ItemResponseOID": "48E585B8-9D69-4BF6-8B97-CADBDF23EEFA",
+					"StepOrder": "3",
+					"Threshold": "-2.8520"
+				},
+				{
+					"ItemResponseOID": "CDB4EC36-5EAE-496A-A156-290BE3A36B91",
+					"StepOrder": "4",
+					"Threshold": "-0.7510"
+				},
+				{
+					"ItemResponseOID": "700AAD89-F256-4246-AC45-2D8DD9D5414C",
+					"StepOrder": "5",
+					"Threshold": "2.3510"
+				}
+			]
+		}
+	]
+}

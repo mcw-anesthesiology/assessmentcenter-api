@@ -1,1 +1,365 @@
-{"DateFinished":"","Items":[{"FormItemOID":"E627B87D-ADC1-471F-9BC2-50F7A74287DE","ID":"FSE31053x2","Order":"1","ItemType":"","Elements":[{"ElementOID":"7D0AADD1-C313-475F-894C-7BA712D8DA9C","Description":"I have someone who will listen to me when I need to talk","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"E627B87D-ADC1-471F-9BC2-50F7A74287DE","ItemResponseOID":"EC5A64E5-ACAD-4364-A49E-BFD9055FC4BD", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"E627B87D-ADC1-471F-9BC2-50F7A74287DE","ItemResponseOID":"99651B01-8983-4D2C-8FA9-927FDA8720C6", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"E627B87D-ADC1-471F-9BC2-50F7A74287DE","ItemResponseOID":"DA56E6EA-9511-454E-8D87-8277D1717B84", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"E627B87D-ADC1-471F-9BC2-50F7A74287DE","ItemResponseOID":"629E46F7-64C5-4371-AFA8-22653E36C1EA", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"E627B87D-ADC1-471F-9BC2-50F7A74287DE","ItemResponseOID":"B43FFB5B-CA5F-43D4-87EF-45B7236B8701", "Value":"5","Position":"5"}]}]},{"FormItemOID":"285C963D-849D-42C9-AD4C-1DC954787FD8","ID":"FSE31059x2","Order":"2","ItemType":"","Elements":[{"ElementOID":"8B5126CC-A826-487E-89F4-5E3B9A9DC922","Description":"I have someone to confide in or talk to about myself or my problems","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"285C963D-849D-42C9-AD4C-1DC954787FD8","ItemResponseOID":"48188E4B-98FA-4ED0-87F5-14181CCD97B5", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"285C963D-849D-42C9-AD4C-1DC954787FD8","ItemResponseOID":"15F25857-F92D-4F27-A6CB-3B749D9D2997", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"285C963D-849D-42C9-AD4C-1DC954787FD8","ItemResponseOID":"A30E7A15-ABDB-4803-A4D3-3CA0F4730517", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"285C963D-849D-42C9-AD4C-1DC954787FD8","ItemResponseOID":"C1527160-DC80-4EE0-977D-548436C37A83", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"285C963D-849D-42C9-AD4C-1DC954787FD8","ItemResponseOID":"19A87949-ABF9-462F-BA4E-5C14F74D5AD4", "Value":"5","Position":"5"}]}]},{"FormItemOID":"25E30DB6-B804-45FB-B2F3-0F445354BD33","ID":"SS12x","Order":"3","ItemType":"","Elements":[{"ElementOID":"D8975989-D42C-45EA-A017-BE2EE9770470","Description":"I have someone who makes me feel appreciated","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"25E30DB6-B804-45FB-B2F3-0F445354BD33","ItemResponseOID":"5253888D-C107-4C08-AB74-BBBA9E3F0DDE", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"25E30DB6-B804-45FB-B2F3-0F445354BD33","ItemResponseOID":"314C76DB-620A-46E7-813C-0DEAE178BB1A", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"25E30DB6-B804-45FB-B2F3-0F445354BD33","ItemResponseOID":"A8722D4F-0A8B-4152-A71D-B3B154DD71DB", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"25E30DB6-B804-45FB-B2F3-0F445354BD33","ItemResponseOID":"3ACB287F-11A5-4AD9-A180-DFCC4479A3D6", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"25E30DB6-B804-45FB-B2F3-0F445354BD33","ItemResponseOID":"6756006B-E0B0-459F-97DC-5DE8BDB1B5C8", "Value":"5","Position":"5"}]}]},{"FormItemOID":"C0D51440-27E6-4DE1-A4F4-041031FA35ED","ID":"SSQ3x2","Order":"4","ItemType":"","Elements":[{"ElementOID":"71778910-947E-4858-8DAE-B70C360A749A","Description":"I have someone to talk with when I have a bad day","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"C0D51440-27E6-4DE1-A4F4-041031FA35ED","ItemResponseOID":"AF6ED08D-45AA-45A7-8303-6D2F403007EE", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"C0D51440-27E6-4DE1-A4F4-041031FA35ED","ItemResponseOID":"5FB4E819-FDA1-4228-BB38-C8AF01BD704F", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"C0D51440-27E6-4DE1-A4F4-041031FA35ED","ItemResponseOID":"010FF61D-7E81-40E4-90FB-CBF520C4C6CC", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"C0D51440-27E6-4DE1-A4F4-041031FA35ED","ItemResponseOID":"14F03C52-9A2A-43D4-B5AC-4806BA092DB0", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"C0D51440-27E6-4DE1-A4F4-041031FA35ED","ItemResponseOID":"CA660E4C-C5F6-4FC8-AB82-A0066B5CB31A", "Value":"5","Position":"5"}]}]},{"FormItemOID":"D05EE7A7-6350-43BF-84F5-CB05C6BF9771","ID":"FSE31069x2","Order":"5","ItemType":"","Elements":[{"ElementOID":"29ECC927-959C-4E36-9848-CAA0E88CBACC","Description":"I have someone who understands my problems","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"D05EE7A7-6350-43BF-84F5-CB05C6BF9771","ItemResponseOID":"E2F07FD0-040E-4D1C-90F0-A3AE733B6C2A", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"D05EE7A7-6350-43BF-84F5-CB05C6BF9771","ItemResponseOID":"CA78C5C7-89D5-41E8-A737-6BDF90C5BAE9", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"D05EE7A7-6350-43BF-84F5-CB05C6BF9771","ItemResponseOID":"76454CDE-7921-4991-996B-868DCBE21125", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"D05EE7A7-6350-43BF-84F5-CB05C6BF9771","ItemResponseOID":"8E6E85C0-BD00-4351-B84B-37FA4A8E7F82", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"D05EE7A7-6350-43BF-84F5-CB05C6BF9771","ItemResponseOID":"70B2E390-E273-4891-9A0C-F9A64B426EA5", "Value":"5","Position":"5"}]}]},{"FormItemOID":"1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65","ID":"SSE-CaPS6","Order":"6","ItemType":"","Elements":[{"ElementOID":"78B6E73E-2602-483C-B044-A66AD2B972CE","Description":"I have someone I trust to talk with about my feelings","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65","ItemResponseOID":"EE60570F-5C94-4036-94A5-2F71BDA4034A", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65","ItemResponseOID":"169B832C-2DB7-472E-A8A6-786E10141CE8", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65","ItemResponseOID":"BF0F0115-0AD6-4F00-BB21-0719E08A2D00", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65","ItemResponseOID":"B3FE5953-075C-48D3-9E1F-76A5576A8C5F", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65","ItemResponseOID":"B0847A3C-00BF-4269-8434-E5DB186D030E", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "E627B87D-ADC1-471F-9BC2-50F7A74287DE",
+			"ID": "FSE31053x2",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "7D0AADD1-C313-475F-894C-7BA712D8DA9C",
+					"Description": "I have someone who will listen to me when I need to talk",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "E627B87D-ADC1-471F-9BC2-50F7A74287DE",
+							"ItemResponseOID": "EC5A64E5-ACAD-4364-A49E-BFD9055FC4BD",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "E627B87D-ADC1-471F-9BC2-50F7A74287DE",
+							"ItemResponseOID": "99651B01-8983-4D2C-8FA9-927FDA8720C6",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "E627B87D-ADC1-471F-9BC2-50F7A74287DE",
+							"ItemResponseOID": "DA56E6EA-9511-454E-8D87-8277D1717B84",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "E627B87D-ADC1-471F-9BC2-50F7A74287DE",
+							"ItemResponseOID": "629E46F7-64C5-4371-AFA8-22653E36C1EA",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "E627B87D-ADC1-471F-9BC2-50F7A74287DE",
+							"ItemResponseOID": "B43FFB5B-CA5F-43D4-87EF-45B7236B8701",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "285C963D-849D-42C9-AD4C-1DC954787FD8",
+			"ID": "FSE31059x2",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8B5126CC-A826-487E-89F4-5E3B9A9DC922",
+					"Description": "I have someone to confide in or talk to about myself or my problems",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "285C963D-849D-42C9-AD4C-1DC954787FD8",
+							"ItemResponseOID": "48188E4B-98FA-4ED0-87F5-14181CCD97B5",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "285C963D-849D-42C9-AD4C-1DC954787FD8",
+							"ItemResponseOID": "15F25857-F92D-4F27-A6CB-3B749D9D2997",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "285C963D-849D-42C9-AD4C-1DC954787FD8",
+							"ItemResponseOID": "A30E7A15-ABDB-4803-A4D3-3CA0F4730517",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "285C963D-849D-42C9-AD4C-1DC954787FD8",
+							"ItemResponseOID": "C1527160-DC80-4EE0-977D-548436C37A83",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "285C963D-849D-42C9-AD4C-1DC954787FD8",
+							"ItemResponseOID": "19A87949-ABF9-462F-BA4E-5C14F74D5AD4",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "25E30DB6-B804-45FB-B2F3-0F445354BD33",
+			"ID": "SS12x",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "D8975989-D42C-45EA-A017-BE2EE9770470",
+					"Description": "I have someone who makes me feel appreciated",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "25E30DB6-B804-45FB-B2F3-0F445354BD33",
+							"ItemResponseOID": "5253888D-C107-4C08-AB74-BBBA9E3F0DDE",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "25E30DB6-B804-45FB-B2F3-0F445354BD33",
+							"ItemResponseOID": "314C76DB-620A-46E7-813C-0DEAE178BB1A",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "25E30DB6-B804-45FB-B2F3-0F445354BD33",
+							"ItemResponseOID": "A8722D4F-0A8B-4152-A71D-B3B154DD71DB",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "25E30DB6-B804-45FB-B2F3-0F445354BD33",
+							"ItemResponseOID": "3ACB287F-11A5-4AD9-A180-DFCC4479A3D6",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "25E30DB6-B804-45FB-B2F3-0F445354BD33",
+							"ItemResponseOID": "6756006B-E0B0-459F-97DC-5DE8BDB1B5C8",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "C0D51440-27E6-4DE1-A4F4-041031FA35ED",
+			"ID": "SSQ3x2",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "71778910-947E-4858-8DAE-B70C360A749A",
+					"Description": "I have someone to talk with when I have a bad day",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "C0D51440-27E6-4DE1-A4F4-041031FA35ED",
+							"ItemResponseOID": "AF6ED08D-45AA-45A7-8303-6D2F403007EE",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "C0D51440-27E6-4DE1-A4F4-041031FA35ED",
+							"ItemResponseOID": "5FB4E819-FDA1-4228-BB38-C8AF01BD704F",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "C0D51440-27E6-4DE1-A4F4-041031FA35ED",
+							"ItemResponseOID": "010FF61D-7E81-40E4-90FB-CBF520C4C6CC",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "C0D51440-27E6-4DE1-A4F4-041031FA35ED",
+							"ItemResponseOID": "14F03C52-9A2A-43D4-B5AC-4806BA092DB0",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "C0D51440-27E6-4DE1-A4F4-041031FA35ED",
+							"ItemResponseOID": "CA660E4C-C5F6-4FC8-AB82-A0066B5CB31A",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "D05EE7A7-6350-43BF-84F5-CB05C6BF9771",
+			"ID": "FSE31069x2",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "29ECC927-959C-4E36-9848-CAA0E88CBACC",
+					"Description": "I have someone who understands my problems",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "D05EE7A7-6350-43BF-84F5-CB05C6BF9771",
+							"ItemResponseOID": "E2F07FD0-040E-4D1C-90F0-A3AE733B6C2A",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "D05EE7A7-6350-43BF-84F5-CB05C6BF9771",
+							"ItemResponseOID": "CA78C5C7-89D5-41E8-A737-6BDF90C5BAE9",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "D05EE7A7-6350-43BF-84F5-CB05C6BF9771",
+							"ItemResponseOID": "76454CDE-7921-4991-996B-868DCBE21125",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "D05EE7A7-6350-43BF-84F5-CB05C6BF9771",
+							"ItemResponseOID": "8E6E85C0-BD00-4351-B84B-37FA4A8E7F82",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "D05EE7A7-6350-43BF-84F5-CB05C6BF9771",
+							"ItemResponseOID": "70B2E390-E273-4891-9A0C-F9A64B426EA5",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65",
+			"ID": "SSE-CaPS6",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "78B6E73E-2602-483C-B044-A66AD2B972CE",
+					"Description": "I have someone I trust to talk with about my feelings",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65",
+							"ItemResponseOID": "EE60570F-5C94-4036-94A5-2F71BDA4034A",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65",
+							"ItemResponseOID": "169B832C-2DB7-472E-A8A6-786E10141CE8",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65",
+							"ItemResponseOID": "BF0F0115-0AD6-4F00-BB21-0719E08A2D00",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65",
+							"ItemResponseOID": "B3FE5953-075C-48D3-9E1F-76A5576A8C5F",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "1D9E1D8A-6AAF-4FD7-B932-6EE3BBFE6C65",
+							"ItemResponseOID": "B0847A3C-00BF-4269-8434-E5DB186D030E",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

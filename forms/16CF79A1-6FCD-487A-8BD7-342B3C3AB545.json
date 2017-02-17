@@ -1,1 +1,365 @@
-{"DateFinished":"","Items":[{"FormItemOID":"66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095","ID":"SMKHLTH01","Order":"1","ItemType":"","Elements":[{"ElementOID":"809212C7-4D66-4EA3-8044-B3C33FC4E70C","Description":"Smoking is taking years off my life.","ElementOrder":"1"},{"ElementOID":"207068CA-912E-4062-A000-B2059EC69FD4","Description":"ContainerFor207068CA-912E-4062-A000-B2059EC69FD4","ElementOrder":"2","Map":[{"ElementOID":"14D60F9E-20D5-4770-936C-36F841816AB5","Description":"Not at all","FormItemOID":"66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095","ItemResponseOID":"E92991B4-589A-4AFA-8663-DF48338BA5C8", "Value":"1","Position":"1"},{"ElementOID":"C6EAC9D8-D742-49AF-96F5-EECCF03BDEC5","Description":"A little bit","FormItemOID":"66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095","ItemResponseOID":"4E68FBC3-695F-420A-98CB-BCB75E8ECCB2", "Value":"2","Position":"2"},{"ElementOID":"1BDC20AE-84AE-4772-BD70-8BB3A7D1A44E","Description":"Somewhat","FormItemOID":"66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095","ItemResponseOID":"89E8BE9E-2B76-4C0A-B660-DD016559037D", "Value":"3","Position":"3"},{"ElementOID":"8B9095E2-3D38-4ED3-A770-1AA736813BF6","Description":"Quite a bit","FormItemOID":"66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095","ItemResponseOID":"CDB3E25A-F2B2-4101-982B-1881496503FD", "Value":"4","Position":"4"},{"ElementOID":"15DD1C4E-F532-4373-98B5-82E5BBD8F029","Description":"Very much","FormItemOID":"66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095","ItemResponseOID":"51562482-D4FB-43B3-8D15-622BE3990642", "Value":"5","Position":"5"}]}]},{"FormItemOID":"87A7EAB6-DEC0-4962-BC92-7D51B7F755A9","ID":"SMKHLTH02","Order":"2","ItemType":"","Elements":[{"ElementOID":"0B0DBA53-8167-49B7-9252-175A86C55880","Description":"Smoking makes me worry about getting heart troubles.","ElementOrder":"1"},{"ElementOID":"D7CF4B48-4D25-41B9-8D0B-ECEDF9CEA8D6","Description":"ContainerForD7CF4B48-4D25-41B9-8D0B-ECEDF9CEA8D6","ElementOrder":"2","Map":[{"ElementOID":"01BFB8C9-E4B5-432A-BDF6-BED7D808A701","Description":"Not at all","FormItemOID":"87A7EAB6-DEC0-4962-BC92-7D51B7F755A9","ItemResponseOID":"E3002F7B-52AB-4C0D-8D6B-2A42DDAE2220", "Value":"1","Position":"1"},{"ElementOID":"88EBA2E8-56E1-41C6-B346-91360F3E5D38","Description":"A little bit","FormItemOID":"87A7EAB6-DEC0-4962-BC92-7D51B7F755A9","ItemResponseOID":"7673E019-78D5-4D19-86C6-EA241BE11283", "Value":"2","Position":"2"},{"ElementOID":"C94D888C-3B13-4A71-85B3-C357F076D055","Description":"Somewhat","FormItemOID":"87A7EAB6-DEC0-4962-BC92-7D51B7F755A9","ItemResponseOID":"A3CCFC94-40DE-43C9-A3F8-4A189A143D9D", "Value":"3","Position":"3"},{"ElementOID":"13413484-E6FE-4F20-A50D-9007D34CDB4E","Description":"Quite a bit","FormItemOID":"87A7EAB6-DEC0-4962-BC92-7D51B7F755A9","ItemResponseOID":"2AA5AE0E-374D-4298-B976-F12A1AC6458E", "Value":"4","Position":"4"},{"ElementOID":"9885C373-9C5C-4F0C-9C83-9F4DDADB03CD","Description":"Very much","FormItemOID":"87A7EAB6-DEC0-4962-BC92-7D51B7F755A9","ItemResponseOID":"4DB29A7E-6103-4C0D-B012-CD8789CB9C8D", "Value":"5","Position":"5"}]}]},{"FormItemOID":"E196F9EA-635D-4A6C-80A3-7DD501E01326","ID":"SMKHLTH03","Order":"3","ItemType":"","Elements":[{"ElementOID":"E5955ACF-A5AB-434F-A6DE-10271273423E","Description":"Smoking causes me to get tired easily.","ElementOrder":"1"},{"ElementOID":"E505AFD3-3437-46F8-A1C3-7D3DD9A35471","Description":"ContainerForE505AFD3-3437-46F8-A1C3-7D3DD9A35471","ElementOrder":"2","Map":[{"ElementOID":"79C7962C-5EF8-4794-A649-EB64C9346E32","Description":"Not at all","FormItemOID":"E196F9EA-635D-4A6C-80A3-7DD501E01326","ItemResponseOID":"82781377-97D3-46B5-B744-AE2455D1EF27", "Value":"1","Position":"1"},{"ElementOID":"74F647CD-D8EB-491E-B77E-C10EB6040F8D","Description":"A little bit","FormItemOID":"E196F9EA-635D-4A6C-80A3-7DD501E01326","ItemResponseOID":"92AE8A23-DAB1-461F-B8DB-AE5B0247AD75", "Value":"2","Position":"2"},{"ElementOID":"1C7ACD12-274C-45EF-8D8B-590FB83192A5","Description":"Somewhat","FormItemOID":"E196F9EA-635D-4A6C-80A3-7DD501E01326","ItemResponseOID":"C369ED0F-2858-4DB8-8309-4CDEAD505ABE", "Value":"3","Position":"3"},{"ElementOID":"46D5567C-39F9-4581-8F45-6489C83C6AB0","Description":"Quite a bit","FormItemOID":"E196F9EA-635D-4A6C-80A3-7DD501E01326","ItemResponseOID":"D2876C52-DE80-4C6E-A4A5-892EF4EBC9F0", "Value":"4","Position":"4"},{"ElementOID":"A78A9D31-41AA-41A9-8C35-5ECD07CC6FA8","Description":"Very much","FormItemOID":"E196F9EA-635D-4A6C-80A3-7DD501E01326","ItemResponseOID":"96099281-40CF-4BDC-99DD-620E1B557251", "Value":"5","Position":"5"}]}]},{"FormItemOID":"7A5E43C3-8918-426F-AD43-D22F194523D6","ID":"SMKHLTH04","Order":"4","ItemType":"","Elements":[{"ElementOID":"15FF8CA0-2C73-4289-B3FB-150118139181","Description":"Smoking makes me short of breath.","ElementOrder":"1"},{"ElementOID":"19A996BF-1B9F-4DD3-A618-E4F4A9649FF0","Description":"ContainerFor19A996BF-1B9F-4DD3-A618-E4F4A9649FF0","ElementOrder":"2","Map":[{"ElementOID":"7AA849A9-D822-429D-9903-C81482C36CC8","Description":"Not at all","FormItemOID":"7A5E43C3-8918-426F-AD43-D22F194523D6","ItemResponseOID":"39A3E1B6-8D1A-45DC-8E1E-09B111E8C614", "Value":"1","Position":"1"},{"ElementOID":"3F73F723-417E-48AF-84DB-34A6F2A810B8","Description":"A little bit","FormItemOID":"7A5E43C3-8918-426F-AD43-D22F194523D6","ItemResponseOID":"DF1099F2-F029-4FE4-B11D-D9B99F3D0447", "Value":"2","Position":"2"},{"ElementOID":"35E7DCBE-CC8E-42A3-8427-4FD6BAFAC154","Description":"Somewhat","FormItemOID":"7A5E43C3-8918-426F-AD43-D22F194523D6","ItemResponseOID":"44D70D2F-5F71-4249-A366-BCECE415A374", "Value":"3","Position":"3"},{"ElementOID":"B6D1B80F-0CF9-4E30-9430-ABDA5FBF5FEC","Description":"Quite a bit","FormItemOID":"7A5E43C3-8918-426F-AD43-D22F194523D6","ItemResponseOID":"F563F1D3-331E-4B6E-96A0-8189E86798B5", "Value":"4","Position":"4"},{"ElementOID":"920BF3ED-8159-4816-BCBD-AD63D502B067","Description":"Very much","FormItemOID":"7A5E43C3-8918-426F-AD43-D22F194523D6","ItemResponseOID":"D640460B-342E-4D82-A09F-4363312273FE", "Value":"5","Position":"5"}]}]},{"FormItemOID":"730E014A-FF31-40CD-B982-5F044EC29E7B","ID":"SMKHLTH05","Order":"5","ItemType":"","Elements":[{"ElementOID":"D6CFD9F7-309E-4601-8E36-9DD30EE659AA","Description":"Smoking irritates my mouth and throat.","ElementOrder":"1"},{"ElementOID":"3C7923CA-C1EF-406A-B25E-C8456A41458F","Description":"ContainerFor3C7923CA-C1EF-406A-B25E-C8456A41458F","ElementOrder":"2","Map":[{"ElementOID":"94EF596F-C59C-46D2-A3A4-1FD18F97D3DB","Description":"Not at all","FormItemOID":"730E014A-FF31-40CD-B982-5F044EC29E7B","ItemResponseOID":"45AD9112-FD23-4FDE-99F6-42D466ED5FDD", "Value":"1","Position":"1"},{"ElementOID":"033ACC02-3989-4920-B328-2AE545D1011F","Description":"A little bit","FormItemOID":"730E014A-FF31-40CD-B982-5F044EC29E7B","ItemResponseOID":"E05A7806-C482-4DF9-AED0-3A15B9B00DB5", "Value":"2","Position":"2"},{"ElementOID":"E9180816-82F0-48F8-9A54-C9043DBD711B","Description":"Somewhat","FormItemOID":"730E014A-FF31-40CD-B982-5F044EC29E7B","ItemResponseOID":"49BA44EB-521E-48F5-8AC9-E7D8F6C7655E", "Value":"3","Position":"3"},{"ElementOID":"B012FA5E-FEA0-4B6E-B32F-D4243D6F482D","Description":"Quite a bit","FormItemOID":"730E014A-FF31-40CD-B982-5F044EC29E7B","ItemResponseOID":"DE86EBEA-41A9-42A2-A5AA-DEBB06D95530", "Value":"4","Position":"4"},{"ElementOID":"66A2827D-3287-4ADC-98DA-A17869233D7B","Description":"Very much","FormItemOID":"730E014A-FF31-40CD-B982-5F044EC29E7B","ItemResponseOID":"FDD47B1B-2E1B-4A1A-B169-D51A5D06BE0C", "Value":"5","Position":"5"}]}]},{"FormItemOID":"BFFBCC46-3628-404C-9987-26A37DF1A0F8","ID":"SMKHLTH06","Order":"6","ItemType":"","Elements":[{"ElementOID":"C761A793-EABE-48BF-9CAC-A32D51B8E991","Description":"I worry that smoking will lower my quality of life.","ElementOrder":"1"},{"ElementOID":"1988D6D9-BFE5-4FE5-ABAD-ACD54312BC1E","Description":"ContainerFor1988D6D9-BFE5-4FE5-ABAD-ACD54312BC1E","ElementOrder":"2","Map":[{"ElementOID":"DD9C558A-CCD2-4B03-86F8-940A307ED582","Description":"Not at all","FormItemOID":"BFFBCC46-3628-404C-9987-26A37DF1A0F8","ItemResponseOID":"7B5D6F22-6A11-40F1-95AF-A6C7C0E212CA", "Value":"1","Position":"1"},{"ElementOID":"CBBD7E94-0749-4DED-888F-9C8801AF74AD","Description":"A little bit","FormItemOID":"BFFBCC46-3628-404C-9987-26A37DF1A0F8","ItemResponseOID":"500A28BE-BE4F-47F8-9EEE-72DD21D70F09", "Value":"2","Position":"2"},{"ElementOID":"0756A0F0-F2BA-4AC9-9D9C-CF6EC8C58370","Description":"Somewhat","FormItemOID":"BFFBCC46-3628-404C-9987-26A37DF1A0F8","ItemResponseOID":"23941E78-6693-46E5-9978-5EFBD789B8FF", "Value":"3","Position":"3"},{"ElementOID":"C60A793A-23FF-4C6D-8BFF-DE57244EA89A","Description":"Quite a bit","FormItemOID":"BFFBCC46-3628-404C-9987-26A37DF1A0F8","ItemResponseOID":"D601B4FC-551D-4D67-87BA-4C1AC6CD5FD1", "Value":"4","Position":"4"},{"ElementOID":"7C6609B5-DAC1-4C72-9394-DBC73AAE5A67","Description":"Very much","FormItemOID":"BFFBCC46-3628-404C-9987-26A37DF1A0F8","ItemResponseOID":"3AF08781-7B1C-4052-BAC6-17D6548BC181", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095",
+			"ID": "SMKHLTH01",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "809212C7-4D66-4EA3-8044-B3C33FC4E70C",
+					"Description": "Smoking is taking years off my life.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "207068CA-912E-4062-A000-B2059EC69FD4",
+					"Description": "ContainerFor207068CA-912E-4062-A000-B2059EC69FD4",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "14D60F9E-20D5-4770-936C-36F841816AB5",
+							"Description": "Not at all",
+							"FormItemOID": "66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095",
+							"ItemResponseOID": "E92991B4-589A-4AFA-8663-DF48338BA5C8",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "C6EAC9D8-D742-49AF-96F5-EECCF03BDEC5",
+							"Description": "A little bit",
+							"FormItemOID": "66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095",
+							"ItemResponseOID": "4E68FBC3-695F-420A-98CB-BCB75E8ECCB2",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "1BDC20AE-84AE-4772-BD70-8BB3A7D1A44E",
+							"Description": "Somewhat",
+							"FormItemOID": "66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095",
+							"ItemResponseOID": "89E8BE9E-2B76-4C0A-B660-DD016559037D",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "8B9095E2-3D38-4ED3-A770-1AA736813BF6",
+							"Description": "Quite a bit",
+							"FormItemOID": "66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095",
+							"ItemResponseOID": "CDB3E25A-F2B2-4101-982B-1881496503FD",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15DD1C4E-F532-4373-98B5-82E5BBD8F029",
+							"Description": "Very much",
+							"FormItemOID": "66F60A4F-9B8F-4F77-B7E3-1D1C50AE1095",
+							"ItemResponseOID": "51562482-D4FB-43B3-8D15-622BE3990642",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "87A7EAB6-DEC0-4962-BC92-7D51B7F755A9",
+			"ID": "SMKHLTH02",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "0B0DBA53-8167-49B7-9252-175A86C55880",
+					"Description": "Smoking makes me worry about getting heart troubles.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D7CF4B48-4D25-41B9-8D0B-ECEDF9CEA8D6",
+					"Description": "ContainerForD7CF4B48-4D25-41B9-8D0B-ECEDF9CEA8D6",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "01BFB8C9-E4B5-432A-BDF6-BED7D808A701",
+							"Description": "Not at all",
+							"FormItemOID": "87A7EAB6-DEC0-4962-BC92-7D51B7F755A9",
+							"ItemResponseOID": "E3002F7B-52AB-4C0D-8D6B-2A42DDAE2220",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "88EBA2E8-56E1-41C6-B346-91360F3E5D38",
+							"Description": "A little bit",
+							"FormItemOID": "87A7EAB6-DEC0-4962-BC92-7D51B7F755A9",
+							"ItemResponseOID": "7673E019-78D5-4D19-86C6-EA241BE11283",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "C94D888C-3B13-4A71-85B3-C357F076D055",
+							"Description": "Somewhat",
+							"FormItemOID": "87A7EAB6-DEC0-4962-BC92-7D51B7F755A9",
+							"ItemResponseOID": "A3CCFC94-40DE-43C9-A3F8-4A189A143D9D",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "13413484-E6FE-4F20-A50D-9007D34CDB4E",
+							"Description": "Quite a bit",
+							"FormItemOID": "87A7EAB6-DEC0-4962-BC92-7D51B7F755A9",
+							"ItemResponseOID": "2AA5AE0E-374D-4298-B976-F12A1AC6458E",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9885C373-9C5C-4F0C-9C83-9F4DDADB03CD",
+							"Description": "Very much",
+							"FormItemOID": "87A7EAB6-DEC0-4962-BC92-7D51B7F755A9",
+							"ItemResponseOID": "4DB29A7E-6103-4C0D-B012-CD8789CB9C8D",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "E196F9EA-635D-4A6C-80A3-7DD501E01326",
+			"ID": "SMKHLTH03",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "E5955ACF-A5AB-434F-A6DE-10271273423E",
+					"Description": "Smoking causes me to get tired easily.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E505AFD3-3437-46F8-A1C3-7D3DD9A35471",
+					"Description": "ContainerForE505AFD3-3437-46F8-A1C3-7D3DD9A35471",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "79C7962C-5EF8-4794-A649-EB64C9346E32",
+							"Description": "Not at all",
+							"FormItemOID": "E196F9EA-635D-4A6C-80A3-7DD501E01326",
+							"ItemResponseOID": "82781377-97D3-46B5-B744-AE2455D1EF27",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "74F647CD-D8EB-491E-B77E-C10EB6040F8D",
+							"Description": "A little bit",
+							"FormItemOID": "E196F9EA-635D-4A6C-80A3-7DD501E01326",
+							"ItemResponseOID": "92AE8A23-DAB1-461F-B8DB-AE5B0247AD75",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "1C7ACD12-274C-45EF-8D8B-590FB83192A5",
+							"Description": "Somewhat",
+							"FormItemOID": "E196F9EA-635D-4A6C-80A3-7DD501E01326",
+							"ItemResponseOID": "C369ED0F-2858-4DB8-8309-4CDEAD505ABE",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "46D5567C-39F9-4581-8F45-6489C83C6AB0",
+							"Description": "Quite a bit",
+							"FormItemOID": "E196F9EA-635D-4A6C-80A3-7DD501E01326",
+							"ItemResponseOID": "D2876C52-DE80-4C6E-A4A5-892EF4EBC9F0",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "A78A9D31-41AA-41A9-8C35-5ECD07CC6FA8",
+							"Description": "Very much",
+							"FormItemOID": "E196F9EA-635D-4A6C-80A3-7DD501E01326",
+							"ItemResponseOID": "96099281-40CF-4BDC-99DD-620E1B557251",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "7A5E43C3-8918-426F-AD43-D22F194523D6",
+			"ID": "SMKHLTH04",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "15FF8CA0-2C73-4289-B3FB-150118139181",
+					"Description": "Smoking makes me short of breath.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "19A996BF-1B9F-4DD3-A618-E4F4A9649FF0",
+					"Description": "ContainerFor19A996BF-1B9F-4DD3-A618-E4F4A9649FF0",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "7AA849A9-D822-429D-9903-C81482C36CC8",
+							"Description": "Not at all",
+							"FormItemOID": "7A5E43C3-8918-426F-AD43-D22F194523D6",
+							"ItemResponseOID": "39A3E1B6-8D1A-45DC-8E1E-09B111E8C614",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "3F73F723-417E-48AF-84DB-34A6F2A810B8",
+							"Description": "A little bit",
+							"FormItemOID": "7A5E43C3-8918-426F-AD43-D22F194523D6",
+							"ItemResponseOID": "DF1099F2-F029-4FE4-B11D-D9B99F3D0447",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "35E7DCBE-CC8E-42A3-8427-4FD6BAFAC154",
+							"Description": "Somewhat",
+							"FormItemOID": "7A5E43C3-8918-426F-AD43-D22F194523D6",
+							"ItemResponseOID": "44D70D2F-5F71-4249-A366-BCECE415A374",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B6D1B80F-0CF9-4E30-9430-ABDA5FBF5FEC",
+							"Description": "Quite a bit",
+							"FormItemOID": "7A5E43C3-8918-426F-AD43-D22F194523D6",
+							"ItemResponseOID": "F563F1D3-331E-4B6E-96A0-8189E86798B5",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "920BF3ED-8159-4816-BCBD-AD63D502B067",
+							"Description": "Very much",
+							"FormItemOID": "7A5E43C3-8918-426F-AD43-D22F194523D6",
+							"ItemResponseOID": "D640460B-342E-4D82-A09F-4363312273FE",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "730E014A-FF31-40CD-B982-5F044EC29E7B",
+			"ID": "SMKHLTH05",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "D6CFD9F7-309E-4601-8E36-9DD30EE659AA",
+					"Description": "Smoking irritates my mouth and throat.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "3C7923CA-C1EF-406A-B25E-C8456A41458F",
+					"Description": "ContainerFor3C7923CA-C1EF-406A-B25E-C8456A41458F",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "94EF596F-C59C-46D2-A3A4-1FD18F97D3DB",
+							"Description": "Not at all",
+							"FormItemOID": "730E014A-FF31-40CD-B982-5F044EC29E7B",
+							"ItemResponseOID": "45AD9112-FD23-4FDE-99F6-42D466ED5FDD",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "033ACC02-3989-4920-B328-2AE545D1011F",
+							"Description": "A little bit",
+							"FormItemOID": "730E014A-FF31-40CD-B982-5F044EC29E7B",
+							"ItemResponseOID": "E05A7806-C482-4DF9-AED0-3A15B9B00DB5",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "E9180816-82F0-48F8-9A54-C9043DBD711B",
+							"Description": "Somewhat",
+							"FormItemOID": "730E014A-FF31-40CD-B982-5F044EC29E7B",
+							"ItemResponseOID": "49BA44EB-521E-48F5-8AC9-E7D8F6C7655E",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B012FA5E-FEA0-4B6E-B32F-D4243D6F482D",
+							"Description": "Quite a bit",
+							"FormItemOID": "730E014A-FF31-40CD-B982-5F044EC29E7B",
+							"ItemResponseOID": "DE86EBEA-41A9-42A2-A5AA-DEBB06D95530",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "66A2827D-3287-4ADC-98DA-A17869233D7B",
+							"Description": "Very much",
+							"FormItemOID": "730E014A-FF31-40CD-B982-5F044EC29E7B",
+							"ItemResponseOID": "FDD47B1B-2E1B-4A1A-B169-D51A5D06BE0C",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "BFFBCC46-3628-404C-9987-26A37DF1A0F8",
+			"ID": "SMKHLTH06",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "C761A793-EABE-48BF-9CAC-A32D51B8E991",
+					"Description": "I worry that smoking will lower my quality of life.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "1988D6D9-BFE5-4FE5-ABAD-ACD54312BC1E",
+					"Description": "ContainerFor1988D6D9-BFE5-4FE5-ABAD-ACD54312BC1E",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "DD9C558A-CCD2-4B03-86F8-940A307ED582",
+							"Description": "Not at all",
+							"FormItemOID": "BFFBCC46-3628-404C-9987-26A37DF1A0F8",
+							"ItemResponseOID": "7B5D6F22-6A11-40F1-95AF-A6C7C0E212CA",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "CBBD7E94-0749-4DED-888F-9C8801AF74AD",
+							"Description": "A little bit",
+							"FormItemOID": "BFFBCC46-3628-404C-9987-26A37DF1A0F8",
+							"ItemResponseOID": "500A28BE-BE4F-47F8-9EEE-72DD21D70F09",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "0756A0F0-F2BA-4AC9-9D9C-CF6EC8C58370",
+							"Description": "Somewhat",
+							"FormItemOID": "BFFBCC46-3628-404C-9987-26A37DF1A0F8",
+							"ItemResponseOID": "23941E78-6693-46E5-9978-5EFBD789B8FF",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "C60A793A-23FF-4C6D-8BFF-DE57244EA89A",
+							"Description": "Quite a bit",
+							"FormItemOID": "BFFBCC46-3628-404C-9987-26A37DF1A0F8",
+							"ItemResponseOID": "D601B4FC-551D-4D67-87BA-4C1AC6CD5FD1",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "7C6609B5-DAC1-4C72-9394-DBC73AAE5A67",
+							"Description": "Very much",
+							"FormItemOID": "BFFBCC46-3628-404C-9987-26A37DF1A0F8",
+							"ItemResponseOID": "3AF08781-7B1C-4052-BAC6-17D6548BC181",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

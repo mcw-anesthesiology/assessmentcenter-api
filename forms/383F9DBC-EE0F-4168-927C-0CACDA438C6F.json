@@ -1,1 +1,525 @@
-{"DateFinished":"","Items":[{"FormItemOID":"FBFE03E8-4D4C-4951-9806-6AFBC1681210","ID":"HI7","Order":"1","ItemType":"","Elements":[{"ElementOID":"FFFB38DF-673D-422F-9424-86A3314151B1","Description":"During the past 7 days:","ElementOrder":"1"},{"ElementOID":"EE685CE1-9FF4-4CFA-AC40-4AB5C13A04B7","Description":"I feel fatigued","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Not at all","FormItemOID":"FBFE03E8-4D4C-4951-9806-6AFBC1681210","ItemResponseOID":"6F008CEA-B582-47A3-9E10-A2DA43542D6F", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"A little bit","FormItemOID":"FBFE03E8-4D4C-4951-9806-6AFBC1681210","ItemResponseOID":"74C85214-D60C-403E-9F35-A7166799F1B2", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Somewhat","FormItemOID":"FBFE03E8-4D4C-4951-9806-6AFBC1681210","ItemResponseOID":"DC3A21D1-6C82-48D4-8C33-609D6E38F79F", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Quite a bit","FormItemOID":"FBFE03E8-4D4C-4951-9806-6AFBC1681210","ItemResponseOID":"DA7A1C85-70F8-45B0-B2DF-BBC1620C757D", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Very much","FormItemOID":"FBFE03E8-4D4C-4951-9806-6AFBC1681210","ItemResponseOID":"BE607B2C-6D6F-4012-89D7-64D5B315FA20", "Value":"5","Position":"5"}]}]},{"FormItemOID":"F6F78823-AE37-409C-BC59-C3029FBBBFAD","ID":"FATEXP40","Order":"2","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"87D192DC-0E7F-4D09-ACC9-61B6B8DD36C8","Description":"How fatigued were you on average?","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Not at all","FormItemOID":"F6F78823-AE37-409C-BC59-C3029FBBBFAD","ItemResponseOID":"753ACF56-870B-4FB9-955B-F8A8D43A883E", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"A little bit","FormItemOID":"F6F78823-AE37-409C-BC59-C3029FBBBFAD","ItemResponseOID":"13678431-C37F-49A4-A09A-B2DB4272F6F6", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Somewhat","FormItemOID":"F6F78823-AE37-409C-BC59-C3029FBBBFAD","ItemResponseOID":"73CE5B58-1F7C-4F23-B93A-547B0D585DDF", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Quite a bit","FormItemOID":"F6F78823-AE37-409C-BC59-C3029FBBBFAD","ItemResponseOID":"FC2678CE-2E04-4A3F-9870-471E37722E33", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Very much","FormItemOID":"F6F78823-AE37-409C-BC59-C3029FBBBFAD","ItemResponseOID":"5777BB97-4F03-4604-A52B-3783D2AAA293", "Value":"5","Position":"5"}]}]},{"FormItemOID":"2BCBD7DB-B327-4CDD-8F53-6B275C7CF105","ID":"FATEXP41","Order":"3","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"7097D8F6-FE6E-4267-AFB6-BB00E1BAEF18","Description":"How run-down did you feel on average?","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Not at all","FormItemOID":"2BCBD7DB-B327-4CDD-8F53-6B275C7CF105","ItemResponseOID":"7971447C-E5DA-492F-A8F4-4B0C3463E3C1", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"A little bit","FormItemOID":"2BCBD7DB-B327-4CDD-8F53-6B275C7CF105","ItemResponseOID":"06584A71-321C-4DA2-AB04-0EFCA31A7FAA", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Somewhat","FormItemOID":"2BCBD7DB-B327-4CDD-8F53-6B275C7CF105","ItemResponseOID":"EF6F6305-7AFE-4C8F-944C-02077D25F94F", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Quite a bit","FormItemOID":"2BCBD7DB-B327-4CDD-8F53-6B275C7CF105","ItemResponseOID":"A482F07D-91DC-43C6-A424-28830864EA80", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Very much","FormItemOID":"2BCBD7DB-B327-4CDD-8F53-6B275C7CF105","ItemResponseOID":"8468527E-CA30-469D-992A-5F8794DFE350", "Value":"5","Position":"5"}]}]},{"FormItemOID":"3DC867D7-3FA3-46CE-A566-535E370399B4","ID":"An3","Order":"4","ItemType":"","Elements":[{"ElementOID":"FFFB38DF-673D-422F-9424-86A3314151B1","Description":"During the past 7 days:","ElementOrder":"1"},{"ElementOID":"1014096F-9F0E-46FB-BAC5-1D5A93CA82CF","Description":"I have trouble <u>starting</u> things because I am tired","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Not at all","FormItemOID":"3DC867D7-3FA3-46CE-A566-535E370399B4","ItemResponseOID":"4B8887FA-E4CB-4917-AC29-44C6589CC520", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"A little bit","FormItemOID":"3DC867D7-3FA3-46CE-A566-535E370399B4","ItemResponseOID":"0A40C2B7-7E55-4503-BDBE-E217035119C9", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Somewhat","FormItemOID":"3DC867D7-3FA3-46CE-A566-535E370399B4","ItemResponseOID":"46A0F41F-139F-470F-B814-8910B13CA741", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Quite a bit","FormItemOID":"3DC867D7-3FA3-46CE-A566-535E370399B4","ItemResponseOID":"C777E620-0CC9-44CC-AE85-730A0B65FF7B", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Very much","FormItemOID":"3DC867D7-3FA3-46CE-A566-535E370399B4","ItemResponseOID":"AA6A5B9A-C93E-4999-BD71-7F5F2EBAD835", "Value":"5","Position":"5"}]}]},{"FormItemOID":"8F6C7D0F-02A6-4849-B0B1-71076E4E1455","ID":"FATEXP35","Order":"5","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"B3EC36CF-3F24-4B5C-B662-A0543ED7C5E2","Description":"How much were you bothered by your fatigue on average?","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Not at all","FormItemOID":"8F6C7D0F-02A6-4849-B0B1-71076E4E1455","ItemResponseOID":"3CF79806-55CD-4140-97E8-ADF3FEDE70B3", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"A little bit","FormItemOID":"8F6C7D0F-02A6-4849-B0B1-71076E4E1455","ItemResponseOID":"468D83FC-AC6A-4514-9CF0-523C3192F2AD", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Somewhat","FormItemOID":"8F6C7D0F-02A6-4849-B0B1-71076E4E1455","ItemResponseOID":"2EAE911E-AD95-49F0-A50B-E3D10893250F", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Quite a bit","FormItemOID":"8F6C7D0F-02A6-4849-B0B1-71076E4E1455","ItemResponseOID":"638B6F94-23E8-4BAA-A055-EE7EE9274791", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Very much","FormItemOID":"8F6C7D0F-02A6-4849-B0B1-71076E4E1455","ItemResponseOID":"646D074E-60B9-4B20-BAFC-1A323F238ECA", "Value":"5","Position":"5"}]}]},{"FormItemOID":"CADA197E-80DB-415A-B265-A19D820F4C85","ID":"FATIMP49","Order":"6","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"3EDDC2C0-E7A7-4C92-93FA-2EF7FBAC7D04","Description":"To what degree did your fatigue interfere with your physical functioning?","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Not at all","FormItemOID":"CADA197E-80DB-415A-B265-A19D820F4C85","ItemResponseOID":"44D183EB-21F8-4CEA-B1CA-57631321C47B", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"A little bit","FormItemOID":"CADA197E-80DB-415A-B265-A19D820F4C85","ItemResponseOID":"C6D311D1-F6EF-4B42-9358-DAEF3C5F2835", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Somewhat","FormItemOID":"CADA197E-80DB-415A-B265-A19D820F4C85","ItemResponseOID":"98575280-C7AD-4F33-A196-1EFBF454FE1C", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Quite a bit","FormItemOID":"CADA197E-80DB-415A-B265-A19D820F4C85","ItemResponseOID":"E08D7270-DB5E-4ED0-85F4-C62D0149819E", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Very much","FormItemOID":"CADA197E-80DB-415A-B265-A19D820F4C85","ItemResponseOID":"3FE28698-6FC3-43F5-B32F-D77BD78CD243", "Value":"5","Position":"5"}]}]},{"FormItemOID":"10B858FB-2FED-417B-9EA0-804761A596E2","ID":"FATIMP3","Order":"7","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"5E6D8C66-E157-4BF4-8E24-447273174B96","Description":"How often did you have to push yourself to get things done because of your fatigue?","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Never","FormItemOID":"10B858FB-2FED-417B-9EA0-804761A596E2","ItemResponseOID":"9B2357B5-F8F8-4E02-AC7E-948F844F26E9", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rarely","FormItemOID":"10B858FB-2FED-417B-9EA0-804761A596E2","ItemResponseOID":"1F5B1B62-3DE1-4206-B7FA-C2C1BECFEE46", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Sometimes","FormItemOID":"10B858FB-2FED-417B-9EA0-804761A596E2","ItemResponseOID":"427DCA37-F988-4A20-9E9C-8E1944D7F68A", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"Often","FormItemOID":"10B858FB-2FED-417B-9EA0-804761A596E2","ItemResponseOID":"FFA3ECCA-1480-4CD3-8F37-3C6C213626DA", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Always","FormItemOID":"10B858FB-2FED-417B-9EA0-804761A596E2","ItemResponseOID":"8A0EAA66-3CBE-457A-A4D4-5EBB2232FF4C", "Value":"5","Position":"5"}]}]},{"FormItemOID":"80E0E5F6-196B-4190-A508-EF8AF040193F","ID":"FATIMP16","Order":"8","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"E07820EF-63B3-4990-9770-5BDC28BB06B2","Description":"How often did you have trouble finishing things because of your fatigue?","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Never","FormItemOID":"80E0E5F6-196B-4190-A508-EF8AF040193F","ItemResponseOID":"98E15A4E-24A3-4A29-9B0A-859F1FD7A240", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rarely","FormItemOID":"80E0E5F6-196B-4190-A508-EF8AF040193F","ItemResponseOID":"A933B2D0-3E12-4B27-BECE-CD31E44A63A9", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Sometimes","FormItemOID":"80E0E5F6-196B-4190-A508-EF8AF040193F","ItemResponseOID":"C8992AF3-724C-45B7-92C2-2ECC0F14BA0E", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"Often","FormItemOID":"80E0E5F6-196B-4190-A508-EF8AF040193F","ItemResponseOID":"07DA8711-6B56-485C-92B3-3B1CFF5D15FF", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Always","FormItemOID":"80E0E5F6-196B-4190-A508-EF8AF040193F","ItemResponseOID":"FE62C748-9CCA-45B8-BE6E-4CFEBCCCADF3", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "FBFE03E8-4D4C-4951-9806-6AFBC1681210",
+			"ID": "HI7",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "FFFB38DF-673D-422F-9424-86A3314151B1",
+					"Description": "During the past 7 days:",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "EE685CE1-9FF4-4CFA-AC40-4AB5C13A04B7",
+					"Description": "I feel fatigued",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Not at all",
+							"FormItemOID": "FBFE03E8-4D4C-4951-9806-6AFBC1681210",
+							"ItemResponseOID": "6F008CEA-B582-47A3-9E10-A2DA43542D6F",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "A little bit",
+							"FormItemOID": "FBFE03E8-4D4C-4951-9806-6AFBC1681210",
+							"ItemResponseOID": "74C85214-D60C-403E-9F35-A7166799F1B2",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Somewhat",
+							"FormItemOID": "FBFE03E8-4D4C-4951-9806-6AFBC1681210",
+							"ItemResponseOID": "DC3A21D1-6C82-48D4-8C33-609D6E38F79F",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Quite a bit",
+							"FormItemOID": "FBFE03E8-4D4C-4951-9806-6AFBC1681210",
+							"ItemResponseOID": "DA7A1C85-70F8-45B0-B2DF-BBC1620C757D",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Very much",
+							"FormItemOID": "FBFE03E8-4D4C-4951-9806-6AFBC1681210",
+							"ItemResponseOID": "BE607B2C-6D6F-4012-89D7-64D5B315FA20",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F6F78823-AE37-409C-BC59-C3029FBBBFAD",
+			"ID": "FATEXP40",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "87D192DC-0E7F-4D09-ACC9-61B6B8DD36C8",
+					"Description": "How fatigued were you on average?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Not at all",
+							"FormItemOID": "F6F78823-AE37-409C-BC59-C3029FBBBFAD",
+							"ItemResponseOID": "753ACF56-870B-4FB9-955B-F8A8D43A883E",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "A little bit",
+							"FormItemOID": "F6F78823-AE37-409C-BC59-C3029FBBBFAD",
+							"ItemResponseOID": "13678431-C37F-49A4-A09A-B2DB4272F6F6",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Somewhat",
+							"FormItemOID": "F6F78823-AE37-409C-BC59-C3029FBBBFAD",
+							"ItemResponseOID": "73CE5B58-1F7C-4F23-B93A-547B0D585DDF",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Quite a bit",
+							"FormItemOID": "F6F78823-AE37-409C-BC59-C3029FBBBFAD",
+							"ItemResponseOID": "FC2678CE-2E04-4A3F-9870-471E37722E33",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Very much",
+							"FormItemOID": "F6F78823-AE37-409C-BC59-C3029FBBBFAD",
+							"ItemResponseOID": "5777BB97-4F03-4604-A52B-3783D2AAA293",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2BCBD7DB-B327-4CDD-8F53-6B275C7CF105",
+			"ID": "FATEXP41",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7097D8F6-FE6E-4267-AFB6-BB00E1BAEF18",
+					"Description": "How run-down did you feel on average?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Not at all",
+							"FormItemOID": "2BCBD7DB-B327-4CDD-8F53-6B275C7CF105",
+							"ItemResponseOID": "7971447C-E5DA-492F-A8F4-4B0C3463E3C1",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "A little bit",
+							"FormItemOID": "2BCBD7DB-B327-4CDD-8F53-6B275C7CF105",
+							"ItemResponseOID": "06584A71-321C-4DA2-AB04-0EFCA31A7FAA",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Somewhat",
+							"FormItemOID": "2BCBD7DB-B327-4CDD-8F53-6B275C7CF105",
+							"ItemResponseOID": "EF6F6305-7AFE-4C8F-944C-02077D25F94F",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Quite a bit",
+							"FormItemOID": "2BCBD7DB-B327-4CDD-8F53-6B275C7CF105",
+							"ItemResponseOID": "A482F07D-91DC-43C6-A424-28830864EA80",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Very much",
+							"FormItemOID": "2BCBD7DB-B327-4CDD-8F53-6B275C7CF105",
+							"ItemResponseOID": "8468527E-CA30-469D-992A-5F8794DFE350",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "3DC867D7-3FA3-46CE-A566-535E370399B4",
+			"ID": "An3",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "FFFB38DF-673D-422F-9424-86A3314151B1",
+					"Description": "During the past 7 days:",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "1014096F-9F0E-46FB-BAC5-1D5A93CA82CF",
+					"Description": "I have trouble <u>starting</u> things because I am tired",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Not at all",
+							"FormItemOID": "3DC867D7-3FA3-46CE-A566-535E370399B4",
+							"ItemResponseOID": "4B8887FA-E4CB-4917-AC29-44C6589CC520",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "A little bit",
+							"FormItemOID": "3DC867D7-3FA3-46CE-A566-535E370399B4",
+							"ItemResponseOID": "0A40C2B7-7E55-4503-BDBE-E217035119C9",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Somewhat",
+							"FormItemOID": "3DC867D7-3FA3-46CE-A566-535E370399B4",
+							"ItemResponseOID": "46A0F41F-139F-470F-B814-8910B13CA741",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Quite a bit",
+							"FormItemOID": "3DC867D7-3FA3-46CE-A566-535E370399B4",
+							"ItemResponseOID": "C777E620-0CC9-44CC-AE85-730A0B65FF7B",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Very much",
+							"FormItemOID": "3DC867D7-3FA3-46CE-A566-535E370399B4",
+							"ItemResponseOID": "AA6A5B9A-C93E-4999-BD71-7F5F2EBAD835",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "8F6C7D0F-02A6-4849-B0B1-71076E4E1455",
+			"ID": "FATEXP35",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "B3EC36CF-3F24-4B5C-B662-A0543ED7C5E2",
+					"Description": "How much were you bothered by your fatigue on average?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Not at all",
+							"FormItemOID": "8F6C7D0F-02A6-4849-B0B1-71076E4E1455",
+							"ItemResponseOID": "3CF79806-55CD-4140-97E8-ADF3FEDE70B3",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "A little bit",
+							"FormItemOID": "8F6C7D0F-02A6-4849-B0B1-71076E4E1455",
+							"ItemResponseOID": "468D83FC-AC6A-4514-9CF0-523C3192F2AD",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Somewhat",
+							"FormItemOID": "8F6C7D0F-02A6-4849-B0B1-71076E4E1455",
+							"ItemResponseOID": "2EAE911E-AD95-49F0-A50B-E3D10893250F",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Quite a bit",
+							"FormItemOID": "8F6C7D0F-02A6-4849-B0B1-71076E4E1455",
+							"ItemResponseOID": "638B6F94-23E8-4BAA-A055-EE7EE9274791",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Very much",
+							"FormItemOID": "8F6C7D0F-02A6-4849-B0B1-71076E4E1455",
+							"ItemResponseOID": "646D074E-60B9-4B20-BAFC-1A323F238ECA",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "CADA197E-80DB-415A-B265-A19D820F4C85",
+			"ID": "FATIMP49",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "3EDDC2C0-E7A7-4C92-93FA-2EF7FBAC7D04",
+					"Description": "To what degree did your fatigue interfere with your physical functioning?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Not at all",
+							"FormItemOID": "CADA197E-80DB-415A-B265-A19D820F4C85",
+							"ItemResponseOID": "44D183EB-21F8-4CEA-B1CA-57631321C47B",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "A little bit",
+							"FormItemOID": "CADA197E-80DB-415A-B265-A19D820F4C85",
+							"ItemResponseOID": "C6D311D1-F6EF-4B42-9358-DAEF3C5F2835",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Somewhat",
+							"FormItemOID": "CADA197E-80DB-415A-B265-A19D820F4C85",
+							"ItemResponseOID": "98575280-C7AD-4F33-A196-1EFBF454FE1C",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Quite a bit",
+							"FormItemOID": "CADA197E-80DB-415A-B265-A19D820F4C85",
+							"ItemResponseOID": "E08D7270-DB5E-4ED0-85F4-C62D0149819E",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Very much",
+							"FormItemOID": "CADA197E-80DB-415A-B265-A19D820F4C85",
+							"ItemResponseOID": "3FE28698-6FC3-43F5-B32F-D77BD78CD243",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "10B858FB-2FED-417B-9EA0-804761A596E2",
+			"ID": "FATIMP3",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "5E6D8C66-E157-4BF4-8E24-447273174B96",
+					"Description": "How often did you have to push yourself to get things done because of your fatigue?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Never",
+							"FormItemOID": "10B858FB-2FED-417B-9EA0-804761A596E2",
+							"ItemResponseOID": "9B2357B5-F8F8-4E02-AC7E-948F844F26E9",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rarely",
+							"FormItemOID": "10B858FB-2FED-417B-9EA0-804761A596E2",
+							"ItemResponseOID": "1F5B1B62-3DE1-4206-B7FA-C2C1BECFEE46",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Sometimes",
+							"FormItemOID": "10B858FB-2FED-417B-9EA0-804761A596E2",
+							"ItemResponseOID": "427DCA37-F988-4A20-9E9C-8E1944D7F68A",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "Often",
+							"FormItemOID": "10B858FB-2FED-417B-9EA0-804761A596E2",
+							"ItemResponseOID": "FFA3ECCA-1480-4CD3-8F37-3C6C213626DA",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Always",
+							"FormItemOID": "10B858FB-2FED-417B-9EA0-804761A596E2",
+							"ItemResponseOID": "8A0EAA66-3CBE-457A-A4D4-5EBB2232FF4C",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "80E0E5F6-196B-4190-A508-EF8AF040193F",
+			"ID": "FATIMP16",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E07820EF-63B3-4990-9770-5BDC28BB06B2",
+					"Description": "How often did you have trouble finishing things because of your fatigue?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Never",
+							"FormItemOID": "80E0E5F6-196B-4190-A508-EF8AF040193F",
+							"ItemResponseOID": "98E15A4E-24A3-4A29-9B0A-859F1FD7A240",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rarely",
+							"FormItemOID": "80E0E5F6-196B-4190-A508-EF8AF040193F",
+							"ItemResponseOID": "A933B2D0-3E12-4B27-BECE-CD31E44A63A9",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Sometimes",
+							"FormItemOID": "80E0E5F6-196B-4190-A508-EF8AF040193F",
+							"ItemResponseOID": "C8992AF3-724C-45B7-92C2-2ECC0F14BA0E",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "Often",
+							"FormItemOID": "80E0E5F6-196B-4190-A508-EF8AF040193F",
+							"ItemResponseOID": "07DA8711-6B56-485C-92B3-3B1CFF5D15FF",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Always",
+							"FormItemOID": "80E0E5F6-196B-4190-A508-EF8AF040193F",
+							"ItemResponseOID": "FE62C748-9CCA-45B8-BE6E-4CFEBCCCADF3",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

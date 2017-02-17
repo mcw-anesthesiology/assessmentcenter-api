@@ -1,1 +1,161 @@
-{"FormOID":"00D348EA-CE4A-4966-85D3-34AF03CBCABE","Form":"PROMIS Smoking Social Motivations 4-item Non-daily Short Form","Properties":[{"MinNumItems":"4"},{"MaxNumItems":"4"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"-0.27"},{"DistStdDev":"1.10"},{"FirstItem":""},{"CalibrationSample":"PROMIS Smoking Study W1"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"06B6B3CC-EDB2-437E-BB0B-8004FA187D32","ID":"SMKSOC01_nd","A_GRM":"2.42490","Map":[{"ItemResponseOID":"EB8A2FC4-772C-4D80-8D6F-EE6B395A8C59","StepOrder":"1","Threshold":"-0.4450"},{"ItemResponseOID":"7674C46F-444B-4D87-B9FD-B333D783A53C","StepOrder":"2","Threshold":"0.2118"},{"ItemResponseOID":"622B099A-4069-443D-BC0B-AC393B2442AC","StepOrder":"3","Threshold":"1.0656"},{"ItemResponseOID":"5D31D555-0548-411E-A121-B6B73DFA6ECD","StepOrder":"4","Threshold":"1.7528"}]},{"FormItemOID":"0834D327-40A9-4FAC-8BBA-42D2BF328551","ID":"SMKSOC02_nd","A_GRM":"2.35110","Map":[{"ItemResponseOID":"F27471A8-25EB-472C-9F1D-C749B60CA806","StepOrder":"1","Threshold":"-0.8300"},{"ItemResponseOID":"E9F48C8F-D582-48DC-969B-2AC889EB02A8","StepOrder":"2","Threshold":"-0.0556"},{"ItemResponseOID":"696412DD-0601-456B-9696-444961D1D0BC","StepOrder":"3","Threshold":"0.8069"},{"ItemResponseOID":"1BE3FA8A-C89B-4147-819E-60A39DD6C0C1","StepOrder":"4","Threshold":"1.6035"}]},{"FormItemOID":"29D0E64B-13E0-4B7A-B503-C83912055EFF","ID":"SMKSOC03_nd","A_GRM":"2.00640","Map":[{"ItemResponseOID":"A549E68D-BE8A-4D3C-B3BA-1F81099CE2F7","StepOrder":"1","Threshold":"-0.9718"},{"ItemResponseOID":"FF95F28C-38B2-4395-B74E-A536189A0C8F","StepOrder":"2","Threshold":"-0.1100"},{"ItemResponseOID":"A9C973C4-7058-4986-9B89-8C5FA2B529CC","StepOrder":"3","Threshold":"0.7290"},{"ItemResponseOID":"2CE20BC5-EE7D-4633-9F44-4BF8EEC2B492","StepOrder":"4","Threshold":"1.5225"}]},{"FormItemOID":"85212CE0-2C0C-4A91-8AE7-9898E2D07102","ID":"SMKSOC04_nd","A_GRM":"1.36370","Map":[{"ItemResponseOID":"82379CB8-B761-4329-9A45-E98240A5AE6E","StepOrder":"1","Threshold":"-1.9512"},{"ItemResponseOID":"AF8C5A44-E62B-48E7-8532-6EC68C7D5BE3","StepOrder":"2","Threshold":"-0.6158"},{"ItemResponseOID":"087DAA94-6CCE-464F-BE0E-BF7B3A0F1CA3","StepOrder":"3","Threshold":"0.5544"},{"ItemResponseOID":"172A7540-384C-4116-9F32-FCE7E7447F02","StepOrder":"4","Threshold":"1.5762"}]}]}
+{
+	"FormOID": "00D348EA-CE4A-4966-85D3-34AF03CBCABE",
+	"Form": "PROMIS Smoking Social Motivations 4-item Non-daily Short Form",
+	"Properties": [
+		{
+			"MinNumItems": "4"
+		},
+		{
+			"MaxNumItems": "4"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "-0.27"
+		},
+		{
+			"DistStdDev": "1.10"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "PROMIS Smoking Study W1"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "06B6B3CC-EDB2-437E-BB0B-8004FA187D32",
+			"ID": "SMKSOC01_nd",
+			"A_GRM": "2.42490",
+			"Map": [
+				{
+					"ItemResponseOID": "EB8A2FC4-772C-4D80-8D6F-EE6B395A8C59",
+					"StepOrder": "1",
+					"Threshold": "-0.4450"
+				},
+				{
+					"ItemResponseOID": "7674C46F-444B-4D87-B9FD-B333D783A53C",
+					"StepOrder": "2",
+					"Threshold": "0.2118"
+				},
+				{
+					"ItemResponseOID": "622B099A-4069-443D-BC0B-AC393B2442AC",
+					"StepOrder": "3",
+					"Threshold": "1.0656"
+				},
+				{
+					"ItemResponseOID": "5D31D555-0548-411E-A121-B6B73DFA6ECD",
+					"StepOrder": "4",
+					"Threshold": "1.7528"
+				}
+			]
+		},
+		{
+			"FormItemOID": "0834D327-40A9-4FAC-8BBA-42D2BF328551",
+			"ID": "SMKSOC02_nd",
+			"A_GRM": "2.35110",
+			"Map": [
+				{
+					"ItemResponseOID": "F27471A8-25EB-472C-9F1D-C749B60CA806",
+					"StepOrder": "1",
+					"Threshold": "-0.8300"
+				},
+				{
+					"ItemResponseOID": "E9F48C8F-D582-48DC-969B-2AC889EB02A8",
+					"StepOrder": "2",
+					"Threshold": "-0.0556"
+				},
+				{
+					"ItemResponseOID": "696412DD-0601-456B-9696-444961D1D0BC",
+					"StepOrder": "3",
+					"Threshold": "0.8069"
+				},
+				{
+					"ItemResponseOID": "1BE3FA8A-C89B-4147-819E-60A39DD6C0C1",
+					"StepOrder": "4",
+					"Threshold": "1.6035"
+				}
+			]
+		},
+		{
+			"FormItemOID": "29D0E64B-13E0-4B7A-B503-C83912055EFF",
+			"ID": "SMKSOC03_nd",
+			"A_GRM": "2.00640",
+			"Map": [
+				{
+					"ItemResponseOID": "A549E68D-BE8A-4D3C-B3BA-1F81099CE2F7",
+					"StepOrder": "1",
+					"Threshold": "-0.9718"
+				},
+				{
+					"ItemResponseOID": "FF95F28C-38B2-4395-B74E-A536189A0C8F",
+					"StepOrder": "2",
+					"Threshold": "-0.1100"
+				},
+				{
+					"ItemResponseOID": "A9C973C4-7058-4986-9B89-8C5FA2B529CC",
+					"StepOrder": "3",
+					"Threshold": "0.7290"
+				},
+				{
+					"ItemResponseOID": "2CE20BC5-EE7D-4633-9F44-4BF8EEC2B492",
+					"StepOrder": "4",
+					"Threshold": "1.5225"
+				}
+			]
+		},
+		{
+			"FormItemOID": "85212CE0-2C0C-4A91-8AE7-9898E2D07102",
+			"ID": "SMKSOC04_nd",
+			"A_GRM": "1.36370",
+			"Map": [
+				{
+					"ItemResponseOID": "82379CB8-B761-4329-9A45-E98240A5AE6E",
+					"StepOrder": "1",
+					"Threshold": "-1.9512"
+				},
+				{
+					"ItemResponseOID": "AF8C5A44-E62B-48E7-8532-6EC68C7D5BE3",
+					"StepOrder": "2",
+					"Threshold": "-0.6158"
+				},
+				{
+					"ItemResponseOID": "087DAA94-6CCE-464F-BE0E-BF7B3A0F1CA3",
+					"StepOrder": "3",
+					"Threshold": "0.5544"
+				},
+				{
+					"ItemResponseOID": "172A7540-384C-4116-9F32-FCE7E7447F02",
+					"StepOrder": "4",
+					"Threshold": "1.5762"
+				}
+			]
+		}
+	]
+}

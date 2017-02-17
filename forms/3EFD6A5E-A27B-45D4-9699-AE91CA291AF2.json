@@ -1,1 +1,318 @@
-{"DateFinished":"","Items":[{"FormItemOID":"DA7E42A6-B4B2-47D5-BAAC-0DE76A749DA7","ID":"DYSAM001","Order":"1","ItemType":"","Elements":[{"ElementOID":"D0D0964C-A4DA-430F-AC2C-45C1FB157862","Description":"Imagine that you had <u>no problem</u> with shortness of breath, and that you had time to do what you wanted to do.  Please indicate below which activity you would generally prefer to do, assuming you had the ability to do both equally.","ElementOrder":"1"},{"ElementOID":"E31B871B-CEC3-4AB6-A50A-E0041117AD74","Description":"ContainerForE31B871B-CEC3-4AB6-A50A-E0041117AD74","ElementOrder":"2","Map":[{"ElementOID":"817E3EA4-723F-4EE9-9007-6DB7317BEAF7","Description":"Drive to a party 1/2 mile (almost 1 km) away","FormItemOID":"DA7E42A6-B4B2-47D5-BAAC-0DE76A749DA7","ItemResponseOID":"3E0FFE5A-4B9C-4DF4-9960-E2B222E90BD2", "Value":"0","Position":"1"},{"ElementOID":"61F16C57-2D6D-4060-AE09-C71381340A82","Description":"Walk to a party 1/2 mile (almost 1 km) away","FormItemOID":"DA7E42A6-B4B2-47D5-BAAC-0DE76A749DA7","ItemResponseOID":"316F4B77-3264-4CE3-9C2B-A8185EEE2CF4", "Value":"1","Position":"2"}]}]},{"FormItemOID":"59D1D300-D9AC-455A-A835-46234FE6B413","ID":"DYSAM002","Order":"2","ItemType":"","Elements":[{"ElementOID":"D0D0964C-A4DA-430F-AC2C-45C1FB157862","Description":"Imagine that you had <u>no problem</u> with shortness of breath, and that you had time to do what you wanted to do.  Please indicate below which activity you would generally prefer to do, assuming you had the ability to do both equally.","ElementOrder":"1"},{"ElementOID":"99D3BE0D-909F-4B7F-BB99-DEEB3D3C30F0","Description":"ContainerFor99D3BE0D-909F-4B7F-BB99-DEEB3D3C30F0","ElementOrder":"2","Map":[{"ElementOID":"1AB7C795-9623-4DE9-9908-29737F22AE08","Description":"Shop for an item through a catalogue","FormItemOID":"59D1D300-D9AC-455A-A835-46234FE6B413","ItemResponseOID":"DBD0032D-EE7B-4C24-9A37-856088EBF174", "Value":"0","Position":"1"},{"ElementOID":"4A1624C7-B762-455D-9A33-96B6342C5C90","Description":"Shop for an item by walking through a store","FormItemOID":"59D1D300-D9AC-455A-A835-46234FE6B413","ItemResponseOID":"C686B02B-C0EA-4C37-9264-75C0C1387EA7", "Value":"1","Position":"2"}]}]},{"FormItemOID":"35CD7AE4-9426-4CE0-BD1B-A6C8961C2E82","ID":"DYSAM003","Order":"3","ItemType":"","Elements":[{"ElementOID":"D0D0964C-A4DA-430F-AC2C-45C1FB157862","Description":"Imagine that you had <u>no problem</u> with shortness of breath, and that you had time to do what you wanted to do.  Please indicate below which activity you would generally prefer to do, assuming you had the ability to do both equally.","ElementOrder":"1"},{"ElementOID":"53328649-E417-430D-ADA8-479DF0ABA8B1","Description":"ContainerFor53328649-E417-430D-ADA8-479DF0ABA8B1","ElementOrder":"2","Map":[{"ElementOID":"07EBE0A3-7D45-40A8-A11F-AFDFCE83EA2B","Description":"Watch a sporting event on TV","FormItemOID":"35CD7AE4-9426-4CE0-BD1B-A6C8961C2E82","ItemResponseOID":"90A5206F-BB8B-4B55-83DB-064705E3A390", "Value":"0","Position":"1"},{"ElementOID":"4499CD83-CE3A-4B96-AA60-A9A883F9886F","Description":"Play in a sporting event","FormItemOID":"35CD7AE4-9426-4CE0-BD1B-A6C8961C2E82","ItemResponseOID":"8FB8D22E-DB6E-47E5-8867-10D3789B57E6", "Value":"1","Position":"2"}]}]},{"FormItemOID":"EAADC22B-C326-4AF0-B851-E8B1B0760A6A","ID":"DYSAM004","Order":"4","ItemType":"","Elements":[{"ElementOID":"EB1191EB-3AAB-4B77-B5C2-03A24DFB1347","Description":"Imagine that you had <u> no problem </u> with shortness of breath, and that you had time to do what you wanted to do.  Please indicate below which activity you would generally prefer to do, assuming you had the ability to do both equally.","ElementOrder":"1"},{"ElementOID":"22FE32B9-0650-4DCD-AE38-2174957DE700","Description":"ContainerFor22FE32B9-0650-4DCD-AE38-2174957DE700","ElementOrder":"2","Map":[{"ElementOID":"CD41C19F-9815-4FDF-B070-7CB6F1676345","Description":"Listen to music at home","FormItemOID":"EAADC22B-C326-4AF0-B851-E8B1B0760A6A","ItemResponseOID":"BBE0D658-9031-4DBC-9DB3-CE68A442A994", "Value":"0","Position":"1"},{"ElementOID":"84371E39-89D8-428A-B3CC-375DD839C440","Description":"Go to a concert","FormItemOID":"EAADC22B-C326-4AF0-B851-E8B1B0760A6A","ItemResponseOID":"A5E72890-CAF7-4E04-9B3C-E6F985E60E0B", "Value":"1","Position":"2"}]}]},{"FormItemOID":"0BB1B8DA-0908-4766-AC10-014B5B35208F","ID":"DYSAM005","Order":"5","ItemType":"","Elements":[{"ElementOID":"D0D0964C-A4DA-430F-AC2C-45C1FB157862","Description":"Imagine that you had <u>no problem</u> with shortness of breath, and that you had time to do what you wanted to do.  Please indicate below which activity you would generally prefer to do, assuming you had the ability to do both equally.","ElementOrder":"1"},{"ElementOID":"591E0508-304D-476F-ACB0-7DB9B3729AAC","Description":"ContainerFor591E0508-304D-476F-ACB0-7DB9B3729AAC","ElementOrder":"2","Map":[{"ElementOID":"AE0A4266-8A02-4F55-B4E4-8C8625290016","Description":"Eat dinner at home","FormItemOID":"0BB1B8DA-0908-4766-AC10-014B5B35208F","ItemResponseOID":"1E7BC667-CF85-47E1-B0EB-0D1E47DFBFE2", "Value":"0","Position":"1"},{"ElementOID":"63AEC28D-23C2-42B1-9E42-7BCEEBFCBA0C","Description":"Go out to dinner","FormItemOID":"0BB1B8DA-0908-4766-AC10-014B5B35208F","ItemResponseOID":"66212A67-FA6C-404A-A951-8A32D87B1C22", "Value":"1","Position":"2"}]}]},{"FormItemOID":"3406A8C5-2AC5-42CE-A345-1E7C458F6296","ID":"DYSAMIntro","Order":"6","ItemType":"","Elements":[{"ElementOID":"7D3450FD-EF29-4EAB-954C-E4829F0204BB","Description":"<u>For the following statements, please select the response that best describes your current situation.</u>","ElementOrder":"1"}]},{"FormItemOID":"5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0","ID":"DYSAM006","Order":"7","ItemType":"","Elements":[{"ElementOID":"B2C98FDC-60FF-456D-B3AB-F54DC7C4990A","Description":"I like to be active.","ElementOrder":"1"},{"ElementOID":"6ED186FF-953C-4D0B-A5F6-EA766823E9F8","Description":"ContainerFor6ED186FF-953C-4D0B-A5F6-EA766823E9F8","ElementOrder":"2","Map":[{"ElementOID":"DBD85841-5F05-4A66-BCEC-955DB21882D7","Description":"Not at all","FormItemOID":"5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0","ItemResponseOID":"F1375D9F-A333-4F8B-A237-A1F088B19925", "Value":"0","Position":"1"},{"ElementOID":"FBFA438F-528E-4E37-BAAA-B0CD7F248272","Description":"A little bit","FormItemOID":"5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0","ItemResponseOID":"3BEE4D7F-B2CC-4F62-A2DB-8B899973FB51", "Value":"1","Position":"2"},{"ElementOID":"D20B4BBB-96A2-40B3-9B91-021D6E9C929B","Description":"Somewhat","FormItemOID":"5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0","ItemResponseOID":"1B093501-C36C-45A7-BA16-B885E2ABA1B4", "Value":"2","Position":"3"},{"ElementOID":"244CDEA3-C220-4683-9F91-EBEF6F89C6B0","Description":"Quite a bit","FormItemOID":"5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0","ItemResponseOID":"31FA0CB7-AF1E-4C26-8A20-4A4EC4B58330", "Value":"3","Position":"4"},{"ElementOID":"07E88408-2FB2-486F-AF4E-9055C60E4065","Description":"Very much","FormItemOID":"5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0","ItemResponseOID":"B10A8D7D-44D9-474F-A891-948C54CC209D", "Value":"4","Position":"5"}]}]},{"FormItemOID":"917EEF3E-2D8E-42E2-A288-362BEF54AAA9","ID":"DYSAM007","Order":"8","ItemType":"","Elements":[{"ElementOID":"2ED4961F-D54A-4A18-9C81-A1F2321F1571","Description":"I like to spend my day sitting quietly.","ElementOrder":"1"},{"ElementOID":"1E97C36B-BBA4-4BFC-BA77-D47F1D6DEB62","Description":"ContainerFor1E97C36B-BBA4-4BFC-BA77-D47F1D6DEB62","ElementOrder":"2","Map":[{"ElementOID":"2A3045C4-1C08-46BA-8DF2-5D9A7E339D77","Description":"Not at all","FormItemOID":"917EEF3E-2D8E-42E2-A288-362BEF54AAA9","ItemResponseOID":"ED5CC516-27C7-4A74-9E35-35A368A38DE7", "Value":"4","Position":"1"},{"ElementOID":"852C5CE0-6700-4A9A-9327-3CB9A4BA5B3A","Description":"A little bit","FormItemOID":"917EEF3E-2D8E-42E2-A288-362BEF54AAA9","ItemResponseOID":"5EDF1FC6-CF13-4E2F-B3EB-A2956EF0BD63", "Value":"3","Position":"2"},{"ElementOID":"2FABCDC1-E478-4673-B7B5-E6D70BED6650","Description":"Somewhat","FormItemOID":"917EEF3E-2D8E-42E2-A288-362BEF54AAA9","ItemResponseOID":"3D02DCA0-F436-4320-9B8E-9816299E56D3", "Value":"2","Position":"3"},{"ElementOID":"70D485C4-3DB4-43E5-A89D-AE909950AC60","Description":"Quite a bit","FormItemOID":"917EEF3E-2D8E-42E2-A288-362BEF54AAA9","ItemResponseOID":"F9FEBADB-2602-4870-AF3D-C61043190ADA", "Value":"1","Position":"4"},{"ElementOID":"125F47DE-E8D7-4B0F-92ED-AD2D35147C1F","Description":"Very much","FormItemOID":"917EEF3E-2D8E-42E2-A288-362BEF54AAA9","ItemResponseOID":"A3B5272E-1668-4D1F-B09D-D87D28857968", "Value":"0","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "DA7E42A6-B4B2-47D5-BAAC-0DE76A749DA7",
+			"ID": "DYSAM001",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "D0D0964C-A4DA-430F-AC2C-45C1FB157862",
+					"Description": "Imagine that you had <u>no problem</u> with shortness of breath, and that you had time to do what you wanted to do.  Please indicate below which activity you would generally prefer to do, assuming you had the ability to do both equally.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E31B871B-CEC3-4AB6-A50A-E0041117AD74",
+					"Description": "ContainerForE31B871B-CEC3-4AB6-A50A-E0041117AD74",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "817E3EA4-723F-4EE9-9007-6DB7317BEAF7",
+							"Description": "Drive to a party 1/2 mile (almost 1 km) away",
+							"FormItemOID": "DA7E42A6-B4B2-47D5-BAAC-0DE76A749DA7",
+							"ItemResponseOID": "3E0FFE5A-4B9C-4DF4-9960-E2B222E90BD2",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "61F16C57-2D6D-4060-AE09-C71381340A82",
+							"Description": "Walk to a party 1/2 mile (almost 1 km) away",
+							"FormItemOID": "DA7E42A6-B4B2-47D5-BAAC-0DE76A749DA7",
+							"ItemResponseOID": "316F4B77-3264-4CE3-9C2B-A8185EEE2CF4",
+							"Value": "1",
+							"Position": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "59D1D300-D9AC-455A-A835-46234FE6B413",
+			"ID": "DYSAM002",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "D0D0964C-A4DA-430F-AC2C-45C1FB157862",
+					"Description": "Imagine that you had <u>no problem</u> with shortness of breath, and that you had time to do what you wanted to do.  Please indicate below which activity you would generally prefer to do, assuming you had the ability to do both equally.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "99D3BE0D-909F-4B7F-BB99-DEEB3D3C30F0",
+					"Description": "ContainerFor99D3BE0D-909F-4B7F-BB99-DEEB3D3C30F0",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "1AB7C795-9623-4DE9-9908-29737F22AE08",
+							"Description": "Shop for an item through a catalogue",
+							"FormItemOID": "59D1D300-D9AC-455A-A835-46234FE6B413",
+							"ItemResponseOID": "DBD0032D-EE7B-4C24-9A37-856088EBF174",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "4A1624C7-B762-455D-9A33-96B6342C5C90",
+							"Description": "Shop for an item by walking through a store",
+							"FormItemOID": "59D1D300-D9AC-455A-A835-46234FE6B413",
+							"ItemResponseOID": "C686B02B-C0EA-4C37-9264-75C0C1387EA7",
+							"Value": "1",
+							"Position": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "35CD7AE4-9426-4CE0-BD1B-A6C8961C2E82",
+			"ID": "DYSAM003",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "D0D0964C-A4DA-430F-AC2C-45C1FB157862",
+					"Description": "Imagine that you had <u>no problem</u> with shortness of breath, and that you had time to do what you wanted to do.  Please indicate below which activity you would generally prefer to do, assuming you had the ability to do both equally.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "53328649-E417-430D-ADA8-479DF0ABA8B1",
+					"Description": "ContainerFor53328649-E417-430D-ADA8-479DF0ABA8B1",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "07EBE0A3-7D45-40A8-A11F-AFDFCE83EA2B",
+							"Description": "Watch a sporting event on TV",
+							"FormItemOID": "35CD7AE4-9426-4CE0-BD1B-A6C8961C2E82",
+							"ItemResponseOID": "90A5206F-BB8B-4B55-83DB-064705E3A390",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "4499CD83-CE3A-4B96-AA60-A9A883F9886F",
+							"Description": "Play in a sporting event",
+							"FormItemOID": "35CD7AE4-9426-4CE0-BD1B-A6C8961C2E82",
+							"ItemResponseOID": "8FB8D22E-DB6E-47E5-8867-10D3789B57E6",
+							"Value": "1",
+							"Position": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "EAADC22B-C326-4AF0-B851-E8B1B0760A6A",
+			"ID": "DYSAM004",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "EB1191EB-3AAB-4B77-B5C2-03A24DFB1347",
+					"Description": "Imagine that you had <u> no problem </u> with shortness of breath, and that you had time to do what you wanted to do.  Please indicate below which activity you would generally prefer to do, assuming you had the ability to do both equally.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "22FE32B9-0650-4DCD-AE38-2174957DE700",
+					"Description": "ContainerFor22FE32B9-0650-4DCD-AE38-2174957DE700",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "CD41C19F-9815-4FDF-B070-7CB6F1676345",
+							"Description": "Listen to music at home",
+							"FormItemOID": "EAADC22B-C326-4AF0-B851-E8B1B0760A6A",
+							"ItemResponseOID": "BBE0D658-9031-4DBC-9DB3-CE68A442A994",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "84371E39-89D8-428A-B3CC-375DD839C440",
+							"Description": "Go to a concert",
+							"FormItemOID": "EAADC22B-C326-4AF0-B851-E8B1B0760A6A",
+							"ItemResponseOID": "A5E72890-CAF7-4E04-9B3C-E6F985E60E0B",
+							"Value": "1",
+							"Position": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "0BB1B8DA-0908-4766-AC10-014B5B35208F",
+			"ID": "DYSAM005",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "D0D0964C-A4DA-430F-AC2C-45C1FB157862",
+					"Description": "Imagine that you had <u>no problem</u> with shortness of breath, and that you had time to do what you wanted to do.  Please indicate below which activity you would generally prefer to do, assuming you had the ability to do both equally.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "591E0508-304D-476F-ACB0-7DB9B3729AAC",
+					"Description": "ContainerFor591E0508-304D-476F-ACB0-7DB9B3729AAC",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "AE0A4266-8A02-4F55-B4E4-8C8625290016",
+							"Description": "Eat dinner at home",
+							"FormItemOID": "0BB1B8DA-0908-4766-AC10-014B5B35208F",
+							"ItemResponseOID": "1E7BC667-CF85-47E1-B0EB-0D1E47DFBFE2",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "63AEC28D-23C2-42B1-9E42-7BCEEBFCBA0C",
+							"Description": "Go out to dinner",
+							"FormItemOID": "0BB1B8DA-0908-4766-AC10-014B5B35208F",
+							"ItemResponseOID": "66212A67-FA6C-404A-A951-8A32D87B1C22",
+							"Value": "1",
+							"Position": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "3406A8C5-2AC5-42CE-A345-1E7C458F6296",
+			"ID": "DYSAMIntro",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "7D3450FD-EF29-4EAB-954C-E4829F0204BB",
+					"Description": "<u>For the following statements, please select the response that best describes your current situation.</u>",
+					"ElementOrder": "1"
+				}
+			]
+		},
+		{
+			"FormItemOID": "5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0",
+			"ID": "DYSAM006",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "B2C98FDC-60FF-456D-B3AB-F54DC7C4990A",
+					"Description": "I like to be active.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6ED186FF-953C-4D0B-A5F6-EA766823E9F8",
+					"Description": "ContainerFor6ED186FF-953C-4D0B-A5F6-EA766823E9F8",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "DBD85841-5F05-4A66-BCEC-955DB21882D7",
+							"Description": "Not at all",
+							"FormItemOID": "5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0",
+							"ItemResponseOID": "F1375D9F-A333-4F8B-A237-A1F088B19925",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "FBFA438F-528E-4E37-BAAA-B0CD7F248272",
+							"Description": "A little bit",
+							"FormItemOID": "5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0",
+							"ItemResponseOID": "3BEE4D7F-B2CC-4F62-A2DB-8B899973FB51",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "D20B4BBB-96A2-40B3-9B91-021D6E9C929B",
+							"Description": "Somewhat",
+							"FormItemOID": "5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0",
+							"ItemResponseOID": "1B093501-C36C-45A7-BA16-B885E2ABA1B4",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "244CDEA3-C220-4683-9F91-EBEF6F89C6B0",
+							"Description": "Quite a bit",
+							"FormItemOID": "5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0",
+							"ItemResponseOID": "31FA0CB7-AF1E-4C26-8A20-4A4EC4B58330",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "07E88408-2FB2-486F-AF4E-9055C60E4065",
+							"Description": "Very much",
+							"FormItemOID": "5572AAA4-0EF7-43F2-84CF-DE7B55F9BEF0",
+							"ItemResponseOID": "B10A8D7D-44D9-474F-A891-948C54CC209D",
+							"Value": "4",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "917EEF3E-2D8E-42E2-A288-362BEF54AAA9",
+			"ID": "DYSAM007",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "2ED4961F-D54A-4A18-9C81-A1F2321F1571",
+					"Description": "I like to spend my day sitting quietly.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "1E97C36B-BBA4-4BFC-BA77-D47F1D6DEB62",
+					"Description": "ContainerFor1E97C36B-BBA4-4BFC-BA77-D47F1D6DEB62",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "2A3045C4-1C08-46BA-8DF2-5D9A7E339D77",
+							"Description": "Not at all",
+							"FormItemOID": "917EEF3E-2D8E-42E2-A288-362BEF54AAA9",
+							"ItemResponseOID": "ED5CC516-27C7-4A74-9E35-35A368A38DE7",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "852C5CE0-6700-4A9A-9327-3CB9A4BA5B3A",
+							"Description": "A little bit",
+							"FormItemOID": "917EEF3E-2D8E-42E2-A288-362BEF54AAA9",
+							"ItemResponseOID": "5EDF1FC6-CF13-4E2F-B3EB-A2956EF0BD63",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "2FABCDC1-E478-4673-B7B5-E6D70BED6650",
+							"Description": "Somewhat",
+							"FormItemOID": "917EEF3E-2D8E-42E2-A288-362BEF54AAA9",
+							"ItemResponseOID": "3D02DCA0-F436-4320-9B8E-9816299E56D3",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "70D485C4-3DB4-43E5-A89D-AE909950AC60",
+							"Description": "Quite a bit",
+							"FormItemOID": "917EEF3E-2D8E-42E2-A288-362BEF54AAA9",
+							"ItemResponseOID": "F9FEBADB-2602-4870-AF3D-C61043190ADA",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "125F47DE-E8D7-4B0F-92ED-AD2D35147C1F",
+							"Description": "Very much",
+							"FormItemOID": "917EEF3E-2D8E-42E2-A288-362BEF54AAA9",
+							"ItemResponseOID": "A3B5272E-1668-4D1F-B09D-D87D28857968",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

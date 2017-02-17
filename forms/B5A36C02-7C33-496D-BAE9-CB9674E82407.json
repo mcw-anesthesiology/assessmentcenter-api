@@ -1,1 +1,1370 @@
-{"DateFinished":"","Items":[{"FormItemOID":"DAF0C971-957C-4CF8-9F02-766C12F7901F","ID":"EDANX53","Order":"1","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"19379073-AEAD-4C78-90A0-5E44038D5CAB","Description":"Me sentí intranquilo/a","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"DAF0C971-957C-4CF8-9F02-766C12F7901F","ItemResponseOID":"2476592E-E08E-47DC-ADCB-D051F3E57EE0", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"DAF0C971-957C-4CF8-9F02-766C12F7901F","ItemResponseOID":"1DEDE35F-AA27-427A-9333-8EF0C4032557", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"DAF0C971-957C-4CF8-9F02-766C12F7901F","ItemResponseOID":"25D0CE13-3783-431D-BA2A-02DFBEF38B08", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"DAF0C971-957C-4CF8-9F02-766C12F7901F","ItemResponseOID":"AE88C873-AF28-470C-A9FA-0DAA43B581E3", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"DAF0C971-957C-4CF8-9F02-766C12F7901F","ItemResponseOID":"D0B32112-5A54-4677-8E07-02971114756F", "Value":"5","Position":"5"}]}]},{"FormItemOID":"90941458-2A71-4E19-BA1D-CCE11C8AE38D","ID":"EDANX46","Order":"2","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"CBC0AB25-6FA4-47FB-B009-035CD87C691A","Description":"Me sentí nervioso/a","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"90941458-2A71-4E19-BA1D-CCE11C8AE38D","ItemResponseOID":"A2778381-E244-4A4E-BA4F-F2B063229E03", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"90941458-2A71-4E19-BA1D-CCE11C8AE38D","ItemResponseOID":"2F1C2829-2CEE-45AD-A88C-A66FD375A650", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"90941458-2A71-4E19-BA1D-CCE11C8AE38D","ItemResponseOID":"3F9FCCD6-3BA4-4D7F-BD9C-CA0B1314A311", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"90941458-2A71-4E19-BA1D-CCE11C8AE38D","ItemResponseOID":"48F4F8AD-9166-479D-90D3-D99A3F9327BF", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"90941458-2A71-4E19-BA1D-CCE11C8AE38D","ItemResponseOID":"1E5853F7-D948-403C-A46A-7C77295104EE", "Value":"5","Position":"5"}]}]},{"FormItemOID":"209E6D6A-CEBE-4393-B59B-95004E2F0340","ID":"EDANX48","Order":"3","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"FD6D3B13-D636-4DD2-B087-619ED85D15EA","Description":"Muchas situaciones me preocuparon","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"209E6D6A-CEBE-4393-B59B-95004E2F0340","ItemResponseOID":"07DD20B5-F810-4B3C-B7E8-02150E87E75E", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"209E6D6A-CEBE-4393-B59B-95004E2F0340","ItemResponseOID":"B5B32BE8-E41A-4CFF-A9FF-96F0D27B2C4A", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"209E6D6A-CEBE-4393-B59B-95004E2F0340","ItemResponseOID":"1087168C-E6AC-4AAE-9687-5C2C73055603", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"209E6D6A-CEBE-4393-B59B-95004E2F0340","ItemResponseOID":"1B441B9D-9BD4-46FC-9EAB-992AB93A10EB", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"209E6D6A-CEBE-4393-B59B-95004E2F0340","ItemResponseOID":"E7672620-3C42-4351-B4AA-7962B7781751", "Value":"5","Position":"5"}]}]},{"FormItemOID":"D0F6390F-1CCE-486C-988C-819ED73DE578","ID":"EDANX41","Order":"4","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"12666EBD-4CE8-469A-BA2B-9B81703323FE","Description":"Mis inquietudes fueron demasiado para mí","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"D0F6390F-1CCE-486C-988C-819ED73DE578","ItemResponseOID":"40636788-E3DE-498A-9B3B-D32458279479", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"D0F6390F-1CCE-486C-988C-819ED73DE578","ItemResponseOID":"783C1702-D779-4633-9727-83661D529B4D", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"D0F6390F-1CCE-486C-988C-819ED73DE578","ItemResponseOID":"95436765-43C6-4473-87FF-7BE1875F75FB", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"D0F6390F-1CCE-486C-988C-819ED73DE578","ItemResponseOID":"3022DE88-59F6-4394-BC66-F60027789035", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"D0F6390F-1CCE-486C-988C-819ED73DE578","ItemResponseOID":"871621CD-96A4-4BC4-B285-9E2F257ABBE7", "Value":"5","Position":"5"}]}]},{"FormItemOID":"1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C","ID":"EDANX54","Order":"5","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"D66456D0-6E0B-4BC7-9314-BF74F0C5396D","Description":"Me sentí tenso/a","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C","ItemResponseOID":"4C8B5F2B-760F-4F3D-9FAB-0FB555938932", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C","ItemResponseOID":"F2D8F990-79FC-4FD7-B72F-B3B3084FB7DC", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C","ItemResponseOID":"DCEC68FC-05AB-4562-9089-2CDA64BD4456", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C","ItemResponseOID":"BED9BBDE-9671-45F7-9F99-214DF71BA22A", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C","ItemResponseOID":"B7AF2E93-C102-48C4-BD3A-E9FDA16E961A", "Value":"5","Position":"5"}]}]},{"FormItemOID":"7EC6CD96-1862-43F3-978C-BD3B5B65852B","ID":"EDANX55","Order":"6","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"41BE7E9E-8810-41EF-8CA9-5044BC6AF539","Description":"Tuve dificultad para tranquilizarme","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"7EC6CD96-1862-43F3-978C-BD3B5B65852B","ItemResponseOID":"759EF611-79BB-4577-A666-49D8F844EB4C", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"7EC6CD96-1862-43F3-978C-BD3B5B65852B","ItemResponseOID":"CDCF22D2-44F4-4A5B-B4A4-899BB11516B6", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"7EC6CD96-1862-43F3-978C-BD3B5B65852B","ItemResponseOID":"A17F4EDC-9CDC-41F0-85BC-706A4FE0683D", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"7EC6CD96-1862-43F3-978C-BD3B5B65852B","ItemResponseOID":"8C476C48-4EAF-43C5-AD46-4F05919BBA9C", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"7EC6CD96-1862-43F3-978C-BD3B5B65852B","ItemResponseOID":"C70478D2-C0F4-46F6-B038-F8ADA08B449D", "Value":"5","Position":"5"}]}]},{"FormItemOID":"E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68","ID":"EDANX18","Order":"7","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"E2F61273-C96B-4326-870F-E5FFBE05890A","Description":"Tuve sensaciones de pánico repentinas.","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68","ItemResponseOID":"25728A97-05F0-4CE9-87DE-B8CE8EA02605", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68","ItemResponseOID":"B3E71A90-9A97-41BF-AD07-F7471EA55117", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68","ItemResponseOID":"C4F376A8-4B80-433B-9301-4AD24D89B4DC", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68","ItemResponseOID":"3A5AC34C-F5E8-468A-895A-F3ABDA2A60BA", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68","ItemResponseOID":"57FFC7EB-0814-4C4D-95A7-9D5555872F5C", "Value":"5","Position":"5"}]}]},{"FormItemOID":"0043CA21-A0C7-43CD-A22A-99A2894E15AC","ID":"NQANX07","Order":"8","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"7A838191-B31E-4845-8A87-A53CDC7A405C","Description":"Me sentí nervioso/a cuando se alteraba mi rutina normal","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"0043CA21-A0C7-43CD-A22A-99A2894E15AC","ItemResponseOID":"3A5DEB8D-29D3-4C1E-9F3E-CE4F726681CD", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"0043CA21-A0C7-43CD-A22A-99A2894E15AC","ItemResponseOID":"E8B9EDDC-788B-403C-A4A4-1A81EFF678CA", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"0043CA21-A0C7-43CD-A22A-99A2894E15AC","ItemResponseOID":"87136686-8C46-4CE3-85CE-9FC71A536EEB", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"0043CA21-A0C7-43CD-A22A-99A2894E15AC","ItemResponseOID":"C2DE4E69-D914-4F05-90DB-EE8208DAB558", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"0043CA21-A0C7-43CD-A22A-99A2894E15AC","ItemResponseOID":"77847F93-EB15-42CF-8996-63F4664193B9", "Value":"5","Position":"5"}]}]},{"FormItemOID":"4D84D65E-D326-4DEA-B29B-47098CDF4EAA","ID":"NQANX02","Order":"9","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"B3E06286-E1F6-434E-AAB8-024054685B73","Description":"Sentí miedo del futuro","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"4D84D65E-D326-4DEA-B29B-47098CDF4EAA","ItemResponseOID":"D7F14322-E2A5-43DF-8315-1748D251C661", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"4D84D65E-D326-4DEA-B29B-47098CDF4EAA","ItemResponseOID":"60E850CD-762C-4B63-B38B-8B594E01D995", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"4D84D65E-D326-4DEA-B29B-47098CDF4EAA","ItemResponseOID":"9AF2E5B4-747A-4F4A-9DEC-7FAFDE558DB2", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"4D84D65E-D326-4DEA-B29B-47098CDF4EAA","ItemResponseOID":"F78C8080-177E-491E-82D4-A70B2AE382A3", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"4D84D65E-D326-4DEA-B29B-47098CDF4EAA","ItemResponseOID":"1259C990-E6F9-49A2-91C0-76E08DB62920", "Value":"5","Position":"5"}]}]},{"FormItemOID":"0AEC03E2-C4D2-489C-9617-34DE44985FD8","ID":"EDANX05","Order":"10","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"B7DA2642-65CA-48D1-9F46-B0B2B3C51034","Description":"Sentí ansiedad","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"0AEC03E2-C4D2-489C-9617-34DE44985FD8","ItemResponseOID":"070B783F-677D-42CC-B948-457AD3EE87A0", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"0AEC03E2-C4D2-489C-9617-34DE44985FD8","ItemResponseOID":"3254F6A2-5E2B-4BC6-85D9-1131F50D039E", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"0AEC03E2-C4D2-489C-9617-34DE44985FD8","ItemResponseOID":"AA6682B5-5CAF-4960-B039-63475A0E7AD5", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"0AEC03E2-C4D2-489C-9617-34DE44985FD8","ItemResponseOID":"C61E46A3-9726-47B2-A49E-FBCB5007FEA6", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"0AEC03E2-C4D2-489C-9617-34DE44985FD8","ItemResponseOID":"5A6149BD-7A9A-4D3A-B3A8-C7C07622C4C0", "Value":"5","Position":"5"}]}]},{"FormItemOID":"898B2620-C93C-44B2-95A5-E35167EB5689","ID":"NQANX04","Order":"11","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"A3711C16-F865-4B41-9B52-1739CE45571D","Description":"Me preocupó mi salud física","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"898B2620-C93C-44B2-95A5-E35167EB5689","ItemResponseOID":"4E74C41F-2A99-4C6D-8DC3-47CB7E8809B4", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"898B2620-C93C-44B2-95A5-E35167EB5689","ItemResponseOID":"9B6FCB97-D616-45D1-84FA-4521E2BAAEB4", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"898B2620-C93C-44B2-95A5-E35167EB5689","ItemResponseOID":"56E8B9CA-DCEA-408F-B512-51860DC09F89", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"898B2620-C93C-44B2-95A5-E35167EB5689","ItemResponseOID":"E2DC57C7-1834-4DED-8DB8-8FABC9769E43", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"898B2620-C93C-44B2-95A5-E35167EB5689","ItemResponseOID":"87F148AA-FECA-42E4-8293-3D418D585753", "Value":"5","Position":"5"}]}]},{"FormItemOID":"F4151B84-E33D-4CE1-9847-68EAD9E7884E","ID":"EDANX07","Order":"12","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"7E4C58E2-9EE0-4231-B60C-504E999F59FF","Description":"Sentí que necesitaba ayuda para mi ansiedad","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"F4151B84-E33D-4CE1-9847-68EAD9E7884E","ItemResponseOID":"073E87F3-01DA-4450-B11D-E97F24B64B72", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"F4151B84-E33D-4CE1-9847-68EAD9E7884E","ItemResponseOID":"0D2EF983-2E7A-4792-915C-A552CE538A35", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"F4151B84-E33D-4CE1-9847-68EAD9E7884E","ItemResponseOID":"8C82DF2E-9318-43C0-AF01-81222936F4C8", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"F4151B84-E33D-4CE1-9847-68EAD9E7884E","ItemResponseOID":"3D47051C-553F-498D-9116-0711447299A8", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"F4151B84-E33D-4CE1-9847-68EAD9E7884E","ItemResponseOID":"61785CF5-9D3C-4BA1-B8F5-57295B0DA7DD", "Value":"5","Position":"5"}]}]},{"FormItemOID":"A1E7B714-F8DE-460B-8D49-FA7EE0DB801F","ID":"EDANX20","Order":"13","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"FAC778BE-51BA-48C8-B1B0-8974DBD5E53D","Description":"Me sobresalté (asusté) fácilmente","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"A1E7B714-F8DE-460B-8D49-FA7EE0DB801F","ItemResponseOID":"8B40486F-D5AD-4339-8A46-9B61D73F03AF", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"A1E7B714-F8DE-460B-8D49-FA7EE0DB801F","ItemResponseOID":"1EE810F5-5FEA-47D0-A025-DD8E7EBA1740", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"A1E7B714-F8DE-460B-8D49-FA7EE0DB801F","ItemResponseOID":"7462C760-31E1-4DED-8316-40ECFE008F19", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"A1E7B714-F8DE-460B-8D49-FA7EE0DB801F","ItemResponseOID":"4ABCCC8F-0B3A-498A-BB18-FF1EAB4B0F15", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"A1E7B714-F8DE-460B-8D49-FA7EE0DB801F","ItemResponseOID":"32431B86-4E38-4C38-A9B0-868CA65B0142", "Value":"5","Position":"5"}]}]},{"FormItemOID":"B43100BA-4333-4AF0-BD68-0CC351CEAC68","ID":"EDANX26","Order":"14","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"9E136B29-CA4B-45F8-88FD-29A934E6E0B2","Description":"Me sentí inquieto/a","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"B43100BA-4333-4AF0-BD68-0CC351CEAC68","ItemResponseOID":"9B769F70-49B0-49D6-9555-7275CEE55849", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"B43100BA-4333-4AF0-BD68-0CC351CEAC68","ItemResponseOID":"A9AAA9E4-D724-4F84-BB54-761621FAC843", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"B43100BA-4333-4AF0-BD68-0CC351CEAC68","ItemResponseOID":"1D2FC2D6-ABDE-4D32-B9FF-0DE566552DF5", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"B43100BA-4333-4AF0-BD68-0CC351CEAC68","ItemResponseOID":"78120B79-50A7-4542-B63A-445817F9349B", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"B43100BA-4333-4AF0-BD68-0CC351CEAC68","ItemResponseOID":"FBA8B68A-2DEB-43C0-BD5E-4624210BBE21", "Value":"5","Position":"5"}]}]},{"FormItemOID":"85A89137-CFFB-4148-BDF0-649F56A663CF","ID":"EDANX27","Order":"15","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"F3CDAAD9-BE49-4F96-A788-66A615C45D0D","Description":"Sentí que iba a ocurrir algo terrible","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"85A89137-CFFB-4148-BDF0-649F56A663CF","ItemResponseOID":"CBA77653-4383-483F-86E1-9A2D590B482D", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"85A89137-CFFB-4148-BDF0-649F56A663CF","ItemResponseOID":"CD595893-88A3-42D0-AE96-BBDCA1FDD5D8", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"85A89137-CFFB-4148-BDF0-649F56A663CF","ItemResponseOID":"EABBC58E-C6F9-4290-A733-57A2E4D6E8FB", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"85A89137-CFFB-4148-BDF0-649F56A663CF","ItemResponseOID":"14EC0231-E641-4BCF-919E-D9DC5AFFFA9F", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"85A89137-CFFB-4148-BDF0-649F56A663CF","ItemResponseOID":"4A45872B-6144-4E88-9DE5-24420E0B3CDD", "Value":"5","Position":"5"}]}]},{"FormItemOID":"85461B4B-CE9F-49EF-B3CF-40EA6488D67E","ID":"EDANX30","Order":"16","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"C040D463-6332-4EEF-AE6F-255FB0DD073B","Description":"Me sentí preocupado/a","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"85461B4B-CE9F-49EF-B3CF-40EA6488D67E","ItemResponseOID":"5CF2ADA6-E614-400C-B66C-9567B3BD7BA9", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"85461B4B-CE9F-49EF-B3CF-40EA6488D67E","ItemResponseOID":"8D935551-4EA5-497A-831E-6E19276CAE48", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"85461B4B-CE9F-49EF-B3CF-40EA6488D67E","ItemResponseOID":"A170FFCF-80CB-4449-A3FE-91EB18384B22", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"85461B4B-CE9F-49EF-B3CF-40EA6488D67E","ItemResponseOID":"9843C92C-D0AA-4F6A-959B-549BC4ABE98C", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"85461B4B-CE9F-49EF-B3CF-40EA6488D67E","ItemResponseOID":"F76C9B2C-73F1-4477-AC0D-0520D04957D8", "Value":"5","Position":"5"}]}]},{"FormItemOID":"4686248F-79B4-42C9-AE47-1C094A56BEC9","ID":"NQANX17","Order":"17","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"CCEC7E07-E5AC-4381-B158-76D9175B4723","Description":"De repente sentí miedo sin ningún motivo","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"4686248F-79B4-42C9-AE47-1C094A56BEC9","ItemResponseOID":"24D64678-A516-486B-81CD-39BFF3C88048", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"4686248F-79B4-42C9-AE47-1C094A56BEC9","ItemResponseOID":"DD2151AE-059E-4E4A-A82B-3643242ACEC6", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"4686248F-79B4-42C9-AE47-1C094A56BEC9","ItemResponseOID":"02ABB5F2-2BE6-460B-9701-1D5163DFC1F3", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"4686248F-79B4-42C9-AE47-1C094A56BEC9","ItemResponseOID":"56242004-993C-460D-9E56-218BFC1728F1", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"4686248F-79B4-42C9-AE47-1C094A56BEC9","ItemResponseOID":"E8E46345-12DB-4310-85C3-332279107387", "Value":"5","Position":"5"}]}]},{"FormItemOID":"C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7","ID":"NQANX18","Order":"18","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"43DAF9E1-F3C9-4B68-A850-580BC4CC35FF","Description":"Me preocupó morir","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7","ItemResponseOID":"AAE63CF6-E3DA-42B8-A145-42E8B92D74D6", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7","ItemResponseOID":"FCF9671D-1442-413B-A94B-18B6B180F35B", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7","ItemResponseOID":"9FB9C424-A6AD-4092-95DA-14E03E7135EE", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7","ItemResponseOID":"08B80C5B-23FF-4EE2-BB71-9C877EE4D566", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7","ItemResponseOID":"317FE1F4-48DF-449E-BFB2-AFD917E608AC", "Value":"5","Position":"5"}]}]},{"FormItemOID":"59DFDF12-846C-4E50-87F8-3A7B7667746A","ID":"NQANX21","Order":"19","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"7400887F-7EDE-45D1-9093-5361BECD5EC6","Description":"Me sentí tímido/a","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"59DFDF12-846C-4E50-87F8-3A7B7667746A","ItemResponseOID":"EE869963-F24B-48BB-9B0A-1F2EF31B3281", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"59DFDF12-846C-4E50-87F8-3A7B7667746A","ItemResponseOID":"F6545084-86D9-45A8-AFEB-20E14DF3307B", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"59DFDF12-846C-4E50-87F8-3A7B7667746A","ItemResponseOID":"58F99E94-2613-4F31-BA94-473FAEE08A51", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"59DFDF12-846C-4E50-87F8-3A7B7667746A","ItemResponseOID":"E905F935-FA4E-445A-8EB3-54733267C63B", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"59DFDF12-846C-4E50-87F8-3A7B7667746A","ItemResponseOID":"F56FBA11-754F-49AB-862E-DCF3289E90BC", "Value":"5","Position":"5"}]}]},{"FormItemOID":"8EFCC3D3-1575-45DF-893D-EBE4413D48F3","ID":"EDANX49","Order":"20","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"FA348DE6-59AF-4A61-B63E-0117A42A72A2","Description":"Tuve dificultad para dormir","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"8EFCC3D3-1575-45DF-893D-EBE4413D48F3","ItemResponseOID":"1243A822-1D04-42CD-850B-F7091FA4AB28", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"8EFCC3D3-1575-45DF-893D-EBE4413D48F3","ItemResponseOID":"258E7535-671A-48D2-8EF5-3145503B47FA", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"8EFCC3D3-1575-45DF-893D-EBE4413D48F3","ItemResponseOID":"AB00DE20-99BC-4ADD-9085-C8F292520F45", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"8EFCC3D3-1575-45DF-893D-EBE4413D48F3","ItemResponseOID":"46472E7C-F815-44FD-8966-CD06F5A4B6DF", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"8EFCC3D3-1575-45DF-893D-EBE4413D48F3","ItemResponseOID":"FF1F6E96-14DA-4865-ACEC-52FAB4D90711", "Value":"5","Position":"5"}]}]},{"FormItemOID":"57603615-5006-46FF-AFDB-F34DDF2DBA75","ID":"EDANX51","Order":"21","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"4087ECFD-92CD-4EA1-A4D4-D3CC03179039","Description":"Me costó trabajo relajarme","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"57603615-5006-46FF-AFDB-F34DDF2DBA75","ItemResponseOID":"3BE1F94B-4678-4B52-B8A9-ADFA1BE97AB2", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"57603615-5006-46FF-AFDB-F34DDF2DBA75","ItemResponseOID":"02946730-1265-4DD1-8447-D7E90415CF2F", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"57603615-5006-46FF-AFDB-F34DDF2DBA75","ItemResponseOID":"48C2BB33-A2F8-43EB-80F8-0488F653FDAD", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"57603615-5006-46FF-AFDB-F34DDF2DBA75","ItemResponseOID":"93DB9456-14F5-4B08-99D6-CB0FD1FA5739", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"57603615-5006-46FF-AFDB-F34DDF2DBA75","ItemResponseOID":"061B8BC4-A780-4432-B060-E83850A99C73", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "DAF0C971-957C-4CF8-9F02-766C12F7901F",
+			"ID": "EDANX53",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "19379073-AEAD-4C78-90A0-5E44038D5CAB",
+					"Description": "Me sent\u00ed intranquilo/a",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "DAF0C971-957C-4CF8-9F02-766C12F7901F",
+							"ItemResponseOID": "2476592E-E08E-47DC-ADCB-D051F3E57EE0",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "DAF0C971-957C-4CF8-9F02-766C12F7901F",
+							"ItemResponseOID": "1DEDE35F-AA27-427A-9333-8EF0C4032557",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "DAF0C971-957C-4CF8-9F02-766C12F7901F",
+							"ItemResponseOID": "25D0CE13-3783-431D-BA2A-02DFBEF38B08",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "DAF0C971-957C-4CF8-9F02-766C12F7901F",
+							"ItemResponseOID": "AE88C873-AF28-470C-A9FA-0DAA43B581E3",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "DAF0C971-957C-4CF8-9F02-766C12F7901F",
+							"ItemResponseOID": "D0B32112-5A54-4677-8E07-02971114756F",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "90941458-2A71-4E19-BA1D-CCE11C8AE38D",
+			"ID": "EDANX46",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "CBC0AB25-6FA4-47FB-B009-035CD87C691A",
+					"Description": "Me sent\u00ed nervioso/a",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "90941458-2A71-4E19-BA1D-CCE11C8AE38D",
+							"ItemResponseOID": "A2778381-E244-4A4E-BA4F-F2B063229E03",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "90941458-2A71-4E19-BA1D-CCE11C8AE38D",
+							"ItemResponseOID": "2F1C2829-2CEE-45AD-A88C-A66FD375A650",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "90941458-2A71-4E19-BA1D-CCE11C8AE38D",
+							"ItemResponseOID": "3F9FCCD6-3BA4-4D7F-BD9C-CA0B1314A311",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "90941458-2A71-4E19-BA1D-CCE11C8AE38D",
+							"ItemResponseOID": "48F4F8AD-9166-479D-90D3-D99A3F9327BF",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "90941458-2A71-4E19-BA1D-CCE11C8AE38D",
+							"ItemResponseOID": "1E5853F7-D948-403C-A46A-7C77295104EE",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "209E6D6A-CEBE-4393-B59B-95004E2F0340",
+			"ID": "EDANX48",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "FD6D3B13-D636-4DD2-B087-619ED85D15EA",
+					"Description": "Muchas situaciones me preocuparon",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "209E6D6A-CEBE-4393-B59B-95004E2F0340",
+							"ItemResponseOID": "07DD20B5-F810-4B3C-B7E8-02150E87E75E",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "209E6D6A-CEBE-4393-B59B-95004E2F0340",
+							"ItemResponseOID": "B5B32BE8-E41A-4CFF-A9FF-96F0D27B2C4A",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "209E6D6A-CEBE-4393-B59B-95004E2F0340",
+							"ItemResponseOID": "1087168C-E6AC-4AAE-9687-5C2C73055603",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "209E6D6A-CEBE-4393-B59B-95004E2F0340",
+							"ItemResponseOID": "1B441B9D-9BD4-46FC-9EAB-992AB93A10EB",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "209E6D6A-CEBE-4393-B59B-95004E2F0340",
+							"ItemResponseOID": "E7672620-3C42-4351-B4AA-7962B7781751",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "D0F6390F-1CCE-486C-988C-819ED73DE578",
+			"ID": "EDANX41",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "12666EBD-4CE8-469A-BA2B-9B81703323FE",
+					"Description": "Mis inquietudes fueron demasiado para m\u00ed",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "D0F6390F-1CCE-486C-988C-819ED73DE578",
+							"ItemResponseOID": "40636788-E3DE-498A-9B3B-D32458279479",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "D0F6390F-1CCE-486C-988C-819ED73DE578",
+							"ItemResponseOID": "783C1702-D779-4633-9727-83661D529B4D",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "D0F6390F-1CCE-486C-988C-819ED73DE578",
+							"ItemResponseOID": "95436765-43C6-4473-87FF-7BE1875F75FB",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "D0F6390F-1CCE-486C-988C-819ED73DE578",
+							"ItemResponseOID": "3022DE88-59F6-4394-BC66-F60027789035",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "D0F6390F-1CCE-486C-988C-819ED73DE578",
+							"ItemResponseOID": "871621CD-96A4-4BC4-B285-9E2F257ABBE7",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C",
+			"ID": "EDANX54",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D66456D0-6E0B-4BC7-9314-BF74F0C5396D",
+					"Description": "Me sent\u00ed tenso/a",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C",
+							"ItemResponseOID": "4C8B5F2B-760F-4F3D-9FAB-0FB555938932",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C",
+							"ItemResponseOID": "F2D8F990-79FC-4FD7-B72F-B3B3084FB7DC",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C",
+							"ItemResponseOID": "DCEC68FC-05AB-4562-9089-2CDA64BD4456",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C",
+							"ItemResponseOID": "BED9BBDE-9671-45F7-9F99-214DF71BA22A",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "1FD8700D-1772-4A2F-8F60-FC16A9D2CE3C",
+							"ItemResponseOID": "B7AF2E93-C102-48C4-BD3A-E9FDA16E961A",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "7EC6CD96-1862-43F3-978C-BD3B5B65852B",
+			"ID": "EDANX55",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "41BE7E9E-8810-41EF-8CA9-5044BC6AF539",
+					"Description": "Tuve dificultad para tranquilizarme",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "7EC6CD96-1862-43F3-978C-BD3B5B65852B",
+							"ItemResponseOID": "759EF611-79BB-4577-A666-49D8F844EB4C",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "7EC6CD96-1862-43F3-978C-BD3B5B65852B",
+							"ItemResponseOID": "CDCF22D2-44F4-4A5B-B4A4-899BB11516B6",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "7EC6CD96-1862-43F3-978C-BD3B5B65852B",
+							"ItemResponseOID": "A17F4EDC-9CDC-41F0-85BC-706A4FE0683D",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "7EC6CD96-1862-43F3-978C-BD3B5B65852B",
+							"ItemResponseOID": "8C476C48-4EAF-43C5-AD46-4F05919BBA9C",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "7EC6CD96-1862-43F3-978C-BD3B5B65852B",
+							"ItemResponseOID": "C70478D2-C0F4-46F6-B038-F8ADA08B449D",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68",
+			"ID": "EDANX18",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E2F61273-C96B-4326-870F-E5FFBE05890A",
+					"Description": "Tuve sensaciones de p\u00e1nico repentinas.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68",
+							"ItemResponseOID": "25728A97-05F0-4CE9-87DE-B8CE8EA02605",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68",
+							"ItemResponseOID": "B3E71A90-9A97-41BF-AD07-F7471EA55117",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68",
+							"ItemResponseOID": "C4F376A8-4B80-433B-9301-4AD24D89B4DC",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68",
+							"ItemResponseOID": "3A5AC34C-F5E8-468A-895A-F3ABDA2A60BA",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "E1B04006-01EC-4D7A-B46D-A6DD6D4F9B68",
+							"ItemResponseOID": "57FFC7EB-0814-4C4D-95A7-9D5555872F5C",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "0043CA21-A0C7-43CD-A22A-99A2894E15AC",
+			"ID": "NQANX07",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7A838191-B31E-4845-8A87-A53CDC7A405C",
+					"Description": "Me sent\u00ed nervioso/a cuando se alteraba mi rutina normal",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "0043CA21-A0C7-43CD-A22A-99A2894E15AC",
+							"ItemResponseOID": "3A5DEB8D-29D3-4C1E-9F3E-CE4F726681CD",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "0043CA21-A0C7-43CD-A22A-99A2894E15AC",
+							"ItemResponseOID": "E8B9EDDC-788B-403C-A4A4-1A81EFF678CA",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "0043CA21-A0C7-43CD-A22A-99A2894E15AC",
+							"ItemResponseOID": "87136686-8C46-4CE3-85CE-9FC71A536EEB",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "0043CA21-A0C7-43CD-A22A-99A2894E15AC",
+							"ItemResponseOID": "C2DE4E69-D914-4F05-90DB-EE8208DAB558",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "0043CA21-A0C7-43CD-A22A-99A2894E15AC",
+							"ItemResponseOID": "77847F93-EB15-42CF-8996-63F4664193B9",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "4D84D65E-D326-4DEA-B29B-47098CDF4EAA",
+			"ID": "NQANX02",
+			"Order": "9",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "B3E06286-E1F6-434E-AAB8-024054685B73",
+					"Description": "Sent\u00ed miedo del futuro",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "4D84D65E-D326-4DEA-B29B-47098CDF4EAA",
+							"ItemResponseOID": "D7F14322-E2A5-43DF-8315-1748D251C661",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "4D84D65E-D326-4DEA-B29B-47098CDF4EAA",
+							"ItemResponseOID": "60E850CD-762C-4B63-B38B-8B594E01D995",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "4D84D65E-D326-4DEA-B29B-47098CDF4EAA",
+							"ItemResponseOID": "9AF2E5B4-747A-4F4A-9DEC-7FAFDE558DB2",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "4D84D65E-D326-4DEA-B29B-47098CDF4EAA",
+							"ItemResponseOID": "F78C8080-177E-491E-82D4-A70B2AE382A3",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "4D84D65E-D326-4DEA-B29B-47098CDF4EAA",
+							"ItemResponseOID": "1259C990-E6F9-49A2-91C0-76E08DB62920",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "0AEC03E2-C4D2-489C-9617-34DE44985FD8",
+			"ID": "EDANX05",
+			"Order": "10",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "B7DA2642-65CA-48D1-9F46-B0B2B3C51034",
+					"Description": "Sent\u00ed ansiedad",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "0AEC03E2-C4D2-489C-9617-34DE44985FD8",
+							"ItemResponseOID": "070B783F-677D-42CC-B948-457AD3EE87A0",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "0AEC03E2-C4D2-489C-9617-34DE44985FD8",
+							"ItemResponseOID": "3254F6A2-5E2B-4BC6-85D9-1131F50D039E",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "0AEC03E2-C4D2-489C-9617-34DE44985FD8",
+							"ItemResponseOID": "AA6682B5-5CAF-4960-B039-63475A0E7AD5",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "0AEC03E2-C4D2-489C-9617-34DE44985FD8",
+							"ItemResponseOID": "C61E46A3-9726-47B2-A49E-FBCB5007FEA6",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "0AEC03E2-C4D2-489C-9617-34DE44985FD8",
+							"ItemResponseOID": "5A6149BD-7A9A-4D3A-B3A8-C7C07622C4C0",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "898B2620-C93C-44B2-95A5-E35167EB5689",
+			"ID": "NQANX04",
+			"Order": "11",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "A3711C16-F865-4B41-9B52-1739CE45571D",
+					"Description": "Me preocup\u00f3 mi salud f\u00edsica",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "898B2620-C93C-44B2-95A5-E35167EB5689",
+							"ItemResponseOID": "4E74C41F-2A99-4C6D-8DC3-47CB7E8809B4",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "898B2620-C93C-44B2-95A5-E35167EB5689",
+							"ItemResponseOID": "9B6FCB97-D616-45D1-84FA-4521E2BAAEB4",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "898B2620-C93C-44B2-95A5-E35167EB5689",
+							"ItemResponseOID": "56E8B9CA-DCEA-408F-B512-51860DC09F89",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "898B2620-C93C-44B2-95A5-E35167EB5689",
+							"ItemResponseOID": "E2DC57C7-1834-4DED-8DB8-8FABC9769E43",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "898B2620-C93C-44B2-95A5-E35167EB5689",
+							"ItemResponseOID": "87F148AA-FECA-42E4-8293-3D418D585753",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F4151B84-E33D-4CE1-9847-68EAD9E7884E",
+			"ID": "EDANX07",
+			"Order": "12",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7E4C58E2-9EE0-4231-B60C-504E999F59FF",
+					"Description": "Sent\u00ed que necesitaba ayuda para mi ansiedad",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "F4151B84-E33D-4CE1-9847-68EAD9E7884E",
+							"ItemResponseOID": "073E87F3-01DA-4450-B11D-E97F24B64B72",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "F4151B84-E33D-4CE1-9847-68EAD9E7884E",
+							"ItemResponseOID": "0D2EF983-2E7A-4792-915C-A552CE538A35",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "F4151B84-E33D-4CE1-9847-68EAD9E7884E",
+							"ItemResponseOID": "8C82DF2E-9318-43C0-AF01-81222936F4C8",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "F4151B84-E33D-4CE1-9847-68EAD9E7884E",
+							"ItemResponseOID": "3D47051C-553F-498D-9116-0711447299A8",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "F4151B84-E33D-4CE1-9847-68EAD9E7884E",
+							"ItemResponseOID": "61785CF5-9D3C-4BA1-B8F5-57295B0DA7DD",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "A1E7B714-F8DE-460B-8D49-FA7EE0DB801F",
+			"ID": "EDANX20",
+			"Order": "13",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "FAC778BE-51BA-48C8-B1B0-8974DBD5E53D",
+					"Description": "Me sobresalt\u00e9 (asust\u00e9) f\u00e1cilmente",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "A1E7B714-F8DE-460B-8D49-FA7EE0DB801F",
+							"ItemResponseOID": "8B40486F-D5AD-4339-8A46-9B61D73F03AF",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "A1E7B714-F8DE-460B-8D49-FA7EE0DB801F",
+							"ItemResponseOID": "1EE810F5-5FEA-47D0-A025-DD8E7EBA1740",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "A1E7B714-F8DE-460B-8D49-FA7EE0DB801F",
+							"ItemResponseOID": "7462C760-31E1-4DED-8316-40ECFE008F19",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "A1E7B714-F8DE-460B-8D49-FA7EE0DB801F",
+							"ItemResponseOID": "4ABCCC8F-0B3A-498A-BB18-FF1EAB4B0F15",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "A1E7B714-F8DE-460B-8D49-FA7EE0DB801F",
+							"ItemResponseOID": "32431B86-4E38-4C38-A9B0-868CA65B0142",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "B43100BA-4333-4AF0-BD68-0CC351CEAC68",
+			"ID": "EDANX26",
+			"Order": "14",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "9E136B29-CA4B-45F8-88FD-29A934E6E0B2",
+					"Description": "Me sent\u00ed inquieto/a",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "B43100BA-4333-4AF0-BD68-0CC351CEAC68",
+							"ItemResponseOID": "9B769F70-49B0-49D6-9555-7275CEE55849",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "B43100BA-4333-4AF0-BD68-0CC351CEAC68",
+							"ItemResponseOID": "A9AAA9E4-D724-4F84-BB54-761621FAC843",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "B43100BA-4333-4AF0-BD68-0CC351CEAC68",
+							"ItemResponseOID": "1D2FC2D6-ABDE-4D32-B9FF-0DE566552DF5",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "B43100BA-4333-4AF0-BD68-0CC351CEAC68",
+							"ItemResponseOID": "78120B79-50A7-4542-B63A-445817F9349B",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "B43100BA-4333-4AF0-BD68-0CC351CEAC68",
+							"ItemResponseOID": "FBA8B68A-2DEB-43C0-BD5E-4624210BBE21",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "85A89137-CFFB-4148-BDF0-649F56A663CF",
+			"ID": "EDANX27",
+			"Order": "15",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "F3CDAAD9-BE49-4F96-A788-66A615C45D0D",
+					"Description": "Sent\u00ed que iba a ocurrir algo terrible",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "85A89137-CFFB-4148-BDF0-649F56A663CF",
+							"ItemResponseOID": "CBA77653-4383-483F-86E1-9A2D590B482D",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "85A89137-CFFB-4148-BDF0-649F56A663CF",
+							"ItemResponseOID": "CD595893-88A3-42D0-AE96-BBDCA1FDD5D8",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "85A89137-CFFB-4148-BDF0-649F56A663CF",
+							"ItemResponseOID": "EABBC58E-C6F9-4290-A733-57A2E4D6E8FB",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "85A89137-CFFB-4148-BDF0-649F56A663CF",
+							"ItemResponseOID": "14EC0231-E641-4BCF-919E-D9DC5AFFFA9F",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "85A89137-CFFB-4148-BDF0-649F56A663CF",
+							"ItemResponseOID": "4A45872B-6144-4E88-9DE5-24420E0B3CDD",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "85461B4B-CE9F-49EF-B3CF-40EA6488D67E",
+			"ID": "EDANX30",
+			"Order": "16",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C040D463-6332-4EEF-AE6F-255FB0DD073B",
+					"Description": "Me sent\u00ed preocupado/a",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "85461B4B-CE9F-49EF-B3CF-40EA6488D67E",
+							"ItemResponseOID": "5CF2ADA6-E614-400C-B66C-9567B3BD7BA9",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "85461B4B-CE9F-49EF-B3CF-40EA6488D67E",
+							"ItemResponseOID": "8D935551-4EA5-497A-831E-6E19276CAE48",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "85461B4B-CE9F-49EF-B3CF-40EA6488D67E",
+							"ItemResponseOID": "A170FFCF-80CB-4449-A3FE-91EB18384B22",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "85461B4B-CE9F-49EF-B3CF-40EA6488D67E",
+							"ItemResponseOID": "9843C92C-D0AA-4F6A-959B-549BC4ABE98C",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "85461B4B-CE9F-49EF-B3CF-40EA6488D67E",
+							"ItemResponseOID": "F76C9B2C-73F1-4477-AC0D-0520D04957D8",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "4686248F-79B4-42C9-AE47-1C094A56BEC9",
+			"ID": "NQANX17",
+			"Order": "17",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "CCEC7E07-E5AC-4381-B158-76D9175B4723",
+					"Description": "De repente sent\u00ed miedo sin ning\u00fan motivo",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "4686248F-79B4-42C9-AE47-1C094A56BEC9",
+							"ItemResponseOID": "24D64678-A516-486B-81CD-39BFF3C88048",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "4686248F-79B4-42C9-AE47-1C094A56BEC9",
+							"ItemResponseOID": "DD2151AE-059E-4E4A-A82B-3643242ACEC6",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "4686248F-79B4-42C9-AE47-1C094A56BEC9",
+							"ItemResponseOID": "02ABB5F2-2BE6-460B-9701-1D5163DFC1F3",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "4686248F-79B4-42C9-AE47-1C094A56BEC9",
+							"ItemResponseOID": "56242004-993C-460D-9E56-218BFC1728F1",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "4686248F-79B4-42C9-AE47-1C094A56BEC9",
+							"ItemResponseOID": "E8E46345-12DB-4310-85C3-332279107387",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7",
+			"ID": "NQANX18",
+			"Order": "18",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "43DAF9E1-F3C9-4B68-A850-580BC4CC35FF",
+					"Description": "Me preocup\u00f3 morir",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7",
+							"ItemResponseOID": "AAE63CF6-E3DA-42B8-A145-42E8B92D74D6",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7",
+							"ItemResponseOID": "FCF9671D-1442-413B-A94B-18B6B180F35B",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7",
+							"ItemResponseOID": "9FB9C424-A6AD-4092-95DA-14E03E7135EE",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7",
+							"ItemResponseOID": "08B80C5B-23FF-4EE2-BB71-9C877EE4D566",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "C4FC8F1C-BA62-4EEC-978C-326ED7BE83B7",
+							"ItemResponseOID": "317FE1F4-48DF-449E-BFB2-AFD917E608AC",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "59DFDF12-846C-4E50-87F8-3A7B7667746A",
+			"ID": "NQANX21",
+			"Order": "19",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7400887F-7EDE-45D1-9093-5361BECD5EC6",
+					"Description": "Me sent\u00ed t\u00edmido/a",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "59DFDF12-846C-4E50-87F8-3A7B7667746A",
+							"ItemResponseOID": "EE869963-F24B-48BB-9B0A-1F2EF31B3281",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "59DFDF12-846C-4E50-87F8-3A7B7667746A",
+							"ItemResponseOID": "F6545084-86D9-45A8-AFEB-20E14DF3307B",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "59DFDF12-846C-4E50-87F8-3A7B7667746A",
+							"ItemResponseOID": "58F99E94-2613-4F31-BA94-473FAEE08A51",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "59DFDF12-846C-4E50-87F8-3A7B7667746A",
+							"ItemResponseOID": "E905F935-FA4E-445A-8EB3-54733267C63B",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "59DFDF12-846C-4E50-87F8-3A7B7667746A",
+							"ItemResponseOID": "F56FBA11-754F-49AB-862E-DCF3289E90BC",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "8EFCC3D3-1575-45DF-893D-EBE4413D48F3",
+			"ID": "EDANX49",
+			"Order": "20",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "FA348DE6-59AF-4A61-B63E-0117A42A72A2",
+					"Description": "Tuve dificultad para dormir",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "8EFCC3D3-1575-45DF-893D-EBE4413D48F3",
+							"ItemResponseOID": "1243A822-1D04-42CD-850B-F7091FA4AB28",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "8EFCC3D3-1575-45DF-893D-EBE4413D48F3",
+							"ItemResponseOID": "258E7535-671A-48D2-8EF5-3145503B47FA",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "8EFCC3D3-1575-45DF-893D-EBE4413D48F3",
+							"ItemResponseOID": "AB00DE20-99BC-4ADD-9085-C8F292520F45",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "8EFCC3D3-1575-45DF-893D-EBE4413D48F3",
+							"ItemResponseOID": "46472E7C-F815-44FD-8966-CD06F5A4B6DF",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "8EFCC3D3-1575-45DF-893D-EBE4413D48F3",
+							"ItemResponseOID": "FF1F6E96-14DA-4865-ACEC-52FAB4D90711",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "57603615-5006-46FF-AFDB-F34DDF2DBA75",
+			"ID": "EDANX51",
+			"Order": "21",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "4087ECFD-92CD-4EA1-A4D4-D3CC03179039",
+					"Description": "Me cost\u00f3 trabajo relajarme",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "57603615-5006-46FF-AFDB-F34DDF2DBA75",
+							"ItemResponseOID": "3BE1F94B-4678-4B52-B8A9-ADFA1BE97AB2",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "57603615-5006-46FF-AFDB-F34DDF2DBA75",
+							"ItemResponseOID": "02946730-1265-4DD1-8447-D7E90415CF2F",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "57603615-5006-46FF-AFDB-F34DDF2DBA75",
+							"ItemResponseOID": "48C2BB33-A2F8-43EB-80F8-0488F653FDAD",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "57603615-5006-46FF-AFDB-F34DDF2DBA75",
+							"ItemResponseOID": "93DB9456-14F5-4B08-99D6-CB0FD1FA5739",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "57603615-5006-46FF-AFDB-F34DDF2DBA75",
+							"ItemResponseOID": "061B8BC4-A780-4432-B060-E83850A99C73",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

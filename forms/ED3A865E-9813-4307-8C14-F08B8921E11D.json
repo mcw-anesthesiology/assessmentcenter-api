@@ -1,1 +1,525 @@
-{"DateFinished":"","Items":[{"FormItemOID":"F84791CC-CFAA-4D29-B76E-03965387E980","ID":"SEMMT005","Order":"1","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"5986E0F7-DDEB-466C-A4EA-812CD223C903","Description":"I can follow directions when my doctor changes my medications.","ElementOrder":"2"},{"ElementOID":"F5C6148B-5215-47F7-9D1C-1D1663F7A9B0","Description":"ContainerForF5C6148B-5215-47F7-9D1C-1D1663F7A9B0","ElementOrder":"3","Map":[{"ElementOID":"7D794809-2584-47B0-8C9D-D9BD35C7F34B","Description":"I am not at all confident","FormItemOID":"F84791CC-CFAA-4D29-B76E-03965387E980","ItemResponseOID":"CC45FEB2-BDD8-4231-98A0-9DB3EF392D70", "Value":"1","Position":"1"},{"ElementOID":"F666F942-1C37-49D5-BBC0-35DC1463E839","Description":"I am a little confident","FormItemOID":"F84791CC-CFAA-4D29-B76E-03965387E980","ItemResponseOID":"90367E46-0707-4182-9232-742CCEF0FAB6", "Value":"2","Position":"2"},{"ElementOID":"4BCDD3D5-C6A3-4C73-892A-5C2D2394EB19","Description":"I am somewhat confident","FormItemOID":"F84791CC-CFAA-4D29-B76E-03965387E980","ItemResponseOID":"7995579C-2940-4537-A9C7-297F80FF6E6E", "Value":"3","Position":"3"},{"ElementOID":"503DD8DD-0E46-414D-A9F0-323E4CD79591","Description":"I am quite confident","FormItemOID":"F84791CC-CFAA-4D29-B76E-03965387E980","ItemResponseOID":"C8015FFD-D6F8-42BC-9D2E-7AAB824C3786", "Value":"4","Position":"4"},{"ElementOID":"D44FFFBB-B342-4178-9E43-E54A4E9AA61C","Description":"I am very confident","FormItemOID":"F84791CC-CFAA-4D29-B76E-03965387E980","ItemResponseOID":"2128AE7E-3C22-40BD-86B1-BCE7B7AF607B", "Value":"5","Position":"5"}]}]},{"FormItemOID":"FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C","ID":"SEMMT019","Order":"2","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"6E747FD1-073D-4A0D-8B74-446EEC7271AC","Description":"I can take my medication when I am working or away from home.","ElementOrder":"2"},{"ElementOID":"B94E46D8-B714-48E8-B4C4-80E303F2426E","Description":"ContainerForB94E46D8-B714-48E8-B4C4-80E303F2426E","ElementOrder":"3","Map":[{"ElementOID":"0BFD40F6-4B45-4B82-9358-D2708E9008A4","Description":"I am not at all confident","FormItemOID":"FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C","ItemResponseOID":"BD5A9A8B-A1BB-457D-9869-94535B227A10", "Value":"1","Position":"1"},{"ElementOID":"029FF417-2720-4AE1-BB83-F278FC66C086","Description":"I am a little confident","FormItemOID":"FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C","ItemResponseOID":"147BE77B-FB83-42B2-BF59-0FB7ABEE41A6", "Value":"2","Position":"2"},{"ElementOID":"BFC7F593-9EB4-4989-9710-61031B188154","Description":"I am somewhat confident","FormItemOID":"FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C","ItemResponseOID":"C4627BD4-8897-44D6-A149-B36BB0721A18", "Value":"3","Position":"3"},{"ElementOID":"29AFAB36-FC5D-48DE-96B5-66D66770CC26","Description":"I am quite confident","FormItemOID":"FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C","ItemResponseOID":"EEB22E0F-1B27-4D06-A538-8DEDD55EF3BB", "Value":"4","Position":"4"},{"ElementOID":"E8998EAB-C751-43D3-B3D3-6B19EF65EC89","Description":"I am very confident","FormItemOID":"FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C","ItemResponseOID":"59EA863A-4D93-4284-86E4-A9EA806E582D", "Value":"5","Position":"5"}]}]},{"FormItemOID":"F3150873-BE44-4F50-ADA7-D4D70757CA23","ID":"SEMMT023","Order":"3","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"70F6F0DB-193B-4200-B262-18FA3BDCE841","Description":"I can take my medication when there is a change in my usual day (unexpected things happen).","ElementOrder":"2"},{"ElementOID":"CFABABB1-9DF3-4B32-A043-8A0CC9C46DF7","Description":"ContainerForCFABABB1-9DF3-4B32-A043-8A0CC9C46DF7","ElementOrder":"3","Map":[{"ElementOID":"A93B1AE8-B721-42B7-B430-4FABE55052FB","Description":"I am not at all confident","FormItemOID":"F3150873-BE44-4F50-ADA7-D4D70757CA23","ItemResponseOID":"0AB6871F-F8EC-457E-ABC6-BF72DE09ECBD", "Value":"1","Position":"1"},{"ElementOID":"E7826731-4341-4B59-A770-F2DFF174E0FD","Description":"I am a little confident","FormItemOID":"F3150873-BE44-4F50-ADA7-D4D70757CA23","ItemResponseOID":"137BE132-2A74-4406-846D-96E6AA2088E3", "Value":"2","Position":"2"},{"ElementOID":"D0BC3F38-2537-471E-9E72-5D9EDD26B343","Description":"I am somewhat confident","FormItemOID":"F3150873-BE44-4F50-ADA7-D4D70757CA23","ItemResponseOID":"F9406120-B577-4C61-B25B-DCF935062F0A", "Value":"3","Position":"3"},{"ElementOID":"E360C278-19C7-4F99-94D2-4EF2BE7BA41F","Description":"I am quite confident","FormItemOID":"F3150873-BE44-4F50-ADA7-D4D70757CA23","ItemResponseOID":"A23AD233-D90E-4D79-8878-5030EAB8ED0A", "Value":"4","Position":"4"},{"ElementOID":"E3735E18-8B09-4A0E-A2D9-0010EFAECE69","Description":"I am very confident","FormItemOID":"F3150873-BE44-4F50-ADA7-D4D70757CA23","ItemResponseOID":"681013F5-2529-41C1-9D26-4874D0C51DC8", "Value":"5","Position":"5"}]}]},{"FormItemOID":"729286F6-5840-4447-B049-065E1B940F63","ID":"SEMMT006","Order":"4","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"E8F07065-8A3C-4F65-939D-FA43A96D2A35","Description":"I can manage my medication without help.","ElementOrder":"2"},{"ElementOID":"20C1A0BD-714B-4447-B446-644C8F5C4B2E","Description":"ContainerFor20C1A0BD-714B-4447-B446-644C8F5C4B2E","ElementOrder":"3","Map":[{"ElementOID":"B539E885-1DC9-4BB0-AAB1-6B9ACAA82E04","Description":"I am not at all confident","FormItemOID":"729286F6-5840-4447-B049-065E1B940F63","ItemResponseOID":"C577A003-8F31-43AD-A901-C56BC2064853", "Value":"1","Position":"1"},{"ElementOID":"B10EFE4F-B670-4ED5-8683-E03B45756639","Description":"I am a little confident","FormItemOID":"729286F6-5840-4447-B049-065E1B940F63","ItemResponseOID":"3DE977D9-1C68-435D-852D-65EB34B6C7C8", "Value":"2","Position":"2"},{"ElementOID":"38805723-3E34-44B8-87B5-4F1BA79BACB1","Description":"I am somewhat confident","FormItemOID":"729286F6-5840-4447-B049-065E1B940F63","ItemResponseOID":"E2357701-9129-4528-8A1B-48DA5593A67B", "Value":"3","Position":"3"},{"ElementOID":"033E365E-65E5-4DF6-A3E9-7027AB0FCA5E","Description":"I am quite confident","FormItemOID":"729286F6-5840-4447-B049-065E1B940F63","ItemResponseOID":"AD38A133-6151-4DC8-9814-D7B6157C5E33", "Value":"4","Position":"4"},{"ElementOID":"ABD0EC6D-BE07-4AE4-8B12-74C7C3AB774F","Description":"I am very confident","FormItemOID":"729286F6-5840-4447-B049-065E1B940F63","ItemResponseOID":"3CC08F63-33AE-4566-B5B3-F8F2EA8DEBAC", "Value":"5","Position":"5"}]}]},{"FormItemOID":"5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3","ID":"SEMMT002","Order":"5","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"73310309-5F96-4031-BE89-3C3E7A179ACE","Description":"I can remember to take my medication as prescribed.","ElementOrder":"2"},{"ElementOID":"1DB6106A-A534-4DF7-BF68-71C2CA22F231","Description":"ContainerFor1DB6106A-A534-4DF7-BF68-71C2CA22F231","ElementOrder":"3","Map":[{"ElementOID":"35EC2215-8B29-4FE5-A29F-260F3635120D","Description":"I am not at all confident","FormItemOID":"5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3","ItemResponseOID":"206B0E5B-5308-4A4D-99F3-F3F5C23029BC", "Value":"1","Position":"1"},{"ElementOID":"737E5CA2-017E-42BA-BE17-4984BB9381D3","Description":"I am a little confident","FormItemOID":"5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3","ItemResponseOID":"DB8D74E0-8B7F-4DD6-A88B-F25AB7DE05B4", "Value":"2","Position":"2"},{"ElementOID":"E3DCDE66-9C2B-411F-B1FD-0955635A2B64","Description":"I am somewhat confident","FormItemOID":"5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3","ItemResponseOID":"1AD1C80D-A68D-4A5D-BA40-A92538A5E02A", "Value":"3","Position":"3"},{"ElementOID":"D3B938A2-89BF-4264-AE72-87A8073A158F","Description":"I am quite confident","FormItemOID":"5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3","ItemResponseOID":"9E53DF86-7576-49D2-B1DE-67D7F7E15EBB", "Value":"4","Position":"4"},{"ElementOID":"53CB4539-C77E-4A86-9BA6-64D22B4D8475","Description":"I am very confident","FormItemOID":"5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3","ItemResponseOID":"6D3B46F7-6623-4266-BD0A-960FE8E6419A", "Value":"5","Position":"5"}]}]},{"FormItemOID":"431A6CB1-BD29-4A88-B429-C11A5B1F02AB","ID":"SEMMT017","Order":"6","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"7C454060-00DE-45C6-9BB1-5EFE8E0F595E","Description":"I can use technology to help me manage my medication and treatments (for example: to get information, avoid side-effects, schedule reminders).","ElementOrder":"2"},{"ElementOID":"FC751AFE-61B6-42FF-9507-1641EB320E88","Description":"ContainerForFC751AFE-61B6-42FF-9507-1641EB320E88","ElementOrder":"3","Map":[{"ElementOID":"9541C211-C151-4A1C-9BCE-9FB07DA31B31","Description":"I am not at all confident","FormItemOID":"431A6CB1-BD29-4A88-B429-C11A5B1F02AB","ItemResponseOID":"C1BA8B6B-42DA-41E8-B168-97FE0B6BF1EB", "Value":"1","Position":"1"},{"ElementOID":"25FECD91-1A48-47F5-B3C6-826AA8AC8769","Description":"I am a little confident","FormItemOID":"431A6CB1-BD29-4A88-B429-C11A5B1F02AB","ItemResponseOID":"06B21F37-8184-46CC-9D54-27896B3766C7", "Value":"2","Position":"2"},{"ElementOID":"067E4F2E-AE06-4E06-A9FD-1A06BF3B79CD","Description":"I am somewhat confident","FormItemOID":"431A6CB1-BD29-4A88-B429-C11A5B1F02AB","ItemResponseOID":"7E646C9B-B930-4331-9AC1-5A302744734F", "Value":"3","Position":"3"},{"ElementOID":"E1AB960D-9D31-4CF4-ABE0-40ACAF3AA559","Description":"I am quite confident","FormItemOID":"431A6CB1-BD29-4A88-B429-C11A5B1F02AB","ItemResponseOID":"332F9781-A171-4BD2-B2EC-890000F463F3", "Value":"4","Position":"4"},{"ElementOID":"A0080E0E-811F-41AF-993F-335D14178494","Description":"I am very confident","FormItemOID":"431A6CB1-BD29-4A88-B429-C11A5B1F02AB","ItemResponseOID":"0E5BA972-D1C8-49ED-A059-0DE4BDB84836", "Value":"5","Position":"5"}]}]},{"FormItemOID":"2AFA46DC-2B27-4B84-B63A-0312E97CF3E7","ID":"SEMMT010","Order":"7","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"34259F28-B59E-40BE-BB7B-F497C943EB9E","Description":"I can list my medications, including the doses and schedule.","ElementOrder":"2"},{"ElementOID":"CFE2E4DC-81A7-45C4-B9CA-C43172BB801E","Description":"ContainerForCFE2E4DC-81A7-45C4-B9CA-C43172BB801E","ElementOrder":"3","Map":[{"ElementOID":"ED13D933-7556-4E97-A18A-263C98299C1B","Description":"I am not at all confident","FormItemOID":"2AFA46DC-2B27-4B84-B63A-0312E97CF3E7","ItemResponseOID":"BF7AAA45-C0B4-4B3F-9F01-7374CCB71C1D", "Value":"1","Position":"1"},{"ElementOID":"27EB64F2-B774-4860-A398-0247153869F3","Description":"I am a little confident","FormItemOID":"2AFA46DC-2B27-4B84-B63A-0312E97CF3E7","ItemResponseOID":"B11FE11C-4B43-4E4D-82C6-193B3C73EBB1", "Value":"2","Position":"2"},{"ElementOID":"B08F5801-8D29-43D9-9192-62B2312A39A7","Description":"I am somewhat confident","FormItemOID":"2AFA46DC-2B27-4B84-B63A-0312E97CF3E7","ItemResponseOID":"B4C813B8-AF6E-48E0-8610-8018DE4CBC05", "Value":"3","Position":"3"},{"ElementOID":"B76E3C03-3053-45A3-92EF-0B2A74757817","Description":"I am quite confident","FormItemOID":"2AFA46DC-2B27-4B84-B63A-0312E97CF3E7","ItemResponseOID":"81211899-F62A-4AD6-B87F-B4327F797D87", "Value":"4","Position":"4"},{"ElementOID":"4DA1D063-D29A-4DE0-806F-18231517DF9E","Description":"I am very confident","FormItemOID":"2AFA46DC-2B27-4B84-B63A-0312E97CF3E7","ItemResponseOID":"CF4DA394-C5F1-4CC5-A969-639C09BD59FF", "Value":"5","Position":"5"}]}]},{"FormItemOID":"3ADCE77B-7829-482C-AB5F-95EC97A8D39B","ID":"SEMMT024","Order":"8","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"7241CC1E-CAE4-4A23-BB9B-220D552B9588","Description":"I can figure out what treatment I need when my symptoms change.","ElementOrder":"2"},{"ElementOID":"6D0BFC09-C7E5-467C-9D7C-E027050A967C","Description":"ContainerFor6D0BFC09-C7E5-467C-9D7C-E027050A967C","ElementOrder":"3","Map":[{"ElementOID":"D48F91A3-9BF3-4667-A213-EEDE2499A9EA","Description":"I am not at all confident","FormItemOID":"3ADCE77B-7829-482C-AB5F-95EC97A8D39B","ItemResponseOID":"F79C43C4-AC63-41B9-8C26-F68D73405AF7", "Value":"1","Position":"1"},{"ElementOID":"15220EBD-5B45-49EF-A836-F2D0C22EC053","Description":"I am a little confident","FormItemOID":"3ADCE77B-7829-482C-AB5F-95EC97A8D39B","ItemResponseOID":"9BA7034C-C49E-47A4-BB23-52531FD7068E", "Value":"2","Position":"2"},{"ElementOID":"CF76DAF3-E0D0-4756-9F98-D5E377ADC6C5","Description":"I am somewhat confident","FormItemOID":"3ADCE77B-7829-482C-AB5F-95EC97A8D39B","ItemResponseOID":"94CAA2E3-6007-4F30-8276-AC31837ACA3F", "Value":"3","Position":"3"},{"ElementOID":"EDD82587-DC55-476D-AFF5-AD8AEF4886B3","Description":"I am quite confident","FormItemOID":"3ADCE77B-7829-482C-AB5F-95EC97A8D39B","ItemResponseOID":"8DEDF671-6225-4FDE-AE40-265C3CA66DB3", "Value":"4","Position":"4"},{"ElementOID":"C0CF307C-DC54-4B89-AC3D-276BE42F7955","Description":"I am very confident","FormItemOID":"3ADCE77B-7829-482C-AB5F-95EC97A8D39B","ItemResponseOID":"CC1DE863-62F0-450F-AFF2-AF1AC8397781", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "F84791CC-CFAA-4D29-B76E-03965387E980",
+			"ID": "SEMMT005",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "5986E0F7-DDEB-466C-A4EA-812CD223C903",
+					"Description": "I can follow directions when my doctor changes my medications.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "F5C6148B-5215-47F7-9D1C-1D1663F7A9B0",
+					"Description": "ContainerForF5C6148B-5215-47F7-9D1C-1D1663F7A9B0",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "7D794809-2584-47B0-8C9D-D9BD35C7F34B",
+							"Description": "I am not at all confident",
+							"FormItemOID": "F84791CC-CFAA-4D29-B76E-03965387E980",
+							"ItemResponseOID": "CC45FEB2-BDD8-4231-98A0-9DB3EF392D70",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "F666F942-1C37-49D5-BBC0-35DC1463E839",
+							"Description": "I am a little confident",
+							"FormItemOID": "F84791CC-CFAA-4D29-B76E-03965387E980",
+							"ItemResponseOID": "90367E46-0707-4182-9232-742CCEF0FAB6",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCDD3D5-C6A3-4C73-892A-5C2D2394EB19",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "F84791CC-CFAA-4D29-B76E-03965387E980",
+							"ItemResponseOID": "7995579C-2940-4537-A9C7-297F80FF6E6E",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "503DD8DD-0E46-414D-A9F0-323E4CD79591",
+							"Description": "I am quite confident",
+							"FormItemOID": "F84791CC-CFAA-4D29-B76E-03965387E980",
+							"ItemResponseOID": "C8015FFD-D6F8-42BC-9D2E-7AAB824C3786",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "D44FFFBB-B342-4178-9E43-E54A4E9AA61C",
+							"Description": "I am very confident",
+							"FormItemOID": "F84791CC-CFAA-4D29-B76E-03965387E980",
+							"ItemResponseOID": "2128AE7E-3C22-40BD-86B1-BCE7B7AF607B",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C",
+			"ID": "SEMMT019",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6E747FD1-073D-4A0D-8B74-446EEC7271AC",
+					"Description": "I can take my medication when I am working or away from home.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B94E46D8-B714-48E8-B4C4-80E303F2426E",
+					"Description": "ContainerForB94E46D8-B714-48E8-B4C4-80E303F2426E",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "0BFD40F6-4B45-4B82-9358-D2708E9008A4",
+							"Description": "I am not at all confident",
+							"FormItemOID": "FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C",
+							"ItemResponseOID": "BD5A9A8B-A1BB-457D-9869-94535B227A10",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "029FF417-2720-4AE1-BB83-F278FC66C086",
+							"Description": "I am a little confident",
+							"FormItemOID": "FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C",
+							"ItemResponseOID": "147BE77B-FB83-42B2-BF59-0FB7ABEE41A6",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "BFC7F593-9EB4-4989-9710-61031B188154",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C",
+							"ItemResponseOID": "C4627BD4-8897-44D6-A149-B36BB0721A18",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29AFAB36-FC5D-48DE-96B5-66D66770CC26",
+							"Description": "I am quite confident",
+							"FormItemOID": "FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C",
+							"ItemResponseOID": "EEB22E0F-1B27-4D06-A538-8DEDD55EF3BB",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "E8998EAB-C751-43D3-B3D3-6B19EF65EC89",
+							"Description": "I am very confident",
+							"FormItemOID": "FE093A6A-FDF9-4D0E-9A6C-7FAC3515349C",
+							"ItemResponseOID": "59EA863A-4D93-4284-86E4-A9EA806E582D",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F3150873-BE44-4F50-ADA7-D4D70757CA23",
+			"ID": "SEMMT023",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "70F6F0DB-193B-4200-B262-18FA3BDCE841",
+					"Description": "I can take my medication when there is a change in my usual day (unexpected things happen).",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "CFABABB1-9DF3-4B32-A043-8A0CC9C46DF7",
+					"Description": "ContainerForCFABABB1-9DF3-4B32-A043-8A0CC9C46DF7",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "A93B1AE8-B721-42B7-B430-4FABE55052FB",
+							"Description": "I am not at all confident",
+							"FormItemOID": "F3150873-BE44-4F50-ADA7-D4D70757CA23",
+							"ItemResponseOID": "0AB6871F-F8EC-457E-ABC6-BF72DE09ECBD",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "E7826731-4341-4B59-A770-F2DFF174E0FD",
+							"Description": "I am a little confident",
+							"FormItemOID": "F3150873-BE44-4F50-ADA7-D4D70757CA23",
+							"ItemResponseOID": "137BE132-2A74-4406-846D-96E6AA2088E3",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "D0BC3F38-2537-471E-9E72-5D9EDD26B343",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "F3150873-BE44-4F50-ADA7-D4D70757CA23",
+							"ItemResponseOID": "F9406120-B577-4C61-B25B-DCF935062F0A",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "E360C278-19C7-4F99-94D2-4EF2BE7BA41F",
+							"Description": "I am quite confident",
+							"FormItemOID": "F3150873-BE44-4F50-ADA7-D4D70757CA23",
+							"ItemResponseOID": "A23AD233-D90E-4D79-8878-5030EAB8ED0A",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "E3735E18-8B09-4A0E-A2D9-0010EFAECE69",
+							"Description": "I am very confident",
+							"FormItemOID": "F3150873-BE44-4F50-ADA7-D4D70757CA23",
+							"ItemResponseOID": "681013F5-2529-41C1-9D26-4874D0C51DC8",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "729286F6-5840-4447-B049-065E1B940F63",
+			"ID": "SEMMT006",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E8F07065-8A3C-4F65-939D-FA43A96D2A35",
+					"Description": "I can manage my medication without help.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "20C1A0BD-714B-4447-B446-644C8F5C4B2E",
+					"Description": "ContainerFor20C1A0BD-714B-4447-B446-644C8F5C4B2E",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "B539E885-1DC9-4BB0-AAB1-6B9ACAA82E04",
+							"Description": "I am not at all confident",
+							"FormItemOID": "729286F6-5840-4447-B049-065E1B940F63",
+							"ItemResponseOID": "C577A003-8F31-43AD-A901-C56BC2064853",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B10EFE4F-B670-4ED5-8683-E03B45756639",
+							"Description": "I am a little confident",
+							"FormItemOID": "729286F6-5840-4447-B049-065E1B940F63",
+							"ItemResponseOID": "3DE977D9-1C68-435D-852D-65EB34B6C7C8",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "38805723-3E34-44B8-87B5-4F1BA79BACB1",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "729286F6-5840-4447-B049-065E1B940F63",
+							"ItemResponseOID": "E2357701-9129-4528-8A1B-48DA5593A67B",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "033E365E-65E5-4DF6-A3E9-7027AB0FCA5E",
+							"Description": "I am quite confident",
+							"FormItemOID": "729286F6-5840-4447-B049-065E1B940F63",
+							"ItemResponseOID": "AD38A133-6151-4DC8-9814-D7B6157C5E33",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "ABD0EC6D-BE07-4AE4-8B12-74C7C3AB774F",
+							"Description": "I am very confident",
+							"FormItemOID": "729286F6-5840-4447-B049-065E1B940F63",
+							"ItemResponseOID": "3CC08F63-33AE-4566-B5B3-F8F2EA8DEBAC",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3",
+			"ID": "SEMMT002",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "73310309-5F96-4031-BE89-3C3E7A179ACE",
+					"Description": "I can remember to take my medication as prescribed.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "1DB6106A-A534-4DF7-BF68-71C2CA22F231",
+					"Description": "ContainerFor1DB6106A-A534-4DF7-BF68-71C2CA22F231",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "35EC2215-8B29-4FE5-A29F-260F3635120D",
+							"Description": "I am not at all confident",
+							"FormItemOID": "5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3",
+							"ItemResponseOID": "206B0E5B-5308-4A4D-99F3-F3F5C23029BC",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "737E5CA2-017E-42BA-BE17-4984BB9381D3",
+							"Description": "I am a little confident",
+							"FormItemOID": "5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3",
+							"ItemResponseOID": "DB8D74E0-8B7F-4DD6-A88B-F25AB7DE05B4",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "E3DCDE66-9C2B-411F-B1FD-0955635A2B64",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3",
+							"ItemResponseOID": "1AD1C80D-A68D-4A5D-BA40-A92538A5E02A",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "D3B938A2-89BF-4264-AE72-87A8073A158F",
+							"Description": "I am quite confident",
+							"FormItemOID": "5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3",
+							"ItemResponseOID": "9E53DF86-7576-49D2-B1DE-67D7F7E15EBB",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "53CB4539-C77E-4A86-9BA6-64D22B4D8475",
+							"Description": "I am very confident",
+							"FormItemOID": "5EB1C4F6-F06F-4319-A6DA-F3B33146DBE3",
+							"ItemResponseOID": "6D3B46F7-6623-4266-BD0A-960FE8E6419A",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "431A6CB1-BD29-4A88-B429-C11A5B1F02AB",
+			"ID": "SEMMT017",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7C454060-00DE-45C6-9BB1-5EFE8E0F595E",
+					"Description": "I can use technology to help me manage my medication and treatments (for example: to get information, avoid side-effects, schedule reminders).",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "FC751AFE-61B6-42FF-9507-1641EB320E88",
+					"Description": "ContainerForFC751AFE-61B6-42FF-9507-1641EB320E88",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "9541C211-C151-4A1C-9BCE-9FB07DA31B31",
+							"Description": "I am not at all confident",
+							"FormItemOID": "431A6CB1-BD29-4A88-B429-C11A5B1F02AB",
+							"ItemResponseOID": "C1BA8B6B-42DA-41E8-B168-97FE0B6BF1EB",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "25FECD91-1A48-47F5-B3C6-826AA8AC8769",
+							"Description": "I am a little confident",
+							"FormItemOID": "431A6CB1-BD29-4A88-B429-C11A5B1F02AB",
+							"ItemResponseOID": "06B21F37-8184-46CC-9D54-27896B3766C7",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "067E4F2E-AE06-4E06-A9FD-1A06BF3B79CD",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "431A6CB1-BD29-4A88-B429-C11A5B1F02AB",
+							"ItemResponseOID": "7E646C9B-B930-4331-9AC1-5A302744734F",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "E1AB960D-9D31-4CF4-ABE0-40ACAF3AA559",
+							"Description": "I am quite confident",
+							"FormItemOID": "431A6CB1-BD29-4A88-B429-C11A5B1F02AB",
+							"ItemResponseOID": "332F9781-A171-4BD2-B2EC-890000F463F3",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "A0080E0E-811F-41AF-993F-335D14178494",
+							"Description": "I am very confident",
+							"FormItemOID": "431A6CB1-BD29-4A88-B429-C11A5B1F02AB",
+							"ItemResponseOID": "0E5BA972-D1C8-49ED-A059-0DE4BDB84836",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2AFA46DC-2B27-4B84-B63A-0312E97CF3E7",
+			"ID": "SEMMT010",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "34259F28-B59E-40BE-BB7B-F497C943EB9E",
+					"Description": "I can list my medications, including the doses and schedule.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "CFE2E4DC-81A7-45C4-B9CA-C43172BB801E",
+					"Description": "ContainerForCFE2E4DC-81A7-45C4-B9CA-C43172BB801E",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "ED13D933-7556-4E97-A18A-263C98299C1B",
+							"Description": "I am not at all confident",
+							"FormItemOID": "2AFA46DC-2B27-4B84-B63A-0312E97CF3E7",
+							"ItemResponseOID": "BF7AAA45-C0B4-4B3F-9F01-7374CCB71C1D",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "27EB64F2-B774-4860-A398-0247153869F3",
+							"Description": "I am a little confident",
+							"FormItemOID": "2AFA46DC-2B27-4B84-B63A-0312E97CF3E7",
+							"ItemResponseOID": "B11FE11C-4B43-4E4D-82C6-193B3C73EBB1",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "B08F5801-8D29-43D9-9192-62B2312A39A7",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "2AFA46DC-2B27-4B84-B63A-0312E97CF3E7",
+							"ItemResponseOID": "B4C813B8-AF6E-48E0-8610-8018DE4CBC05",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B76E3C03-3053-45A3-92EF-0B2A74757817",
+							"Description": "I am quite confident",
+							"FormItemOID": "2AFA46DC-2B27-4B84-B63A-0312E97CF3E7",
+							"ItemResponseOID": "81211899-F62A-4AD6-B87F-B4327F797D87",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "4DA1D063-D29A-4DE0-806F-18231517DF9E",
+							"Description": "I am very confident",
+							"FormItemOID": "2AFA46DC-2B27-4B84-B63A-0312E97CF3E7",
+							"ItemResponseOID": "CF4DA394-C5F1-4CC5-A969-639C09BD59FF",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "3ADCE77B-7829-482C-AB5F-95EC97A8D39B",
+			"ID": "SEMMT024",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7241CC1E-CAE4-4A23-BB9B-220D552B9588",
+					"Description": "I can figure out what treatment I need when my symptoms change.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "6D0BFC09-C7E5-467C-9D7C-E027050A967C",
+					"Description": "ContainerFor6D0BFC09-C7E5-467C-9D7C-E027050A967C",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "D48F91A3-9BF3-4667-A213-EEDE2499A9EA",
+							"Description": "I am not at all confident",
+							"FormItemOID": "3ADCE77B-7829-482C-AB5F-95EC97A8D39B",
+							"ItemResponseOID": "F79C43C4-AC63-41B9-8C26-F68D73405AF7",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "15220EBD-5B45-49EF-A836-F2D0C22EC053",
+							"Description": "I am a little confident",
+							"FormItemOID": "3ADCE77B-7829-482C-AB5F-95EC97A8D39B",
+							"ItemResponseOID": "9BA7034C-C49E-47A4-BB23-52531FD7068E",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "CF76DAF3-E0D0-4756-9F98-D5E377ADC6C5",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "3ADCE77B-7829-482C-AB5F-95EC97A8D39B",
+							"ItemResponseOID": "94CAA2E3-6007-4F30-8276-AC31837ACA3F",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "EDD82587-DC55-476D-AFF5-AD8AEF4886B3",
+							"Description": "I am quite confident",
+							"FormItemOID": "3ADCE77B-7829-482C-AB5F-95EC97A8D39B",
+							"ItemResponseOID": "8DEDF671-6225-4FDE-AE40-265C3CA66DB3",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "C0CF307C-DC54-4B89-AC3D-276BE42F7955",
+							"Description": "I am very confident",
+							"FormItemOID": "3ADCE77B-7829-482C-AB5F-95EC97A8D39B",
+							"ItemResponseOID": "CC1DE863-62F0-450F-AFF2-AF1AC8397781",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,1 +1,565 @@
-{"DateFinished":"","Items":[{"FormItemOID":"BD31B5D8-B807-48C3-9397-0121047A37EF","ID":"SFINT101","Order":"1","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"23EAF433-5970-4757-AF3C-D133CFB6551B","Description":"How interested have you been in sexual activity?","ElementOrder":"2"},{"ElementOID":"A99D7B60-2DEE-4FC3-8D35-1F4FB427290F","Description":"ContainerForA99D7B60-2DEE-4FC3-8D35-1F4FB427290F","ElementOrder":"3","Map":[{"ElementOID":"4A4B84EC-C82B-442D-856B-987B97C5F3F0","Description":"Not at all","FormItemOID":"BD31B5D8-B807-48C3-9397-0121047A37EF","ItemResponseOID":"0C7D7277-5F8F-45FA-9B79-40A54FFD2EF7", "Value":"1","Position":"1"},{"ElementOID":"9DE8AFA6-BC08-4C04-B6A1-666289C36E8C","Description":"A little bit","FormItemOID":"BD31B5D8-B807-48C3-9397-0121047A37EF","ItemResponseOID":"AC73F386-8643-4B13-A912-4719887AE46D", "Value":"2","Position":"2"},{"ElementOID":"9376ED9F-045F-4B38-B060-39AA1AAAC0C1","Description":"Somewhat","FormItemOID":"BD31B5D8-B807-48C3-9397-0121047A37EF","ItemResponseOID":"32651871-3793-44C0-87A4-EC5BE0477E3D", "Value":"3","Position":"3"},{"ElementOID":"B5328DDD-8DE6-429A-A081-33A429E2AABF","Description":"Quite a bit","FormItemOID":"BD31B5D8-B807-48C3-9397-0121047A37EF","ItemResponseOID":"A4BE5CEB-6DEF-49BA-869A-25EBB68A9A61", "Value":"4","Position":"4"},{"ElementOID":"8B00F112-ABC2-40A8-AAD2-9B2B4163F8AC","Description":"Very","FormItemOID":"BD31B5D8-B807-48C3-9397-0121047A37EF","ItemResponseOID":"10A4EDE7-0467-4574-977E-1E4B8D4741BA", "Value":"5","Position":"5"}]}]},{"FormItemOID":"F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF","ID":"SFINT102","Order":"2","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"E86412C3-5F91-4680-A1DD-460EF26A8D68","Description":"How often have you felt like you wanted to have sex?\r\n","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Never","FormItemOID":"F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF","ItemResponseOID":"ACD94B5A-92BE-4106-B508-1019E2218A38", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rarely","FormItemOID":"F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF","ItemResponseOID":"7D9275A7-425F-4C69-A829-EF23E6DF55B2", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Sometimes","FormItemOID":"F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF","ItemResponseOID":"FBFAE8E6-0596-4F8B-8EB2-B79892CD24C5", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"Often","FormItemOID":"F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF","ItemResponseOID":"5EA39487-5AB4-46F4-911C-6F0E546BFAC0", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Always","FormItemOID":"F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF","ItemResponseOID":"C81F988D-C201-4874-B5FF-12B7052A54BE", "Value":"5","Position":"5"}]}]},{"FormItemOID":"7D42F07A-0F88-40A5-BD17-71BE13610F9E","ID":"SFEFN102","Order":"3","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"DB1AF5E9-1891-4EFE-9BA3-753CB8558483","Description":"How difficult has it been for you to get an erection when you wanted to? (If you use pills, injections, or a penis pump to help you get an erection, please answer this question thinking about the times that you used these aids.)\r\n","ElementOrder":"2"},{"ElementOID":"04343DCD-FE3A-40F9-9821-A366CD7A45A9","Description":"ContainerFor04343DCD-FE3A-40F9-9821-A366CD7A45A9","ElementOrder":"3","Map":[{"ElementOID":"B9EA3D68-47BD-49A6-81D3-A934E3266F67","Description":"Have not tried to get an erection in the past 30 days","FormItemOID":"7D42F07A-0F88-40A5-BD17-71BE13610F9E","ItemResponseOID":"A5ACDA33-88EF-49B5-A009-F2E45E667D56", "Value":"00000000-0000-0000-0000-000000000000","Position":"1"},{"ElementOID":"C1C885FC-6886-4D53-B73F-6A1D0B5CEEF9","Description":"Not at all","FormItemOID":"7D42F07A-0F88-40A5-BD17-71BE13610F9E","ItemResponseOID":"ED4E7B2F-511F-4E36-A2EA-1D3DB6344C50", "Value":"5","Position":"2"},{"ElementOID":"DD7AE931-9E37-4ECE-BD22-AD15A932A0A3","Description":"A little bit","FormItemOID":"7D42F07A-0F88-40A5-BD17-71BE13610F9E","ItemResponseOID":"E2FABC1C-A3D2-4559-88A8-EBAE4B37B1B5", "Value":"4","Position":"3"},{"ElementOID":"72E39595-F9E4-408D-80EF-478462ACECAF","Description":"Somewhat","FormItemOID":"7D42F07A-0F88-40A5-BD17-71BE13610F9E","ItemResponseOID":"BE1D35EA-2070-4F33-9105-ED4F60F548F2", "Value":"3","Position":"4"},{"ElementOID":"61DE11B1-26D6-48D2-8F13-8D6310175501","Description":"Quite a bit","FormItemOID":"7D42F07A-0F88-40A5-BD17-71BE13610F9E","ItemResponseOID":"027DF643-AD52-4A43-B7A0-0B165DABB8CC", "Value":"2","Position":"5"},{"ElementOID":"56E58F7E-F7D9-40A9-B855-3BE3FB29493F","Description":"Very","FormItemOID":"7D42F07A-0F88-40A5-BD17-71BE13610F9E","ItemResponseOID":"5B734441-63A5-4512-8732-9AF66704D663", "Value":"1","Position":"6"}]}]},{"FormItemOID":"D19A1517-9C97-4D4C-A306-AFAF71021FEE","ID":"SFEFN103","Order":"4","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"34F5937F-C5AE-422D-A758-047DEEC5F767","Description":"How difficult has it been to keep an erection (stay hard) when you wanted to? (If you normally use pills, injections, or a penis pump to help you get an erection, please answer this question thinking about the times that you used these aids.)","ElementOrder":"2"},{"ElementOID":"04343DCD-FE3A-40F9-9821-A366CD7A45A9","Description":"ContainerFor04343DCD-FE3A-40F9-9821-A366CD7A45A9","ElementOrder":"3","Map":[{"ElementOID":"B9EA3D68-47BD-49A6-81D3-A934E3266F67","Description":"Have not tried to get an erection in the past 30 days","FormItemOID":"D19A1517-9C97-4D4C-A306-AFAF71021FEE","ItemResponseOID":"762A28C0-4D54-43A4-A877-B40594FB3FA1", "Value":"00000000-0000-0000-0000-000000000000","Position":"1"},{"ElementOID":"C1C885FC-6886-4D53-B73F-6A1D0B5CEEF9","Description":"Not at all","FormItemOID":"D19A1517-9C97-4D4C-A306-AFAF71021FEE","ItemResponseOID":"E19C513D-4461-4A61-A761-530A4DE6906C", "Value":"5","Position":"2"},{"ElementOID":"DD7AE931-9E37-4ECE-BD22-AD15A932A0A3","Description":"A little bit","FormItemOID":"D19A1517-9C97-4D4C-A306-AFAF71021FEE","ItemResponseOID":"92C820B0-ABC7-49C2-85F7-5B44B727B0DF", "Value":"4","Position":"3"},{"ElementOID":"72E39595-F9E4-408D-80EF-478462ACECAF","Description":"Somewhat","FormItemOID":"D19A1517-9C97-4D4C-A306-AFAF71021FEE","ItemResponseOID":"9A0B907B-62C0-46A8-96F0-3EE6BD0AC6E5", "Value":"3","Position":"4"},{"ElementOID":"61DE11B1-26D6-48D2-8F13-8D6310175501","Description":"Quite a bit","FormItemOID":"D19A1517-9C97-4D4C-A306-AFAF71021FEE","ItemResponseOID":"809F2A6E-E839-43EF-9D31-998470A76789", "Value":"2","Position":"5"},{"ElementOID":"56E58F7E-F7D9-40A9-B855-3BE3FB29493F","Description":"Very","FormItemOID":"D19A1517-9C97-4D4C-A306-AFAF71021FEE","ItemResponseOID":"6D9BC1EA-E152-4BBE-A339-D14C5010F844", "Value":"1","Position":"6"}]}]},{"FormItemOID":"CE3F042B-500B-4060-B8D6-E427B6AAC08C","ID":"SFEFN002","Order":"5","ItemType":"","Elements":[{"ElementOID":"543A41FB-D428-4750-83F1-3B4777738055","Description":"How would you rate the following during the LAST 4 WEEKS","ElementOrder":"1"},{"ElementOID":"25B29246-D603-4ED9-9F56-AE22F9819160","Description":"Your ability to have an erection","ElementOrder":"2"},{"ElementOID":"6BF244BA-7213-4A72-864F-372E0D229478","Description":"ContainerFor6BF244BA-7213-4A72-864F-372E0D229478","ElementOrder":"3","Map":[{"ElementOID":"0B6D2743-6B66-4BD9-8F19-997E64B81331","Description":"Very poor","FormItemOID":"CE3F042B-500B-4060-B8D6-E427B6AAC08C","ItemResponseOID":"521AF059-E013-45D4-A74F-0845859F60CD", "Value":"1","Position":"1"},{"ElementOID":"03C42197-A132-4918-9EE1-56635528FE3A","Description":"Poor","FormItemOID":"CE3F042B-500B-4060-B8D6-E427B6AAC08C","ItemResponseOID":"7CC797A9-5CC6-4C8B-968D-A9A93B2F3B8A", "Value":"2","Position":"2"},{"ElementOID":"6FA52B85-9D95-4AA0-9DB7-04907000F6BB","Description":"Fair","FormItemOID":"CE3F042B-500B-4060-B8D6-E427B6AAC08C","ItemResponseOID":"E388363D-3EFA-4BE5-AA46-E8F88792CB87", "Value":"3","Position":"3"},{"ElementOID":"B5A94F8F-88FE-4BE6-AF95-2E099AC6D113","Description":"Good","FormItemOID":"CE3F042B-500B-4060-B8D6-E427B6AAC08C","ItemResponseOID":"BBB820BC-B220-4836-8EFB-D2B16C3D0983", "Value":"4","Position":"4"},{"ElementOID":"306CA6FF-1301-4D65-840F-E0E42C511901","Description":"Very good","FormItemOID":"CE3F042B-500B-4060-B8D6-E427B6AAC08C","ItemResponseOID":"9A1675D4-FA72-4D4D-BC02-F80431CF08FE", "Value":"5","Position":"5"}]}]},{"FormItemOID":"266B2724-BB15-4B5D-B351-20CF64F4140B","ID":"SFORG101","Order":"6","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"DB489243-E7EB-497F-9574-C26233CFBA44","Description":"How would you rate your ability to have a satisfying orgasm/climax?\r\n","ElementOrder":"2"},{"ElementOID":"9FFA992E-9DB4-458A-B2EB-5915835D484E","Description":"ContainerFor9FFA992E-9DB4-458A-B2EB-5915835D484E","ElementOrder":"3","Map":[{"ElementOID":"5BA820C9-0B1A-4EDF-8DEA-AE106411819C","Description":"Have not tried to have an orgasm/climax in the past 30 days","FormItemOID":"266B2724-BB15-4B5D-B351-20CF64F4140B","ItemResponseOID":"D3451813-1E96-4A63-A8E4-627C4F809915", "Value":"0","Position":"1"},{"ElementOID":"3C5C9EDE-A283-4896-B2A1-69744C9A09ED","Description":"Excellent","FormItemOID":"266B2724-BB15-4B5D-B351-20CF64F4140B","ItemResponseOID":"B531D54C-2604-48F7-A7A9-4A8F92B1741B", "Value":"5","Position":"2"},{"ElementOID":"2E554C86-DD10-4DC9-9DD1-27BED614ACB6","Description":"Very good","FormItemOID":"266B2724-BB15-4B5D-B351-20CF64F4140B","ItemResponseOID":"4E68D0E7-5D41-4E0D-A170-EDC7C7C8D6E4", "Value":"4","Position":"3"},{"ElementOID":"F14AB7B5-9CF1-4C27-B5B6-850F37D28009","Description":"Good","FormItemOID":"266B2724-BB15-4B5D-B351-20CF64F4140B","ItemResponseOID":"354980FA-6931-4C2E-B4AC-23E7E2651050", "Value":"3","Position":"4"},{"ElementOID":"A10C0CEC-AD4A-4262-99AB-8BCA83770A57","Description":"Fair","FormItemOID":"266B2724-BB15-4B5D-B351-20CF64F4140B","ItemResponseOID":"B091CA00-B40D-4E09-85A1-AEF41FA2A73E", "Value":"2","Position":"5"},{"ElementOID":"DE83AAA1-E6CB-4F97-B5EB-D6C8740F83FF","Description":"Poor","FormItemOID":"266B2724-BB15-4B5D-B351-20CF64F4140B","ItemResponseOID":"D59A1D4F-F78B-4631-992B-70CC743F5E25", "Value":"1","Position":"6"}]}]},{"FormItemOID":"09FFD792-CA34-4479-A9F8-AA07B3F6BAB5","ID":"SFSAT105","Order":"7","ItemType":"","Elements":[{"ElementOID":"79DF782D-4330-46C9-A3F5-F6EA4496DD79","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"C41EBE1D-0D29-4806-BC7F-8D3F62B3E043","Description":"When you have had sexual activity, how much have you enjoyed it?","ElementOrder":"2"},{"ElementOID":"29D36E6F-EAEB-489D-A8E0-07A57A965869","Description":"ContainerFor29D36E6F-EAEB-489D-A8E0-07A57A965869","ElementOrder":"3","Map":[{"ElementOID":"AB42FAB8-D972-48ED-9975-43D39A4B2E3F","Description":"Have not had sexual activity in the past 30 days","FormItemOID":"09FFD792-CA34-4479-A9F8-AA07B3F6BAB5","ItemResponseOID":"7080287A-CEB3-4898-87E1-618FC3AB0E9F", "Value":"00000000-0000-0000-0000-000000000000","Position":"1"},{"ElementOID":"9392C3C3-C804-4492-ADD5-AF99EA715C4B","Description":"Not at all","FormItemOID":"09FFD792-CA34-4479-A9F8-AA07B3F6BAB5","ItemResponseOID":"107771DC-384C-4121-8410-5FE23B4B0B3E", "Value":"1","Position":"2"},{"ElementOID":"0581B3DB-5C10-4025-8F88-2655CA54322C","Description":"A little bit","FormItemOID":"09FFD792-CA34-4479-A9F8-AA07B3F6BAB5","ItemResponseOID":"077EF4A7-4324-4228-837D-CB76106B09BD", "Value":"2","Position":"3"},{"ElementOID":"8006CE5A-8702-47B1-8BC7-6CEBD56FC217","Description":"Somewhat","FormItemOID":"09FFD792-CA34-4479-A9F8-AA07B3F6BAB5","ItemResponseOID":"CEECD817-AE58-4B35-8249-4E6EA070DBA6", "Value":"3","Position":"4"},{"ElementOID":"6AC22ADA-2F05-40CE-BFE5-EDEF6A037172","Description":"Quite a bit","FormItemOID":"09FFD792-CA34-4479-A9F8-AA07B3F6BAB5","ItemResponseOID":"66C7D65A-E024-4BEA-B4C6-40503C3DB6D6", "Value":"4","Position":"5"},{"ElementOID":"73231E84-6CC5-42A5-8226-10BD8F5AE32A","Description":"Very much","FormItemOID":"09FFD792-CA34-4479-A9F8-AA07B3F6BAB5","ItemResponseOID":"14A0FA68-400D-4F69-9CA4-BEA354C2FE79", "Value":"5","Position":"6"}]}]},{"FormItemOID":"89ED4868-F63C-408B-9EB6-5542FBEEC23F","ID":"SFSAT106","Order":"8","ItemType":"","Elements":[{"ElementOID":"79DF782D-4330-46C9-A3F5-F6EA4496DD79","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"7CF0FD83-B554-4158-B79B-54282E89DB6D","Description":"When you have had sexual activity, how satisfying has it been?","ElementOrder":"2"},{"ElementOID":"04FAAC1D-178C-462D-9DF1-016230B6A4F6","Description":"ContainerFor04FAAC1D-178C-462D-9DF1-016230B6A4F6","ElementOrder":"3","Map":[{"ElementOID":"FDEEF96C-E09D-4B8E-980A-A45C00DCCFD4","Description":"Have not had sexual activity in the past 30 days","FormItemOID":"89ED4868-F63C-408B-9EB6-5542FBEEC23F","ItemResponseOID":"29489B61-F39C-456E-B45D-6CA15BB6B06C", "Value":"00000000-0000-0000-0000-000000000000","Position":"1"},{"ElementOID":"7C538B31-D975-4833-86F1-FFA7B7580B14","Description":"Not at all","FormItemOID":"89ED4868-F63C-408B-9EB6-5542FBEEC23F","ItemResponseOID":"6CBFC62E-421C-4535-BFDF-8895F3A9158D", "Value":"1","Position":"2"},{"ElementOID":"E37E92BA-F2F5-4B07-A78E-57E8B39722E2","Description":"A little bit","FormItemOID":"89ED4868-F63C-408B-9EB6-5542FBEEC23F","ItemResponseOID":"63AE3CF0-31CB-42EC-901C-AB08A8CB23B6", "Value":"2","Position":"3"},{"ElementOID":"A8D007BB-7FD7-408F-9B91-18D8A793DB2A","Description":"Somewhat","FormItemOID":"89ED4868-F63C-408B-9EB6-5542FBEEC23F","ItemResponseOID":"3AB10134-F8F4-41F7-BDF0-C1D7CE62D928", "Value":"3","Position":"4"},{"ElementOID":"DE3163C0-114E-4EAC-9C88-49B449107E05","Description":"Quite a bit","FormItemOID":"89ED4868-F63C-408B-9EB6-5542FBEEC23F","ItemResponseOID":"1571767F-F8E3-4821-9831-9F0DD62B784D", "Value":"4","Position":"5"},{"ElementOID":"DC099929-F8C9-4673-9CC1-94682F033359","Description":"Very","FormItemOID":"89ED4868-F63C-408B-9EB6-5542FBEEC23F","ItemResponseOID":"2909A794-A618-4066-88A9-469BD0C4E446", "Value":"5","Position":"6"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "BD31B5D8-B807-48C3-9397-0121047A37EF",
+			"ID": "SFINT101",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "23EAF433-5970-4757-AF3C-D133CFB6551B",
+					"Description": "How interested have you been in sexual activity?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "A99D7B60-2DEE-4FC3-8D35-1F4FB427290F",
+					"Description": "ContainerForA99D7B60-2DEE-4FC3-8D35-1F4FB427290F",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "4A4B84EC-C82B-442D-856B-987B97C5F3F0",
+							"Description": "Not at all",
+							"FormItemOID": "BD31B5D8-B807-48C3-9397-0121047A37EF",
+							"ItemResponseOID": "0C7D7277-5F8F-45FA-9B79-40A54FFD2EF7",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "9DE8AFA6-BC08-4C04-B6A1-666289C36E8C",
+							"Description": "A little bit",
+							"FormItemOID": "BD31B5D8-B807-48C3-9397-0121047A37EF",
+							"ItemResponseOID": "AC73F386-8643-4B13-A912-4719887AE46D",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "9376ED9F-045F-4B38-B060-39AA1AAAC0C1",
+							"Description": "Somewhat",
+							"FormItemOID": "BD31B5D8-B807-48C3-9397-0121047A37EF",
+							"ItemResponseOID": "32651871-3793-44C0-87A4-EC5BE0477E3D",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B5328DDD-8DE6-429A-A081-33A429E2AABF",
+							"Description": "Quite a bit",
+							"FormItemOID": "BD31B5D8-B807-48C3-9397-0121047A37EF",
+							"ItemResponseOID": "A4BE5CEB-6DEF-49BA-869A-25EBB68A9A61",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "8B00F112-ABC2-40A8-AAD2-9B2B4163F8AC",
+							"Description": "Very",
+							"FormItemOID": "BD31B5D8-B807-48C3-9397-0121047A37EF",
+							"ItemResponseOID": "10A4EDE7-0467-4574-977E-1E4B8D4741BA",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF",
+			"ID": "SFINT102",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E86412C3-5F91-4680-A1DD-460EF26A8D68",
+					"Description": "How often have you felt like you wanted to have sex?\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Never",
+							"FormItemOID": "F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF",
+							"ItemResponseOID": "ACD94B5A-92BE-4106-B508-1019E2218A38",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rarely",
+							"FormItemOID": "F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF",
+							"ItemResponseOID": "7D9275A7-425F-4C69-A829-EF23E6DF55B2",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Sometimes",
+							"FormItemOID": "F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF",
+							"ItemResponseOID": "FBFAE8E6-0596-4F8B-8EB2-B79892CD24C5",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "Often",
+							"FormItemOID": "F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF",
+							"ItemResponseOID": "5EA39487-5AB4-46F4-911C-6F0E546BFAC0",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Always",
+							"FormItemOID": "F8A136AD-FFDB-4B2F-AFD7-947EAF6B36CF",
+							"ItemResponseOID": "C81F988D-C201-4874-B5FF-12B7052A54BE",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "7D42F07A-0F88-40A5-BD17-71BE13610F9E",
+			"ID": "SFEFN102",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "DB1AF5E9-1891-4EFE-9BA3-753CB8558483",
+					"Description": "How difficult has it been for you to get an erection when you wanted to? (If you use pills, injections, or a penis pump to help you get an erection, please answer this question thinking about the times that you used these aids.)\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "04343DCD-FE3A-40F9-9821-A366CD7A45A9",
+					"Description": "ContainerFor04343DCD-FE3A-40F9-9821-A366CD7A45A9",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "B9EA3D68-47BD-49A6-81D3-A934E3266F67",
+							"Description": "Have not tried to get an erection in the past 30 days",
+							"FormItemOID": "7D42F07A-0F88-40A5-BD17-71BE13610F9E",
+							"ItemResponseOID": "A5ACDA33-88EF-49B5-A009-F2E45E667D56",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "C1C885FC-6886-4D53-B73F-6A1D0B5CEEF9",
+							"Description": "Not at all",
+							"FormItemOID": "7D42F07A-0F88-40A5-BD17-71BE13610F9E",
+							"ItemResponseOID": "ED4E7B2F-511F-4E36-A2EA-1D3DB6344C50",
+							"Value": "5",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "DD7AE931-9E37-4ECE-BD22-AD15A932A0A3",
+							"Description": "A little bit",
+							"FormItemOID": "7D42F07A-0F88-40A5-BD17-71BE13610F9E",
+							"ItemResponseOID": "E2FABC1C-A3D2-4559-88A8-EBAE4B37B1B5",
+							"Value": "4",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "72E39595-F9E4-408D-80EF-478462ACECAF",
+							"Description": "Somewhat",
+							"FormItemOID": "7D42F07A-0F88-40A5-BD17-71BE13610F9E",
+							"ItemResponseOID": "BE1D35EA-2070-4F33-9105-ED4F60F548F2",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "61DE11B1-26D6-48D2-8F13-8D6310175501",
+							"Description": "Quite a bit",
+							"FormItemOID": "7D42F07A-0F88-40A5-BD17-71BE13610F9E",
+							"ItemResponseOID": "027DF643-AD52-4A43-B7A0-0B165DABB8CC",
+							"Value": "2",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "56E58F7E-F7D9-40A9-B855-3BE3FB29493F",
+							"Description": "Very",
+							"FormItemOID": "7D42F07A-0F88-40A5-BD17-71BE13610F9E",
+							"ItemResponseOID": "5B734441-63A5-4512-8732-9AF66704D663",
+							"Value": "1",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "D19A1517-9C97-4D4C-A306-AFAF71021FEE",
+			"ID": "SFEFN103",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "34F5937F-C5AE-422D-A758-047DEEC5F767",
+					"Description": "How difficult has it been to keep an erection (stay hard) when you wanted to? (If you normally use pills, injections, or a penis pump to help you get an erection, please answer this question thinking about the times that you used these aids.)",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "04343DCD-FE3A-40F9-9821-A366CD7A45A9",
+					"Description": "ContainerFor04343DCD-FE3A-40F9-9821-A366CD7A45A9",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "B9EA3D68-47BD-49A6-81D3-A934E3266F67",
+							"Description": "Have not tried to get an erection in the past 30 days",
+							"FormItemOID": "D19A1517-9C97-4D4C-A306-AFAF71021FEE",
+							"ItemResponseOID": "762A28C0-4D54-43A4-A877-B40594FB3FA1",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "C1C885FC-6886-4D53-B73F-6A1D0B5CEEF9",
+							"Description": "Not at all",
+							"FormItemOID": "D19A1517-9C97-4D4C-A306-AFAF71021FEE",
+							"ItemResponseOID": "E19C513D-4461-4A61-A761-530A4DE6906C",
+							"Value": "5",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "DD7AE931-9E37-4ECE-BD22-AD15A932A0A3",
+							"Description": "A little bit",
+							"FormItemOID": "D19A1517-9C97-4D4C-A306-AFAF71021FEE",
+							"ItemResponseOID": "92C820B0-ABC7-49C2-85F7-5B44B727B0DF",
+							"Value": "4",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "72E39595-F9E4-408D-80EF-478462ACECAF",
+							"Description": "Somewhat",
+							"FormItemOID": "D19A1517-9C97-4D4C-A306-AFAF71021FEE",
+							"ItemResponseOID": "9A0B907B-62C0-46A8-96F0-3EE6BD0AC6E5",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "61DE11B1-26D6-48D2-8F13-8D6310175501",
+							"Description": "Quite a bit",
+							"FormItemOID": "D19A1517-9C97-4D4C-A306-AFAF71021FEE",
+							"ItemResponseOID": "809F2A6E-E839-43EF-9D31-998470A76789",
+							"Value": "2",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "56E58F7E-F7D9-40A9-B855-3BE3FB29493F",
+							"Description": "Very",
+							"FormItemOID": "D19A1517-9C97-4D4C-A306-AFAF71021FEE",
+							"ItemResponseOID": "6D9BC1EA-E152-4BBE-A339-D14C5010F844",
+							"Value": "1",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "CE3F042B-500B-4060-B8D6-E427B6AAC08C",
+			"ID": "SFEFN002",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "543A41FB-D428-4750-83F1-3B4777738055",
+					"Description": "How would you rate the following during the LAST 4 WEEKS",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "25B29246-D603-4ED9-9F56-AE22F9819160",
+					"Description": "Your ability to have an erection",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "6BF244BA-7213-4A72-864F-372E0D229478",
+					"Description": "ContainerFor6BF244BA-7213-4A72-864F-372E0D229478",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "0B6D2743-6B66-4BD9-8F19-997E64B81331",
+							"Description": "Very poor",
+							"FormItemOID": "CE3F042B-500B-4060-B8D6-E427B6AAC08C",
+							"ItemResponseOID": "521AF059-E013-45D4-A74F-0845859F60CD",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "03C42197-A132-4918-9EE1-56635528FE3A",
+							"Description": "Poor",
+							"FormItemOID": "CE3F042B-500B-4060-B8D6-E427B6AAC08C",
+							"ItemResponseOID": "7CC797A9-5CC6-4C8B-968D-A9A93B2F3B8A",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "6FA52B85-9D95-4AA0-9DB7-04907000F6BB",
+							"Description": "Fair",
+							"FormItemOID": "CE3F042B-500B-4060-B8D6-E427B6AAC08C",
+							"ItemResponseOID": "E388363D-3EFA-4BE5-AA46-E8F88792CB87",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B5A94F8F-88FE-4BE6-AF95-2E099AC6D113",
+							"Description": "Good",
+							"FormItemOID": "CE3F042B-500B-4060-B8D6-E427B6AAC08C",
+							"ItemResponseOID": "BBB820BC-B220-4836-8EFB-D2B16C3D0983",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "306CA6FF-1301-4D65-840F-E0E42C511901",
+							"Description": "Very good",
+							"FormItemOID": "CE3F042B-500B-4060-B8D6-E427B6AAC08C",
+							"ItemResponseOID": "9A1675D4-FA72-4D4D-BC02-F80431CF08FE",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "266B2724-BB15-4B5D-B351-20CF64F4140B",
+			"ID": "SFORG101",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "DB489243-E7EB-497F-9574-C26233CFBA44",
+					"Description": "How would you rate your ability to have a satisfying orgasm/climax?\r\n",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "9FFA992E-9DB4-458A-B2EB-5915835D484E",
+					"Description": "ContainerFor9FFA992E-9DB4-458A-B2EB-5915835D484E",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "5BA820C9-0B1A-4EDF-8DEA-AE106411819C",
+							"Description": "Have not tried to have an orgasm/climax in the past 30 days",
+							"FormItemOID": "266B2724-BB15-4B5D-B351-20CF64F4140B",
+							"ItemResponseOID": "D3451813-1E96-4A63-A8E4-627C4F809915",
+							"Value": "0",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "3C5C9EDE-A283-4896-B2A1-69744C9A09ED",
+							"Description": "Excellent",
+							"FormItemOID": "266B2724-BB15-4B5D-B351-20CF64F4140B",
+							"ItemResponseOID": "B531D54C-2604-48F7-A7A9-4A8F92B1741B",
+							"Value": "5",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "2E554C86-DD10-4DC9-9DD1-27BED614ACB6",
+							"Description": "Very good",
+							"FormItemOID": "266B2724-BB15-4B5D-B351-20CF64F4140B",
+							"ItemResponseOID": "4E68D0E7-5D41-4E0D-A170-EDC7C7C8D6E4",
+							"Value": "4",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "F14AB7B5-9CF1-4C27-B5B6-850F37D28009",
+							"Description": "Good",
+							"FormItemOID": "266B2724-BB15-4B5D-B351-20CF64F4140B",
+							"ItemResponseOID": "354980FA-6931-4C2E-B4AC-23E7E2651050",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "A10C0CEC-AD4A-4262-99AB-8BCA83770A57",
+							"Description": "Fair",
+							"FormItemOID": "266B2724-BB15-4B5D-B351-20CF64F4140B",
+							"ItemResponseOID": "B091CA00-B40D-4E09-85A1-AEF41FA2A73E",
+							"Value": "2",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "DE83AAA1-E6CB-4F97-B5EB-D6C8740F83FF",
+							"Description": "Poor",
+							"FormItemOID": "266B2724-BB15-4B5D-B351-20CF64F4140B",
+							"ItemResponseOID": "D59A1D4F-F78B-4631-992B-70CC743F5E25",
+							"Value": "1",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "09FFD792-CA34-4479-A9F8-AA07B3F6BAB5",
+			"ID": "SFSAT105",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "79DF782D-4330-46C9-A3F5-F6EA4496DD79",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C41EBE1D-0D29-4806-BC7F-8D3F62B3E043",
+					"Description": "When you have had sexual activity, how much have you enjoyed it?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "29D36E6F-EAEB-489D-A8E0-07A57A965869",
+					"Description": "ContainerFor29D36E6F-EAEB-489D-A8E0-07A57A965869",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "AB42FAB8-D972-48ED-9975-43D39A4B2E3F",
+							"Description": "Have not had sexual activity in the past 30 days",
+							"FormItemOID": "09FFD792-CA34-4479-A9F8-AA07B3F6BAB5",
+							"ItemResponseOID": "7080287A-CEB3-4898-87E1-618FC3AB0E9F",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "9392C3C3-C804-4492-ADD5-AF99EA715C4B",
+							"Description": "Not at all",
+							"FormItemOID": "09FFD792-CA34-4479-A9F8-AA07B3F6BAB5",
+							"ItemResponseOID": "107771DC-384C-4121-8410-5FE23B4B0B3E",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "0581B3DB-5C10-4025-8F88-2655CA54322C",
+							"Description": "A little bit",
+							"FormItemOID": "09FFD792-CA34-4479-A9F8-AA07B3F6BAB5",
+							"ItemResponseOID": "077EF4A7-4324-4228-837D-CB76106B09BD",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "8006CE5A-8702-47B1-8BC7-6CEBD56FC217",
+							"Description": "Somewhat",
+							"FormItemOID": "09FFD792-CA34-4479-A9F8-AA07B3F6BAB5",
+							"ItemResponseOID": "CEECD817-AE58-4B35-8249-4E6EA070DBA6",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "6AC22ADA-2F05-40CE-BFE5-EDEF6A037172",
+							"Description": "Quite a bit",
+							"FormItemOID": "09FFD792-CA34-4479-A9F8-AA07B3F6BAB5",
+							"ItemResponseOID": "66C7D65A-E024-4BEA-B4C6-40503C3DB6D6",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "73231E84-6CC5-42A5-8226-10BD8F5AE32A",
+							"Description": "Very much",
+							"FormItemOID": "09FFD792-CA34-4479-A9F8-AA07B3F6BAB5",
+							"ItemResponseOID": "14A0FA68-400D-4F69-9CA4-BEA354C2FE79",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "89ED4868-F63C-408B-9EB6-5542FBEEC23F",
+			"ID": "SFSAT106",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "79DF782D-4330-46C9-A3F5-F6EA4496DD79",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7CF0FD83-B554-4158-B79B-54282E89DB6D",
+					"Description": "When you have had sexual activity, how satisfying has it been?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "04FAAC1D-178C-462D-9DF1-016230B6A4F6",
+					"Description": "ContainerFor04FAAC1D-178C-462D-9DF1-016230B6A4F6",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "FDEEF96C-E09D-4B8E-980A-A45C00DCCFD4",
+							"Description": "Have not had sexual activity in the past 30 days",
+							"FormItemOID": "89ED4868-F63C-408B-9EB6-5542FBEEC23F",
+							"ItemResponseOID": "29489B61-F39C-456E-B45D-6CA15BB6B06C",
+							"Value": "00000000-0000-0000-0000-000000000000",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C538B31-D975-4833-86F1-FFA7B7580B14",
+							"Description": "Not at all",
+							"FormItemOID": "89ED4868-F63C-408B-9EB6-5542FBEEC23F",
+							"ItemResponseOID": "6CBFC62E-421C-4535-BFDF-8895F3A9158D",
+							"Value": "1",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "E37E92BA-F2F5-4B07-A78E-57E8B39722E2",
+							"Description": "A little bit",
+							"FormItemOID": "89ED4868-F63C-408B-9EB6-5542FBEEC23F",
+							"ItemResponseOID": "63AE3CF0-31CB-42EC-901C-AB08A8CB23B6",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "A8D007BB-7FD7-408F-9B91-18D8A793DB2A",
+							"Description": "Somewhat",
+							"FormItemOID": "89ED4868-F63C-408B-9EB6-5542FBEEC23F",
+							"ItemResponseOID": "3AB10134-F8F4-41F7-BDF0-C1D7CE62D928",
+							"Value": "3",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "DE3163C0-114E-4EAC-9C88-49B449107E05",
+							"Description": "Quite a bit",
+							"FormItemOID": "89ED4868-F63C-408B-9EB6-5542FBEEC23F",
+							"ItemResponseOID": "1571767F-F8E3-4821-9831-9F0DD62B784D",
+							"Value": "4",
+							"Position": "5"
+						},
+						{
+							"ElementOID": "DC099929-F8C9-4673-9CC1-94682F033359",
+							"Description": "Very",
+							"FormItemOID": "89ED4868-F63C-408B-9EB6-5542FBEEC23F",
+							"ItemResponseOID": "2909A794-A618-4066-88A9-469BD0C4E446",
+							"Value": "5",
+							"Position": "6"
+						}
+					]
+				}
+			]
+		}
+	]
+}

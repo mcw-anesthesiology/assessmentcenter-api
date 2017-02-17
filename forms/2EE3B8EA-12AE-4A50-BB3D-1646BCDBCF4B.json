@@ -1,1 +1,365 @@
-{"DateFinished":"","Items":[{"FormItemOID":"B01F808C-A8AB-45F7-B628-0BF0F7147F86","ID":"SRPPER11_CaPS","Order":"1","ItemType":"","Elements":[{"ElementOID":"4C6E84B7-7558-49C9-9279-73D4EE66AD08","Description":"I have trouble doing all of my regular leisure activities with others\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"B01F808C-A8AB-45F7-B628-0BF0F7147F86","ItemResponseOID":"DB213DD1-2B3A-4757-9685-2DE0EAE77BCF", "Value":"5","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"B01F808C-A8AB-45F7-B628-0BF0F7147F86","ItemResponseOID":"AF7A1A80-7C39-4718-AB51-813BE052A039", "Value":"4","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"B01F808C-A8AB-45F7-B628-0BF0F7147F86","ItemResponseOID":"71199D00-C34D-4431-8CCA-972E0F821D17", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"B01F808C-A8AB-45F7-B628-0BF0F7147F86","ItemResponseOID":"50D078EF-02F0-47A3-B2D8-C942328CE98B", "Value":"2","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"B01F808C-A8AB-45F7-B628-0BF0F7147F86","ItemResponseOID":"C21E2536-8474-44A3-A608-A58C438AF226", "Value":"1","Position":"5"}]}]},{"FormItemOID":"362926FD-B840-4438-8494-C116AE5DCCA2","ID":"SRPPER18_CaPS","Order":"2","ItemType":"","Elements":[{"ElementOID":"5B4C3333-FA52-494F-A360-4044D98A0B68","Description":"I have trouble doing all of the family activities that I want to do\r\n","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"362926FD-B840-4438-8494-C116AE5DCCA2","ItemResponseOID":"2A9525D7-0841-4CB0-887A-AAF9C8014616", "Value":"5","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"362926FD-B840-4438-8494-C116AE5DCCA2","ItemResponseOID":"5A845A82-197A-4E83-8A84-B5D92281FB42", "Value":"4","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"362926FD-B840-4438-8494-C116AE5DCCA2","ItemResponseOID":"A13FC273-EDE3-44A9-B65C-5938E8BA7A99", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"362926FD-B840-4438-8494-C116AE5DCCA2","ItemResponseOID":"0B61FC15-84A5-4D1F-BB0E-C1A989443F77", "Value":"2","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"362926FD-B840-4438-8494-C116AE5DCCA2","ItemResponseOID":"2D4521CD-76AF-4BE9-B679-23779BD8DF17", "Value":"1","Position":"5"}]}]},{"FormItemOID":"59E68125-763F-448D-85B6-5348F51446CE","ID":"SRPPER23_CaPS","Order":"3","ItemType":"","Elements":[{"ElementOID":"C5BA993D-5D14-48D2-BF59-DFBD589573AB","Description":"I have trouble doing all of my usual work (include work at home)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"59E68125-763F-448D-85B6-5348F51446CE","ItemResponseOID":"A3F4D1AA-1749-4607-8C0D-EB02E2791300", "Value":"5","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"59E68125-763F-448D-85B6-5348F51446CE","ItemResponseOID":"66CEE29D-0798-4BC9-812A-228C51CAEE03", "Value":"4","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"59E68125-763F-448D-85B6-5348F51446CE","ItemResponseOID":"F9877A48-45A9-463A-BC4D-A93289F0B79E", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"59E68125-763F-448D-85B6-5348F51446CE","ItemResponseOID":"A9FDB1BF-34DA-430A-95AD-4BCE64546977", "Value":"2","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"59E68125-763F-448D-85B6-5348F51446CE","ItemResponseOID":"AE7B7FCD-7DA8-47E4-99ED-C922C488BEED", "Value":"1","Position":"5"}]}]},{"FormItemOID":"31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A","ID":"SRPPER46_CaPS","Order":"4","ItemType":"","Elements":[{"ElementOID":"AD267069-B7EF-443C-9D5A-6F8675955DC0","Description":"I have trouble doing all of the activities with friends that I want to do\r\n\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A","ItemResponseOID":"0074922B-3554-4976-88E1-763FC1673FC0", "Value":"5","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A","ItemResponseOID":"61016284-72C0-4185-8622-ABEAB9C34F17", "Value":"4","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A","ItemResponseOID":"0D1B1985-315D-4A24-851B-4F6AAD559153", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A","ItemResponseOID":"F0C39EC6-C3C5-4408-BBAB-4BD47D9DA109", "Value":"2","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A","ItemResponseOID":"1A8C9903-1356-41DF-8D4B-75E8A2EF644A", "Value":"1","Position":"5"}]}]},{"FormItemOID":"8E69EF93-6E1E-4DB4-924D-A7E7743BC960","ID":"SRPPER15_CaPS","Order":"5","ItemType":"","Elements":[{"ElementOID":"CF57CA01-A21F-4C96-ADE7-DA01AAC1BBB6","Description":"I have to limit the things I do for fun with others\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"8E69EF93-6E1E-4DB4-924D-A7E7743BC960","ItemResponseOID":"3285FBBE-A00E-4743-BA19-646DD64FE366", "Value":"5","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"8E69EF93-6E1E-4DB4-924D-A7E7743BC960","ItemResponseOID":"40BE2C4A-7367-4D64-83C3-16792DF9733C", "Value":"4","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"8E69EF93-6E1E-4DB4-924D-A7E7743BC960","ItemResponseOID":"82EB7142-27DA-49A4-A173-F7C995121896", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"8E69EF93-6E1E-4DB4-924D-A7E7743BC960","ItemResponseOID":"2726D3A1-C41B-4D28-A463-1D7CC069CE7C", "Value":"2","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"8E69EF93-6E1E-4DB4-924D-A7E7743BC960","ItemResponseOID":"ACE740E9-EE83-41A6-9CA1-1BBA658A06C3", "Value":"1","Position":"5"}]}]},{"FormItemOID":"EABEABEF-18CC-4C5F-8D14-A7A8B86887BB","ID":"SRPPER28r1","Order":"6","ItemType":"","Elements":[{"ElementOID":"6B3B8BCC-CE80-4745-9FED-271833F39870","Description":"I have to limit my regular activities with friends","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"EABEABEF-18CC-4C5F-8D14-A7A8B86887BB","ItemResponseOID":"FE64853F-7504-4DB1-9F42-E15047CBD159", "Value":"5","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"EABEABEF-18CC-4C5F-8D14-A7A8B86887BB","ItemResponseOID":"B2F1AB4E-2726-4333-823D-0C1DBA046D9D", "Value":"4","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"EABEABEF-18CC-4C5F-8D14-A7A8B86887BB","ItemResponseOID":"AB9E95C4-8B88-4FCA-BB0E-3C8ECC28BB36", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"EABEABEF-18CC-4C5F-8D14-A7A8B86887BB","ItemResponseOID":"4CE7AD40-FF24-4E8E-AB7A-AEA0F55D2288", "Value":"2","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"EABEABEF-18CC-4C5F-8D14-A7A8B86887BB","ItemResponseOID":"13C0E8E5-4ED4-48CB-8EE8-0A7AE12150B8", "Value":"1","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "B01F808C-A8AB-45F7-B628-0BF0F7147F86",
+			"ID": "SRPPER11_CaPS",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "4C6E84B7-7558-49C9-9279-73D4EE66AD08",
+					"Description": "I have trouble doing all of my regular leisure activities with others\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "B01F808C-A8AB-45F7-B628-0BF0F7147F86",
+							"ItemResponseOID": "DB213DD1-2B3A-4757-9685-2DE0EAE77BCF",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "B01F808C-A8AB-45F7-B628-0BF0F7147F86",
+							"ItemResponseOID": "AF7A1A80-7C39-4718-AB51-813BE052A039",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "B01F808C-A8AB-45F7-B628-0BF0F7147F86",
+							"ItemResponseOID": "71199D00-C34D-4431-8CCA-972E0F821D17",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "B01F808C-A8AB-45F7-B628-0BF0F7147F86",
+							"ItemResponseOID": "50D078EF-02F0-47A3-B2D8-C942328CE98B",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "B01F808C-A8AB-45F7-B628-0BF0F7147F86",
+							"ItemResponseOID": "C21E2536-8474-44A3-A608-A58C438AF226",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "362926FD-B840-4438-8494-C116AE5DCCA2",
+			"ID": "SRPPER18_CaPS",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "5B4C3333-FA52-494F-A360-4044D98A0B68",
+					"Description": "I have trouble doing all of the family activities that I want to do\r\n",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "362926FD-B840-4438-8494-C116AE5DCCA2",
+							"ItemResponseOID": "2A9525D7-0841-4CB0-887A-AAF9C8014616",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "362926FD-B840-4438-8494-C116AE5DCCA2",
+							"ItemResponseOID": "5A845A82-197A-4E83-8A84-B5D92281FB42",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "362926FD-B840-4438-8494-C116AE5DCCA2",
+							"ItemResponseOID": "A13FC273-EDE3-44A9-B65C-5938E8BA7A99",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "362926FD-B840-4438-8494-C116AE5DCCA2",
+							"ItemResponseOID": "0B61FC15-84A5-4D1F-BB0E-C1A989443F77",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "362926FD-B840-4438-8494-C116AE5DCCA2",
+							"ItemResponseOID": "2D4521CD-76AF-4BE9-B679-23779BD8DF17",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "59E68125-763F-448D-85B6-5348F51446CE",
+			"ID": "SRPPER23_CaPS",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "C5BA993D-5D14-48D2-BF59-DFBD589573AB",
+					"Description": "I have trouble doing all of my usual work (include work at home)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "59E68125-763F-448D-85B6-5348F51446CE",
+							"ItemResponseOID": "A3F4D1AA-1749-4607-8C0D-EB02E2791300",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "59E68125-763F-448D-85B6-5348F51446CE",
+							"ItemResponseOID": "66CEE29D-0798-4BC9-812A-228C51CAEE03",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "59E68125-763F-448D-85B6-5348F51446CE",
+							"ItemResponseOID": "F9877A48-45A9-463A-BC4D-A93289F0B79E",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "59E68125-763F-448D-85B6-5348F51446CE",
+							"ItemResponseOID": "A9FDB1BF-34DA-430A-95AD-4BCE64546977",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "59E68125-763F-448D-85B6-5348F51446CE",
+							"ItemResponseOID": "AE7B7FCD-7DA8-47E4-99ED-C922C488BEED",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A",
+			"ID": "SRPPER46_CaPS",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "AD267069-B7EF-443C-9D5A-6F8675955DC0",
+					"Description": "I have trouble doing all of the activities with friends that I want to do\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A",
+							"ItemResponseOID": "0074922B-3554-4976-88E1-763FC1673FC0",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A",
+							"ItemResponseOID": "61016284-72C0-4185-8622-ABEAB9C34F17",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A",
+							"ItemResponseOID": "0D1B1985-315D-4A24-851B-4F6AAD559153",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A",
+							"ItemResponseOID": "F0C39EC6-C3C5-4408-BBAB-4BD47D9DA109",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "31830A6B-DA1B-4DF3-9ABC-FF41EC0FB72A",
+							"ItemResponseOID": "1A8C9903-1356-41DF-8D4B-75E8A2EF644A",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "8E69EF93-6E1E-4DB4-924D-A7E7743BC960",
+			"ID": "SRPPER15_CaPS",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "CF57CA01-A21F-4C96-ADE7-DA01AAC1BBB6",
+					"Description": "I have to limit the things I do for fun with others\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "8E69EF93-6E1E-4DB4-924D-A7E7743BC960",
+							"ItemResponseOID": "3285FBBE-A00E-4743-BA19-646DD64FE366",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "8E69EF93-6E1E-4DB4-924D-A7E7743BC960",
+							"ItemResponseOID": "40BE2C4A-7367-4D64-83C3-16792DF9733C",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "8E69EF93-6E1E-4DB4-924D-A7E7743BC960",
+							"ItemResponseOID": "82EB7142-27DA-49A4-A173-F7C995121896",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "8E69EF93-6E1E-4DB4-924D-A7E7743BC960",
+							"ItemResponseOID": "2726D3A1-C41B-4D28-A463-1D7CC069CE7C",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "8E69EF93-6E1E-4DB4-924D-A7E7743BC960",
+							"ItemResponseOID": "ACE740E9-EE83-41A6-9CA1-1BBA658A06C3",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "EABEABEF-18CC-4C5F-8D14-A7A8B86887BB",
+			"ID": "SRPPER28r1",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "6B3B8BCC-CE80-4745-9FED-271833F39870",
+					"Description": "I have to limit my regular activities with friends",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "EABEABEF-18CC-4C5F-8D14-A7A8B86887BB",
+							"ItemResponseOID": "FE64853F-7504-4DB1-9F42-E15047CBD159",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "EABEABEF-18CC-4C5F-8D14-A7A8B86887BB",
+							"ItemResponseOID": "B2F1AB4E-2726-4333-823D-0C1DBA046D9D",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "EABEABEF-18CC-4C5F-8D14-A7A8B86887BB",
+							"ItemResponseOID": "AB9E95C4-8B88-4FCA-BB0E-3C8ECC28BB36",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "EABEABEF-18CC-4C5F-8D14-A7A8B86887BB",
+							"ItemResponseOID": "4CE7AD40-FF24-4E8E-AB7A-AEA0F55D2288",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "EABEABEF-18CC-4C5F-8D14-A7A8B86887BB",
+							"ItemResponseOID": "13C0E8E5-4ED4-48CB-8EE8-0A7AE12150B8",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

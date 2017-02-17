@@ -1,1 +1,269 @@
-{"FormOID":"E28D33B7-B772-4B2D-A1CE-D640D030D5E5","Form":"This is the PROMIS Sleep Disturbance short form.","Properties":[{"MinNumItems":"8"},{"MaxNumItems":"8"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"0.00"},{"DistStdDev":"1.00"},{"FirstItem":""},{"CalibrationSample":"Spanish"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"7373B765-B8F2-4EB9-8322-1647E2602B4D","ID":"Sleep116","A_GRM":"2.57680","Map":[{"ItemResponseOID":"AA72A04D-C053-48E7-926B-0E681176DB2D","StepOrder":"1","Threshold":"-1.3528"},{"ItemResponseOID":"D21EF9A1-50F9-4FA1-A835-C03E4172FF6F","StepOrder":"2","Threshold":"-0.3400"},{"ItemResponseOID":"67DAEB7A-71BE-44BA-A369-FF2BF442763E","StepOrder":"3","Threshold":"0.4935"},{"ItemResponseOID":"D7C57BBA-AB09-4FAE-8FEC-E8FC99B7FC71","StepOrder":"4","Threshold":"1.2847"}]},{"FormItemOID":"88E41107-A08F-4226-9176-9C2140A33DBC","ID":"Sleep90","A_GRM":"3.15200","Map":[{"ItemResponseOID":"4D2B262D-A8F4-47E9-9D8A-0B8A5033797A","StepOrder":"1","Threshold":"-0.7140"},{"ItemResponseOID":"ED834622-71A8-4242-8C3C-5C1D27C22C66","StepOrder":"2","Threshold":"0.2810"},{"ItemResponseOID":"3DE380E5-46C3-447B-8A1A-C355F33847C5","StepOrder":"3","Threshold":"1.1490"},{"ItemResponseOID":"2E997F12-F565-4407-945C-0924D9567C5D","StepOrder":"4","Threshold":"2.1160"}]},{"FormItemOID":"990986B2-629F-4098-A530-B423B5F9D82F","ID":"Sleep115","A_GRM":"2.77140","Map":[{"ItemResponseOID":"8C591B9D-FA68-438B-B63A-D86CCA0081AB","StepOrder":"1","Threshold":"-1.2480"},{"ItemResponseOID":"0368BC61-6E67-456E-A89D-3C0584E11AE5","StepOrder":"2","Threshold":"-0.3351"},{"ItemResponseOID":"227BCE11-0DAC-4EFC-A456-E599C9D0522F","StepOrder":"3","Threshold":"0.4303"},{"ItemResponseOID":"313B8520-BB49-4A2D-8BEA-CFD343DA1AF8","StepOrder":"4","Threshold":"1.0950"}]},{"FormItemOID":"99E4844F-F597-4455-A838-2B34B033C860","ID":"Sleep109","A_GRM":"3.38500","Map":[{"ItemResponseOID":"77C2615A-06F8-402E-AF54-F98DEBD97070","StepOrder":"1","Threshold":"-1.2193"},{"ItemResponseOID":"D93587C8-7EC5-450F-ADA4-5A9406649B0C","StepOrder":"2","Threshold":"-0.0027"},{"ItemResponseOID":"E0DB4C95-5C99-4537-9D44-BD000D023424","StepOrder":"3","Threshold":"1.0761"},{"ItemResponseOID":"AD97473B-444D-4BE8-9ABE-6DF384FE019D","StepOrder":"4","Threshold":"1.9020"}]},{"FormItemOID":"B5E299E7-6B9C-4627-805A-F2D747610C89","ID":"Sleep87","A_GRM":"2.18580","Map":[{"ItemResponseOID":"F52FF3BF-1EC4-4876-8D8B-2F8DAB9CDA94","StepOrder":"1","Threshold":"-0.8961"},{"ItemResponseOID":"367F4EDC-0F2A-4203-A7D2-B3ADD4BC11BB","StepOrder":"2","Threshold":"0.0972"},{"ItemResponseOID":"95202CEB-DD5C-41F7-A777-F61EFD5E048A","StepOrder":"3","Threshold":"0.9951"},{"ItemResponseOID":"D1749EE4-FBFC-4254-BB4F-301FC69EAF76","StepOrder":"4","Threshold":"1.7785"}]},{"FormItemOID":"CF4584F9-3F05-4B83-BF0C-70443C91218E","ID":"Sleep110","A_GRM":"2.16990","Map":[{"ItemResponseOID":"B0F5104F-9718-4149-A17C-33E10FE7E872","StepOrder":"1","Threshold":"-1.5596"},{"ItemResponseOID":"FA15DC6F-C90C-4006-8466-FE55D939FAFC","StepOrder":"2","Threshold":"-0.1623"},{"ItemResponseOID":"63DFF83C-D954-43B8-A80E-93BE662BFF72","StepOrder":"3","Threshold":"0.7654"},{"ItemResponseOID":"E3BF975D-FF71-4BB5-AFBD-316D8CCDFA31","StepOrder":"4","Threshold":"1.8068"}]},{"FormItemOID":"DE65C9BC-0D6D-4649-B1C6-9AA120AE1A7B","ID":"Sleep44","A_GRM":"2.50970","Map":[{"ItemResponseOID":"F862CCBD-BBF2-4CEA-8C66-82B3B3C389FC","StepOrder":"1","Threshold":"-0.4634"},{"ItemResponseOID":"2A402AFB-71AE-4D37-9451-F1049777AEF7","StepOrder":"2","Threshold":"0.3113"},{"ItemResponseOID":"C2FA4AC1-5E81-4EFF-B171-90B5A2339485","StepOrder":"3","Threshold":"0.9780"},{"ItemResponseOID":"10E7FEE9-1708-490B-AD42-54C1D3F1F25E","StepOrder":"4","Threshold":"1.7204"}]},{"FormItemOID":"E11419D8-06DC-477B-A0D9-85CC69ECFC80","ID":"Sleep108","A_GRM":"2.29600","Map":[{"ItemResponseOID":"3E6A2D6A-7A8D-4044-B471-96B1CAD5B392","StepOrder":"1","Threshold":"-0.2885"},{"ItemResponseOID":"0E81C71D-890B-4D9F-9518-8F5D8C0D5E54","StepOrder":"2","Threshold":"0.6870"},{"ItemResponseOID":"FDD970B0-930D-4D01-84B1-00F0224789BC","StepOrder":"3","Threshold":"1.4524"},{"ItemResponseOID":"BF019A05-02A7-4609-A1D0-AB2553CC60F3","StepOrder":"4","Threshold":"2.3260"}]}]}
+{
+	"FormOID": "E28D33B7-B772-4B2D-A1CE-D640D030D5E5",
+	"Form": "This is the PROMIS Sleep Disturbance short form.",
+	"Properties": [
+		{
+			"MinNumItems": "8"
+		},
+		{
+			"MaxNumItems": "8"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "0.00"
+		},
+		{
+			"DistStdDev": "1.00"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "Spanish"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "7373B765-B8F2-4EB9-8322-1647E2602B4D",
+			"ID": "Sleep116",
+			"A_GRM": "2.57680",
+			"Map": [
+				{
+					"ItemResponseOID": "AA72A04D-C053-48E7-926B-0E681176DB2D",
+					"StepOrder": "1",
+					"Threshold": "-1.3528"
+				},
+				{
+					"ItemResponseOID": "D21EF9A1-50F9-4FA1-A835-C03E4172FF6F",
+					"StepOrder": "2",
+					"Threshold": "-0.3400"
+				},
+				{
+					"ItemResponseOID": "67DAEB7A-71BE-44BA-A369-FF2BF442763E",
+					"StepOrder": "3",
+					"Threshold": "0.4935"
+				},
+				{
+					"ItemResponseOID": "D7C57BBA-AB09-4FAE-8FEC-E8FC99B7FC71",
+					"StepOrder": "4",
+					"Threshold": "1.2847"
+				}
+			]
+		},
+		{
+			"FormItemOID": "88E41107-A08F-4226-9176-9C2140A33DBC",
+			"ID": "Sleep90",
+			"A_GRM": "3.15200",
+			"Map": [
+				{
+					"ItemResponseOID": "4D2B262D-A8F4-47E9-9D8A-0B8A5033797A",
+					"StepOrder": "1",
+					"Threshold": "-0.7140"
+				},
+				{
+					"ItemResponseOID": "ED834622-71A8-4242-8C3C-5C1D27C22C66",
+					"StepOrder": "2",
+					"Threshold": "0.2810"
+				},
+				{
+					"ItemResponseOID": "3DE380E5-46C3-447B-8A1A-C355F33847C5",
+					"StepOrder": "3",
+					"Threshold": "1.1490"
+				},
+				{
+					"ItemResponseOID": "2E997F12-F565-4407-945C-0924D9567C5D",
+					"StepOrder": "4",
+					"Threshold": "2.1160"
+				}
+			]
+		},
+		{
+			"FormItemOID": "990986B2-629F-4098-A530-B423B5F9D82F",
+			"ID": "Sleep115",
+			"A_GRM": "2.77140",
+			"Map": [
+				{
+					"ItemResponseOID": "8C591B9D-FA68-438B-B63A-D86CCA0081AB",
+					"StepOrder": "1",
+					"Threshold": "-1.2480"
+				},
+				{
+					"ItemResponseOID": "0368BC61-6E67-456E-A89D-3C0584E11AE5",
+					"StepOrder": "2",
+					"Threshold": "-0.3351"
+				},
+				{
+					"ItemResponseOID": "227BCE11-0DAC-4EFC-A456-E599C9D0522F",
+					"StepOrder": "3",
+					"Threshold": "0.4303"
+				},
+				{
+					"ItemResponseOID": "313B8520-BB49-4A2D-8BEA-CFD343DA1AF8",
+					"StepOrder": "4",
+					"Threshold": "1.0950"
+				}
+			]
+		},
+		{
+			"FormItemOID": "99E4844F-F597-4455-A838-2B34B033C860",
+			"ID": "Sleep109",
+			"A_GRM": "3.38500",
+			"Map": [
+				{
+					"ItemResponseOID": "77C2615A-06F8-402E-AF54-F98DEBD97070",
+					"StepOrder": "1",
+					"Threshold": "-1.2193"
+				},
+				{
+					"ItemResponseOID": "D93587C8-7EC5-450F-ADA4-5A9406649B0C",
+					"StepOrder": "2",
+					"Threshold": "-0.0027"
+				},
+				{
+					"ItemResponseOID": "E0DB4C95-5C99-4537-9D44-BD000D023424",
+					"StepOrder": "3",
+					"Threshold": "1.0761"
+				},
+				{
+					"ItemResponseOID": "AD97473B-444D-4BE8-9ABE-6DF384FE019D",
+					"StepOrder": "4",
+					"Threshold": "1.9020"
+				}
+			]
+		},
+		{
+			"FormItemOID": "B5E299E7-6B9C-4627-805A-F2D747610C89",
+			"ID": "Sleep87",
+			"A_GRM": "2.18580",
+			"Map": [
+				{
+					"ItemResponseOID": "F52FF3BF-1EC4-4876-8D8B-2F8DAB9CDA94",
+					"StepOrder": "1",
+					"Threshold": "-0.8961"
+				},
+				{
+					"ItemResponseOID": "367F4EDC-0F2A-4203-A7D2-B3ADD4BC11BB",
+					"StepOrder": "2",
+					"Threshold": "0.0972"
+				},
+				{
+					"ItemResponseOID": "95202CEB-DD5C-41F7-A777-F61EFD5E048A",
+					"StepOrder": "3",
+					"Threshold": "0.9951"
+				},
+				{
+					"ItemResponseOID": "D1749EE4-FBFC-4254-BB4F-301FC69EAF76",
+					"StepOrder": "4",
+					"Threshold": "1.7785"
+				}
+			]
+		},
+		{
+			"FormItemOID": "CF4584F9-3F05-4B83-BF0C-70443C91218E",
+			"ID": "Sleep110",
+			"A_GRM": "2.16990",
+			"Map": [
+				{
+					"ItemResponseOID": "B0F5104F-9718-4149-A17C-33E10FE7E872",
+					"StepOrder": "1",
+					"Threshold": "-1.5596"
+				},
+				{
+					"ItemResponseOID": "FA15DC6F-C90C-4006-8466-FE55D939FAFC",
+					"StepOrder": "2",
+					"Threshold": "-0.1623"
+				},
+				{
+					"ItemResponseOID": "63DFF83C-D954-43B8-A80E-93BE662BFF72",
+					"StepOrder": "3",
+					"Threshold": "0.7654"
+				},
+				{
+					"ItemResponseOID": "E3BF975D-FF71-4BB5-AFBD-316D8CCDFA31",
+					"StepOrder": "4",
+					"Threshold": "1.8068"
+				}
+			]
+		},
+		{
+			"FormItemOID": "DE65C9BC-0D6D-4649-B1C6-9AA120AE1A7B",
+			"ID": "Sleep44",
+			"A_GRM": "2.50970",
+			"Map": [
+				{
+					"ItemResponseOID": "F862CCBD-BBF2-4CEA-8C66-82B3B3C389FC",
+					"StepOrder": "1",
+					"Threshold": "-0.4634"
+				},
+				{
+					"ItemResponseOID": "2A402AFB-71AE-4D37-9451-F1049777AEF7",
+					"StepOrder": "2",
+					"Threshold": "0.3113"
+				},
+				{
+					"ItemResponseOID": "C2FA4AC1-5E81-4EFF-B171-90B5A2339485",
+					"StepOrder": "3",
+					"Threshold": "0.9780"
+				},
+				{
+					"ItemResponseOID": "10E7FEE9-1708-490B-AD42-54C1D3F1F25E",
+					"StepOrder": "4",
+					"Threshold": "1.7204"
+				}
+			]
+		},
+		{
+			"FormItemOID": "E11419D8-06DC-477B-A0D9-85CC69ECFC80",
+			"ID": "Sleep108",
+			"A_GRM": "2.29600",
+			"Map": [
+				{
+					"ItemResponseOID": "3E6A2D6A-7A8D-4044-B471-96B1CAD5B392",
+					"StepOrder": "1",
+					"Threshold": "-0.2885"
+				},
+				{
+					"ItemResponseOID": "0E81C71D-890B-4D9F-9518-8F5D8C0D5E54",
+					"StepOrder": "2",
+					"Threshold": "0.6870"
+				},
+				{
+					"ItemResponseOID": "FDD970B0-930D-4D01-84B1-00F0224789BC",
+					"StepOrder": "3",
+					"Threshold": "1.4524"
+				},
+				{
+					"ItemResponseOID": "BF019A05-02A7-4609-A1D0-AB2553CC60F3",
+					"StepOrder": "4",
+					"Threshold": "2.3260"
+				}
+			]
+		}
+	]
+}

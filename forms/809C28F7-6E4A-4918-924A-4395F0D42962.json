@@ -1,1 +1,365 @@
-{"DateFinished":"","Items":[{"FormItemOID":"C19E9C90-4046-44AC-B048-C37334EF04EC","ID":"UCLA11x2","Order":"1","ItemType":"","Elements":[{"ElementOID":"4B49D98C-9E83-4C89-9139-01A7600073B1","Description":"I feel left out\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"C19E9C90-4046-44AC-B048-C37334EF04EC","ItemResponseOID":"90109239-DE68-4F0E-92D5-1D3039016BDC", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"C19E9C90-4046-44AC-B048-C37334EF04EC","ItemResponseOID":"60E58BC9-4798-4847-B8E8-E02EF2BF4F97", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"C19E9C90-4046-44AC-B048-C37334EF04EC","ItemResponseOID":"3BBAB2CF-0A03-463E-BC3B-ED53502E3871", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"C19E9C90-4046-44AC-B048-C37334EF04EC","ItemResponseOID":"90665F74-BD9C-4A86-BCD4-FA2E4290238F", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"C19E9C90-4046-44AC-B048-C37334EF04EC","ItemResponseOID":"12DE86A9-E870-4811-BD84-D02F1520D7EF", "Value":"5","Position":"5"}]}]},{"FormItemOID":"90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2","ID":"UCLA13x3 ","Order":"2","ItemType":"","Elements":[{"ElementOID":"81471515-D081-4C54-814C-789767D65DC1","Description":"I feel that people barely know me\r\n\r\n","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2","ItemResponseOID":"1FEF2C90-AB98-46F2-8809-0892F6F2B279", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2","ItemResponseOID":"DDF14624-8996-4415-858D-701622C64686", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2","ItemResponseOID":"5E5DFF32-A8EF-43D6-B0CB-FAA82A513C4B", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2","ItemResponseOID":"8C5E1ABF-D359-45F7-8070-DA280A6DE722", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2","ItemResponseOID":"A1DC5AE2-765E-4A8B-A336-9A5EFBF42574", "Value":"5","Position":"5"}]}]},{"FormItemOID":"240AFE30-2DEB-4D11-A52C-0A4844AE6EF7","ID":"UCLA14x2","Order":"3","ItemType":"","Elements":[{"ElementOID":"AB0A8208-9F37-43BF-99B9-E56B8DC2C348","Description":"I feel isolated from others\r\n\r\n\r\n\r\n\r\n","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"240AFE30-2DEB-4D11-A52C-0A4844AE6EF7","ItemResponseOID":"40CF976F-C974-4277-B45D-DD32263742BE", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"240AFE30-2DEB-4D11-A52C-0A4844AE6EF7","ItemResponseOID":"8C987B48-7635-4ABB-816C-337221E133E2", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"240AFE30-2DEB-4D11-A52C-0A4844AE6EF7","ItemResponseOID":"C1BCA029-F99B-4FF3-8C0E-703C6A3E163F", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"240AFE30-2DEB-4D11-A52C-0A4844AE6EF7","ItemResponseOID":"7DCD2795-D3A0-410A-A48E-AC72B7586F32", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"240AFE30-2DEB-4D11-A52C-0A4844AE6EF7","ItemResponseOID":"F7B6BB16-7953-4B2A-A115-7813F0A8E86F", "Value":"5","Position":"5"}]}]},{"FormItemOID":"F742C31F-8CBD-4930-AC3B-DFE0F940F6D7","ID":"UCLA18x2","Order":"4","ItemType":"","Elements":[{"ElementOID":"59514144-4653-4205-8923-4E73D7FFDD2A","Description":"I feel that people are around me but not with me\r\n\r\n\r\n\r\n","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"F742C31F-8CBD-4930-AC3B-DFE0F940F6D7","ItemResponseOID":"6FF3D8CB-4C8C-4A88-863B-47A2ED1ACEB6", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"F742C31F-8CBD-4930-AC3B-DFE0F940F6D7","ItemResponseOID":"E9EFF74C-3E25-48BB-B84D-AD70853C5778", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"F742C31F-8CBD-4930-AC3B-DFE0F940F6D7","ItemResponseOID":"8103024E-2082-4964-915D-1C5D06B11A0A", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"F742C31F-8CBD-4930-AC3B-DFE0F940F6D7","ItemResponseOID":"57CA3280-C7B6-435F-82F5-C8E8F0D69DA1", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"F742C31F-8CBD-4930-AC3B-DFE0F940F6D7","ItemResponseOID":"561FC634-7C69-4621-880B-C85354C771D5", "Value":"5","Position":"5"}]}]},{"FormItemOID":"66D56895-67E7-4CF2-AC8D-DEC9707FAF79","ID":"Iso-CaPS1","Order":"5","ItemType":"","Elements":[{"ElementOID":"D9A14D0C-3DE7-4063-BCBA-FFD48C9AD4BE","Description":"I feel isolated even when I am not alone\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"66D56895-67E7-4CF2-AC8D-DEC9707FAF79","ItemResponseOID":"6AECBF67-75A1-484D-84F1-A6D3670B9803", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"66D56895-67E7-4CF2-AC8D-DEC9707FAF79","ItemResponseOID":"5ED00DEA-95B9-48FB-99A1-7421B0E6F5F7", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"66D56895-67E7-4CF2-AC8D-DEC9707FAF79","ItemResponseOID":"421658B2-27BA-448C-A722-FEE6D18512F4", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"66D56895-67E7-4CF2-AC8D-DEC9707FAF79","ItemResponseOID":"28A6A780-6872-4AD1-AE2F-2CAA6B08BDFC", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"66D56895-67E7-4CF2-AC8D-DEC9707FAF79","ItemResponseOID":"DEFCDBD5-B9F8-4427-B682-484BDFDF86C0", "Value":"5","Position":"5"}]}]},{"FormItemOID":"AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402","ID":"Iso-CaPS2","Order":"6","ItemType":"","Elements":[{"ElementOID":"FE350761-E7DE-4616-A0CE-2881ED316FDE","Description":"I feel that people avoid talking to me\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n","ElementOrder":"1"},{"ElementOID":"685AA85E-521F-4025-AF5E-304407682B70","Description":"ContainerFor685AA85E-521F-4025-AF5E-304407682B70","ElementOrder":"2","Map":[{"ElementOID":"3CB29D93-5D54-409C-890E-1D7C82D15791","Description":"Never","FormItemOID":"AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402","ItemResponseOID":"D9028930-CAD1-4F8F-BB37-9DFBF1A4CB88", "Value":"1","Position":"1"},{"ElementOID":"6DDA5E8F-0599-4203-88E7-7256FDA61FB0","Description":"Rarely","FormItemOID":"AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402","ItemResponseOID":"C2C2142A-0593-4F72-B931-3A8121AA7ABF", "Value":"2","Position":"2"},{"ElementOID":"7647977A-2DC3-4307-91F7-F62C99BE51A2","Description":"Sometimes","FormItemOID":"AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402","ItemResponseOID":"349F127C-7321-4DD1-9DED-096FCB369BB6", "Value":"3","Position":"3"},{"ElementOID":"937AA52D-64A5-48F7-A535-80F9026D8E8F","Description":"Usually","FormItemOID":"AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402","ItemResponseOID":"590F123C-D20B-47AC-A70D-ECBBF3C67DC0", "Value":"4","Position":"4"},{"ElementOID":"2C896C1F-D073-49F4-85E1-8FE7CDF0F594","Description":"Always","FormItemOID":"AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402","ItemResponseOID":"DA4B9996-E14D-47E1-8095-F7D911067714", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "C19E9C90-4046-44AC-B048-C37334EF04EC",
+			"ID": "UCLA11x2",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "4B49D98C-9E83-4C89-9139-01A7600073B1",
+					"Description": "I feel left out\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "C19E9C90-4046-44AC-B048-C37334EF04EC",
+							"ItemResponseOID": "90109239-DE68-4F0E-92D5-1D3039016BDC",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "C19E9C90-4046-44AC-B048-C37334EF04EC",
+							"ItemResponseOID": "60E58BC9-4798-4847-B8E8-E02EF2BF4F97",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "C19E9C90-4046-44AC-B048-C37334EF04EC",
+							"ItemResponseOID": "3BBAB2CF-0A03-463E-BC3B-ED53502E3871",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "C19E9C90-4046-44AC-B048-C37334EF04EC",
+							"ItemResponseOID": "90665F74-BD9C-4A86-BCD4-FA2E4290238F",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "C19E9C90-4046-44AC-B048-C37334EF04EC",
+							"ItemResponseOID": "12DE86A9-E870-4811-BD84-D02F1520D7EF",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2",
+			"ID": "UCLA13x3 ",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "81471515-D081-4C54-814C-789767D65DC1",
+					"Description": "I feel that people barely know me\r\n\r\n",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2",
+							"ItemResponseOID": "1FEF2C90-AB98-46F2-8809-0892F6F2B279",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2",
+							"ItemResponseOID": "DDF14624-8996-4415-858D-701622C64686",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2",
+							"ItemResponseOID": "5E5DFF32-A8EF-43D6-B0CB-FAA82A513C4B",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2",
+							"ItemResponseOID": "8C5E1ABF-D359-45F7-8070-DA280A6DE722",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "90F6F53B-919F-4D1E-978A-EA7F0ABCB9C2",
+							"ItemResponseOID": "A1DC5AE2-765E-4A8B-A336-9A5EFBF42574",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "240AFE30-2DEB-4D11-A52C-0A4844AE6EF7",
+			"ID": "UCLA14x2",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "AB0A8208-9F37-43BF-99B9-E56B8DC2C348",
+					"Description": "I feel isolated from others\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "240AFE30-2DEB-4D11-A52C-0A4844AE6EF7",
+							"ItemResponseOID": "40CF976F-C974-4277-B45D-DD32263742BE",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "240AFE30-2DEB-4D11-A52C-0A4844AE6EF7",
+							"ItemResponseOID": "8C987B48-7635-4ABB-816C-337221E133E2",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "240AFE30-2DEB-4D11-A52C-0A4844AE6EF7",
+							"ItemResponseOID": "C1BCA029-F99B-4FF3-8C0E-703C6A3E163F",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "240AFE30-2DEB-4D11-A52C-0A4844AE6EF7",
+							"ItemResponseOID": "7DCD2795-D3A0-410A-A48E-AC72B7586F32",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "240AFE30-2DEB-4D11-A52C-0A4844AE6EF7",
+							"ItemResponseOID": "F7B6BB16-7953-4B2A-A115-7813F0A8E86F",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F742C31F-8CBD-4930-AC3B-DFE0F940F6D7",
+			"ID": "UCLA18x2",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "59514144-4653-4205-8923-4E73D7FFDD2A",
+					"Description": "I feel that people are around me but not with me\r\n\r\n\r\n\r\n",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "F742C31F-8CBD-4930-AC3B-DFE0F940F6D7",
+							"ItemResponseOID": "6FF3D8CB-4C8C-4A88-863B-47A2ED1ACEB6",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "F742C31F-8CBD-4930-AC3B-DFE0F940F6D7",
+							"ItemResponseOID": "E9EFF74C-3E25-48BB-B84D-AD70853C5778",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "F742C31F-8CBD-4930-AC3B-DFE0F940F6D7",
+							"ItemResponseOID": "8103024E-2082-4964-915D-1C5D06B11A0A",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "F742C31F-8CBD-4930-AC3B-DFE0F940F6D7",
+							"ItemResponseOID": "57CA3280-C7B6-435F-82F5-C8E8F0D69DA1",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "F742C31F-8CBD-4930-AC3B-DFE0F940F6D7",
+							"ItemResponseOID": "561FC634-7C69-4621-880B-C85354C771D5",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "66D56895-67E7-4CF2-AC8D-DEC9707FAF79",
+			"ID": "Iso-CaPS1",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "D9A14D0C-3DE7-4063-BCBA-FFD48C9AD4BE",
+					"Description": "I feel isolated even when I am not alone\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "66D56895-67E7-4CF2-AC8D-DEC9707FAF79",
+							"ItemResponseOID": "6AECBF67-75A1-484D-84F1-A6D3670B9803",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "66D56895-67E7-4CF2-AC8D-DEC9707FAF79",
+							"ItemResponseOID": "5ED00DEA-95B9-48FB-99A1-7421B0E6F5F7",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "66D56895-67E7-4CF2-AC8D-DEC9707FAF79",
+							"ItemResponseOID": "421658B2-27BA-448C-A722-FEE6D18512F4",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "66D56895-67E7-4CF2-AC8D-DEC9707FAF79",
+							"ItemResponseOID": "28A6A780-6872-4AD1-AE2F-2CAA6B08BDFC",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "66D56895-67E7-4CF2-AC8D-DEC9707FAF79",
+							"ItemResponseOID": "DEFCDBD5-B9F8-4427-B682-484BDFDF86C0",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402",
+			"ID": "Iso-CaPS2",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "FE350761-E7DE-4616-A0CE-2881ED316FDE",
+					"Description": "I feel that people avoid talking to me\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "685AA85E-521F-4025-AF5E-304407682B70",
+					"Description": "ContainerFor685AA85E-521F-4025-AF5E-304407682B70",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "3CB29D93-5D54-409C-890E-1D7C82D15791",
+							"Description": "Never",
+							"FormItemOID": "AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402",
+							"ItemResponseOID": "D9028930-CAD1-4F8F-BB37-9DFBF1A4CB88",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "6DDA5E8F-0599-4203-88E7-7256FDA61FB0",
+							"Description": "Rarely",
+							"FormItemOID": "AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402",
+							"ItemResponseOID": "C2C2142A-0593-4F72-B931-3A8121AA7ABF",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "7647977A-2DC3-4307-91F7-F62C99BE51A2",
+							"Description": "Sometimes",
+							"FormItemOID": "AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402",
+							"ItemResponseOID": "349F127C-7321-4DD1-9DED-096FCB369BB6",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "937AA52D-64A5-48F7-A535-80F9026D8E8F",
+							"Description": "Usually",
+							"FormItemOID": "AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402",
+							"ItemResponseOID": "590F123C-D20B-47AC-A70D-ECBBF3C67DC0",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2C896C1F-D073-49F4-85E1-8FE7CDF0F594",
+							"Description": "Always",
+							"FormItemOID": "AEA29CFE-D6F3-4C9C-9DD6-F58C8BB82402",
+							"ItemResponseOID": "DA4B9996-E14D-47E1-8095-F7D911067714",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

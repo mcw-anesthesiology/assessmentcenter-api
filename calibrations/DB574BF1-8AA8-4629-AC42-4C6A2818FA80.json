@@ -1,1 +1,161 @@
-{"FormOID":"DB574BF1-8AA8-4629-AC42-4C6A2818FA80","Form":"PROMIS Smoking NicotineDepend 4-item Short Form for All Smokers","Properties":[{"MinNumItems":"4"},{"MaxNumItems":"4"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"-0.24"},{"DistStdDev":"1.12"},{"FirstItem":""},{"CalibrationSample":"PROMIS Smoking Study W1"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"3FDA265E-66ED-41E6-AB95-F99107919C82","ID":"SMKNDEP01","A_GRM":"3.13000","Map":[{"ItemResponseOID":"C921ED00-2BF9-4401-88D5-5E0D2C7F49F7","StepOrder":"1","Threshold":"-1.2500"},{"ItemResponseOID":"24E37B30-777F-4D4D-BD74-2CC59B637808","StepOrder":"2","Threshold":"-0.3100"},{"ItemResponseOID":"C301E401-CAAC-44A3-862B-4F9877EB95E9","StepOrder":"3","Threshold":"0.6400"},{"ItemResponseOID":"98AD2867-E40A-4AB8-A6E6-507E64D1F2A0","StepOrder":"4","Threshold":"1.3800"}]},{"FormItemOID":"73717691-0373-471E-84E2-15F8C0D588EA","ID":"SMKNDEP02","A_GRM":"1.41000","Map":[{"ItemResponseOID":"CDE58B52-6050-424E-B323-759101DA5BC6","StepOrder":"1","Threshold":"-1.5400"},{"ItemResponseOID":"5ECEF1F5-E629-4082-B064-2AE0A1CFCFC3","StepOrder":"2","Threshold":"-0.4800"},{"ItemResponseOID":"C8B6F567-9F19-4189-8C13-2A224D234481","StepOrder":"3","Threshold":"0.8000"},{"ItemResponseOID":"F1E85445-A059-4CCF-A08C-2F3C0C2C6F0F","StepOrder":"4","Threshold":"2.1600"}]},{"FormItemOID":"C3528E4F-9451-4582-84B1-55EC2D36952A","ID":"SMKNDEP04","A_GRM":"1.57000","Map":[{"ItemResponseOID":"682E20FD-71E6-4EB1-A8FA-0D280B0D022C","StepOrder":"1","Threshold":"-1.9600"},{"ItemResponseOID":"5CE9B07F-F4B9-4CA7-BADC-3A2D90B7584F","StepOrder":"2","Threshold":"-0.9900"},{"ItemResponseOID":"9F12D6D6-055B-4771-9416-FA85D277FCA0","StepOrder":"3","Threshold":"0.1700"},{"ItemResponseOID":"D67A5525-9FE6-4C8B-8E68-2AC8F685F3E1","StepOrder":"4","Threshold":"1.1900"}]},{"FormItemOID":"EB0E3AEE-2ED1-472A-8CE7-6A3FEA06F793","ID":"SMKNDEP03","A_GRM":"1.84000","Map":[{"ItemResponseOID":"2A521D93-BEC9-4435-A5BF-5149987CCB0C","StepOrder":"1","Threshold":"-1.2300"},{"ItemResponseOID":"B2A71F07-25DD-467A-A21E-3396579958D5","StepOrder":"2","Threshold":"-0.0300"},{"ItemResponseOID":"F0D89196-3D76-4A2F-9BC2-6CA93C376E49","StepOrder":"3","Threshold":"1.1000"},{"ItemResponseOID":"CF8C4963-F3FB-4339-AE3B-28E9074C0E4B","StepOrder":"4","Threshold":"2.0300"}]}]}
+{
+	"FormOID": "DB574BF1-8AA8-4629-AC42-4C6A2818FA80",
+	"Form": "PROMIS Smoking NicotineDepend 4-item Short Form for All Smokers",
+	"Properties": [
+		{
+			"MinNumItems": "4"
+		},
+		{
+			"MaxNumItems": "4"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "-0.24"
+		},
+		{
+			"DistStdDev": "1.12"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "PROMIS Smoking Study W1"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "3FDA265E-66ED-41E6-AB95-F99107919C82",
+			"ID": "SMKNDEP01",
+			"A_GRM": "3.13000",
+			"Map": [
+				{
+					"ItemResponseOID": "C921ED00-2BF9-4401-88D5-5E0D2C7F49F7",
+					"StepOrder": "1",
+					"Threshold": "-1.2500"
+				},
+				{
+					"ItemResponseOID": "24E37B30-777F-4D4D-BD74-2CC59B637808",
+					"StepOrder": "2",
+					"Threshold": "-0.3100"
+				},
+				{
+					"ItemResponseOID": "C301E401-CAAC-44A3-862B-4F9877EB95E9",
+					"StepOrder": "3",
+					"Threshold": "0.6400"
+				},
+				{
+					"ItemResponseOID": "98AD2867-E40A-4AB8-A6E6-507E64D1F2A0",
+					"StepOrder": "4",
+					"Threshold": "1.3800"
+				}
+			]
+		},
+		{
+			"FormItemOID": "73717691-0373-471E-84E2-15F8C0D588EA",
+			"ID": "SMKNDEP02",
+			"A_GRM": "1.41000",
+			"Map": [
+				{
+					"ItemResponseOID": "CDE58B52-6050-424E-B323-759101DA5BC6",
+					"StepOrder": "1",
+					"Threshold": "-1.5400"
+				},
+				{
+					"ItemResponseOID": "5ECEF1F5-E629-4082-B064-2AE0A1CFCFC3",
+					"StepOrder": "2",
+					"Threshold": "-0.4800"
+				},
+				{
+					"ItemResponseOID": "C8B6F567-9F19-4189-8C13-2A224D234481",
+					"StepOrder": "3",
+					"Threshold": "0.8000"
+				},
+				{
+					"ItemResponseOID": "F1E85445-A059-4CCF-A08C-2F3C0C2C6F0F",
+					"StepOrder": "4",
+					"Threshold": "2.1600"
+				}
+			]
+		},
+		{
+			"FormItemOID": "C3528E4F-9451-4582-84B1-55EC2D36952A",
+			"ID": "SMKNDEP04",
+			"A_GRM": "1.57000",
+			"Map": [
+				{
+					"ItemResponseOID": "682E20FD-71E6-4EB1-A8FA-0D280B0D022C",
+					"StepOrder": "1",
+					"Threshold": "-1.9600"
+				},
+				{
+					"ItemResponseOID": "5CE9B07F-F4B9-4CA7-BADC-3A2D90B7584F",
+					"StepOrder": "2",
+					"Threshold": "-0.9900"
+				},
+				{
+					"ItemResponseOID": "9F12D6D6-055B-4771-9416-FA85D277FCA0",
+					"StepOrder": "3",
+					"Threshold": "0.1700"
+				},
+				{
+					"ItemResponseOID": "D67A5525-9FE6-4C8B-8E68-2AC8F685F3E1",
+					"StepOrder": "4",
+					"Threshold": "1.1900"
+				}
+			]
+		},
+		{
+			"FormItemOID": "EB0E3AEE-2ED1-472A-8CE7-6A3FEA06F793",
+			"ID": "SMKNDEP03",
+			"A_GRM": "1.84000",
+			"Map": [
+				{
+					"ItemResponseOID": "2A521D93-BEC9-4435-A5BF-5149987CCB0C",
+					"StepOrder": "1",
+					"Threshold": "-1.2300"
+				},
+				{
+					"ItemResponseOID": "B2A71F07-25DD-467A-A21E-3396579958D5",
+					"StepOrder": "2",
+					"Threshold": "-0.0300"
+				},
+				{
+					"ItemResponseOID": "F0D89196-3D76-4A2F-9BC2-6CA93C376E49",
+					"StepOrder": "3",
+					"Threshold": "1.1000"
+				},
+				{
+					"ItemResponseOID": "CF8C4963-F3FB-4339-AE3B-28E9074C0E4B",
+					"StepOrder": "4",
+					"Threshold": "2.0300"
+				}
+			]
+		}
+	]
+}

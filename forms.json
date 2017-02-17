@@ -1,0 +1,1640 @@
+{
+	"Form": [
+		{
+			"OID": "3BBD1D6B-A249-4DEA-B9B8-05675AAFA2A2",
+			"Name": "Neuro-QoL Banco Ped  v1.0 - Ansiedad"
+		},
+		{
+			"OID": "6D7441F7-A502-49C8-A530-E350DB2D128F",
+			"Name": "Neuro-QoL Banco Ped  v1.0 - Estigma"
+		},
+		{
+			"OID": "F3C66F1A-19DC-442D-8C7B-F48FBEA9C7BC",
+			"Name": "Neuro-QoL Banco Ped  v1.0 - Relaciones sociales: Interacci\u00f3n con ni\u00f1os de la misma edad"
+		},
+		{
+			"OID": "D2B1488D-5898-42E5-8C87-79D09B6CD1DC",
+			"Name": "Neuro-QoL Banco Ped  v1.1 - Depresi\u00f3n"
+		},
+		{
+			"OID": "031F4CFB-5DA5-42CF-B03D-08DAC393BEDF",
+			"Name": "Neuro-QoL Banco Ped  v2.0 - Funci\u00f3n cognitiva"
+		},
+		{
+			"OID": "F7CF8A91-DBAB-426E-89C6-12800999ECA9",
+			"Name": "Neuro-QoL Banco Ped  v2.1- Agotamiento"
+		},
+		{
+			"OID": "2C763554-78CA-4B27-B97E-49813DF9DF19",
+			"Name": "Neuro-QoL Banco v1.0 - Agotamiento"
+		},
+		{
+			"OID": "B5A36C02-7C33-496D-BAE9-CB9674E82407",
+			"Name": "Neuro-QoL Banco v1.0 - Ansiedad"
+		},
+		{
+			"OID": "03956105-FF0D-444C-9F95-96415502F850",
+			"Name": "Neuro-QoL Banco v1.0 - Capacidad para participar en roles y actividades sociales"
+		},
+		{
+			"OID": "70BC0109-CFEC-4030-A1CB-7D97B63C9681",
+			"Name": "Neuro-QoL Banco v1.0 - Depresi\u00f3n"
+		},
+		{
+			"OID": "F84FFAE3-0AB2-49A3-B210-2FC1A37B7348",
+			"Name": "Neuro-QoL Banco v1.0 - Descontrol emocional y conductual"
+		},
+		{
+			"OID": "9DCF2B6D-41B2-4827-90DB-7DC083EF1AED",
+			"Name": "Neuro-QoL Banco v1.0 - Estigma"
+		},
+		{
+			"OID": "025443FB-ABF6-46E5-8748-3523A2A647ED",
+			"Name": "Neuro-QoL Banco v1.0 - Funcionamiento de las extremidades inferiores (Movilidad)"
+		},
+		{
+			"OID": "417315F9-694E-436E-853A-F50C7AF6D7F3",
+			"Name": "Neuro-QoL Banco v1.0 - Funcionamiento de las extremidades superiores - motricidad fina, actividades cotidianas"
+		},
+		{
+			"OID": "DA686273-A8AB-4172-A939-3D5AE798D4EC",
+			"Name": "Neuro-QoL Banco v1.0 - Sentimientos positivos y bienestar"
+		},
+		{
+			"OID": "971B5C75-871E-4F53-BF69-F0E276EFAC5E",
+			"Name": "Neuro-QoL Banco v1.1 - Satisfacci\u00f3n con la participaci\u00f3n en roles y actividades sociales"
+		},
+		{
+			"OID": "DB8E6DC5-CD3E-4C01-A7E0-CE1C78FB7FBE",
+			"Name": "Neuro-QoL Banco v2.0 - Funci\u00f3n Cognitiva"
+		},
+		{
+			"OID": "168E8D40-A5F2-4A84-B138-30F6F3D44358",
+			"Name": "Neuro-QOL Bank v1.0 - Ability to Part. in SRA"
+		},
+		{
+			"OID": "82A96E84-B1DF-4105-A901-658E25242EC4",
+			"Name": "Neuro-QOL Bank v1.0 - Anxiety"
+		},
+		{
+			"OID": "EAA1BBC4-6D00-44D5-846A-9C13BB680151",
+			"Name": "Neuro-QOL Bank v1.0 - Depression"
+		},
+		{
+			"OID": "71D33441-51AD-4F3D-BFAC-D77A4C31639C",
+			"Name": "Neuro-QOL Bank v1.0 - Emotional & Beh. Dyscontrol"
+		},
+		{
+			"OID": "425D9AC5-3549-49C6-8100-46DCC027129B",
+			"Name": "Neuro-QOL Bank v1.0 - Fatigue"
+		},
+		{
+			"OID": "76D26D41-E9D4-4539-8B8D-8A8F877E39E8",
+			"Name": "Neuro-QOL Bank v1.0 - LEx Fnct (Mobility)"
+		},
+		{
+			"OID": "18B90183-FE27-4DD4-8A23-7C1E4E311F67",
+			"Name": "Neuro-QOL Bank v1.0 - Stigma"
+		},
+		{
+			"OID": "832ABA40-0135-4D45-AFA9-DA4D24D65369",
+			"Name": "Neuro-QOL Bank v1.0 - UEx Fnct (FineMotor, ADL)"
+		},
+		{
+			"OID": "2B92F44C-302B-4C35-8772-3548BC43CB6A",
+			"Name": "Neuro-QOL Bank v1.0 Pos. Affect & Well-Being"
+		},
+		{
+			"OID": "023E7244-AE96-46BB-8A84-E22EB2E00617",
+			"Name": "Neuro-QOL Bank v1.1 - Satisfaction w SRA"
+		},
+		{
+			"OID": "A8FD52D9-45C8-4FFE-8CF7-EFDE76B1DC6A",
+			"Name": "Neuro-QOL Bank v2.0 - Cognitive Function"
+		},
+		{
+			"OID": "037D7B69-FCB2-482E-A1CE-9A4D017D24AD",
+			"Name": "Neuro-QOL Ped Bank v1.0 - Anxiety"
+		},
+		{
+			"OID": "0BD40FC5-67F8-4C92-B277-4F26949D53EF",
+			"Name": "Neuro-QOL Ped Bank v1.0 - SR - Interaction w Peers"
+		},
+		{
+			"OID": "8212E228-A549-4CCE-8C5F-6049096B8392",
+			"Name": "Neuro-QOL Ped Bank v1.0 - Stigma"
+		},
+		{
+			"OID": "0E1CD7E6-6143-48D6-A14F-D5429964A2F8",
+			"Name": "Neuro-QOL Ped Bank v1.1 - Depression"
+		},
+		{
+			"OID": "869BB22D-CAAB-470F-AE30-6AF33BC2BA9F",
+			"Name": "Neuro-QOL Ped Bank v2.0 - Cognitive Function"
+		},
+		{
+			"OID": "C81F128D-F091-4AF5-917A-060FAC6B21B5",
+			"Name": "Neuro-QOL Ped Bank v2.1- Fatigue"
+		},
+		{
+			"OID": "060D3038-B8AA-410A-AA49-64D169F9F658",
+			"Name": "Neuro-QOL Ped SF v1.0 - Anger"
+		},
+		{
+			"OID": "5760C765-95C9-491D-A88F-77889D70E9B4",
+			"Name": "Neuro-QOL Ped SF v1.0 - Anxiety"
+		},
+		{
+			"OID": "BF75FC23-084C-44F6-9B1A-168FD3E31F8A",
+			"Name": "Neuro-QOL Ped SF v1.0 - Depression"
+		},
+		{
+			"OID": "6C45966B-AB23-4CF9-9E35-F3E9F5FD90D7",
+			"Name": "Neuro-QOL Ped SF v1.0 - Pain"
+		},
+		{
+			"OID": "AF705103-E93D-4B81-85C4-09B4614BDB07",
+			"Name": "Neuro-QOL Ped SF v1.0 - SR - Interaction w Peers"
+		},
+		{
+			"OID": "0E7C17B1-7169-4E92-9A63-92EF9504B417",
+			"Name": "Neuro-QOL Ped SF v1.0 - Stigma"
+		},
+		{
+			"OID": "D5742827-F76E-4057-9043-151F80EB9D37",
+			"Name": "Neuro-QOL Ped SF v2.0 - Cognitive Function"
+		},
+		{
+			"OID": "336741A7-EE8D-432D-A3A5-2381F4E2EE65",
+			"Name": "Neuro-QOL Ped SF v2.1 - Fatigue"
+		},
+		{
+			"OID": "44F0F59E-F34A-48F1-B9A6-4E80674AE32E",
+			"Name": "Neuro-QOL Scale v1.0 - Communication"
+		},
+		{
+			"OID": "6D67CEC1-45E1-4E4E-BA61-4EF8A0C4222E",
+			"Name": "Neuro-QoL SF Ped  v1.0 - Ansiedad"
+		},
+		{
+			"OID": "76A575A9-58FD-4E97-B14B-289A43F818B0",
+			"Name": "Neuro-QoL SF Ped  v1.0 - Depresi\u00f3n"
+		},
+		{
+			"OID": "777ABF9A-1178-492C-B57E-D294D595C810",
+			"Name": "Neuro-QoL SF Ped  v1.0 - Dolor"
+		},
+		{
+			"OID": "B594B400-C390-4679-BCB8-EB5EF0ABAD23",
+			"Name": "Neuro-QoL SF Ped  v1.0 - Enojo"
+		},
+		{
+			"OID": "AAE755EF-F798-4202-AE2F-3535C6335247",
+			"Name": "Neuro-QoL SF Ped  v1.0 - Estigma"
+		},
+		{
+			"OID": "DD829288-0382-4FA7-8FC1-B8D25C3443E2",
+			"Name": "Neuro-QOL SF Ped  v1.0 - Relaciones sociales: Interacci\u00f3n con ni\u00f1os de la misma edad"
+		},
+		{
+			"OID": "1BBE48B6-8925-403B-BE19-BBC6CE8EDF20",
+			"Name": "Neuro-QoL SF Ped  v2.0 - Funci\u00f3n Cognitiva"
+		},
+		{
+			"OID": "9A7E459B-D141-4E3B-80A7-77ECB3F3D88E",
+			"Name": "Neuro-QoL SF Ped  v2.1 - Agotamiento"
+		},
+		{
+			"OID": "233C714B-3B13-4895-841A-D120B1C0E9F2",
+			"Name": "Neuro-QOL SF v1.0 - Ability to Part. in SRA"
+		},
+		{
+			"OID": "10CD3AF9-63D6-4DBE-96A3-DC9B47395D2C",
+			"Name": "Neuro-QoL SF v1.0 - Agotamiento"
+		},
+		{
+			"OID": "DABF557A-D5B2-4E19-B16F-A7A06E33B87A",
+			"Name": "Neuro-QoL SF v1.0 - Ansiedad"
+		},
+		{
+			"OID": "5688237C-9769-4F6A-A2FF-99BA2B95337F",
+			"Name": "Neuro-QOL SF v1.0 - Anxiety"
+		},
+		{
+			"OID": "A73781ED-F8FD-4823-9F10-E2F9ADD9C238",
+			"Name": "Neuro-QoL SF v1.0 - Capacidad para participar en roles y actividades sociales"
+		},
+		{
+			"OID": "60C4498E-ECF7-43D9-836B-CC135462AB67",
+			"Name": "Neuro-QoL SF v1.0 - Depresi\u00f3n"
+		},
+		{
+			"OID": "B04E56A8-53D4-47F0-A02D-477925E7DEE3",
+			"Name": "Neuro-QOL SF v1.0 - Depression"
+		},
+		{
+			"OID": "2F1C3F29-B1ED-4FBB-BE60-E8B51E3457E4",
+			"Name": "Neuro-QoL SF v1.0 - Descontrol emocional y conductual"
+		},
+		{
+			"OID": "973A8747-D029-4547-AA6C-66FE943037C6",
+			"Name": "Neuro-QOL SF v1.0 - Emotional & Beh. Dyscontrol"
+		},
+		{
+			"OID": "27B9EC13-6C67-4AA9-A21F-E61B19842C35",
+			"Name": "Neuro-QoL SF v1.0 - Estigma"
+		},
+		{
+			"OID": "61FBB80F-418E-4B5A-A254-04DA64F11B97",
+			"Name": "Neuro-QOL SF v1.0 - Fatigue"
+		},
+		{
+			"OID": "5C967CFD-25CE-4306-A2D7-ABFA8CF6B121",
+			"Name": "Neuro-QoL SF v1.0 - Funcionamiento de las extremidades inferiores (Movilidad)"
+		},
+		{
+			"OID": "98107781-E834-4928-BCF7-F5406D10CC6A",
+			"Name": "Neuro-QoL SF v1.0 - Funcionamiento de las extremidades superiores - motricidad fina, actividades cotidianas"
+		},
+		{
+			"OID": "497134D3-3E1E-465B-B660-FE310554FDAB",
+			"Name": "Neuro-QOL SF v1.0 - LEx Fnct (Mobility)"
+		},
+		{
+			"OID": "29DCD710-68BD-4A40-8564-B40EF649B34D",
+			"Name": "Neuro-QoL SF v1.0 - Sentimientos positivos y bienestar"
+		},
+		{
+			"OID": "8BDE0A54-D5D0-4102-B3F7-16CB5E04AA33",
+			"Name": "Neuro-QOL SF v1.0 - Sleep Disturbance"
+		},
+		{
+			"OID": "7D3B96F8-5F79-4BFE-8AF6-4608935AFFEC",
+			"Name": "Neuro-QOL SF v1.0 - Stigma"
+		},
+		{
+			"OID": "126114D4-129E-48B6-A0D5-389801B26A89",
+			"Name": "Neuro-QoL SF v1.0 - Trastornos del sue\u00f1o"
+		},
+		{
+			"OID": "F361C08D-8766-4942-B5D9-EFBB0EBE92EA",
+			"Name": "Neuro-QOL SF v1.0 - UEx Fnct (FineMotor, ADL)"
+		},
+		{
+			"OID": "38DF2C87-0858-4C1B-A0A1-D48EC4100D66",
+			"Name": "Neuro-QOL SF v1.0 Pos. Affect & Well-Being"
+		},
+		{
+			"OID": "DD832A45-307D-4653-8722-AD3F0471AD45",
+			"Name": "Neuro-QoL SF v1.1 - Satisfacci\u00f3n con la participaci\u00f3n en roles y actividades sociales"
+		},
+		{
+			"OID": "E94D42AE-36C7-4FB6-AEA2-B469EF1DDBDF",
+			"Name": "Neuro-QOL SF v1.1- Satisfaction w SRA"
+		},
+		{
+			"OID": "D8B24FB5-41A1-4183-BF78-F1AE4D1CD726",
+			"Name": "Neuro-QOL SF v2.0 - Cognitive Function"
+		},
+		{
+			"OID": "6C577423-FEBB-4B72-B063-37CA745BD475",
+			"Name": "Neuro-QoL SF v2.0 - Funci\u00f3n cognitiva"
+		},
+		{
+			"OID": "0B1160BC-0779-41EB-A3B9-D200D38F4EBB",
+			"Name": "PROMIS Banco v1.0 - Agotamiento"
+		},
+		{
+			"OID": "AA30E0F4-FCC2-417C-8E42-EB1E46ADA8A6",
+			"Name": "PROMIS Banco v1.0 - Alteraciones relacionadas con el sue\u00f1o"
+		},
+		{
+			"OID": "5B82897A-8F43-4A9A-A870-A20B704EE313",
+			"Name": "PROMIS Banco v1.0 - Ansiedad"
+		},
+		{
+			"OID": "BFC45ABD-3565-4672-A603-B7A1EEF41103",
+			"Name": "PROMIS Banco v1.0 - Comportamiento ante el dolor "
+		},
+		{
+			"OID": "3FD9AA9A-A4B6-4B7E-8F0E-65C639351AD4",
+			"Name": "PROMIS Banco v1.0 - Depresi\u00f3n"
+		},
+		{
+			"OID": "59DFF9AF-0765-422F-B043-17153A73999A",
+			"Name": "PROMIS Banco v1.0 - Satisfacci\u00f3n con la participaci\u00f3n en actividades sociales discrecionales"
+		},
+		{
+			"OID": "48B8D539-1BEB-4350-B03B-CCB568B4B77E",
+			"Name": "PROMIS Banco v1.0 - Satisfacci\u00f3n con la participaci\u00f3n en roles sociales"
+		},
+		{
+			"OID": "EF842AD2-7537-444F-9E57-FCC5EAD7A42C",
+			"Name": "PROMIS Banco v1.0 - Trastornos del sue\u00f1o"
+		},
+		{
+			"OID": "74A6F57A-5CCC-4108-8B6D-DA56EC7E429F",
+			"Name": "PROMIS Banco v1.1 - Efectos del dolor "
+		},
+		{
+			"OID": "CFF3932D-97BF-42B4-BB8E-58E71D0A3181",
+			"Name": "PROMIS Banco v1.1 - Enojo"
+		},
+		{
+			"OID": "5930A0A0-2511-400B-8124-B14B8E269ED5",
+			"Name": "PROMIS Banco v1.2 - Capacidad de funcionamiento f\u00edsico"
+		},
+		{
+			"OID": "CAA82A94-8C8B-4EBC-867C-4924517AC494",
+			"Name": "PROMIS Banco v1.2 - Extremidades superiores"
+		},
+		{
+			"OID": "68D05452-26E8-4F0D-9705-A3228434D825",
+			"Name": "PROMIS Banco v1.2 - Movilidad"
+		},
+		{
+			"OID": "5BCEF3B5-4472-419A-8064-E69263B5A708",
+			"Name": "PROMIS Banco v2.0 - Capacidad para participar en roles y actividades sociales"
+		},
+		{
+			"OID": "FFCDF6E3-8B17-4673-AB38-C677FFF6DBAF",
+			"Name": "PROMIS Bank v1.0 - Anxiety"
+		},
+		{
+			"OID": "5FAF7608-6175-4B89-A410-1E88D157E903",
+			"Name": "PROMIS Bank v1.0 - Applied Cog Abilities"
+		},
+		{
+			"OID": "9D5DC1F6-9993-4EF3-87AB-73550836D263",
+			"Name": "PROMIS Bank v1.0 - Applied Cog General Concerns"
+		},
+		{
+			"OID": "96FE494D-F176-4EFB-A473-2AB406610626",
+			"Name": "PROMIS Bank v1.0 - Depression"
+		},
+		{
+			"OID": "F42B45ED-D5E5-4A14-9ACE-B861640EDBC8",
+			"Name": "PROMIS Bank v1.0 - Dyspnea Functional Limitations"
+		},
+		{
+			"OID": "39B2AF5D-DDC2-48C4-9EBC-660C9B9FE27F",
+			"Name": "PROMIS Bank v1.0 - Dyspnea Severity"
+		},
+		{
+			"OID": "70830CA5-0A1D-4139-99D3-77FC3EEAC79D",
+			"Name": "PROMIS Bank v1.0 - Erectile Function"
+		},
+		{
+			"OID": "B3B30AF1-7536-451D-AD39-62A097A5EA4D",
+			"Name": "PROMIS Bank v1.0 - Fatigue"
+		},
+		{
+			"OID": "2C6683EE-44E1-450E-9064-61E5AECB6E0D",
+			"Name": "PROMIS Bank v1.0 - Global Satisfaction w Sex Life"
+		},
+		{
+			"OID": "208CC8BD-4376-47F2-8EAE-60BFFB7692F0",
+			"Name": "PROMIS Bank v1.0 - Interest in Sexual Activity"
+		},
+		{
+			"OID": "1ADEA675-D551-405F-9037-80C06BF52612",
+			"Name": "PROMIS Bank v1.0 - Lubrication"
+		},
+		{
+			"OID": "C4ADCFAB-6B75-498E-9E94-AFD3BA211DC4",
+			"Name": "PROMIS Bank v1.0 - Pain Behavior"
+		},
+		{
+			"OID": "4F2916ED-F787-409B-AA65-784D8D324BE4",
+			"Name": "PROMIS Bank v1.0 - Self-Efficacy Manage Day Activ"
+		},
+		{
+			"OID": "FCFC20C4-3651-4BBD-B5E3-F7DFD210EEF4",
+			"Name": "PROMIS Bank v1.0 - Self-Efficacy Manage Emotions"
+		},
+		{
+			"OID": "856F5AFB-30F2-436B-817A-797C0FA96F14",
+			"Name": "PROMIS Bank v1.0 - Self-Efficacy Manage Meds/Tx"
+		},
+		{
+			"OID": "095CC452-70F3-4805-A859-466C8847C558",
+			"Name": "PROMIS Bank v1.0 - Self-Efficacy Manage Soc Inter"
+		},
+		{
+			"OID": "AE9518D3-B510-49E8-8431-702EEC7E7D54",
+			"Name": "PROMIS Bank v1.0 - Self-Efficacy Manage Symptoms"
+		},
+		{
+			"OID": "F625E32A-B26D-4228-BBC2-DD6C2E4EEA6E",
+			"Name": "PROMIS Bank v1.0 - Sleep Disturbance"
+		},
+		{
+			"OID": "E038718E-F556-4D0D-9B00-BD178DE6A2C8",
+			"Name": "PROMIS Bank v1.0 - Sleep-Related Impairment"
+		},
+		{
+			"OID": "A8662100-B385-47C5-BAB4-71CF2F134154",
+			"Name": "PROMIS Bank v1.0 - Smoking Coping Expect AllSmk"
+		},
+		{
+			"OID": "93616454-C1C4-4D2A-8844-9353AE65D07F",
+			"Name": "PROMIS Bank v1.0 - Smoking Coping Expect Daily"
+		},
+		{
+			"OID": "6DDF7120-5D8D-47DF-8DC1-380E27676478",
+			"Name": "PROMIS Bank v1.0 - Smoking Coping Expect NonDaily"
+		},
+		{
+			"OID": "CBF91088-220E-4FFB-9A56-9C5C8B0C7588",
+			"Name": "PROMIS Bank v1.0 - Smoking Emot/Sensory AllSmk"
+		},
+		{
+			"OID": "2177E9AC-DBAB-408B-835E-AF27EA15CA4F",
+			"Name": "PROMIS Bank v1.0 - Smoking Emot/Sensory Daily"
+		},
+		{
+			"OID": "A2653BC8-88B3-4307-9404-D5DAEBA8A330",
+			"Name": "PROMIS Bank v1.0 - Smoking Emot/Sensory NonDaily"
+		},
+		{
+			"OID": "71C2D9CB-78A8-4617-AE93-A44BA941012F",
+			"Name": "PROMIS Bank v1.0 - Smoking Health Expect AllSmk"
+		},
+		{
+			"OID": "E2AB9718-D777-4C63-93F7-BBD5DDA6183A",
+			"Name": "PROMIS Bank v1.0 - Smoking Health Expect Daily"
+		},
+		{
+			"OID": "BA062F28-2288-4FDF-B7B1-F79F71F77072",
+			"Name": "PROMIS Bank v1.0 - Smoking Health Expect NonDaily"
+		},
+		{
+			"OID": "615B4804-052B-4351-9488-60F86A764314",
+			"Name": "PROMIS Bank v1.0 - Smoking NicotineDepend AllSmk"
+		},
+		{
+			"OID": "AD479201-5F9A-49BD-8667-EC551A5D8FA9",
+			"Name": "PROMIS Bank v1.0 - Smoking NicotineDepend Daily"
+		},
+		{
+			"OID": "E8BD4AD3-06E2-4512-83E5-952DC349DFE2",
+			"Name": "PROMIS Bank v1.0 - Smoking NicotineDepend NonDaily"
+		},
+		{
+			"OID": "5D5932C6-B1F9-4D34-B7E7-649AF266DCF4",
+			"Name": "PROMIS Bank v1.0 - Smoking PsychSocExpect AllSmk"
+		},
+		{
+			"OID": "3F539F64-FEF9-4F0B-9EB3-8C18641053DD",
+			"Name": "PROMIS Bank v1.0 - Smoking PsychSocExpect Daily"
+		},
+		{
+			"OID": "2DF70ECD-8F70-430E-A42D-95845B6756E8",
+			"Name": "PROMIS Bank v1.0 - Smoking PsychSocExpect NonDaily"
+		},
+		{
+			"OID": "28B822DE-AC9E-4AFF-8885-CE5F464F5FAF",
+			"Name": "PROMIS Bank v1.0 - Smoking Social Motive AllSmk"
+		},
+		{
+			"OID": "238E4813-4513-4A8C-BBB3-A95E8F96E369",
+			"Name": "PROMIS Bank v1.0 - Smoking Social Motive Daily"
+		},
+		{
+			"OID": "FEEA703A-6BBE-405C-A34F-8FA36A41057E",
+			"Name": "PROMIS Bank v1.0 - Smoking Social Motive NonDaily"
+		},
+		{
+			"OID": "FEE4576A-D94F-4E85-8DAB-5A3181BB14CB",
+			"Name": "PROMIS Bank v1.0 - Social Sat DSA"
+		},
+		{
+			"OID": "36F00430-CC4C-4977-AE8A-0787B3C53AB8",
+			"Name": "PROMIS Bank v1.0 - Social Sat Role"
+		},
+		{
+			"OID": "9EDABFCB-E4FA-461F-8B5B-DA059C4A05A3",
+			"Name": "PROMIS Bank v1.0 - Vaginal Discomfort"
+		},
+		{
+			"OID": "E9F0500B-6305-4924-A3B5-A7B3357AF15D",
+			"Name": "PROMIS Bank v1.0 Alcohol: Negative Expectancies"
+		},
+		{
+			"OID": "A841AF31-A0A1-4FB0-8DC6-B5AF77DE2877",
+			"Name": "PROMIS Bank v1.0 Alcohol: Positive Expectancies"
+		},
+		{
+			"OID": "8F64582D-C19C-40E9-B470-4643D78AAE90",
+			"Name": "PROMIS Bank v1.1 - Anger"
+		},
+		{
+			"OID": "154D0273-C3F6-4BCE-8885-3194D4CC4596",
+			"Name": "PROMIS Bank v1.1 - Pain Interference"
+		},
+		{
+			"OID": "A18B37B1-8193-42E9-8AEE-D8EE6BCB18F2",
+			"Name": "PROMIS Bank v1.2 - Mobility"
+		},
+		{
+			"OID": "56296D2D-C919-40F1-AFC7-6F544FCA7772",
+			"Name": "PROMIS Bank v1.2 - Physical Function"
+		},
+		{
+			"OID": "71CC7EFC-5AFA-4597-A2AE-54F21A386E07",
+			"Name": "PROMIS Bank v1.2 - Upper Extremity"
+		},
+		{
+			"OID": "5211C7AF-8F4A-4648-90A6-ECE5669AE0EF",
+			"Name": "PROMIS Bank v2.0 - Ability to Participate Social"
+		},
+		{
+			"OID": "2AA90C1B-FDB2-417C-AE38-F2DF20DA04D9",
+			"Name": "PROMIS Bank v2.0 - Cog Function Abilities Subset"
+		},
+		{
+			"OID": "EFDEC04D-E708-4916-9F8B-0CA1B2E14467",
+			"Name": "PROMIS Bank v2.0 - Cognitive Function"
+		},
+		{
+			"OID": "29654543-C99B-4CE9-884B-3D401B4AD857",
+			"Name": "PROMIS Bank v2.0 - Emotional Support"
+		},
+		{
+			"OID": "9A2F920A-F470-4F3A-B82E-EC9D19F38F8D",
+			"Name": "PROMIS Bank v2.0 - Informational Support"
+		},
+		{
+			"OID": "48AA3E5F-CDE6-4FAE-819A-D65992D539C6",
+			"Name": "PROMIS Bank v2.0 - Instrumental Support"
+		},
+		{
+			"OID": "612ADAF7-0C0E-4D16-9236-C8006F84759A",
+			"Name": "PROMIS Bank v2.0 - Satisfaction Roles Activities"
+		},
+		{
+			"OID": "8D79D960-EC12-4242-AE66-03EF8EF4D61D",
+			"Name": "PROMIS Bank v2.0 - Social Isolation"
+		},
+		{
+			"OID": "313FE433-DB92-4502-B5F7-04C4847A9F50",
+			"Name": "PROMIS Escala v1.0 - Intensidad del dolor 3a"
+		},
+		{
+			"OID": "283BDEB7-DA98-4C38-B50E-8926C0A66336",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Asthma"
+		},
+		{
+			"OID": "10A6299C-DA62-497F-AD68-0C1B9F3F1669",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Cognitive Function"
+		},
+		{
+			"OID": "73CDF7AE-E1C2-4ADF-B9B3-335885F5BAC9",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Fatigue"
+		},
+		{
+			"OID": "27C4A4A0-AE0C-4AEB-A83F-063E25436B13",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Life Satisfaction"
+		},
+		{
+			"OID": "A37E0A43-1A8D-4FE6-8897-EB01B88B4D50",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Meaning Purpose"
+		},
+		{
+			"OID": "7ADF7E22-C6E5-4B2A-A441-3300EE5B5C8B",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Mobility"
+		},
+		{
+			"OID": "0E6A8A9B-B053-43BA-887F-CDDBD85FCB49",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Pain Behavior"
+		},
+		{
+			"OID": "BB02B46A-8A21-45C7-A0E8-C91CBF337B70",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Pain Interference"
+		},
+		{
+			"OID": "1DACF311-2A84-4CF0-BDCC-9166811E2266",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Peer Relations"
+		},
+		{
+			"OID": "1A77EE6F-5333-46DB-90DF-C68504365BD6",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Phys Stress Exp"
+		},
+		{
+			"OID": "FD422168-F4A7-4928-8CD6-EC004FD409EC",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Physical Activity"
+		},
+		{
+			"OID": "61A98AF6-2DDB-45B4-BDED-323AE06C8819",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Positive Affect"
+		},
+		{
+			"OID": "26874899-AD14-4276-8726-2C69DAC4155F",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Psych Stress Exp"
+		},
+		{
+			"OID": "8BAB383C-60EB-498F-A502-D32AF51B34CD",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Strength Impact"
+		},
+		{
+			"OID": "8C3AA645-DC1D-4762-BCD2-E2F8DAC0B0EB",
+			"Name": "PROMIS Parent Proxy Bank v1.0 - Upper Extremity"
+		},
+		{
+			"OID": "03DF2143-4937-4F9F-926F-E9886985EBE2",
+			"Name": "PROMIS Parent Proxy Bank v1.1 - Anxiety"
+		},
+		{
+			"OID": "F02CBB9C-2C5E-4730-AA6C-13F795A11F08",
+			"Name": "PROMIS Parent Proxy Bank v1.1 - Depressive Sx"
+		},
+		{
+			"OID": "19AD3173-740F-4C05-BD5B-977A9157B316",
+			"Name": "PROMIS Parent Proxy Bank v2.0 - Anxiety"
+		},
+		{
+			"OID": "A0AB316E-A7A3-481F-A66A-4AC8FAC5CA73",
+			"Name": "PROMIS Parent Proxy Bank v2.0 - Asthma Impact"
+		},
+		{
+			"OID": "6B3AE8AC-BD94-43E2-AEAD-CEDCC36A69B2",
+			"Name": "PROMIS Parent Proxy Bank v2.0 - Depressive Sx"
+		},
+		{
+			"OID": "9A1F6CB1-0036-445D-AA83-733D4EF4F8E2",
+			"Name": "PROMIS Parent Proxy Bank v2.0 - Fatigue"
+		},
+		{
+			"OID": "1AD4B493-667E-4E1B-8E2A-12BF1B5B20C3",
+			"Name": "PROMIS Parent Proxy Bank v2.0 - Mobility"
+		},
+		{
+			"OID": "7858CC92-739C-4D91-A610-74DD8228649B",
+			"Name": "PROMIS Parent Proxy Bank v2.0 - Pain Interference"
+		},
+		{
+			"OID": "3B5666FF-3876-45AB-BA30-474649A21E89",
+			"Name": "PROMIS Parent Proxy Bank v2.0 - Peer Relations"
+		},
+		{
+			"OID": "F1D6F1D5-8D7F-41C6-8F25-36733440A4C7",
+			"Name": "PROMIS Parent Proxy Bank v2.0 - Upper Extremity"
+		},
+		{
+			"OID": "525A8F52-A84C-455C-8998-551D43A2D1FA",
+			"Name": "PROMIS Parent Proxy Scale v1.0 - Global Health 7"
+		},
+		{
+			"OID": "B51DE8AD-2AD5-44CE-A3FA-B6FA4B99E6AF",
+			"Name": "PROMIS Parent Proxy Scale v1.0 - Global Health 7+2"
+		},
+		{
+			"OID": "7E7326D9-2F70-42E8-B976-BF4B2D854847",
+			"Name": "PROMIS Parent Proxy Scale v2.0 - Anger"
+		},
+		{
+			"OID": "298AA607-EF33-43C3-AF50-3D420C735C20",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Anger 5a"
+		},
+		{
+			"OID": "9790B662-FEB1-4BD1-9E09-6193D8EDA76A",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Asthma 8a"
+		},
+		{
+			"OID": "C3E65FA1-73B6-450F-85E5-0C43AD06A158",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Cog Function 7a"
+		},
+		{
+			"OID": "584B17F2-3FB7-4D06-BAF8-4C0BD71A2FB4",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Fatigue 10a"
+		},
+		{
+			"OID": "CA7ED548-66CA-44AF-B9A4-5AFE2CC1D063",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Life Satisfaction 4a"
+		},
+		{
+			"OID": "F84A2322-CEA1-4CFE-B06F-65AB776EE988",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Life Satisfaction 8a"
+		},
+		{
+			"OID": "A6D3806F-36BC-453A-BA1C-3D580D116451",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Meaning Purpose 4a"
+		},
+		{
+			"OID": "930DC1B6-7BB8-45EE-A744-AED093985276",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Meaning Purpose 8a"
+		},
+		{
+			"OID": "59A741A5-8FC5-4D62-B2B1-CECD86F88488",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Mobility 8a"
+		},
+		{
+			"OID": "D568889C-B1F4-4EF5-9E27-3315AC528E4F",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Pain Behavior 8a"
+		},
+		{
+			"OID": "A98737F8-98C7-4759-9955-FC2967291B64",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Pain Interfere 8a"
+		},
+		{
+			"OID": "443A0700-F949-4BC7-BA6E-60C442B39B74",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Peer Relations 7a"
+		},
+		{
+			"OID": "8F6A378E-1760-46A6-888B-5C46AEF7D01E",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Phys Stress Exp 4a"
+		},
+		{
+			"OID": "40796BF3-29E2-4686-B175-38ECCCB3D72B",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Phys Stress Exp 8a"
+		},
+		{
+			"OID": "473EE3D5-E8F7-4847-857C-71F2A79E3E22",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Physical Activity 4a"
+		},
+		{
+			"OID": "B1F9B338-2400-4D04-9E0F-C0DB539211AA",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Physical Activity 8a"
+		},
+		{
+			"OID": "96C4F220-9E1B-4336-994C-5BF83F7554A6",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Positive Affect 4a"
+		},
+		{
+			"OID": "8D8D0C3E-994A-4E88-BFD0-7292E35A6FDD",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Positive Affect 8a"
+		},
+		{
+			"OID": "99ED6E39-E48C-4E18-BC05-BDB8FFB4ECBF",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Psych Stress Exp 4a"
+		},
+		{
+			"OID": "97137A16-7C5E-45CE-8E66-87742F0FDC0E",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Psych Stress Exp 8a"
+		},
+		{
+			"OID": "B2F6592C-F092-40C6-BE69-C22F8FEDF688",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Strength Impact 4a"
+		},
+		{
+			"OID": "F6F85739-F288-41DC-B905-6A51430303C1",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Strength Impact 8a"
+		},
+		{
+			"OID": "8C4D7CEA-5911-4CF3-919D-DBB43555FC37",
+			"Name": "PROMIS Parent Proxy SF v1.0 - Upper Extremity 8a"
+		},
+		{
+			"OID": "3C314C93-000D-43A5-A572-1A5CA0DC57C9",
+			"Name": "PROMIS Parent Proxy SF v1.1 - Anxiety 8b"
+		},
+		{
+			"OID": "B0E61D83-3FE9-42C4-A410-095F6B387FC3",
+			"Name": "PROMIS Parent Proxy SF v1.1-Depressive Symptoms 6b"
+		},
+		{
+			"OID": "2C2154E0-DBDB-40D2-8F56-5183D2576A24",
+			"Name": "PROMIS Parent Proxy SF v2.0 - Anxiety 8a"
+		},
+		{
+			"OID": "551C91E5-3ECA-4E07-ADD9-0DF47ED020F1",
+			"Name": "PROMIS Parent Proxy SF v2.0 - Asthma Impact 8a"
+		},
+		{
+			"OID": "96F5525D-8654-4617-B890-A5A30F002F7D",
+			"Name": "PROMIS Parent Proxy SF v2.0 - Fatigue 10a"
+		},
+		{
+			"OID": "3EBD0F78-AEA0-4610-95A4-9EF8E9C855B7",
+			"Name": "PROMIS Parent Proxy SF v2.0 - Mobility 8a"
+		},
+		{
+			"OID": "D15BB0E2-12C2-441D-AE25-B31AC535705F",
+			"Name": "PROMIS Parent Proxy SF v2.0 - Pain Interfere 8a"
+		},
+		{
+			"OID": "688F3B74-5387-4C61-ABBC-98CF8CFC99DF",
+			"Name": "PROMIS Parent Proxy SF v2.0 - Peer Relations 7a"
+		},
+		{
+			"OID": "64C65877-446C-4EC2-9716-2F46DB3C8BC5",
+			"Name": "PROMIS Parent Proxy SF v2.0 - Upper Extremity 8a"
+		},
+		{
+			"OID": "D2FFD051-4CE9-46FB-B8A3-CDDAB21D0BC7",
+			"Name": "PROMIS Parent Proxy SF v2.0-Depressive Symptoms 6a"
+		},
+		{
+			"OID": "F67A03AA-3318-48DE-A61D-4A17D4AA2ABC",
+			"Name": "PROMIS Ped Bank v1.0 - Asthma"
+		},
+		{
+			"OID": "F067D783-4E8C-4C9B-AE07-3BB4B6D3E738",
+			"Name": "PROMIS Ped Bank v1.0 - Cognitive Function"
+		},
+		{
+			"OID": "C0E737C9-EF7C-4842-8661-4B00F82C0FED",
+			"Name": "PROMIS Ped Bank v1.0 - Fatigue"
+		},
+		{
+			"OID": "C2CF48D7-3939-4D56-BF74-4D243037269F",
+			"Name": "PROMIS Ped Bank v1.0 - Life Satisfaction"
+		},
+		{
+			"OID": "EF8AE77E-1AA9-4EC7-809A-A30192DA5CF9",
+			"Name": "PROMIS Ped Bank v1.0 - Meaning and Purpose"
+		},
+		{
+			"OID": "8A02EC35-DC30-455F-8783-B5F28206A4A7",
+			"Name": "PROMIS Ped Bank v1.0 - Mobility"
+		},
+		{
+			"OID": "A39DF042-47FE-4987-9696-8CBA1747EEFF",
+			"Name": "PROMIS Ped Bank v1.0 - Pain Behavior"
+		},
+		{
+			"OID": "AA295C4F-2E21-414D-AC90-8D6A3AE1F39F",
+			"Name": "PROMIS Ped Bank v1.0 - Pain Interference"
+		},
+		{
+			"OID": "9DA933EC-4E3B-4409-8785-9D692010B7A2",
+			"Name": "PROMIS Ped Bank v1.0 - Peer Rel"
+		},
+		{
+			"OID": "FBE05964-8525-4559-979C-03CDA59BBAA9",
+			"Name": "PROMIS Ped Bank v1.0 - Physical Activity"
+		},
+		{
+			"OID": "130BB4F8-D2F2-4D2F-AF84-550040C13E6D",
+			"Name": "PROMIS Ped Bank v1.0 - Physical Stress Experiences"
+		},
+		{
+			"OID": "3813AC70-6CBC-470B-998D-E8F1EE33E253",
+			"Name": "PROMIS Ped Bank v1.0 - Positive Affect"
+		},
+		{
+			"OID": "FBDBC63F-244D-472C-BB2B-983DBAE00DC9",
+			"Name": "PROMIS Ped Bank v1.0 - Psych Stress Experiences"
+		},
+		{
+			"OID": "4C710ADD-19E2-44C9-8628-0100C4FA32C4",
+			"Name": "PROMIS Ped Bank v1.0 - Strength Impact"
+		},
+		{
+			"OID": "3F2FCBBA-E8A1-4D0B-A9AE-9AEABF5BF60B",
+			"Name": "PROMIS Ped Bank v1.0 - Upper Extremity"
+		},
+		{
+			"OID": "BEBC8474-D244-4A38-87DE-00A640DE03DE",
+			"Name": "PROMIS Ped Bank v1.1 - Anxiety"
+		},
+		{
+			"OID": "896BB80C-0540-41C0-8A2B-69DCEDC7B6B9",
+			"Name": "PROMIS Ped Bank v1.1 - Depressive Sx"
+		},
+		{
+			"OID": "D02A1A75-6CEF-48EC-B85B-A67B0DFF7DE0",
+			"Name": "PROMIS Ped SF v1.0 - Asthma 8a"
+		},
+		{
+			"OID": "9C2E3FDD-1827-451E-B565-6B8B6D5A4017",
+			"Name": "PROMIS Ped SF v1.0 - Cognitive Function 7a"
+		},
+		{
+			"OID": "95748180-59F6-47F5-B4C7-81695845CE54",
+			"Name": "PROMIS Ped SF v1.0 - Fatigue 10a"
+		},
+		{
+			"OID": "4E2E4DB2-A17A-4615-B4C1-31B804A3E40F",
+			"Name": "PROMIS Ped SF v1.0 - Life Satisfaction 4a"
+		},
+		{
+			"OID": "3B08BED7-386E-4DDB-A596-C4F894E8C2E1",
+			"Name": "PROMIS Ped SF v1.0 - Life Satisfaction 8a"
+		},
+		{
+			"OID": "CCFE8C3E-5A3B-47D8-85E4-CD410961745B",
+			"Name": "PROMIS Ped SF v1.0 - Meaning and Purpose 4a"
+		},
+		{
+			"OID": "4468873E-B8B0-4671-890D-38CB039510B7",
+			"Name": "PROMIS Ped SF v1.0 - Meaning and Purpose 8a"
+		},
+		{
+			"OID": "DF407065-F2B1-4CD1-9EA0-9ED13D50D604",
+			"Name": "PROMIS Ped SF v1.0 - Mobility 8a"
+		},
+		{
+			"OID": "E60A53EE-0690-47F0-B5D0-547B4394ED5B",
+			"Name": "PROMIS Ped SF v1.0 - Pain Behavior 8a"
+		},
+		{
+			"OID": "5A97A20F-B062-4D84-808E-4E70BD2667E1",
+			"Name": "PROMIS Ped SF v1.0 - Pain Interference 8a"
+		},
+		{
+			"OID": "B3228EB4-E250-4AD2-9963-7A6D6E538D2C",
+			"Name": "PROMIS Ped SF v1.0 - Peer Rel 8a"
+		},
+		{
+			"OID": "9FA3C34F-AD5A-446B-B9F9-B996D3DF66FD",
+			"Name": "PROMIS Ped SF v1.0 - Physical Activity 4a"
+		},
+		{
+			"OID": "E9988E36-A661-4D85-9025-87DABF29190E",
+			"Name": "PROMIS Ped SF v1.0 - Physical Activity 8a"
+		},
+		{
+			"OID": "202A1199-CE68-4C33-8252-E2A75F7A5223",
+			"Name": "PROMIS Ped SF v1.0 - Physical Stress Experience 4a"
+		},
+		{
+			"OID": "AFBF0040-4EDD-4EE5-8199-3138DDCA0D48",
+			"Name": "PROMIS Ped SF v1.0 - Physical Stress Experience 8a"
+		},
+		{
+			"OID": "73D67584-528B-4E21-BDDD-FD48FD8EB964",
+			"Name": "PROMIS Ped SF v1.0 - Positive Affect 4a"
+		},
+		{
+			"OID": "488922EF-E56D-4C29-8D12-6FD6965BC613",
+			"Name": "PROMIS Ped SF v1.0 - Positive Affect 8a"
+		},
+		{
+			"OID": "204126E0-3B76-4224-AF2E-E74AB6457477",
+			"Name": "PROMIS Ped SF v1.0 - Psych Stress Experiences 4a"
+		},
+		{
+			"OID": "C5F5985C-A613-4D11-A5CF-BEFC88528EE9",
+			"Name": "PROMIS Ped SF v1.0 - Psych Stress Experiences 8a"
+		},
+		{
+			"OID": "7F21693B-985E-4CA4-9EB7-659893990D4B",
+			"Name": "PROMIS Ped SF v1.0 - Strength Impact 4a"
+		},
+		{
+			"OID": "A5AC2206-7197-4AFE-83FA-B1A3A69E278B",
+			"Name": "PROMIS Ped SF v1.0 - Strength Impact 8a"
+		},
+		{
+			"OID": "4AA1FF60-4E7A-452F-BC07-F29427843C83",
+			"Name": "PROMIS Ped SF v1.0 - Upper Extremity 8a"
+		},
+		{
+			"OID": "2FECD045-0382-4E7E-9ADE-8A29E6998037",
+			"Name": "PROMIS Pediatric Scale v1.0 - Global Health 7"
+		},
+		{
+			"OID": "BFE356C6-D177-43D8-AB62-2650972F6A4F",
+			"Name": "PROMIS Pediatric Scale v1.0 - Global Health 7+2"
+		},
+		{
+			"OID": "8E0697A0-708D-4766-9DCE-597B355FD5E7",
+			"Name": "PROMIS Pediatric Scale v1.1 - Anger 5a"
+		},
+		{
+			"OID": "4AFAF9D2-8D23-419E-9094-8B89D47A6A90",
+			"Name": "PROMIS Pediatric SF v1.1 - Anxiety 8b"
+		},
+		{
+			"OID": "B73BC983-6C1A-4911-B69C-FD12BE4B645B",
+			"Name": "PROMIS Pediatric SF v1.1 - Depressive Symptoms 8b"
+		},
+		{
+			"OID": "3EFD6A5E-A27B-45D4-9699-AE91CA291AF2",
+			"Name": "PROMIS Pool v1.0 - Dyspnea Activity Motivation"
+		},
+		{
+			"OID": "6F40E21A-F287-4377-9924-EE841CF67BBE",
+			"Name": "PROMIS Pool v1.0 - Dyspnea Activity Requirements"
+		},
+		{
+			"OID": "317CEAAC-2FAD-4668-9A59-7EBB3F366A55",
+			"Name": "PROMIS Pool v1.0 - Dyspnea Airborne Exposure"
+		},
+		{
+			"OID": "8F4B0736-7960-4E87-88DA-640D48EDB4EE",
+			"Name": "PROMIS Pool v1.0 - Dyspnea Asst Devices Resources"
+		},
+		{
+			"OID": "F32BDA03-2831-47A5-88BC-954DBF0D34C6",
+			"Name": "PROMIS Pool v1.0 - Dyspnea Characteristics"
+		},
+		{
+			"OID": "E3523044-D4D5-4FF1-95A6-0C6E798BA3D2",
+			"Name": "PROMIS Pool v1.0 - Dyspnea Emotional Response"
+		},
+		{
+			"OID": "39AD5364-0822-4A10-873D-4277508881D5",
+			"Name": "PROMIS Pool v1.0 - Dyspnea Task Avoidance"
+		},
+		{
+			"OID": "FD3B83CE-E17F-4367-9B26-4B80BDB03B55",
+			"Name": "PROMIS Pool v1.0 - Dyspnea Time Extension"
+		},
+		{
+			"OID": "0D40ED95-04C8-49BE-B2FC-0793A4A8B383",
+			"Name": "PROMIS Pool v1.0 - Interfering Factors"
+		},
+		{
+			"OID": "C5D120A9-D2CD-4A2A-9CFA-8D57877BE9C1",
+			"Name": "PROMIS Pool v1.0 - Orgasm"
+		},
+		{
+			"OID": "2BBD5A1A-F04A-4621-9FF2-AE26C24B2C42",
+			"Name": "PROMIS Pool v1.0 - Sexual Activities"
+		},
+		{
+			"OID": "8EC3E965-9B55-482D-9237-85C1BE4E27F4",
+			"Name": "PROMIS Pool v1.0 - Sexual Fx Screener Questions"
+		},
+		{
+			"OID": "1F728352-5CF1-4B9B-B05E-81972E5D12C9",
+			"Name": "PROMIS Pool v1.0 - Therapeutic Aids"
+		},
+		{
+			"OID": "7224FB55-81D7-4131-A136-8C89907CDFBB",
+			"Name": "PROMIS Scale v1.0 - Pain Intensity 3a"
+		},
+		{
+			"OID": "F9516DF1-8B18-47EB-BBC2-5734663C7740",
+			"Name": "PROMIS Sexual Function Profile v1.0 - Female"
+		},
+		{
+			"OID": "BA8C152F-ABD3-4EF2-9EC1-954DE783C689",
+			"Name": "PROMIS Sexual Function Profile v1.0 - Male"
+		},
+		{
+			"OID": "AF545CE0-C6B1-4308-AC88-7F782EC67D7C",
+			"Name": "PROMIS SF v1.0 - Agotamiento 4a"
+		},
+		{
+			"OID": "FE8F6463-4F20-41BE-A627-55FEDA437729",
+			"Name": "PROMIS SF v1.0 - Agotamiento 6a"
+		},
+		{
+			"OID": "DA116543-78BA-4C5A-B824-B79977553F94",
+			"Name": "PROMIS SF v1.0 - Agotamiento 7a"
+		},
+		{
+			"OID": "12B80698-BF14-4E30-B291-FDF6B7623C17",
+			"Name": "PROMIS SF v1.0 - Agotamiento 8a"
+		},
+		{
+			"OID": "2EB2A2A9-29A2-4A60-819C-F6052E1CB57C",
+			"Name": "PROMIS SF v1.0 - Alteraciones relacionadas con el sue\u00f1o 8a"
+		},
+		{
+			"OID": "33E6B1A5-F7D4-4008-A96E-D64C30A28B58",
+			"Name": "PROMIS SF v1.0 - Ansiedad 4a"
+		},
+		{
+			"OID": "C63B08D9-CC10-44A4-B350-54B4EFC4B09E",
+			"Name": "PROMIS SF v1.0 - Ansiedad 6a"
+		},
+		{
+			"OID": "47E88339-68CE-437E-BB75-E13BD9784187",
+			"Name": "PROMIS SF v1.0 - Ansiedad 7a"
+		},
+		{
+			"OID": "FBE12851-26BC-4C1E-AE59-85DAE4063117",
+			"Name": "PROMIS SF v1.0 - Ansiedad 8a"
+		},
+		{
+			"OID": "65958F02-3B6D-47CF-B6D7-F682EDBE7004",
+			"Name": "PROMIS SF v1.0 - Anxiety 7a"
+		},
+		{
+			"OID": "D7EBC06C-60EE-4985-8BD2-1D6AE5D54110",
+			"Name": "PROMIS SF v1.0 - Applied Cog Abilities 4a"
+		},
+		{
+			"OID": "5463216C-C1FE-4BFA-AE86-B7C8C6B15930",
+			"Name": "PROMIS SF v1.0 - Applied Cog Abilities 6a"
+		},
+		{
+			"OID": "20C98C3C-6302-472C-919C-93686EA469C9",
+			"Name": "PROMIS SF v1.0 - Applied Cog Abilities 8a"
+		},
+		{
+			"OID": "99A118AF-A0A2-4ED9-BD6E-8AB0ABEBB0E3",
+			"Name": "PROMIS SF v1.0 - Applied Cog General Concerns 4a"
+		},
+		{
+			"OID": "A09CDF4E-E70C-40DC-849D-756A7C60C454",
+			"Name": "PROMIS SF v1.0 - Applied Cog General Concerns 6a"
+		},
+		{
+			"OID": "20D82B90-A307-4360-A62A-F9D6D388194A",
+			"Name": "PROMIS SF v1.0 - Applied Cog General Concerns 8a"
+		},
+		{
+			"OID": "C70EB4DD-D5D6-4078-945A-B80293C14135",
+			"Name": "PROMIS SF v1.0 - Capacidad de funcionamiento f\u00edsico 10a"
+		},
+		{
+			"OID": "43836B1F-BC00-4135-ADA7-D516A15863DB",
+			"Name": "PROMIS SF v1.0 - Capacidad de funcionamiento f\u00edsico 20a"
+		},
+		{
+			"OID": "54B91D12-DADA-4B02-A71F-364172527348",
+			"Name": "PROMIS SF v1.0 - Capacidad de funcionamiento f\u00edsico 4a"
+		},
+		{
+			"OID": "51833A22-B2AB-4642-BF77-EDC26C48839A",
+			"Name": "PROMIS SF v1.0 - Comportamiento ante el dolor  7a"
+		},
+		{
+			"OID": "FCCEECE7-22E9-4B58-B804-C582282B4F87",
+			"Name": "PROMIS SF v1.0 - Depresi\u00f3n 4a"
+		},
+		{
+			"OID": "627DEFDA-C086-4373-9E64-F4CA3B9ADE77",
+			"Name": "PROMIS SF v1.0 - Depresi\u00f3n 6a"
+		},
+		{
+			"OID": "4BCBCB34-7D50-410A-93CF-23471D37B2FF",
+			"Name": "PROMIS SF v1.0 - Depresi\u00f3n 8a"
+		},
+		{
+			"OID": "09C04D4D-5942-4DD5-AE2F-EC6B3A21030E",
+			"Name": "PROMIS SF v1.0 - Depresi\u00f3n 8b"
+		},
+		{
+			"OID": "3F7BD7BF-DD2D-46F3-B6C6-769BAB07A1F1",
+			"Name": "PROMIS SF v1.0 - Depression 8b"
+		},
+		{
+			"OID": "534B1D27-4C33-4C88-83B1-FB0201018027",
+			"Name": "PROMIS SF v1.0 - Dyspnea Funct Limitations 10a"
+		},
+		{
+			"OID": "AD598E94-17FB-4A09-A65B-BCD0923F78AF",
+			"Name": "PROMIS SF v1.0 - Dyspnea Severity 10a"
+		},
+		{
+			"OID": "638C3DCE-89EB-4182-96C7-4BEA9E522C7B",
+			"Name": "PROMIS SF v1.0 - Efectos del dolor  4a"
+		},
+		{
+			"OID": "2A08D88E-3582-41F5-BEC2-26A07E38E0CE",
+			"Name": "PROMIS SF v1.0 - Efectos del dolor  6a"
+		},
+		{
+			"OID": "90980DDD-074E-4237-85B1-1C96C9DBCDEF",
+			"Name": "PROMIS SF v1.0 - Efectos del dolor  6b"
+		},
+		{
+			"OID": "DA389E3A-83F4-46E4-A858-D7CE4504099A",
+			"Name": "PROMIS SF v1.0 - Efectos del dolor  8a"
+		},
+		{
+			"OID": "85619989-D4A7-4EC5-BF08-A4412DCBDD75",
+			"Name": "PROMIS SF v1.0 - Fatigue 7a"
+		},
+		{
+			"OID": "E87BAC2A-D658-4E80-87F8-E891152DBC7C",
+			"Name": "PROMIS SF v1.0 - Pain Behavior 7a"
+		},
+		{
+			"OID": "0AB0CD9F-94AA-492D-A360-A2124BAB0B7F",
+			"Name": "PROMIS SF v1.0 - Pain Interference 6b"
+		},
+		{
+			"OID": "F95F01E8-027A-4524-A1D7-0AAEF489B272",
+			"Name": "PROMIS SF v1.0 - Phys. Function 10a"
+		},
+		{
+			"OID": "30B25224-346C-46F2-A9C7-276EC1731226",
+			"Name": "PROMIS SF v1.0 - Phys. Function 20a"
+		},
+		{
+			"OID": "507F4782-493A-40B6-8CF0-2905B5B2EB0D",
+			"Name": "PROMIS SF v1.0 - Satisfacci\u00f3n con la participaci\u00f3n en actividades sociales discrecionales 7a"
+		},
+		{
+			"OID": "0BB103D3-FAAC-49E8-91C4-1B6CB3C89561",
+			"Name": "PROMIS SF v1.0 - Satisfacci\u00f3n con la participaci\u00f3n en roles sociales 4a"
+		},
+		{
+			"OID": "BA87E860-F863-4746-9F44-D1AFE02D2313",
+			"Name": "PROMIS SF v1.0 - Satisfacci\u00f3n con la participaci\u00f3n en roles sociales 6a"
+		},
+		{
+			"OID": "D4CC6A25-D2A1-4B3E-9345-B8CE0B49BFBA",
+			"Name": "PROMIS SF v1.0 - Satisfacci\u00f3n con la participaci\u00f3n en roles sociales 7a"
+		},
+		{
+			"OID": "5549472F-E524-4247-9ED7-58AF26F83D02",
+			"Name": "PROMIS SF v1.0 - Satisfacci\u00f3n con la participaci\u00f3n en roles sociales 8a"
+		},
+		{
+			"OID": "A3931487-9C93-4D0F-B57B-1C728F3DFD93",
+			"Name": "PROMIS SF v1.0 - Self-Efficacy Manage Day Activ 4a"
+		},
+		{
+			"OID": "F926AB35-6863-499C-852A-258595E051E1",
+			"Name": "PROMIS SF v1.0 - Self-Efficacy Manage Day Activ 8a"
+		},
+		{
+			"OID": "FFABFF2C-09ED-468A-A0B8-5CEF663134D7",
+			"Name": "PROMIS SF v1.0 - Self-Efficacy Manage Emotions 4a"
+		},
+		{
+			"OID": "36378194-5DEE-4B7D-BB5A-2A1D86CC46D0",
+			"Name": "PROMIS SF v1.0 - Self-Efficacy Manage Emotions 8a"
+		},
+		{
+			"OID": "ED35C202-D1EF-43BF-8674-D94F1C4CB07A",
+			"Name": "PROMIS SF v1.0 - Self-Efficacy Manage Meds/Tx 4a"
+		},
+		{
+			"OID": "ED3A865E-9813-4307-8C14-F08B8921E11D",
+			"Name": "PROMIS SF v1.0 - Self-Efficacy Manage Meds/Tx 8a"
+		},
+		{
+			"OID": "169B88EB-B2B2-48DA-B7B5-AC183F00000E",
+			"Name": "PROMIS SF v1.0 - Self-Efficacy Manage Soc Inter 4a"
+		},
+		{
+			"OID": "62F1329C-1B5A-46D3-9CAB-F7CAD19EDCA9",
+			"Name": "PROMIS SF v1.0 - Self-Efficacy Manage Soc Inter 8a"
+		},
+		{
+			"OID": "2C5F4820-AC5D-4DBB-9403-57AD3576E56F",
+			"Name": "PROMIS SF v1.0 - Self-Efficacy Manage Symptoms 4a"
+		},
+		{
+			"OID": "73233FB9-B6CF-403A-979C-720B8EE52145",
+			"Name": "PROMIS SF v1.0 - Self-Efficacy Manage Symptoms 8a"
+		},
+		{
+			"OID": "E28D33B7-B772-4B2D-A1CE-D640D030D5E5",
+			"Name": "PROMIS SF v1.0 - Sleep Disturb 8b"
+		},
+		{
+			"OID": "309591DB-4E0E-4A52-8B89-FA965EF4F70C",
+			"Name": "PROMIS SF v1.0 - Sleep-Related Impairment 8a"
+		},
+		{
+			"OID": "1D9427DE-AC53-490F-8DEE-9CACB7A56AC9",
+			"Name": "PROMIS SF v1.0 - Smoking Coping Expect 4a AllSmk"
+		},
+		{
+			"OID": "6F2A50B5-28D8-4E26-81B5-B3CE0FA979DC",
+			"Name": "PROMIS SF v1.0 - Smoking Coping Expect Day 4a"
+		},
+		{
+			"OID": "F45BA0A4-F3AF-409E-B776-D2FA2CC02BC8",
+			"Name": "PROMIS SF v1.0 - Smoking Coping Expect Nonday 4a"
+		},
+		{
+			"OID": "FF664092-7876-4901-B340-80036C5BB8F5",
+			"Name": "PROMIS SF v1.0 - Smoking Emot/Sensory 6a AllSmk"
+		},
+		{
+			"OID": "E4974A9E-9E68-4A07-B4CE-2FA8EB3F59EF",
+			"Name": "PROMIS SF v1.0 - Smoking Emot/Sensory Day 6a"
+		},
+		{
+			"OID": "DC530439-4042-4631-B483-DA82FEC90FCB",
+			"Name": "PROMIS SF v1.0 - Smoking Emot/Sensory Nonday 6a"
+		},
+		{
+			"OID": "01A817C5-ACB0-4D06-B46A-7E9BF43A7311",
+			"Name": "PROMIS SF v1.0 - Smoking Health Expect 6a AllSmk"
+		},
+		{
+			"OID": "16CF79A1-6FCD-487A-8BD7-342B3C3AB545",
+			"Name": "PROMIS SF v1.0 - Smoking Health Expect Day 6a"
+		},
+		{
+			"OID": "C5722E94-1D24-4689-A18B-A508AB3B549C",
+			"Name": "PROMIS SF v1.0 - Smoking Health Expect Nonday 6a"
+		},
+		{
+			"OID": "DB574BF1-8AA8-4629-AC42-4C6A2818FA80",
+			"Name": "PROMIS SF v1.0 - Smoking NicotineDepend 4a AllSmk"
+		},
+		{
+			"OID": "DEAC9E9B-3AB0-47CE-A107-ECBEB393DBCA",
+			"Name": "PROMIS SF v1.0 - Smoking NicotineDepend 8a AllSmk"
+		},
+		{
+			"OID": "CC4D0B2B-0DB3-4D71-8D1C-ED2BAB93EB97",
+			"Name": "PROMIS SF v1.0 - Smoking NicotineDepend Day 4a"
+		},
+		{
+			"OID": "1F59EC94-F9EB-455B-AE70-C08D76D7A403",
+			"Name": "PROMIS SF v1.0 - Smoking NicotineDepend Day 8a"
+		},
+		{
+			"OID": "96E2BA5D-8494-4918-BA56-61CD63397B29",
+			"Name": "PROMIS SF v1.0 - Smoking NicotineDepend Nonday 4a"
+		},
+		{
+			"OID": "DE280BF4-23E9-47D6-9B82-E37FDB1A21D3",
+			"Name": "PROMIS SF v1.0 - Smoking NicotineDepend Nonday 8a"
+		},
+		{
+			"OID": "47BCA564-3DAD-4C1A-992F-197DC69BEF3D",
+			"Name": "PROMIS SF v1.0 - Smoking PsychSocExpect 6a AllSmk"
+		},
+		{
+			"OID": "EEA973EF-0663-46C1-97C7-7ACFFCBB50DD",
+			"Name": "PROMIS SF v1.0 - Smoking PsychSocExpect Day 6a"
+		},
+		{
+			"OID": "39909545-DA53-46C7-9019-1E6834821A7A",
+			"Name": "PROMIS SF v1.0 - Smoking PsychSocExpect Nonday 6a"
+		},
+		{
+			"OID": "127EC506-531E-4CD4-9114-5AE801DA8611",
+			"Name": "PROMIS SF v1.0 - Smoking Social Motive 4a AllSmk"
+		},
+		{
+			"OID": "8D8F722F-5AEF-4774-8887-1BD2E30856D1",
+			"Name": "PROMIS SF v1.0 - Smoking Social Motive Day 4a"
+		},
+		{
+			"OID": "00D348EA-CE4A-4966-85D3-34AF03CBCABE",
+			"Name": "PROMIS SF v1.0 - Smoking Social Motive Nonday 4a"
+		},
+		{
+			"OID": "DBE92586-E64D-428B-B5D8-194FAC4F984A",
+			"Name": "PROMIS SF v1.0 - Social Sat DSA 7a"
+		},
+		{
+			"OID": "5BEC1DD4-C558-44EA-A5F7-AD3793A4F37A",
+			"Name": "PROMIS SF v1.0 - Social Sat Role 7a"
+		},
+		{
+			"OID": "68E52590-D17C-4A24-9E34-842FFD203966",
+			"Name": "PROMIS SF v1.0 - Trastornos del sue\u00f1o 4a"
+		},
+		{
+			"OID": "376E55F0-F57E-48D8-B320-B3BBF700D5AE",
+			"Name": "PROMIS SF v1.0 - Trastornos del sue\u00f1o 6a"
+		},
+		{
+			"OID": "29748512-D1C6-4F15-9ABF-54D8A18B6F30",
+			"Name": "PROMIS SF v1.0 - Trastornos del sue\u00f1o 8a"
+		},
+		{
+			"OID": "A48DBBB7-17AF-435F-B069-84BED4E83669",
+			"Name": "PROMIS SF v1.0 - Trastornos del sue\u00f1o 8b"
+		},
+		{
+			"OID": "E09E32C0-4D6C-4183-8A98-D65E6FE23CD8",
+			"Name": "PROMIS SF v1.0 Alcohol: Negative Expectancies 7a"
+		},
+		{
+			"OID": "623FE6B4-107D-4A3F-88AB-B5343DCEA939",
+			"Name": "PROMIS SF v1.0 Alcohol: Positive Expectancies 7a"
+		},
+		{
+			"OID": "6C13662F-179A-45AD-A8DF-16843D902E28",
+			"Name": "PROMIS SF v1.0-Anxiety 4a"
+		},
+		{
+			"OID": "32FDB758-FB1B-492D-8C73-F2CF6C8A653B",
+			"Name": "PROMIS SF v1.0-Anxiety 6a"
+		},
+		{
+			"OID": "3B67EC17-D281-48F3-AEA9-DB1667E78483",
+			"Name": "PROMIS SF v1.0-Anxiety 8a"
+		},
+		{
+			"OID": "597A9B24-5B5C-487D-9606-451355DC6E3D",
+			"Name": "PROMIS SF v1.0-Depression 4a"
+		},
+		{
+			"OID": "7B1EF457-E187-4E47-8179-FFF821A72584",
+			"Name": "PROMIS SF v1.0-Depression 6a"
+		},
+		{
+			"OID": "73C3CE61-433B-4E18-9479-DE0B7E9DD2C8",
+			"Name": "PROMIS SF v1.0-Depression 8a"
+		},
+		{
+			"OID": "2E25400B-9373-4631-B769-2E4D466EED04",
+			"Name": "PROMIS SF v1.0-Fatigue 4a"
+		},
+		{
+			"OID": "1C3CC8B7-9F70-46A5-9616-E0A9A3403453",
+			"Name": "PROMIS SF v1.0-Fatigue 6a"
+		},
+		{
+			"OID": "383F9DBC-EE0F-4168-927C-0CACDA438C6F",
+			"Name": "PROMIS SF v1.0-Fatigue 8a"
+		},
+		{
+			"OID": "C3305A82-E1AA-4E88-9F4D-E9C8099C296F",
+			"Name": "PROMIS SF v1.0-Pain Interference 4a"
+		},
+		{
+			"OID": "0CC98AD0-9D47-49F5-9132-5826D0E4980C",
+			"Name": "PROMIS SF v1.0-Pain Interference 6a"
+		},
+		{
+			"OID": "C1E44752-BCBD-4130-A307-67F6758F3891",
+			"Name": "PROMIS SF v1.0-Pain Interference 8a"
+		},
+		{
+			"OID": "C81F5920-D9DB-48F7-A0AD-A6F2A4BF6D36",
+			"Name": "PROMIS SF v1.0-Physical Function 4a"
+		},
+		{
+			"OID": "795B07C1-067E-4FBD-9B60-A57985E69B5D",
+			"Name": "PROMIS SF v1.0-Sleep Disturbance 4a"
+		},
+		{
+			"OID": "EFB1133D-429E-4C9D-B322-32C614CB3C9D",
+			"Name": "PROMIS SF v1.0-Sleep Disturbance 6a"
+		},
+		{
+			"OID": "807CA84D-379E-432B-AAC0-C4D463D48321",
+			"Name": "PROMIS SF v1.0-Sleep Disturbance 8a"
+		},
+		{
+			"OID": "70991097-C29B-4D49-8F28-1026AA32C374",
+			"Name": "PROMIS SF v1.0-Social Sat Role 4a"
+		},
+		{
+			"OID": "1B5A7A47-9D20-496D-A644-F6B6C91BE425",
+			"Name": "PROMIS SF v1.0-Social Sat Role 6a"
+		},
+		{
+			"OID": "CA9FB9D0-B5A7-478D-8D6B-A364EA9F1778",
+			"Name": "PROMIS SF v1.0-Social Sat Role 8a"
+		},
+		{
+			"OID": "15DF3725-5529-45D5-8955-2CF9E830969C",
+			"Name": "PROMIS SF v1.1 - Anger 5a"
+		},
+		{
+			"OID": "A0F1475C-F9C3-407C-BB24-8CF895C0DCC3",
+			"Name": "PROMIS SF v1.1 - Enojo 5a"
+		},
+		{
+			"OID": "5FC725DA-E297-4D4C-988D-BA4D2FA87D62",
+			"Name": "PROMIS SF v1.1 - Global Health"
+		},
+		{
+			"OID": "53DA7761-121B-4E65-AB19-64E2CAC8EBA2",
+			"Name": "PROMIS SF v1.1 - Salud general"
+		},
+		{
+			"OID": "5A3B4321-0257-4095-B347-27E03BAE9BC5",
+			"Name": "PROMIS SF v1.2 - Capacidad de funcionamiento f\u00edsico 6b"
+		},
+		{
+			"OID": "C7FDC1E4-50F3-4B3B-8D7D-D8899DD066AE",
+			"Name": "PROMIS SF v1.2 - Capacidad de funcionamiento f\u00edsico 8b"
+		},
+		{
+			"OID": "55299025-097B-4086-86EF-68F362FA34AC",
+			"Name": "PROMIS SF v1.2 - Physical Function 6b"
+		},
+		{
+			"OID": "26BF1878-3FAC-4BA4-8F43-204C11E28BEF",
+			"Name": "PROMIS SF v1.2 - Physical Function 8b"
+		},
+		{
+			"OID": "B730F00E-C958-4654-85C1-0931A7289322",
+			"Name": "PROMIS SF v2.0 - Ability to Participate Social 4a"
+		},
+		{
+			"OID": "2EE3B8EA-12AE-4A50-BB3D-1646BCDBCF4B",
+			"Name": "PROMIS SF v2.0 - Ability to Participate Social 6a"
+		},
+		{
+			"OID": "22257A5E-4655-4097-AAFE-4DEC11E4240C",
+			"Name": "PROMIS SF v2.0 - Ability to Participate Social 8a"
+		},
+		{
+			"OID": "9CECF7B5-7C21-4662-A84F-4267B39FBFF3",
+			"Name": "PROMIS SF v2.0 - Capacidad para participar en roles y actividades sociales 4a"
+		},
+		{
+			"OID": "FCB4FF91-35C1-48F1-B785-BEB737AFBB28",
+			"Name": "PROMIS SF v2.0 - Capacidad para participar en roles y actividades sociales 6a"
+		},
+		{
+			"OID": "F7DA0E41-E5A0-447E-BF3E-A992E8C522D7",
+			"Name": "PROMIS SF v2.0 - Capacidad para participar en roles y actividades sociales 8a"
+		},
+		{
+			"OID": "C1014465-7C7C-4ADF-B57A-C4F53D9024C6",
+			"Name": "PROMIS SF v2.0 - Cog Function Abilities Subset 4a"
+		},
+		{
+			"OID": "92B93DC1-6CD7-4A7A-AAC9-61195A60C09E",
+			"Name": "PROMIS SF v2.0 - Cog Function Abilities Subset 6a"
+		},
+		{
+			"OID": "E72F5F0F-0174-41C7-93B5-BCA29561B3EA",
+			"Name": "PROMIS SF v2.0 - Cog Function Abilities Subset 8a"
+		},
+		{
+			"OID": "A0511754-DFB1-4492-81D9-1FC3ED3DD31C",
+			"Name": "PROMIS SF v2.0 - Cognitive Function 4a"
+		},
+		{
+			"OID": "9F601C2B-1DF3-4D0E-ADA4-BC9622ACA8FF",
+			"Name": "PROMIS SF v2.0 - Cognitive Function 6a"
+		},
+		{
+			"OID": "B6731EF7-BCB5-4AE3-9A11-618BF8A9A5ED",
+			"Name": "PROMIS SF v2.0 - Cognitive Function 8a"
+		},
+		{
+			"OID": "AE769770-EA2C-44B5-8C20-47BE4CC3C0C7",
+			"Name": "PROMIS SF v2.0 - Companionship 4a"
+		},
+		{
+			"OID": "CE6F55D7-72C5-43AC-B8D6-5DC5F06C19A0",
+			"Name": "PROMIS SF v2.0 - Companionship 6a"
+		},
+		{
+			"OID": "677C25ED-A3F2-482F-81BA-1F47372EB079",
+			"Name": "PROMIS SF v2.0 - Emotional Support 4a"
+		},
+		{
+			"OID": "3A90D004-B7C0-45A2-9F15-8F3D0A5DB624",
+			"Name": "PROMIS SF v2.0 - Emotional Support 6a"
+		},
+		{
+			"OID": "CAEAB8FF-AA11-4C39-B089-F0AE5DDF50F0",
+			"Name": "PROMIS SF v2.0 - Emotional Support 8a"
+		},
+		{
+			"OID": "A2207272-A02D-4054-9F3A-6657F126145F",
+			"Name": "PROMIS SF v2.0 - Informational Support 4a"
+		},
+		{
+			"OID": "4265C141-1CC3-4AC1-B923-1B017D5B99C3",
+			"Name": "PROMIS SF v2.0 - Informational Support 6a"
+		},
+		{
+			"OID": "DE8A523D-4ED6-42DE-86E7-5F316F2A5E41",
+			"Name": "PROMIS SF v2.0 - Informational Support 8a"
+		},
+		{
+			"OID": "1B66CDEA-2687-4CF8-A642-9432A13A7272",
+			"Name": "PROMIS SF v2.0 - Instrumental Support 4a"
+		},
+		{
+			"OID": "14E62814-47E0-493A-94AB-4CCA0B91DB73",
+			"Name": "PROMIS SF v2.0 - Instrumental Support 6a"
+		},
+		{
+			"OID": "01F49173-B771-4F86-AB36-D4B400DB3042",
+			"Name": "PROMIS SF v2.0 - Instrumental Support 8a"
+		},
+		{
+			"OID": "2AF69E2C-7571-475B-A5DE-E77AF1DF4A17",
+			"Name": "PROMIS SF v2.0 - Satisfaction Roles Activities 4a"
+		},
+		{
+			"OID": "F307C590-0036-4A7B-A1D2-E54AAD80DFE8",
+			"Name": "PROMIS SF v2.0 - Satisfaction Roles Activities 6a"
+		},
+		{
+			"OID": "3FA74A09-E5C2-45EA-9682-DB4A02FDC81B",
+			"Name": "PROMIS SF v2.0 - Satisfaction Roles Activities 8a"
+		},
+		{
+			"OID": "BE5C09D1-1FB2-474C-B17C-8EC8F98F396D",
+			"Name": "PROMIS SF v2.0 - Social Isolation 4a"
+		},
+		{
+			"OID": "809C28F7-6E4A-4918-924A-4395F0D42962",
+			"Name": "PROMIS SF v2.0 - Social Isolation 6a"
+		},
+		{
+			"OID": "09676A0F-DAF2-4691-9DE7-627908837C32",
+			"Name": "PROMIS SF v2.0 - Social Isolation 8a"
+		},
+		{
+			"OID": "B735EF13-F3D2-462E-B3B4-7D089E1952DE",
+			"Name": "PROMIS-Ca Bank v1.0 - Anxiety "
+		},
+		{
+			"OID": "D3FFE67C-FE0D-4DB4-B680-CDDBBA3B360B",
+			"Name": "PROMIS-Ca Bank v1.0 - Depression"
+		},
+		{
+			"OID": "6801219C-05D0-491D-A9DD-F54D54B265BB",
+			"Name": "PROMIS-Ca Bank v1.0 - Fatigue"
+		},
+		{
+			"OID": "6CAD2A91-2182-408F-BAF8-1F1F10F9D6BD",
+			"Name": "PROMIS-Ca Bank v1.1 - Pain Interference"
+		},
+		{
+			"OID": "F57A01B0-B76D-4894-830F-C87DB375CEDD",
+			"Name": "PROMIS-Ca Bank v1.1 - Physical Function"
+		}
+	]
+}

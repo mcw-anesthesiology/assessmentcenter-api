@@ -1,1 +1,265 @@
-{"DateFinished":"","Items":[{"FormItemOID":"B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779","ID":"PAININ9","Order":"1","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"5B10732E-3A51-438C-A437-B07E2CFBE71A","Description":"¿En qué medida el dolor interfirió en sus actividades diarias?","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Nada","FormItemOID":"B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779","ItemResponseOID":"3DA0338C-F6E3-499A-AB1B-9E52B21259E9", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"Un poco","FormItemOID":"B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779","ItemResponseOID":"503096A2-50DA-4A6D-A64C-B77F0B4B9A20", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Algo","FormItemOID":"B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779","ItemResponseOID":"8EE240A1-9781-4E05-B925-2CB78F8CFB15", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Mucho","FormItemOID":"B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779","ItemResponseOID":"CE657312-2876-4D31-A113-975158A5B875", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Muchísimo","FormItemOID":"B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779","ItemResponseOID":"982A3DA5-BB2E-4372-985E-227CE122F24C", "Value":"5","Position":"5"}]}]},{"FormItemOID":"58F2813C-22A7-44FF-A2C6-95160179A417","ID":"PAININ22","Order":"2","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"6346F812-00D3-4265-BB98-8D149F07C67D","Description":"¿En qué medida el dolor interfirió en el trabajo en el hogar?","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Nada","FormItemOID":"58F2813C-22A7-44FF-A2C6-95160179A417","ItemResponseOID":"AE051AD8-024B-42C1-B24A-B54FBC369D02", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"Un poco","FormItemOID":"58F2813C-22A7-44FF-A2C6-95160179A417","ItemResponseOID":"78E19FCF-BD0B-4AB6-AD1C-9E49A146D5A0", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Algo","FormItemOID":"58F2813C-22A7-44FF-A2C6-95160179A417","ItemResponseOID":"C15FA8A7-C863-4364-9FB2-57D7E6D74F14", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Mucho","FormItemOID":"58F2813C-22A7-44FF-A2C6-95160179A417","ItemResponseOID":"231788A7-3DEF-4E36-89BB-F83EE8D4E6A5", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Muchísimo","FormItemOID":"58F2813C-22A7-44FF-A2C6-95160179A417","ItemResponseOID":"0D60D1C0-B57E-478B-950D-DC56B98DCF6B", "Value":"5","Position":"5"}]}]},{"FormItemOID":"5A3648D4-1CB3-4DD2-B104-32336B0F703D","ID":"PAININ31","Order":"3","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"D7909665-A8AB-4C99-9C0B-2E3D67FA8D86","Description":"¿En qué medida el dolor interfirió en su capacidad para participar en actividades sociales?","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Nada","FormItemOID":"5A3648D4-1CB3-4DD2-B104-32336B0F703D","ItemResponseOID":"71FA143A-D167-4DFA-BD1F-688C2737B41E", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"Un poco","FormItemOID":"5A3648D4-1CB3-4DD2-B104-32336B0F703D","ItemResponseOID":"B04CBDB9-3B82-455E-8878-C87ED3EB2311", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Algo","FormItemOID":"5A3648D4-1CB3-4DD2-B104-32336B0F703D","ItemResponseOID":"EA98AC67-162B-4953-8349-8DEA30CD2688", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Mucho","FormItemOID":"5A3648D4-1CB3-4DD2-B104-32336B0F703D","ItemResponseOID":"74BFF995-4E2C-484C-97EB-DAAEB9F09897", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Muchísimo","FormItemOID":"5A3648D4-1CB3-4DD2-B104-32336B0F703D","ItemResponseOID":"F2DFC436-B672-487D-B62E-F57ADC6D258A", "Value":"5","Position":"5"}]}]},{"FormItemOID":"CEE6FADB-06FF-4167-9BD7-02A011055451","ID":"PAININ34","Order":"4","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"152E4277-603C-4332-9219-44B91FE565B4","Description":"¿En qué medida el dolor interfirió en sus tareas domésticas?","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Nada","FormItemOID":"CEE6FADB-06FF-4167-9BD7-02A011055451","ItemResponseOID":"A291A46C-5E43-443B-85B1-E7CD69E7D532", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"Un poco","FormItemOID":"CEE6FADB-06FF-4167-9BD7-02A011055451","ItemResponseOID":"85F82309-1AED-4351-8F10-3FFF4B26719D", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Algo","FormItemOID":"CEE6FADB-06FF-4167-9BD7-02A011055451","ItemResponseOID":"BE795CC0-F3DB-4139-8A54-A00F268BF8E2", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Mucho","FormItemOID":"CEE6FADB-06FF-4167-9BD7-02A011055451","ItemResponseOID":"0829399E-3FE0-447A-8785-66DE22EC4841", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Muchísimo","FormItemOID":"CEE6FADB-06FF-4167-9BD7-02A011055451","ItemResponseOID":"88EB47C3-7A8B-41B7-8A97-420DFAF4B6C6", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779",
+			"ID": "PAININ9",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "5B10732E-3A51-438C-A437-B07E2CFBE71A",
+					"Description": "\u00bfEn qu\u00e9 medida el dolor interfiri\u00f3 en sus actividades diarias?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Nada",
+							"FormItemOID": "B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779",
+							"ItemResponseOID": "3DA0338C-F6E3-499A-AB1B-9E52B21259E9",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "Un poco",
+							"FormItemOID": "B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779",
+							"ItemResponseOID": "503096A2-50DA-4A6D-A64C-B77F0B4B9A20",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Algo",
+							"FormItemOID": "B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779",
+							"ItemResponseOID": "8EE240A1-9781-4E05-B925-2CB78F8CFB15",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Mucho",
+							"FormItemOID": "B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779",
+							"ItemResponseOID": "CE657312-2876-4D31-A113-975158A5B875",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "B7FEBAAC-11B0-486F-B53F-F0AD0E2A9779",
+							"ItemResponseOID": "982A3DA5-BB2E-4372-985E-227CE122F24C",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "58F2813C-22A7-44FF-A2C6-95160179A417",
+			"ID": "PAININ22",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6346F812-00D3-4265-BB98-8D149F07C67D",
+					"Description": "\u00bfEn qu\u00e9 medida el dolor interfiri\u00f3 en el trabajo en el hogar?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Nada",
+							"FormItemOID": "58F2813C-22A7-44FF-A2C6-95160179A417",
+							"ItemResponseOID": "AE051AD8-024B-42C1-B24A-B54FBC369D02",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "Un poco",
+							"FormItemOID": "58F2813C-22A7-44FF-A2C6-95160179A417",
+							"ItemResponseOID": "78E19FCF-BD0B-4AB6-AD1C-9E49A146D5A0",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Algo",
+							"FormItemOID": "58F2813C-22A7-44FF-A2C6-95160179A417",
+							"ItemResponseOID": "C15FA8A7-C863-4364-9FB2-57D7E6D74F14",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Mucho",
+							"FormItemOID": "58F2813C-22A7-44FF-A2C6-95160179A417",
+							"ItemResponseOID": "231788A7-3DEF-4E36-89BB-F83EE8D4E6A5",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "58F2813C-22A7-44FF-A2C6-95160179A417",
+							"ItemResponseOID": "0D60D1C0-B57E-478B-950D-DC56B98DCF6B",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "5A3648D4-1CB3-4DD2-B104-32336B0F703D",
+			"ID": "PAININ31",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D7909665-A8AB-4C99-9C0B-2E3D67FA8D86",
+					"Description": "\u00bfEn qu\u00e9 medida el dolor interfiri\u00f3 en su capacidad para participar en actividades sociales?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Nada",
+							"FormItemOID": "5A3648D4-1CB3-4DD2-B104-32336B0F703D",
+							"ItemResponseOID": "71FA143A-D167-4DFA-BD1F-688C2737B41E",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "Un poco",
+							"FormItemOID": "5A3648D4-1CB3-4DD2-B104-32336B0F703D",
+							"ItemResponseOID": "B04CBDB9-3B82-455E-8878-C87ED3EB2311",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Algo",
+							"FormItemOID": "5A3648D4-1CB3-4DD2-B104-32336B0F703D",
+							"ItemResponseOID": "EA98AC67-162B-4953-8349-8DEA30CD2688",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Mucho",
+							"FormItemOID": "5A3648D4-1CB3-4DD2-B104-32336B0F703D",
+							"ItemResponseOID": "74BFF995-4E2C-484C-97EB-DAAEB9F09897",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "5A3648D4-1CB3-4DD2-B104-32336B0F703D",
+							"ItemResponseOID": "F2DFC436-B672-487D-B62E-F57ADC6D258A",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "CEE6FADB-06FF-4167-9BD7-02A011055451",
+			"ID": "PAININ34",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "152E4277-603C-4332-9219-44B91FE565B4",
+					"Description": "\u00bfEn qu\u00e9 medida el dolor interfiri\u00f3 en sus tareas dom\u00e9sticas?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Nada",
+							"FormItemOID": "CEE6FADB-06FF-4167-9BD7-02A011055451",
+							"ItemResponseOID": "A291A46C-5E43-443B-85B1-E7CD69E7D532",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "Un poco",
+							"FormItemOID": "CEE6FADB-06FF-4167-9BD7-02A011055451",
+							"ItemResponseOID": "85F82309-1AED-4351-8F10-3FFF4B26719D",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Algo",
+							"FormItemOID": "CEE6FADB-06FF-4167-9BD7-02A011055451",
+							"ItemResponseOID": "BE795CC0-F3DB-4139-8A54-A00F268BF8E2",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Mucho",
+							"FormItemOID": "CEE6FADB-06FF-4167-9BD7-02A011055451",
+							"ItemResponseOID": "0829399E-3FE0-447A-8785-66DE22EC4841",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "CEE6FADB-06FF-4167-9BD7-02A011055451",
+							"ItemResponseOID": "88EB47C3-7A8B-41B7-8A97-420DFAF4B6C6",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,1 +1,1825 @@
-{"DateFinished":"","Items":[{"FormItemOID":"7496A01D-B928-41F7-A914-57C8571D2B10","ID":"NQCOG15r1","Order":"1","ItemType":"","Elements":[{"ElementOID":"600CB900-F419-42EA-8731-3D5FD40554C2","Description":"¿Cuánta DIFICULTAD tiene actualmente para…","ElementOrder":"1"},{"ElementOID":"66BA7443-E130-47CE-B7D4-FC93BC53BC41","Description":"estar al tanto de la hora (por ejemplo, usando un reloj)?","ElementOrder":"2"},{"ElementOID":"C2CA1408-A092-423A-969C-14428646F860","Description":"ContainerForC2CA1408-A092-423A-969C-14428646F860","ElementOrder":"3","Map":[{"ElementOID":"718C7C05-47C2-4BF1-85D8-F79529F87B4A","Description":"Nada","FormItemOID":"7496A01D-B928-41F7-A914-57C8571D2B10","ItemResponseOID":"A6BDE7E9-87CB-4A78-AEBC-58CE51E3E016", "Value":"5","Position":"1"},{"ElementOID":"70839BD6-E1E9-448D-AA37-9B5DB1DCA94A","Description":"Poco","FormItemOID":"7496A01D-B928-41F7-A914-57C8571D2B10","ItemResponseOID":"359613FB-7D1B-46BF-9AD1-799269E292C0", "Value":"4","Position":"2"},{"ElementOID":"B98A2B88-E496-408C-9A48-643881DB1570","Description":"Algo","FormItemOID":"7496A01D-B928-41F7-A914-57C8571D2B10","ItemResponseOID":"0AF0E747-AE1C-4734-A80B-A49901F07EEB", "Value":"3","Position":"3"},{"ElementOID":"9D0565C4-7908-471E-9720-A5253721B195","Description":"Mucho","FormItemOID":"7496A01D-B928-41F7-A914-57C8571D2B10","ItemResponseOID":"BDACA5FF-22BE-4D94-A9C9-A3322C940165", "Value":"2","Position":"4"},{"ElementOID":"C3489FCE-9AAB-4B83-B7F8-E8C8B8D5804F","Description":"No puedo hacerlo","FormItemOID":"7496A01D-B928-41F7-A914-57C8571D2B10","ItemResponseOID":"38C39E6B-AF49-4EEE-A3C0-B7895344C848", "Value":"1","Position":"5"}]}]},{"FormItemOID":"07501645-AEF2-480E-93FD-3459F15B7766","ID":"NQCOG16r1","Order":"2","ItemType":"","Elements":[{"ElementOID":"600CB900-F419-42EA-8731-3D5FD40554C2","Description":"¿Cuánta DIFICULTAD tiene actualmente para…","ElementOrder":"1"},{"ElementOID":"BC0C8393-5897-47A6-A2EF-0A50D8A2F86E","Description":"verificar la precisión de documentos financieros (por ejemplo, cuentas, chequera, estados de cuenta bancarios)?","ElementOrder":"2"},{"ElementOID":"34B6028B-22B5-4B77-97B5-AF328C4B4452","Description":"ContainerFor34B6028B-22B5-4B77-97B5-AF328C4B4452","ElementOrder":"3","Map":[{"ElementOID":"A934E849-598D-449D-AF27-2297B46DBF68","Description":"Nada","FormItemOID":"07501645-AEF2-480E-93FD-3459F15B7766","ItemResponseOID":"8B054911-4217-4E4A-B347-6E7EDB7C4473", "Value":"5","Position":"1"},{"ElementOID":"2A9D0D84-5F5C-4B40-8951-C6047CF6726D","Description":"Poco","FormItemOID":"07501645-AEF2-480E-93FD-3459F15B7766","ItemResponseOID":"E8151ADF-2FF5-43A1-B068-B28D82ECB107", "Value":"4","Position":"2"},{"ElementOID":"A28FD972-5AC5-47FF-B294-DFD52E4EAD9C","Description":"Algo","FormItemOID":"07501645-AEF2-480E-93FD-3459F15B7766","ItemResponseOID":"C2DDE494-D195-4768-95D0-AC6BC466F5E2", "Value":"3","Position":"3"},{"ElementOID":"0ED441EB-218A-4C1F-9E1D-3BFB5270A87F","Description":"Mucho","FormItemOID":"07501645-AEF2-480E-93FD-3459F15B7766","ItemResponseOID":"1EE6CFA3-4EC7-4CAF-9924-3D2773D2D4BE", "Value":"2","Position":"4"},{"ElementOID":"8D729F79-D03C-4D83-B0D0-EE65B7B2FE97","Description":"No puedo hacerlo","FormItemOID":"07501645-AEF2-480E-93FD-3459F15B7766","ItemResponseOID":"66FC38E2-461B-472B-8C0B-25FFD59B8918", "Value":"1","Position":"5"}]}]},{"FormItemOID":"5FE16008-569A-435A-A69E-976EF77E41EC","ID":"NQCOG22r1","Order":"3","ItemType":"","Elements":[{"ElementOID":"600CB900-F419-42EA-8731-3D5FD40554C2","Description":"¿Cuánta DIFICULTAD tiene actualmente para…","ElementOrder":"1"},{"ElementOID":"3B13502D-374D-45B7-BB4F-3E74B9C8A26F","Description":"leer y seguir instrucciones complicadas (por ejemplo, las instrucciones de un medicamento nuevo)?","ElementOrder":"2"},{"ElementOID":"A070FB0F-06D6-496C-8103-E411F3627D57","Description":"ContainerForA070FB0F-06D6-496C-8103-E411F3627D57","ElementOrder":"3","Map":[{"ElementOID":"04B06192-2A45-4656-B099-DA2CEE741E50","Description":"Nada","FormItemOID":"5FE16008-569A-435A-A69E-976EF77E41EC","ItemResponseOID":"A2A879B6-EF4A-4D7F-AABE-9D8B5341CACB", "Value":"5","Position":"1"},{"ElementOID":"96D878B9-D334-41FD-A1AC-FA0CD106DE54","Description":"Poco","FormItemOID":"5FE16008-569A-435A-A69E-976EF77E41EC","ItemResponseOID":"A09CDC6B-6C8C-46D0-A049-F26C326FF76F", "Value":"4","Position":"2"},{"ElementOID":"3A7A6D61-421E-47C6-9094-C1C952CCC7C7","Description":"Algo","FormItemOID":"5FE16008-569A-435A-A69E-976EF77E41EC","ItemResponseOID":"2341D13B-5DC6-4461-A037-D1308A44F98C", "Value":"3","Position":"3"},{"ElementOID":"0ACA23B1-4CD7-4469-9FB7-DC751383C2EB","Description":"Mucho","FormItemOID":"5FE16008-569A-435A-A69E-976EF77E41EC","ItemResponseOID":"620EDC93-851D-4370-A8A8-0DA674D97D86", "Value":"2","Position":"4"},{"ElementOID":"D22F9715-CDB1-4F35-B9E4-223A5942DF57","Description":"No puedo hacerlo","FormItemOID":"5FE16008-569A-435A-A69E-976EF77E41EC","ItemResponseOID":"F5DB0280-B208-4E0E-B970-E389A3B2C8A4", "Value":"1","Position":"5"}]}]},{"FormItemOID":"271AAF53-458C-4434-958A-0E5046FA80A2","ID":"NQCOG24r1","Order":"4","ItemType":"","Elements":[{"ElementOID":"600CB900-F419-42EA-8731-3D5FD40554C2","Description":"¿Cuánta DIFICULTAD tiene actualmente para…","ElementOrder":"1"},{"ElementOID":"2628D365-0142-4DAD-A1E4-3823E8943C3D","Description":"planear y acudir a citas que no formen parte de su rutina semanal (por ejemplo, una cita para terapia o con un médico, o una reunión social con amigos y familiares)?","ElementOrder":"2"},{"ElementOID":"6BE55FDB-7478-45B9-8F6B-124601BBE4C4","Description":"ContainerFor6BE55FDB-7478-45B9-8F6B-124601BBE4C4","ElementOrder":"3","Map":[{"ElementOID":"DFCD7E38-1985-4751-A903-2D470E2EF7B4","Description":"Nada","FormItemOID":"271AAF53-458C-4434-958A-0E5046FA80A2","ItemResponseOID":"4E78EDE6-4E23-413B-9652-FCC448C1910C", "Value":"5","Position":"1"},{"ElementOID":"0D33F347-2A9D-4C6A-BAFD-4A09AE4258D2","Description":"Poco","FormItemOID":"271AAF53-458C-4434-958A-0E5046FA80A2","ItemResponseOID":"5476824A-D1F4-464C-A468-A6454C2E4EC6", "Value":"4","Position":"2"},{"ElementOID":"1FE8701A-0154-4373-AE46-243D40204F9B","Description":"Algo","FormItemOID":"271AAF53-458C-4434-958A-0E5046FA80A2","ItemResponseOID":"42A29FCE-D21D-4045-B512-4DD2E89BA5A7", "Value":"3","Position":"3"},{"ElementOID":"840A1752-84AA-46C1-AF93-29E010778439","Description":"Mucho","FormItemOID":"271AAF53-458C-4434-958A-0E5046FA80A2","ItemResponseOID":"8482EE06-2520-40CD-9864-4F867780506B", "Value":"2","Position":"4"},{"ElementOID":"84755168-AAEE-4906-AC9D-0ABACA199477","Description":"No puedo hacerlo","FormItemOID":"271AAF53-458C-4434-958A-0E5046FA80A2","ItemResponseOID":"64560040-CEB2-4C38-968E-7C78B1F5A5D6", "Value":"1","Position":"5"}]}]},{"FormItemOID":"E8C6279D-1F2B-4F40-B360-A16F2781D608","ID":"NQCOG25r1","Order":"5","ItemType":"","Elements":[{"ElementOID":"600CB900-F419-42EA-8731-3D5FD40554C2","Description":"¿Cuánta DIFICULTAD tiene actualmente para…","ElementOrder":"1"},{"ElementOID":"EB26C4E0-DB9A-4798-9E61-EA87DF4FBEC6","Description":"organizar su tiempo para realizar la mayor parte de sus actividades diarias?","ElementOrder":"2"},{"ElementOID":"8CB8E10E-DD3E-494B-9EC2-7A012B859F7B","Description":"ContainerFor8CB8E10E-DD3E-494B-9EC2-7A012B859F7B","ElementOrder":"3","Map":[{"ElementOID":"E45C71E9-8783-4F32-A6C2-8036DC743F8A","Description":"Nada","FormItemOID":"E8C6279D-1F2B-4F40-B360-A16F2781D608","ItemResponseOID":"972EDF06-EA6F-41B2-B84C-FC74B125B1DE", "Value":"5","Position":"1"},{"ElementOID":"58E6D971-E7E0-423A-AD3C-DC9EE8709502","Description":"Poco","FormItemOID":"E8C6279D-1F2B-4F40-B360-A16F2781D608","ItemResponseOID":"ACA1DF53-E806-4E30-AEBC-FF8B9975BA54", "Value":"4","Position":"2"},{"ElementOID":"835597C1-3CAF-45A9-946D-9AFF32D98A4A","Description":"Algo","FormItemOID":"E8C6279D-1F2B-4F40-B360-A16F2781D608","ItemResponseOID":"E3827631-06B7-4B06-980D-707CFCDA8FC3", "Value":"3","Position":"3"},{"ElementOID":"E92AE767-1EB3-4995-AE92-125F688BA9E6","Description":"Mucho","FormItemOID":"E8C6279D-1F2B-4F40-B360-A16F2781D608","ItemResponseOID":"109A6704-D308-4A3B-9D28-F9E63698E92B", "Value":"2","Position":"4"},{"ElementOID":"E9633D91-CECB-47C1-A31A-769B59690ADE","Description":"No puedo hacerlo","FormItemOID":"E8C6279D-1F2B-4F40-B360-A16F2781D608","ItemResponseOID":"4632A96E-5132-44C6-8A7A-37D062458B8B", "Value":"1","Position":"5"}]}]},{"FormItemOID":"89D0A19F-E829-47A8-B663-EB0E81044AD5","ID":"NQCOG26r1","Order":"6","ItemType":"","Elements":[{"ElementOID":"600CB900-F419-42EA-8731-3D5FD40554C2","Description":"¿Cuánta DIFICULTAD tiene actualmente para…","ElementOrder":"1"},{"ElementOID":"8104E6B2-0A5D-4425-A784-DC2BF5EAC5A5","Description":"planear una actividad con varios días de antelación (por ejemplo, una comida, un viaje o una visita a sus amigos)?","ElementOrder":"2"},{"ElementOID":"10EF88DE-0883-49F6-B96C-C60A006813E3","Description":"ContainerFor10EF88DE-0883-49F6-B96C-C60A006813E3","ElementOrder":"3","Map":[{"ElementOID":"785BA94C-75DA-4799-8B96-F2161D4F01E1","Description":"Nada","FormItemOID":"89D0A19F-E829-47A8-B663-EB0E81044AD5","ItemResponseOID":"CABDF24C-769E-48FF-8FEB-01241EA5DED2", "Value":"5","Position":"1"},{"ElementOID":"E570A449-0C11-487F-B64F-EC0400F68DBA","Description":"Poco","FormItemOID":"89D0A19F-E829-47A8-B663-EB0E81044AD5","ItemResponseOID":"E7D5C841-93DA-43BB-A8E3-D7FADCF316F9", "Value":"4","Position":"2"},{"ElementOID":"6A0BF8D3-CB0E-418B-A95D-62D41E03E147","Description":"Algo","FormItemOID":"89D0A19F-E829-47A8-B663-EB0E81044AD5","ItemResponseOID":"548AA8C4-7127-4F37-A155-98735A278772", "Value":"3","Position":"3"},{"ElementOID":"E33C589D-3EB9-4E88-AA31-225E0B9ACF20","Description":"Mucho","FormItemOID":"89D0A19F-E829-47A8-B663-EB0E81044AD5","ItemResponseOID":"B2F68E09-FD14-45AD-8EAB-570A9B5CA640", "Value":"2","Position":"4"},{"ElementOID":"95A5A159-D23E-4823-8390-687655889867","Description":"No puedo hacerlo","FormItemOID":"89D0A19F-E829-47A8-B663-EB0E81044AD5","ItemResponseOID":"6A969A7C-B8F4-44E7-B8D2-86BCD638E71B", "Value":"1","Position":"5"}]}]},{"FormItemOID":"03E3E99C-7804-431D-AE91-51F4FC7DE01A","ID":"NQCOG31r1","Order":"7","ItemType":"","Elements":[{"ElementOID":"600CB900-F419-42EA-8731-3D5FD40554C2","Description":"¿Cuánta DIFICULTAD tiene actualmente para…","ElementOrder":"1"},{"ElementOID":"69381720-17EC-4263-85D9-7F3EFD5C6AB9","Description":"organizar las cosas?","ElementOrder":"2"},{"ElementOID":"B8506F7B-6F6B-401A-98B4-65B552C888D1","Description":"ContainerForB8506F7B-6F6B-401A-98B4-65B552C888D1","ElementOrder":"3","Map":[{"ElementOID":"AE617900-853A-4CF8-B4DA-25996E627E07","Description":"Nada","FormItemOID":"03E3E99C-7804-431D-AE91-51F4FC7DE01A","ItemResponseOID":"56189704-4FDF-46B4-B155-C243280CC363", "Value":"5","Position":"1"},{"ElementOID":"269E45D7-6A03-4EC7-A8D8-66054ED7E528","Description":"Poco","FormItemOID":"03E3E99C-7804-431D-AE91-51F4FC7DE01A","ItemResponseOID":"D307FF1D-0735-44DD-8E6D-E2A80065073E", "Value":"4","Position":"2"},{"ElementOID":"37EF3E9B-A114-455F-A611-B5177E5EBC48","Description":"Algo","FormItemOID":"03E3E99C-7804-431D-AE91-51F4FC7DE01A","ItemResponseOID":"FCBC9B05-8D53-4ADE-9C71-533EA12EF9DC", "Value":"3","Position":"3"},{"ElementOID":"C06466D5-ADDD-48C5-A338-746520706460","Description":"Mucho","FormItemOID":"03E3E99C-7804-431D-AE91-51F4FC7DE01A","ItemResponseOID":"70384D9B-9CDA-438A-96A8-F8DA4541865F", "Value":"2","Position":"4"},{"ElementOID":"0AF06C59-5F54-462F-AF4B-BCBA0C9BA55F","Description":"No puedo hacerlo","FormItemOID":"03E3E99C-7804-431D-AE91-51F4FC7DE01A","ItemResponseOID":"D5BCCAA4-F316-43C1-86E2-C8FFB066A165", "Value":"1","Position":"5"}]}]},{"FormItemOID":"FFC5DA97-A1E1-4065-9EE2-973D1180769E","ID":"NQCOG38r1","Order":"8","ItemType":"","Elements":[{"ElementOID":"600CB900-F419-42EA-8731-3D5FD40554C2","Description":"¿Cuánta DIFICULTAD tiene actualmente para…","ElementOrder":"1"},{"ElementOID":"B589E90B-F523-4874-8815-2955FAA67ACE","Description":"recordar dónde ha puesto o guardado cosas (por ejemplo, las llaves)?","ElementOrder":"2"},{"ElementOID":"44F92E9D-BA7A-4008-B993-D2D7C1F16379","Description":"ContainerFor44F92E9D-BA7A-4008-B993-D2D7C1F16379","ElementOrder":"3","Map":[{"ElementOID":"79312CC7-10E7-4130-8351-87800A92F656","Description":"Nada","FormItemOID":"FFC5DA97-A1E1-4065-9EE2-973D1180769E","ItemResponseOID":"7BD6CFF5-945C-4E23-A13F-B42FD5D72369", "Value":"5","Position":"1"},{"ElementOID":"A03CD854-C14F-4039-8079-4FB0DEF4A90C","Description":"Poco","FormItemOID":"FFC5DA97-A1E1-4065-9EE2-973D1180769E","ItemResponseOID":"B825DC99-9375-493F-B666-0A0BEA7C0C81", "Value":"4","Position":"2"},{"ElementOID":"D1DA9CC6-C71F-4FEB-A025-89C144E43AD0","Description":"Algo","FormItemOID":"FFC5DA97-A1E1-4065-9EE2-973D1180769E","ItemResponseOID":"3413E779-6900-4A0E-B314-F1D42263C2A9", "Value":"3","Position":"3"},{"ElementOID":"AB5B2D7B-F050-4426-8485-2621C8B14281","Description":"Mucho","FormItemOID":"FFC5DA97-A1E1-4065-9EE2-973D1180769E","ItemResponseOID":"9133ADE2-93C1-4E65-AEE8-C94A63A7DE20", "Value":"2","Position":"4"},{"ElementOID":"A396304A-059A-4753-AE69-47553D42FCA4","Description":"No puedo hacerlo","FormItemOID":"FFC5DA97-A1E1-4065-9EE2-973D1180769E","ItemResponseOID":"47F35E65-9D7A-41DF-A03F-51D81F4699E8", "Value":"1","Position":"5"}]}]},{"FormItemOID":"84E6FF92-C165-4274-A25F-E87642F421F6","ID":"NQCOG39r1","Order":"9","ItemType":"","Elements":[{"ElementOID":"600CB900-F419-42EA-8731-3D5FD40554C2","Description":"¿Cuánta DIFICULTAD tiene actualmente para…","ElementOrder":"1"},{"ElementOID":"B0BDFF9E-AE29-4543-BF32-2A0E47335A06","Description":"recordar una lista de 4 ó 5 mandados sin escribirlos?","ElementOrder":"2"},{"ElementOID":"1209AF93-3ACC-4F9A-A5F5-A7C4DEF51A73","Description":"ContainerFor1209AF93-3ACC-4F9A-A5F5-A7C4DEF51A73","ElementOrder":"3","Map":[{"ElementOID":"F447450C-8F5A-472A-B119-5B40E3422CB8","Description":"Nada","FormItemOID":"84E6FF92-C165-4274-A25F-E87642F421F6","ItemResponseOID":"74580D58-8D89-4F03-B6E6-8DD60FFA3A4A", "Value":"5","Position":"1"},{"ElementOID":"2E12EFE2-601F-4C40-9C7C-85504A21E111","Description":"Poco","FormItemOID":"84E6FF92-C165-4274-A25F-E87642F421F6","ItemResponseOID":"55952140-1D8C-49B9-AE8F-BBF74E192668", "Value":"4","Position":"2"},{"ElementOID":"BDB7971A-5162-4F58-983E-D0E97EA3544E","Description":"Algo","FormItemOID":"84E6FF92-C165-4274-A25F-E87642F421F6","ItemResponseOID":"7619B378-35CC-45BF-BEA0-F5F64A8E049C", "Value":"3","Position":"3"},{"ElementOID":"530D7E1C-EAB6-4D52-B89D-53D67BC7ABA5","Description":"Mucho","FormItemOID":"84E6FF92-C165-4274-A25F-E87642F421F6","ItemResponseOID":"8CD33993-75CA-4122-ADAA-9356F00FE6F2", "Value":"2","Position":"4"},{"ElementOID":"2829BDCC-3650-4E83-B001-3829E2971819","Description":"No puedo hacerlo","FormItemOID":"84E6FF92-C165-4274-A25F-E87642F421F6","ItemResponseOID":"25E1F0DA-61F4-435F-9ED7-A21FF1E0333D", "Value":"1","Position":"5"}]}]},{"FormItemOID":"E912AE80-4725-4EEA-990F-05B2707154EE","ID":"NQCOG40r1","Order":"10","ItemType":"","Elements":[{"ElementOID":"600CB900-F419-42EA-8731-3D5FD40554C2","Description":"¿Cuánta DIFICULTAD tiene actualmente para…","ElementOrder":"1"},{"ElementOID":"679FC288-2CE5-40A8-8370-A76EDC55874D","Description":"aprender tareas o instrucciones nuevas?","ElementOrder":"2"},{"ElementOID":"784BFB26-1371-4A6F-9560-3D11E4F497EB","Description":"ContainerFor784BFB26-1371-4A6F-9560-3D11E4F497EB","ElementOrder":"3","Map":[{"ElementOID":"5A367DE3-7528-48C7-AF31-E8CE5B82C3D6","Description":"Nada","FormItemOID":"E912AE80-4725-4EEA-990F-05B2707154EE","ItemResponseOID":"7FAFD035-A98D-4BE1-8089-307A51DC304E", "Value":"5","Position":"1"},{"ElementOID":"4938596D-459F-45C4-86A6-16DBA0384976","Description":"Poco","FormItemOID":"E912AE80-4725-4EEA-990F-05B2707154EE","ItemResponseOID":"D4DF9A2E-2476-4778-94E3-BA4547216BBC", "Value":"4","Position":"2"},{"ElementOID":"8DBD69F3-373C-465E-A354-9D897BDDC7A4","Description":"Algo","FormItemOID":"E912AE80-4725-4EEA-990F-05B2707154EE","ItemResponseOID":"EBED5991-8C58-453C-B55E-DA4CACB899C5", "Value":"3","Position":"3"},{"ElementOID":"3E2B98DA-261F-4656-8834-EE8E031C0F4D","Description":"Mucho","FormItemOID":"E912AE80-4725-4EEA-990F-05B2707154EE","ItemResponseOID":"8334FE6D-1153-45FB-8137-52D1F2ACF29B", "Value":"2","Position":"4"},{"ElementOID":"780251F4-76FA-41A0-AC88-7D5D780E790D","Description":"No puedo hacerlo","FormItemOID":"E912AE80-4725-4EEA-990F-05B2707154EE","ItemResponseOID":"0B20118B-B6A1-4B63-AA6F-3EB88EC751C4", "Value":"1","Position":"5"}]}]},{"FormItemOID":"278DE03B-1C9B-4547-A2EA-2E771460ED40","ID":"NQCOG46r1","Order":"11","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"DA5C46A4-EF98-4EE7-9CB8-EA64C74D0980","Description":"Cometí errores sencillos con más facilidad","ElementOrder":"2"},{"ElementOID":"A4360D5D-05E6-435D-8571-3B56596227AA","Description":"ContainerForA4360D5D-05E6-435D-8571-3B56596227AA","ElementOrder":"3","Map":[{"ElementOID":"96AD2495-39B6-4035-B520-AA5258667C39","Description":"Nunca","FormItemOID":"278DE03B-1C9B-4547-A2EA-2E771460ED40","ItemResponseOID":"8EBF1C5A-F915-4642-B69A-180E064479EC", "Value":"5","Position":"1"},{"ElementOID":"C9A9B379-DCFF-4533-BAED-89D8DD69CFE2","Description":"Rara vez (una vez)","FormItemOID":"278DE03B-1C9B-4547-A2EA-2E771460ED40","ItemResponseOID":"6F0DC14D-CA23-4248-870E-B121FFCBC79B", "Value":"4","Position":"2"},{"ElementOID":"B14F12A7-AD78-4FF5-93EF-4D383FB6B1F6","Description":"Algunas veces (dos o tres veces)","FormItemOID":"278DE03B-1C9B-4547-A2EA-2E771460ED40","ItemResponseOID":"16FB419C-C504-4CF3-993B-846229974EF3", "Value":"3","Position":"3"},{"ElementOID":"2DFEACD9-2D15-4D88-911D-D21D853755AD","Description":"A menudo (como una vez al día)","FormItemOID":"278DE03B-1C9B-4547-A2EA-2E771460ED40","ItemResponseOID":"8EF8796F-7410-4304-A30C-4AEFD63D1E4A", "Value":"2","Position":"4"},{"ElementOID":"C2B0739D-6227-4323-B1CD-137890BEC448","Description":"Muy a menudo (varias veces al día)","FormItemOID":"278DE03B-1C9B-4547-A2EA-2E771460ED40","ItemResponseOID":"E946E724-793D-4DE4-92B8-B0575ABFE56D", "Value":"1","Position":"5"}]}]},{"FormItemOID":"2EAA0C1F-A144-43DA-84F1-301C2ABF4360","ID":"NQCOG53r1","Order":"12","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"8AEB3AAB-C604-4ED7-9374-6FF17D1F6DA0","Description":"Me pareció como si tuviera en “la punta de la lengua” las palabras que quería usar","ElementOrder":"2"},{"ElementOID":"BDFFC434-5230-41E3-95BE-F1A3EAC295C5","Description":"ContainerForBDFFC434-5230-41E3-95BE-F1A3EAC295C5","ElementOrder":"3","Map":[{"ElementOID":"AD7AD4F0-40DA-4B16-8E4A-22A4C9780FDA","Description":"Nunca","FormItemOID":"2EAA0C1F-A144-43DA-84F1-301C2ABF4360","ItemResponseOID":"4ACBC71E-6C25-4B41-A0D6-37A85C9045F4", "Value":"5","Position":"1"},{"ElementOID":"32371DFB-5A70-493F-93A8-5549DB57DF93","Description":"Rara vez (una vez)","FormItemOID":"2EAA0C1F-A144-43DA-84F1-301C2ABF4360","ItemResponseOID":"A0358CF9-05F7-412E-B273-70BBF60F5EB5", "Value":"4","Position":"2"},{"ElementOID":"0E3BC59A-CC94-49A4-AC05-B6D4B455ED40","Description":"Algunas veces (dos o tres veces)","FormItemOID":"2EAA0C1F-A144-43DA-84F1-301C2ABF4360","ItemResponseOID":"74B824B2-D5DE-47F0-BEA7-99E11936C223", "Value":"3","Position":"3"},{"ElementOID":"03306D5D-1619-4C4D-96CA-71AE08487725","Description":"A menudo (como una vez al día)","FormItemOID":"2EAA0C1F-A144-43DA-84F1-301C2ABF4360","ItemResponseOID":"FBB8D6ED-FFC1-434D-AA4B-0B160628D2F5", "Value":"2","Position":"4"},{"ElementOID":"C0FE2602-0F33-4680-B9D1-CB21D3A0E62A","Description":"Muy a menudo (varias veces al día)","FormItemOID":"2EAA0C1F-A144-43DA-84F1-301C2ABF4360","ItemResponseOID":"A69FBB4C-FC19-46BC-A3BE-A7F0D14464FE", "Value":"1","Position":"5"}]}]},{"FormItemOID":"919F94E8-C7F8-4B34-9AFC-8529EE6191F0","ID":"NQCOG64r1","Order":"13","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"6AFF17F7-F722-4888-A3D7-770B57E09AC5","Description":"Tuve que leer algo más de una vez para entenderlo","ElementOrder":"2"},{"ElementOID":"38FE659F-25C8-44E6-835A-66173B785F86","Description":"ContainerFor38FE659F-25C8-44E6-835A-66173B785F86","ElementOrder":"3","Map":[{"ElementOID":"8BA01076-D6C6-45C4-88F1-F0FD3AF94962","Description":"Nunca","FormItemOID":"919F94E8-C7F8-4B34-9AFC-8529EE6191F0","ItemResponseOID":"670FDBC6-1AF2-4D4C-96C2-574A1E5C9DD0", "Value":"5","Position":"1"},{"ElementOID":"849CEBD9-8DD7-4762-B857-99508AEADF8E","Description":"Rara vez (una vez)","FormItemOID":"919F94E8-C7F8-4B34-9AFC-8529EE6191F0","ItemResponseOID":"416AA80A-1668-43B5-8CDC-D1EE97961F79", "Value":"4","Position":"2"},{"ElementOID":"3580F11A-8345-4093-B1B1-23C20B0F4704","Description":"Algunas veces (dos o tres veces)","FormItemOID":"919F94E8-C7F8-4B34-9AFC-8529EE6191F0","ItemResponseOID":"12384941-D6DD-4C68-AC7B-A4102C631FD5", "Value":"3","Position":"3"},{"ElementOID":"3B8DEDA9-1F25-48FD-A7A9-0788D001FC98","Description":"A menudo (como una vez al día)","FormItemOID":"919F94E8-C7F8-4B34-9AFC-8529EE6191F0","ItemResponseOID":"D80697C6-8CFD-49B2-B78E-A65A24DF3737", "Value":"2","Position":"4"},{"ElementOID":"8FD8F2DB-28A1-44F7-A3CC-9A1D55401E81","Description":"Muy a menudo (varias veces al día)","FormItemOID":"919F94E8-C7F8-4B34-9AFC-8529EE6191F0","ItemResponseOID":"62E559E4-DAD0-4737-BA58-8685A7CFF3F8", "Value":"1","Position":"5"}]}]},{"FormItemOID":"2BB757A6-5848-4787-B61E-045F1E5307D4","ID":"NQCOG65r1","Order":"14","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"D75BDD53-FDB8-4E8A-A8DB-628BBDA5640E","Description":"Tuve problemas para recordar lo que estaba haciendo si me interrumpían","ElementOrder":"2"},{"ElementOID":"F7F93AF5-E44F-40DB-ADCD-3392871C6344","Description":"ContainerForF7F93AF5-E44F-40DB-ADCD-3392871C6344","ElementOrder":"3","Map":[{"ElementOID":"BD068E72-0F4A-4045-A86A-AC212169DFCB","Description":"Nunca","FormItemOID":"2BB757A6-5848-4787-B61E-045F1E5307D4","ItemResponseOID":"C235103A-D8CA-40F4-BDC5-181AC598F8CD", "Value":"5","Position":"1"},{"ElementOID":"1CA4BCA0-482D-45E1-BD1F-0070ACF25094","Description":"Rara vez (una vez)","FormItemOID":"2BB757A6-5848-4787-B61E-045F1E5307D4","ItemResponseOID":"9E2F5941-2002-4D8B-B988-16726100C735", "Value":"4","Position":"2"},{"ElementOID":"D94124D5-614A-4FA4-8CEE-E39A4135F577","Description":"Algunas veces (dos o tres veces)","FormItemOID":"2BB757A6-5848-4787-B61E-045F1E5307D4","ItemResponseOID":"495E32ED-881C-47AC-981B-F9A7F01BDB6C", "Value":"3","Position":"3"},{"ElementOID":"BDE8ED06-B759-4EEE-AE12-16BF3C5E74B2","Description":"A menudo (como una vez al día)","FormItemOID":"2BB757A6-5848-4787-B61E-045F1E5307D4","ItemResponseOID":"C5A2A97D-8B00-4A33-98F3-753C66202D03", "Value":"2","Position":"4"},{"ElementOID":"077B4032-F2D1-402C-8990-774D9AB84E02","Description":"Muy a menudo (varias veces al día)","FormItemOID":"2BB757A6-5848-4787-B61E-045F1E5307D4","ItemResponseOID":"730E157F-7649-4722-A7CE-4E28B5A7D6CD", "Value":"1","Position":"5"}]}]},{"FormItemOID":"4092A2B4-8C48-4766-8579-F692AB2661E2","ID":"NQCOG66r1","Order":"15","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"E3EBE0D5-1E26-4551-9D4D-296724C670AE","Description":"Tuve dificultad para hacer más de una cosa a la vez","ElementOrder":"2"},{"ElementOID":"EA1022C2-68C3-4097-B90F-F3C7C5D01EF0","Description":"ContainerForEA1022C2-68C3-4097-B90F-F3C7C5D01EF0","ElementOrder":"3","Map":[{"ElementOID":"6EB33E3E-8D82-42DA-8204-B4D679D22CE9","Description":"Nunca","FormItemOID":"4092A2B4-8C48-4766-8579-F692AB2661E2","ItemResponseOID":"72E2CE22-077C-48D2-BABF-8EC72F62A96E", "Value":"5","Position":"1"},{"ElementOID":"7F59C7C3-0FD6-45A5-8A1D-B9FE3C47BFDB","Description":"Rara vez (una vez)","FormItemOID":"4092A2B4-8C48-4766-8579-F692AB2661E2","ItemResponseOID":"1C8F9337-B52E-472F-9DF1-17E687DE86AB", "Value":"4","Position":"2"},{"ElementOID":"F88FAE4E-B85F-4E52-BDBB-388DAAA9D279","Description":"Algunas veces (dos o tres veces)","FormItemOID":"4092A2B4-8C48-4766-8579-F692AB2661E2","ItemResponseOID":"B56F6B1F-B1BF-435E-A123-E3CC00EE7B1F", "Value":"3","Position":"3"},{"ElementOID":"D7AA873B-9F15-4C3F-BF7C-833CF4250216","Description":"A menudo (como una vez al día)","FormItemOID":"4092A2B4-8C48-4766-8579-F692AB2661E2","ItemResponseOID":"077F7A70-767D-4A01-B0E6-AF4AD74D407A", "Value":"2","Position":"4"},{"ElementOID":"220EBB41-DE4F-4E51-8A09-37A31D8F4512","Description":"Muy a menudo (varias veces al día)","FormItemOID":"4092A2B4-8C48-4766-8579-F692AB2661E2","ItemResponseOID":"7089A71D-E88A-4F43-A51D-871E92267205", "Value":"1","Position":"5"}]}]},{"FormItemOID":"790BC58F-95C6-415C-9CF1-462B52733497","ID":"NQCOG67r1","Order":"16","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"87D936D2-D35B-43B7-900B-DA5FA3CD1705","Description":"Tuve dificultad para recordar si hice lo que debía hacer, como tomar un medicamento o comprar algo que necesitaba","ElementOrder":"2"},{"ElementOID":"E3445090-521F-4EF1-9390-C2F28FE082C1","Description":"ContainerForE3445090-521F-4EF1-9390-C2F28FE082C1","ElementOrder":"3","Map":[{"ElementOID":"3A672789-0FA2-4660-8B46-BA1339817A22","Description":"Nunca","FormItemOID":"790BC58F-95C6-415C-9CF1-462B52733497","ItemResponseOID":"BA9D73FB-BEFD-472A-AF97-5AC73002B1AA", "Value":"5","Position":"1"},{"ElementOID":"554DCFA3-1808-424D-B072-E91FA447357A","Description":"Rara vez (una vez)","FormItemOID":"790BC58F-95C6-415C-9CF1-462B52733497","ItemResponseOID":"7A5E7164-55C0-433A-980C-CEBE37B37D07", "Value":"4","Position":"2"},{"ElementOID":"4D77E521-EF20-4CD1-B12C-7B42D1803E47","Description":"Algunas veces (dos o tres veces)","FormItemOID":"790BC58F-95C6-415C-9CF1-462B52733497","ItemResponseOID":"2AE61963-0680-40E1-B920-F1F7C501A642", "Value":"3","Position":"3"},{"ElementOID":"4D1BB03F-647F-4BD7-B347-0854DD2F9991","Description":"A menudo (como una vez al día)","FormItemOID":"790BC58F-95C6-415C-9CF1-462B52733497","ItemResponseOID":"EF7711FF-68B6-496C-8792-C4F00FC00C8F", "Value":"2","Position":"4"},{"ElementOID":"D0012D5E-877D-41C0-B62B-AA0448B519E7","Description":"Muy a menudo (varias veces al día)","FormItemOID":"790BC58F-95C6-415C-9CF1-462B52733497","ItemResponseOID":"CE98712D-A486-45C5-83CE-65723BC3ECE0", "Value":"1","Position":"5"}]}]},{"FormItemOID":"A18B5501-5314-45CE-BE55-98BD9E044CF8","ID":"NQCOG68r1","Order":"17","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"135BC2AB-B340-4591-AA0C-BC1566C1037D","Description":"Tuve dificultad para recordar información nueva, como números de teléfono o instrucciones sencillas","ElementOrder":"2"},{"ElementOID":"0DE41082-2696-42E1-B097-B155B816DD42","Description":"ContainerFor0DE41082-2696-42E1-B097-B155B816DD42","ElementOrder":"3","Map":[{"ElementOID":"45CCF4A3-3063-48D6-820F-C624DDF2D2EF","Description":"Nunca","FormItemOID":"A18B5501-5314-45CE-BE55-98BD9E044CF8","ItemResponseOID":"6AC012BE-9EC2-479E-B572-8093A78E0A83", "Value":"5","Position":"1"},{"ElementOID":"36A1ABFF-C28A-4C2E-807D-86223184CA18","Description":"Rara vez (una vez)","FormItemOID":"A18B5501-5314-45CE-BE55-98BD9E044CF8","ItemResponseOID":"C50E45C0-B831-45AE-8C26-6802638823E1", "Value":"4","Position":"2"},{"ElementOID":"E9EA6FE9-2B5C-4444-BECC-62508DC6CF64","Description":"Algunas veces (dos o tres veces)","FormItemOID":"A18B5501-5314-45CE-BE55-98BD9E044CF8","ItemResponseOID":"A7622233-BD7A-4EC4-AD34-E3B7FFC32A43", "Value":"3","Position":"3"},{"ElementOID":"3A52F0BF-3422-4C09-9A53-34A0D5AEFF80","Description":"A menudo (como una vez al día)","FormItemOID":"A18B5501-5314-45CE-BE55-98BD9E044CF8","ItemResponseOID":"68EE3322-4DF2-4F64-904A-1D490089ED23", "Value":"2","Position":"4"},{"ElementOID":"17C0E98D-B3B9-463C-8898-71705BC4706B","Description":"Muy a menudo (varias veces al día)","FormItemOID":"A18B5501-5314-45CE-BE55-98BD9E044CF8","ItemResponseOID":"0EF7B73C-A35C-4671-81F5-4EE1617562D6", "Value":"1","Position":"5"}]}]},{"FormItemOID":"07A30ECB-0CF1-4366-9B04-91E07B785BE2","ID":"NQCOG69r1","Order":"18","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"88EE24D3-899D-463F-8DC7-F7C43FFD7C0C","Description":"Entré en una habitación y olvidé lo que quería buscar o hacer allí","ElementOrder":"2"},{"ElementOID":"A522A8A0-548E-4863-9620-5C658FCE6B52","Description":"ContainerForA522A8A0-548E-4863-9620-5C658FCE6B52","ElementOrder":"3","Map":[{"ElementOID":"27265A01-5205-493C-BE6B-6259927B3D06","Description":"Nunca","FormItemOID":"07A30ECB-0CF1-4366-9B04-91E07B785BE2","ItemResponseOID":"70A8B765-B5D0-4984-83A1-701DAC3A5031", "Value":"5","Position":"1"},{"ElementOID":"A17BEC4A-2610-4742-8D41-AB0014388DEF","Description":"Rara vez (una vez)","FormItemOID":"07A30ECB-0CF1-4366-9B04-91E07B785BE2","ItemResponseOID":"B4D69F26-258B-482D-9016-3D9090CB0E23", "Value":"4","Position":"2"},{"ElementOID":"A714AC50-B539-4F50-A3A6-4DA56F9CB13F","Description":"Algunas veces (dos o tres veces)","FormItemOID":"07A30ECB-0CF1-4366-9B04-91E07B785BE2","ItemResponseOID":"619F5E86-8BFB-44BC-98C0-AEEEC02A92A4", "Value":"3","Position":"3"},{"ElementOID":"D1AAC9AE-E881-480F-B065-5311D7C88316","Description":"A menudo (como una vez al día)","FormItemOID":"07A30ECB-0CF1-4366-9B04-91E07B785BE2","ItemResponseOID":"867F3014-254C-412D-97B0-5095A7EAD971", "Value":"2","Position":"4"},{"ElementOID":"23A1A369-F660-4DCF-83DA-2865912E90FC","Description":"Muy a menudo (varias veces al día)","FormItemOID":"07A30ECB-0CF1-4366-9B04-91E07B785BE2","ItemResponseOID":"DD09214F-A58B-46F4-AA90-E365CE3BC32A", "Value":"1","Position":"5"}]}]},{"FormItemOID":"BD3F30B0-D19A-48C8-995F-77671BC42950","ID":"NQCOG70r1","Order":"19","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"F8CF4F9E-F21E-4AEE-9F33-EEB20B7767E4","Description":"Tuve dificultad para recordar el nombre de una persona conocida","ElementOrder":"2"},{"ElementOID":"DF3B8F8F-DDC2-4FBA-AE4C-DB50AF4B8422","Description":"ContainerForDF3B8F8F-DDC2-4FBA-AE4C-DB50AF4B8422","ElementOrder":"3","Map":[{"ElementOID":"46E0F375-7A90-40A1-A21E-981DF0A24BCD","Description":"Nunca","FormItemOID":"BD3F30B0-D19A-48C8-995F-77671BC42950","ItemResponseOID":"DA223342-2E1D-49AE-A5BD-0F888174ACE4", "Value":"5","Position":"1"},{"ElementOID":"B3EA762F-8071-4C1F-9A70-DE76FC3ABEFA","Description":"Rara vez (una vez)","FormItemOID":"BD3F30B0-D19A-48C8-995F-77671BC42950","ItemResponseOID":"A6B19F80-3A56-4421-8B3E-9B5CC5365C51", "Value":"4","Position":"2"},{"ElementOID":"99D8C1C8-B893-4D32-A40F-51BFF25E3AC4","Description":"Algunas veces (dos o tres veces)","FormItemOID":"BD3F30B0-D19A-48C8-995F-77671BC42950","ItemResponseOID":"8CC3ECDA-8508-48B9-877C-EB1F67FC2BBA", "Value":"3","Position":"3"},{"ElementOID":"64655913-DBD4-4242-BFBD-BDF99F214077","Description":"A menudo (como una vez al día)","FormItemOID":"BD3F30B0-D19A-48C8-995F-77671BC42950","ItemResponseOID":"097C7822-1013-46C6-99AA-C2CC9536A786", "Value":"2","Position":"4"},{"ElementOID":"3C5A2DA1-7F3A-435F-8297-D882A479CD40","Description":"Muy a menudo (varias veces al día)","FormItemOID":"BD3F30B0-D19A-48C8-995F-77671BC42950","ItemResponseOID":"DB4E96B5-CD13-45DA-86A3-347A826D9741", "Value":"1","Position":"5"}]}]},{"FormItemOID":"B442476F-657E-4ED4-A47B-AD0C3EEF8930","ID":"NQCOG72r1","Order":"20","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"8BC8BD1A-D400-4DAB-A078-7AF85B357871","Description":"Me costó trabajo pensar con claridad","ElementOrder":"2"},{"ElementOID":"6D516102-3F4F-4EAE-B7A4-8D82E903C31A","Description":"ContainerFor6D516102-3F4F-4EAE-B7A4-8D82E903C31A","ElementOrder":"3","Map":[{"ElementOID":"8AAFF8EE-F98B-48CF-A2D4-8EC7ACC76FB2","Description":"Nunca","FormItemOID":"B442476F-657E-4ED4-A47B-AD0C3EEF8930","ItemResponseOID":"34953D2E-FB30-470E-91CE-3F4E68DF3FDA", "Value":"5","Position":"1"},{"ElementOID":"4CDAC38E-27F4-4B19-9706-A87AAC3A5A24","Description":"Rara vez (una vez)","FormItemOID":"B442476F-657E-4ED4-A47B-AD0C3EEF8930","ItemResponseOID":"62B93405-B165-4EC3-8905-0B08F93B9ACA", "Value":"4","Position":"2"},{"ElementOID":"A68515FF-40DA-4806-8FFE-1C7C94F3EE02","Description":"Algunas veces (dos o tres veces)","FormItemOID":"B442476F-657E-4ED4-A47B-AD0C3EEF8930","ItemResponseOID":"41F457C6-079A-471D-B60E-292C7B7BB4D4", "Value":"3","Position":"3"},{"ElementOID":"ED24C6DD-9CB9-43E1-BB4E-4104C96DF112","Description":"A menudo (como una vez al día)","FormItemOID":"B442476F-657E-4ED4-A47B-AD0C3EEF8930","ItemResponseOID":"68F75B03-5C2D-468C-99B2-4C1CCF6ECA6C", "Value":"2","Position":"4"},{"ElementOID":"3F2D9ADF-8945-446C-A49E-2DCE64F96E30","Description":"Muy a menudo (varias veces al día)","FormItemOID":"B442476F-657E-4ED4-A47B-AD0C3EEF8930","ItemResponseOID":"3C34DFD2-EA99-4136-9E88-4098BC14858B", "Value":"1","Position":"5"}]}]},{"FormItemOID":"324D1A92-08F2-4A19-BE81-96FE80717760","ID":"NQCOG73r1","Order":"21","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"32AB2072-1699-4203-A575-8992B84D81B8","Description":"Reaccioné con lentitud a cosas que se dijeron o hicieron","ElementOrder":"2"},{"ElementOID":"DEC2B253-8DF6-44BB-8415-9B90710FF39E","Description":"ContainerForDEC2B253-8DF6-44BB-8415-9B90710FF39E","ElementOrder":"3","Map":[{"ElementOID":"A289E032-230F-4847-8DE4-BFA301002BE7","Description":"Nunca","FormItemOID":"324D1A92-08F2-4A19-BE81-96FE80717760","ItemResponseOID":"974B46E6-0506-4429-AFE9-B649DB2CC7FD", "Value":"5","Position":"1"},{"ElementOID":"D5FB58B0-3E6E-48EE-9666-9E15F5BC7DF2","Description":"Rara vez (una vez)","FormItemOID":"324D1A92-08F2-4A19-BE81-96FE80717760","ItemResponseOID":"5149CE4D-C067-487E-8D93-EA267559721E", "Value":"4","Position":"2"},{"ElementOID":"E5A34A84-9921-4316-B22D-FE91BB6B9F7B","Description":"Algunas veces (dos o tres veces)","FormItemOID":"324D1A92-08F2-4A19-BE81-96FE80717760","ItemResponseOID":"82DD5A0C-B3F4-42D8-B6FB-954B2901376B", "Value":"3","Position":"3"},{"ElementOID":"709BB63E-2B3A-40BC-B3CE-2B45A6C125EA","Description":"A menudo (como una vez al día)","FormItemOID":"324D1A92-08F2-4A19-BE81-96FE80717760","ItemResponseOID":"11E3F14E-E2A8-41CA-A8CD-B994495D8967", "Value":"2","Position":"4"},{"ElementOID":"83D7DE26-70E0-4B2D-894B-FE427001606C","Description":"Muy a menudo (varias veces al día)","FormItemOID":"324D1A92-08F2-4A19-BE81-96FE80717760","ItemResponseOID":"EE4E8F63-4FEA-45BA-8386-446ABA1CB911", "Value":"1","Position":"5"}]}]},{"FormItemOID":"6DF8C528-7048-409C-9024-32761E45FC91","ID":"NQCOG74r1","Order":"22","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"491CB660-53C3-4912-B2C4-6E52B1BE81D6","Description":"Tuve dificultad para formar mis pensamientos","ElementOrder":"2"},{"ElementOID":"F55A5B14-3842-499F-B707-2F05C2EFAE1E","Description":"ContainerForF55A5B14-3842-499F-B707-2F05C2EFAE1E","ElementOrder":"3","Map":[{"ElementOID":"CFDDAF31-47D5-444E-BA00-25A671310F18","Description":"Nunca","FormItemOID":"6DF8C528-7048-409C-9024-32761E45FC91","ItemResponseOID":"1163F5B8-B914-4A2A-8D60-61037D49EA53", "Value":"5","Position":"1"},{"ElementOID":"0A8C9B30-2EA4-474A-8A40-89E5A1178CBA","Description":"Rara vez (una vez)","FormItemOID":"6DF8C528-7048-409C-9024-32761E45FC91","ItemResponseOID":"6D5595E9-11C9-4141-9107-E08E686D2BD4", "Value":"4","Position":"2"},{"ElementOID":"226578C9-F563-458F-948B-4FCD540EF983","Description":"Algunas veces (dos o tres veces)","FormItemOID":"6DF8C528-7048-409C-9024-32761E45FC91","ItemResponseOID":"33DAB685-DA16-491E-ADAA-10C8702A2378", "Value":"3","Position":"3"},{"ElementOID":"D3E9F912-AFF2-4655-A4B9-9C7AFE00F636","Description":"A menudo (como una vez al día)","FormItemOID":"6DF8C528-7048-409C-9024-32761E45FC91","ItemResponseOID":"20A5888A-4F58-490D-BFEA-73215561A6F9", "Value":"2","Position":"4"},{"ElementOID":"37FA0CE5-40A6-46FC-9606-228F85678CE2","Description":"Muy a menudo (varias veces al día)","FormItemOID":"6DF8C528-7048-409C-9024-32761E45FC91","ItemResponseOID":"5661A7F5-F7D7-44B6-AAB5-F9A137561471", "Value":"1","Position":"5"}]}]},{"FormItemOID":"2D6EB65B-CD9B-4048-8F9E-65A6E5467159","ID":"NQCOG75r1","Order":"23","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"8EF7F185-2DD5-4E8D-BFA5-A62E30D62D46","Description":"Pensé con lentitud","ElementOrder":"2"},{"ElementOID":"65B38BA9-DAB7-40C1-AD65-F691BB5F43AC","Description":"ContainerFor65B38BA9-DAB7-40C1-AD65-F691BB5F43AC","ElementOrder":"3","Map":[{"ElementOID":"BA71D721-ADFE-4EE7-97A2-F5A284750E31","Description":"Nunca","FormItemOID":"2D6EB65B-CD9B-4048-8F9E-65A6E5467159","ItemResponseOID":"5E6172BE-41A7-4249-8F23-719B3D1FA659", "Value":"5","Position":"1"},{"ElementOID":"7CE4B871-6520-4A95-8BBD-D2AC73541D88","Description":"Rara vez (una vez)","FormItemOID":"2D6EB65B-CD9B-4048-8F9E-65A6E5467159","ItemResponseOID":"67DE976E-E102-4EAF-A60F-BF4D4BC3B84C", "Value":"4","Position":"2"},{"ElementOID":"26D7405F-86CB-4BD2-98D9-A6255401E7C2","Description":"Algunas veces (dos o tres veces)","FormItemOID":"2D6EB65B-CD9B-4048-8F9E-65A6E5467159","ItemResponseOID":"1F437BD9-272D-4727-95D5-5102B884179C", "Value":"3","Position":"3"},{"ElementOID":"EA32402F-D18E-4BD5-A36E-A773C9503526","Description":"A menudo (como una vez al día)","FormItemOID":"2D6EB65B-CD9B-4048-8F9E-65A6E5467159","ItemResponseOID":"48E4FF3A-6F97-4EA0-B86F-09CEACAF4FAB", "Value":"2","Position":"4"},{"ElementOID":"E1FD70F9-4E2E-4200-A1EE-FE64DF14E5EB","Description":"Muy a menudo (varias veces al día)","FormItemOID":"2D6EB65B-CD9B-4048-8F9E-65A6E5467159","ItemResponseOID":"A7BE39BA-AEDD-479C-B607-DBAD339F6D76", "Value":"1","Position":"5"}]}]},{"FormItemOID":"DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3","ID":"NQCOG77r1","Order":"24","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"5297E260-E948-4F4C-8B27-A539394BE3E4","Description":"Tuve que hacer mucho esfuerzo para prestar atención, de lo contrario cometería un error","ElementOrder":"2"},{"ElementOID":"5948E4B5-4FD8-42BE-B2D8-036BD8F51CBA","Description":"ContainerFor5948E4B5-4FD8-42BE-B2D8-036BD8F51CBA","ElementOrder":"3","Map":[{"ElementOID":"BD45B169-2335-44DB-8FC4-6F3F3A45673C","Description":"Nunca","FormItemOID":"DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3","ItemResponseOID":"B636E960-2552-4F2F-BA73-A2B1FE008A5E", "Value":"5","Position":"1"},{"ElementOID":"024ED545-0F3C-4491-99D9-6D9D12DAC597","Description":"Rara vez (una vez)","FormItemOID":"DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3","ItemResponseOID":"19519EEC-65B5-4878-AC7F-889077FBD0E9", "Value":"4","Position":"2"},{"ElementOID":"88DA4470-9784-462D-AB78-D54A01D45F79","Description":"Algunas veces (dos o tres veces)","FormItemOID":"DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3","ItemResponseOID":"BD7CA529-3CF3-4195-90DE-15FC927A5E58", "Value":"3","Position":"3"},{"ElementOID":"0845EF1B-AC76-438C-8C30-23B6CD228585","Description":"A menudo (como una vez al día)","FormItemOID":"DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3","ItemResponseOID":"8F3DEF37-5707-4FDE-916C-32BA6F3D4B96", "Value":"2","Position":"4"},{"ElementOID":"C32E416E-4E7D-41FC-8204-06CB7B8C813B","Description":"Muy a menudo (varias veces al día)","FormItemOID":"DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3","ItemResponseOID":"FF72B72F-6802-4355-85BA-9F9C41369655", "Value":"1","Position":"5"}]}]},{"FormItemOID":"48E4E924-E4A3-40F0-9C9F-D865A5C288D7","ID":"NQCOG80r1","Order":"25","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"A7AD5304-EABE-43C9-9A50-AA559FD0949D","Description":"Tuve dificultad para concentrarme","ElementOrder":"2"},{"ElementOID":"F0538C63-1632-45F1-A58D-0E4458F8CAA7","Description":"ContainerForF0538C63-1632-45F1-A58D-0E4458F8CAA7","ElementOrder":"3","Map":[{"ElementOID":"02DBF195-5A0F-4344-8400-904ACF6370DD","Description":"Nunca","FormItemOID":"48E4E924-E4A3-40F0-9C9F-D865A5C288D7","ItemResponseOID":"5213F71B-BAF2-4727-8B1A-A09C2C47EB5B", "Value":"5","Position":"1"},{"ElementOID":"12953CC7-A57F-4DB0-92C7-125CB7973A83","Description":"Rara vez (una vez)","FormItemOID":"48E4E924-E4A3-40F0-9C9F-D865A5C288D7","ItemResponseOID":"6A6E9C16-6DB6-454C-8649-317A7F541B9F", "Value":"4","Position":"2"},{"ElementOID":"A8F00EA3-774C-45D4-841B-77D5EE5FE770","Description":"Algunas veces (dos o tres veces)","FormItemOID":"48E4E924-E4A3-40F0-9C9F-D865A5C288D7","ItemResponseOID":"6DF5D6BC-5935-4E83-9780-06837184D25B", "Value":"3","Position":"3"},{"ElementOID":"A2906F03-353B-4126-891C-EFCF5F450B42","Description":"A menudo (como una vez al día)","FormItemOID":"48E4E924-E4A3-40F0-9C9F-D865A5C288D7","ItemResponseOID":"F6B0FD12-E1D6-4D7B-897F-5B6A83AC21DC", "Value":"2","Position":"4"},{"ElementOID":"5CFFCC35-4CD7-4FBB-ABE8-FEC839093BE1","Description":"Muy a menudo (varias veces al día)","FormItemOID":"48E4E924-E4A3-40F0-9C9F-D865A5C288D7","ItemResponseOID":"0F8887D1-86A8-4C87-B087-9D6D0E50CDA0", "Value":"1","Position":"5"}]}]},{"FormItemOID":"7A6BA1E0-4385-4391-B330-AD7EF8D95187","ID":"NQCOG83r1","Order":"26","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"D243DE66-155A-4475-961F-23C1761BB319","Description":"Tuve problemas para empezar tareas muy sencillas","ElementOrder":"2"},{"ElementOID":"0A9C00A6-69DD-415D-B0AB-FBD11AAC3A35","Description":"ContainerFor0A9C00A6-69DD-415D-B0AB-FBD11AAC3A35","ElementOrder":"3","Map":[{"ElementOID":"BD5EF027-A509-4402-8543-A934B8F1613C","Description":"Nunca","FormItemOID":"7A6BA1E0-4385-4391-B330-AD7EF8D95187","ItemResponseOID":"8B1A94CC-1E42-44CB-85C4-2D56C723C096", "Value":"5","Position":"1"},{"ElementOID":"4A7E50EE-E710-4AC2-AA17-6502F4188F81","Description":"Rara vez (una vez)","FormItemOID":"7A6BA1E0-4385-4391-B330-AD7EF8D95187","ItemResponseOID":"10C3E519-A409-4A94-8B24-FA1645AC05E4", "Value":"4","Position":"2"},{"ElementOID":"239F6DEE-2F26-4CE7-B6F4-4BD87F810C53","Description":"Algunas veces (dos o tres veces)","FormItemOID":"7A6BA1E0-4385-4391-B330-AD7EF8D95187","ItemResponseOID":"9A0E0356-2A15-42A9-973F-7265119B8854", "Value":"3","Position":"3"},{"ElementOID":"FE804199-1809-46CF-8D75-4035A661FEB1","Description":"A menudo (como una vez al día)","FormItemOID":"7A6BA1E0-4385-4391-B330-AD7EF8D95187","ItemResponseOID":"B3369D38-9022-484C-8B05-B4E42A348491", "Value":"2","Position":"4"},{"ElementOID":"FF80AE4D-C596-4252-9BB2-E5950BA27E30","Description":"Muy a menudo (varias veces al día)","FormItemOID":"7A6BA1E0-4385-4391-B330-AD7EF8D95187","ItemResponseOID":"9CEF9D39-ED56-4564-9CD3-438AFF1E7881", "Value":"1","Position":"5"}]}]},{"FormItemOID":"9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0","ID":"NQCOG84r1","Order":"27","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"D77489A4-71B2-4702-8EC7-7A154EDCE8B7","Description":"Tuve problemas para tomar decisiones","ElementOrder":"2"},{"ElementOID":"C1A3FBAB-DF9C-4152-81C8-C10C17BC0C25","Description":"ContainerForC1A3FBAB-DF9C-4152-81C8-C10C17BC0C25","ElementOrder":"3","Map":[{"ElementOID":"35CE18CD-2C96-414F-B51C-645C85DD54C4","Description":"Nunca","FormItemOID":"9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0","ItemResponseOID":"5358C9BA-CEB5-4DA1-8BA6-DC19FE07A7B7", "Value":"5","Position":"1"},{"ElementOID":"5165F31A-1D5C-4C0D-BC24-084BD359B14E","Description":"Rara vez (una vez)","FormItemOID":"9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0","ItemResponseOID":"55FD0181-830E-453A-8F84-6EDA65BF92C6", "Value":"4","Position":"2"},{"ElementOID":"0BE8842B-0238-4051-A4F7-B8E600FA19E7","Description":"Algunas veces (dos o tres veces)","FormItemOID":"9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0","ItemResponseOID":"73371F13-3851-4FB4-95EB-E56FF8CE8779", "Value":"3","Position":"3"},{"ElementOID":"0F3E2FEA-87ED-47A2-AF7C-FC1B4A19B152","Description":"A menudo (como una vez al día)","FormItemOID":"9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0","ItemResponseOID":"1E17436A-44FF-43E6-9EF2-054633C44D65", "Value":"2","Position":"4"},{"ElementOID":"94C3DC16-9BE7-40EC-BF0A-B2B0D08179E6","Description":"Muy a menudo (varias veces al día)","FormItemOID":"9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0","ItemResponseOID":"6E0A7B94-1D7E-4303-A9DA-5601E765C4FE", "Value":"1","Position":"5"}]}]},{"FormItemOID":"A1C7D8F9-BF51-4D19-92C9-4776BE952E93","ID":"NQCOG86r1","Order":"28","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"3E2CEE63-7593-491B-B164-A78D1DA79E6E","Description":"Tuve problemas para planear los pasos de una tarea","ElementOrder":"2"},{"ElementOID":"B5EB606D-06E1-4B34-B757-0EB185A1A396","Description":"ContainerForB5EB606D-06E1-4B34-B757-0EB185A1A396","ElementOrder":"3","Map":[{"ElementOID":"F6F36143-9104-49C7-A276-6B08501C7E86","Description":"Nunca","FormItemOID":"A1C7D8F9-BF51-4D19-92C9-4776BE952E93","ItemResponseOID":"D7D99C37-552C-4738-BE10-964D8B00E040", "Value":"5","Position":"1"},{"ElementOID":"750C127F-B312-4706-BDFB-D0B3F422ACEB","Description":"Rara vez (una vez)","FormItemOID":"A1C7D8F9-BF51-4D19-92C9-4776BE952E93","ItemResponseOID":"FB95B140-6C43-408C-824B-DCB8B5A4189E", "Value":"4","Position":"2"},{"ElementOID":"96A537A8-01C6-4E95-944B-2E9020711C12","Description":"Algunas veces (dos o tres veces)","FormItemOID":"A1C7D8F9-BF51-4D19-92C9-4776BE952E93","ItemResponseOID":"88540275-3587-40CA-A7E0-8F3AD3F9BBC0", "Value":"3","Position":"3"},{"ElementOID":"193F0655-EA32-4ED5-AA18-552E9CD8FA7F","Description":"A menudo (como una vez al día)","FormItemOID":"A1C7D8F9-BF51-4D19-92C9-4776BE952E93","ItemResponseOID":"B821A72F-5082-4747-93A1-66289D1B0125", "Value":"2","Position":"4"},{"ElementOID":"E997FDA3-9B1B-48A4-BD5C-7E0CCCD94A4C","Description":"Muy a menudo (varias veces al día)","FormItemOID":"A1C7D8F9-BF51-4D19-92C9-4776BE952E93","ItemResponseOID":"583F687B-9B54-4598-BD9B-E3D31A70A7C0", "Value":"1","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "7496A01D-B928-41F7-A914-57C8571D2B10",
+			"ID": "NQCOG15r1",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "600CB900-F419-42EA-8731-3D5FD40554C2",
+					"Description": "\u00bfCu\u00e1nta DIFICULTAD tiene actualmente para\u2026",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "66BA7443-E130-47CE-B7D4-FC93BC53BC41",
+					"Description": "estar al tanto de la hora (por ejemplo, usando un reloj)?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "C2CA1408-A092-423A-969C-14428646F860",
+					"Description": "ContainerForC2CA1408-A092-423A-969C-14428646F860",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "718C7C05-47C2-4BF1-85D8-F79529F87B4A",
+							"Description": "Nada",
+							"FormItemOID": "7496A01D-B928-41F7-A914-57C8571D2B10",
+							"ItemResponseOID": "A6BDE7E9-87CB-4A78-AEBC-58CE51E3E016",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "70839BD6-E1E9-448D-AA37-9B5DB1DCA94A",
+							"Description": "Poco",
+							"FormItemOID": "7496A01D-B928-41F7-A914-57C8571D2B10",
+							"ItemResponseOID": "359613FB-7D1B-46BF-9AD1-799269E292C0",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "B98A2B88-E496-408C-9A48-643881DB1570",
+							"Description": "Algo",
+							"FormItemOID": "7496A01D-B928-41F7-A914-57C8571D2B10",
+							"ItemResponseOID": "0AF0E747-AE1C-4734-A80B-A49901F07EEB",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "9D0565C4-7908-471E-9720-A5253721B195",
+							"Description": "Mucho",
+							"FormItemOID": "7496A01D-B928-41F7-A914-57C8571D2B10",
+							"ItemResponseOID": "BDACA5FF-22BE-4D94-A9C9-A3322C940165",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "C3489FCE-9AAB-4B83-B7F8-E8C8B8D5804F",
+							"Description": "No puedo hacerlo",
+							"FormItemOID": "7496A01D-B928-41F7-A914-57C8571D2B10",
+							"ItemResponseOID": "38C39E6B-AF49-4EEE-A3C0-B7895344C848",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "07501645-AEF2-480E-93FD-3459F15B7766",
+			"ID": "NQCOG16r1",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "600CB900-F419-42EA-8731-3D5FD40554C2",
+					"Description": "\u00bfCu\u00e1nta DIFICULTAD tiene actualmente para\u2026",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "BC0C8393-5897-47A6-A2EF-0A50D8A2F86E",
+					"Description": "verificar la precisi\u00f3n de documentos financieros (por ejemplo, cuentas, chequera, estados de cuenta bancarios)?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "34B6028B-22B5-4B77-97B5-AF328C4B4452",
+					"Description": "ContainerFor34B6028B-22B5-4B77-97B5-AF328C4B4452",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "A934E849-598D-449D-AF27-2297B46DBF68",
+							"Description": "Nada",
+							"FormItemOID": "07501645-AEF2-480E-93FD-3459F15B7766",
+							"ItemResponseOID": "8B054911-4217-4E4A-B347-6E7EDB7C4473",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "2A9D0D84-5F5C-4B40-8951-C6047CF6726D",
+							"Description": "Poco",
+							"FormItemOID": "07501645-AEF2-480E-93FD-3459F15B7766",
+							"ItemResponseOID": "E8151ADF-2FF5-43A1-B068-B28D82ECB107",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "A28FD972-5AC5-47FF-B294-DFD52E4EAD9C",
+							"Description": "Algo",
+							"FormItemOID": "07501645-AEF2-480E-93FD-3459F15B7766",
+							"ItemResponseOID": "C2DDE494-D195-4768-95D0-AC6BC466F5E2",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "0ED441EB-218A-4C1F-9E1D-3BFB5270A87F",
+							"Description": "Mucho",
+							"FormItemOID": "07501645-AEF2-480E-93FD-3459F15B7766",
+							"ItemResponseOID": "1EE6CFA3-4EC7-4CAF-9924-3D2773D2D4BE",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "8D729F79-D03C-4D83-B0D0-EE65B7B2FE97",
+							"Description": "No puedo hacerlo",
+							"FormItemOID": "07501645-AEF2-480E-93FD-3459F15B7766",
+							"ItemResponseOID": "66FC38E2-461B-472B-8C0B-25FFD59B8918",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "5FE16008-569A-435A-A69E-976EF77E41EC",
+			"ID": "NQCOG22r1",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "600CB900-F419-42EA-8731-3D5FD40554C2",
+					"Description": "\u00bfCu\u00e1nta DIFICULTAD tiene actualmente para\u2026",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "3B13502D-374D-45B7-BB4F-3E74B9C8A26F",
+					"Description": "leer y seguir instrucciones complicadas (por ejemplo, las instrucciones de un medicamento nuevo)?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "A070FB0F-06D6-496C-8103-E411F3627D57",
+					"Description": "ContainerForA070FB0F-06D6-496C-8103-E411F3627D57",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "04B06192-2A45-4656-B099-DA2CEE741E50",
+							"Description": "Nada",
+							"FormItemOID": "5FE16008-569A-435A-A69E-976EF77E41EC",
+							"ItemResponseOID": "A2A879B6-EF4A-4D7F-AABE-9D8B5341CACB",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "96D878B9-D334-41FD-A1AC-FA0CD106DE54",
+							"Description": "Poco",
+							"FormItemOID": "5FE16008-569A-435A-A69E-976EF77E41EC",
+							"ItemResponseOID": "A09CDC6B-6C8C-46D0-A049-F26C326FF76F",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "3A7A6D61-421E-47C6-9094-C1C952CCC7C7",
+							"Description": "Algo",
+							"FormItemOID": "5FE16008-569A-435A-A69E-976EF77E41EC",
+							"ItemResponseOID": "2341D13B-5DC6-4461-A037-D1308A44F98C",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "0ACA23B1-4CD7-4469-9FB7-DC751383C2EB",
+							"Description": "Mucho",
+							"FormItemOID": "5FE16008-569A-435A-A69E-976EF77E41EC",
+							"ItemResponseOID": "620EDC93-851D-4370-A8A8-0DA674D97D86",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "D22F9715-CDB1-4F35-B9E4-223A5942DF57",
+							"Description": "No puedo hacerlo",
+							"FormItemOID": "5FE16008-569A-435A-A69E-976EF77E41EC",
+							"ItemResponseOID": "F5DB0280-B208-4E0E-B970-E389A3B2C8A4",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "271AAF53-458C-4434-958A-0E5046FA80A2",
+			"ID": "NQCOG24r1",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "600CB900-F419-42EA-8731-3D5FD40554C2",
+					"Description": "\u00bfCu\u00e1nta DIFICULTAD tiene actualmente para\u2026",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "2628D365-0142-4DAD-A1E4-3823E8943C3D",
+					"Description": "planear y acudir a citas que no formen parte de su rutina semanal (por ejemplo, una cita para terapia o con un m\u00e9dico, o una reuni\u00f3n social con amigos y familiares)?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "6BE55FDB-7478-45B9-8F6B-124601BBE4C4",
+					"Description": "ContainerFor6BE55FDB-7478-45B9-8F6B-124601BBE4C4",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "DFCD7E38-1985-4751-A903-2D470E2EF7B4",
+							"Description": "Nada",
+							"FormItemOID": "271AAF53-458C-4434-958A-0E5046FA80A2",
+							"ItemResponseOID": "4E78EDE6-4E23-413B-9652-FCC448C1910C",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "0D33F347-2A9D-4C6A-BAFD-4A09AE4258D2",
+							"Description": "Poco",
+							"FormItemOID": "271AAF53-458C-4434-958A-0E5046FA80A2",
+							"ItemResponseOID": "5476824A-D1F4-464C-A468-A6454C2E4EC6",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "1FE8701A-0154-4373-AE46-243D40204F9B",
+							"Description": "Algo",
+							"FormItemOID": "271AAF53-458C-4434-958A-0E5046FA80A2",
+							"ItemResponseOID": "42A29FCE-D21D-4045-B512-4DD2E89BA5A7",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "840A1752-84AA-46C1-AF93-29E010778439",
+							"Description": "Mucho",
+							"FormItemOID": "271AAF53-458C-4434-958A-0E5046FA80A2",
+							"ItemResponseOID": "8482EE06-2520-40CD-9864-4F867780506B",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "84755168-AAEE-4906-AC9D-0ABACA199477",
+							"Description": "No puedo hacerlo",
+							"FormItemOID": "271AAF53-458C-4434-958A-0E5046FA80A2",
+							"ItemResponseOID": "64560040-CEB2-4C38-968E-7C78B1F5A5D6",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "E8C6279D-1F2B-4F40-B360-A16F2781D608",
+			"ID": "NQCOG25r1",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "600CB900-F419-42EA-8731-3D5FD40554C2",
+					"Description": "\u00bfCu\u00e1nta DIFICULTAD tiene actualmente para\u2026",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "EB26C4E0-DB9A-4798-9E61-EA87DF4FBEC6",
+					"Description": "organizar su tiempo para realizar la mayor parte de sus actividades diarias?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "8CB8E10E-DD3E-494B-9EC2-7A012B859F7B",
+					"Description": "ContainerFor8CB8E10E-DD3E-494B-9EC2-7A012B859F7B",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E45C71E9-8783-4F32-A6C2-8036DC743F8A",
+							"Description": "Nada",
+							"FormItemOID": "E8C6279D-1F2B-4F40-B360-A16F2781D608",
+							"ItemResponseOID": "972EDF06-EA6F-41B2-B84C-FC74B125B1DE",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "58E6D971-E7E0-423A-AD3C-DC9EE8709502",
+							"Description": "Poco",
+							"FormItemOID": "E8C6279D-1F2B-4F40-B360-A16F2781D608",
+							"ItemResponseOID": "ACA1DF53-E806-4E30-AEBC-FF8B9975BA54",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "835597C1-3CAF-45A9-946D-9AFF32D98A4A",
+							"Description": "Algo",
+							"FormItemOID": "E8C6279D-1F2B-4F40-B360-A16F2781D608",
+							"ItemResponseOID": "E3827631-06B7-4B06-980D-707CFCDA8FC3",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "E92AE767-1EB3-4995-AE92-125F688BA9E6",
+							"Description": "Mucho",
+							"FormItemOID": "E8C6279D-1F2B-4F40-B360-A16F2781D608",
+							"ItemResponseOID": "109A6704-D308-4A3B-9D28-F9E63698E92B",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "E9633D91-CECB-47C1-A31A-769B59690ADE",
+							"Description": "No puedo hacerlo",
+							"FormItemOID": "E8C6279D-1F2B-4F40-B360-A16F2781D608",
+							"ItemResponseOID": "4632A96E-5132-44C6-8A7A-37D062458B8B",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "89D0A19F-E829-47A8-B663-EB0E81044AD5",
+			"ID": "NQCOG26r1",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "600CB900-F419-42EA-8731-3D5FD40554C2",
+					"Description": "\u00bfCu\u00e1nta DIFICULTAD tiene actualmente para\u2026",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8104E6B2-0A5D-4425-A784-DC2BF5EAC5A5",
+					"Description": "planear una actividad con varios d\u00edas de antelaci\u00f3n (por ejemplo, una comida, un viaje o una visita a sus amigos)?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "10EF88DE-0883-49F6-B96C-C60A006813E3",
+					"Description": "ContainerFor10EF88DE-0883-49F6-B96C-C60A006813E3",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "785BA94C-75DA-4799-8B96-F2161D4F01E1",
+							"Description": "Nada",
+							"FormItemOID": "89D0A19F-E829-47A8-B663-EB0E81044AD5",
+							"ItemResponseOID": "CABDF24C-769E-48FF-8FEB-01241EA5DED2",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "E570A449-0C11-487F-B64F-EC0400F68DBA",
+							"Description": "Poco",
+							"FormItemOID": "89D0A19F-E829-47A8-B663-EB0E81044AD5",
+							"ItemResponseOID": "E7D5C841-93DA-43BB-A8E3-D7FADCF316F9",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "6A0BF8D3-CB0E-418B-A95D-62D41E03E147",
+							"Description": "Algo",
+							"FormItemOID": "89D0A19F-E829-47A8-B663-EB0E81044AD5",
+							"ItemResponseOID": "548AA8C4-7127-4F37-A155-98735A278772",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "E33C589D-3EB9-4E88-AA31-225E0B9ACF20",
+							"Description": "Mucho",
+							"FormItemOID": "89D0A19F-E829-47A8-B663-EB0E81044AD5",
+							"ItemResponseOID": "B2F68E09-FD14-45AD-8EAB-570A9B5CA640",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "95A5A159-D23E-4823-8390-687655889867",
+							"Description": "No puedo hacerlo",
+							"FormItemOID": "89D0A19F-E829-47A8-B663-EB0E81044AD5",
+							"ItemResponseOID": "6A969A7C-B8F4-44E7-B8D2-86BCD638E71B",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "03E3E99C-7804-431D-AE91-51F4FC7DE01A",
+			"ID": "NQCOG31r1",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "600CB900-F419-42EA-8731-3D5FD40554C2",
+					"Description": "\u00bfCu\u00e1nta DIFICULTAD tiene actualmente para\u2026",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "69381720-17EC-4263-85D9-7F3EFD5C6AB9",
+					"Description": "organizar las cosas?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8506F7B-6F6B-401A-98B4-65B552C888D1",
+					"Description": "ContainerForB8506F7B-6F6B-401A-98B4-65B552C888D1",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "AE617900-853A-4CF8-B4DA-25996E627E07",
+							"Description": "Nada",
+							"FormItemOID": "03E3E99C-7804-431D-AE91-51F4FC7DE01A",
+							"ItemResponseOID": "56189704-4FDF-46B4-B155-C243280CC363",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "269E45D7-6A03-4EC7-A8D8-66054ED7E528",
+							"Description": "Poco",
+							"FormItemOID": "03E3E99C-7804-431D-AE91-51F4FC7DE01A",
+							"ItemResponseOID": "D307FF1D-0735-44DD-8E6D-E2A80065073E",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "37EF3E9B-A114-455F-A611-B5177E5EBC48",
+							"Description": "Algo",
+							"FormItemOID": "03E3E99C-7804-431D-AE91-51F4FC7DE01A",
+							"ItemResponseOID": "FCBC9B05-8D53-4ADE-9C71-533EA12EF9DC",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "C06466D5-ADDD-48C5-A338-746520706460",
+							"Description": "Mucho",
+							"FormItemOID": "03E3E99C-7804-431D-AE91-51F4FC7DE01A",
+							"ItemResponseOID": "70384D9B-9CDA-438A-96A8-F8DA4541865F",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "0AF06C59-5F54-462F-AF4B-BCBA0C9BA55F",
+							"Description": "No puedo hacerlo",
+							"FormItemOID": "03E3E99C-7804-431D-AE91-51F4FC7DE01A",
+							"ItemResponseOID": "D5BCCAA4-F316-43C1-86E2-C8FFB066A165",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "FFC5DA97-A1E1-4065-9EE2-973D1180769E",
+			"ID": "NQCOG38r1",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "600CB900-F419-42EA-8731-3D5FD40554C2",
+					"Description": "\u00bfCu\u00e1nta DIFICULTAD tiene actualmente para\u2026",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "B589E90B-F523-4874-8815-2955FAA67ACE",
+					"Description": "recordar d\u00f3nde ha puesto o guardado cosas (por ejemplo, las llaves)?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "44F92E9D-BA7A-4008-B993-D2D7C1F16379",
+					"Description": "ContainerFor44F92E9D-BA7A-4008-B993-D2D7C1F16379",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "79312CC7-10E7-4130-8351-87800A92F656",
+							"Description": "Nada",
+							"FormItemOID": "FFC5DA97-A1E1-4065-9EE2-973D1180769E",
+							"ItemResponseOID": "7BD6CFF5-945C-4E23-A13F-B42FD5D72369",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "A03CD854-C14F-4039-8079-4FB0DEF4A90C",
+							"Description": "Poco",
+							"FormItemOID": "FFC5DA97-A1E1-4065-9EE2-973D1180769E",
+							"ItemResponseOID": "B825DC99-9375-493F-B666-0A0BEA7C0C81",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "D1DA9CC6-C71F-4FEB-A025-89C144E43AD0",
+							"Description": "Algo",
+							"FormItemOID": "FFC5DA97-A1E1-4065-9EE2-973D1180769E",
+							"ItemResponseOID": "3413E779-6900-4A0E-B314-F1D42263C2A9",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "AB5B2D7B-F050-4426-8485-2621C8B14281",
+							"Description": "Mucho",
+							"FormItemOID": "FFC5DA97-A1E1-4065-9EE2-973D1180769E",
+							"ItemResponseOID": "9133ADE2-93C1-4E65-AEE8-C94A63A7DE20",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "A396304A-059A-4753-AE69-47553D42FCA4",
+							"Description": "No puedo hacerlo",
+							"FormItemOID": "FFC5DA97-A1E1-4065-9EE2-973D1180769E",
+							"ItemResponseOID": "47F35E65-9D7A-41DF-A03F-51D81F4699E8",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "84E6FF92-C165-4274-A25F-E87642F421F6",
+			"ID": "NQCOG39r1",
+			"Order": "9",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "600CB900-F419-42EA-8731-3D5FD40554C2",
+					"Description": "\u00bfCu\u00e1nta DIFICULTAD tiene actualmente para\u2026",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "B0BDFF9E-AE29-4543-BF32-2A0E47335A06",
+					"Description": "recordar una lista de 4 \u00f3 5 mandados sin escribirlos?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "1209AF93-3ACC-4F9A-A5F5-A7C4DEF51A73",
+					"Description": "ContainerFor1209AF93-3ACC-4F9A-A5F5-A7C4DEF51A73",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "F447450C-8F5A-472A-B119-5B40E3422CB8",
+							"Description": "Nada",
+							"FormItemOID": "84E6FF92-C165-4274-A25F-E87642F421F6",
+							"ItemResponseOID": "74580D58-8D89-4F03-B6E6-8DD60FFA3A4A",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "2E12EFE2-601F-4C40-9C7C-85504A21E111",
+							"Description": "Poco",
+							"FormItemOID": "84E6FF92-C165-4274-A25F-E87642F421F6",
+							"ItemResponseOID": "55952140-1D8C-49B9-AE8F-BBF74E192668",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "BDB7971A-5162-4F58-983E-D0E97EA3544E",
+							"Description": "Algo",
+							"FormItemOID": "84E6FF92-C165-4274-A25F-E87642F421F6",
+							"ItemResponseOID": "7619B378-35CC-45BF-BEA0-F5F64A8E049C",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "530D7E1C-EAB6-4D52-B89D-53D67BC7ABA5",
+							"Description": "Mucho",
+							"FormItemOID": "84E6FF92-C165-4274-A25F-E87642F421F6",
+							"ItemResponseOID": "8CD33993-75CA-4122-ADAA-9356F00FE6F2",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2829BDCC-3650-4E83-B001-3829E2971819",
+							"Description": "No puedo hacerlo",
+							"FormItemOID": "84E6FF92-C165-4274-A25F-E87642F421F6",
+							"ItemResponseOID": "25E1F0DA-61F4-435F-9ED7-A21FF1E0333D",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "E912AE80-4725-4EEA-990F-05B2707154EE",
+			"ID": "NQCOG40r1",
+			"Order": "10",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "600CB900-F419-42EA-8731-3D5FD40554C2",
+					"Description": "\u00bfCu\u00e1nta DIFICULTAD tiene actualmente para\u2026",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "679FC288-2CE5-40A8-8370-A76EDC55874D",
+					"Description": "aprender tareas o instrucciones nuevas?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "784BFB26-1371-4A6F-9560-3D11E4F497EB",
+					"Description": "ContainerFor784BFB26-1371-4A6F-9560-3D11E4F497EB",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "5A367DE3-7528-48C7-AF31-E8CE5B82C3D6",
+							"Description": "Nada",
+							"FormItemOID": "E912AE80-4725-4EEA-990F-05B2707154EE",
+							"ItemResponseOID": "7FAFD035-A98D-4BE1-8089-307A51DC304E",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "4938596D-459F-45C4-86A6-16DBA0384976",
+							"Description": "Poco",
+							"FormItemOID": "E912AE80-4725-4EEA-990F-05B2707154EE",
+							"ItemResponseOID": "D4DF9A2E-2476-4778-94E3-BA4547216BBC",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "8DBD69F3-373C-465E-A354-9D897BDDC7A4",
+							"Description": "Algo",
+							"FormItemOID": "E912AE80-4725-4EEA-990F-05B2707154EE",
+							"ItemResponseOID": "EBED5991-8C58-453C-B55E-DA4CACB899C5",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "3E2B98DA-261F-4656-8834-EE8E031C0F4D",
+							"Description": "Mucho",
+							"FormItemOID": "E912AE80-4725-4EEA-990F-05B2707154EE",
+							"ItemResponseOID": "8334FE6D-1153-45FB-8137-52D1F2ACF29B",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "780251F4-76FA-41A0-AC88-7D5D780E790D",
+							"Description": "No puedo hacerlo",
+							"FormItemOID": "E912AE80-4725-4EEA-990F-05B2707154EE",
+							"ItemResponseOID": "0B20118B-B6A1-4B63-AA6F-3EB88EC751C4",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "278DE03B-1C9B-4547-A2EA-2E771460ED40",
+			"ID": "NQCOG46r1",
+			"Order": "11",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "DA5C46A4-EF98-4EE7-9CB8-EA64C74D0980",
+					"Description": "Comet\u00ed errores sencillos con m\u00e1s facilidad",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "A4360D5D-05E6-435D-8571-3B56596227AA",
+					"Description": "ContainerForA4360D5D-05E6-435D-8571-3B56596227AA",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "96AD2495-39B6-4035-B520-AA5258667C39",
+							"Description": "Nunca",
+							"FormItemOID": "278DE03B-1C9B-4547-A2EA-2E771460ED40",
+							"ItemResponseOID": "8EBF1C5A-F915-4642-B69A-180E064479EC",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "C9A9B379-DCFF-4533-BAED-89D8DD69CFE2",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "278DE03B-1C9B-4547-A2EA-2E771460ED40",
+							"ItemResponseOID": "6F0DC14D-CA23-4248-870E-B121FFCBC79B",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "B14F12A7-AD78-4FF5-93EF-4D383FB6B1F6",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "278DE03B-1C9B-4547-A2EA-2E771460ED40",
+							"ItemResponseOID": "16FB419C-C504-4CF3-993B-846229974EF3",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "2DFEACD9-2D15-4D88-911D-D21D853755AD",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "278DE03B-1C9B-4547-A2EA-2E771460ED40",
+							"ItemResponseOID": "8EF8796F-7410-4304-A30C-4AEFD63D1E4A",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "C2B0739D-6227-4323-B1CD-137890BEC448",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "278DE03B-1C9B-4547-A2EA-2E771460ED40",
+							"ItemResponseOID": "E946E724-793D-4DE4-92B8-B0575ABFE56D",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2EAA0C1F-A144-43DA-84F1-301C2ABF4360",
+			"ID": "NQCOG53r1",
+			"Order": "12",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8AEB3AAB-C604-4ED7-9374-6FF17D1F6DA0",
+					"Description": "Me pareci\u00f3 como si tuviera en \u201cla punta de la lengua\u201d las palabras que quer\u00eda usar",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "BDFFC434-5230-41E3-95BE-F1A3EAC295C5",
+					"Description": "ContainerForBDFFC434-5230-41E3-95BE-F1A3EAC295C5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "AD7AD4F0-40DA-4B16-8E4A-22A4C9780FDA",
+							"Description": "Nunca",
+							"FormItemOID": "2EAA0C1F-A144-43DA-84F1-301C2ABF4360",
+							"ItemResponseOID": "4ACBC71E-6C25-4B41-A0D6-37A85C9045F4",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "32371DFB-5A70-493F-93A8-5549DB57DF93",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "2EAA0C1F-A144-43DA-84F1-301C2ABF4360",
+							"ItemResponseOID": "A0358CF9-05F7-412E-B273-70BBF60F5EB5",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "0E3BC59A-CC94-49A4-AC05-B6D4B455ED40",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "2EAA0C1F-A144-43DA-84F1-301C2ABF4360",
+							"ItemResponseOID": "74B824B2-D5DE-47F0-BEA7-99E11936C223",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "03306D5D-1619-4C4D-96CA-71AE08487725",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "2EAA0C1F-A144-43DA-84F1-301C2ABF4360",
+							"ItemResponseOID": "FBB8D6ED-FFC1-434D-AA4B-0B160628D2F5",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "C0FE2602-0F33-4680-B9D1-CB21D3A0E62A",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "2EAA0C1F-A144-43DA-84F1-301C2ABF4360",
+							"ItemResponseOID": "A69FBB4C-FC19-46BC-A3BE-A7F0D14464FE",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "919F94E8-C7F8-4B34-9AFC-8529EE6191F0",
+			"ID": "NQCOG64r1",
+			"Order": "13",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6AFF17F7-F722-4888-A3D7-770B57E09AC5",
+					"Description": "Tuve que leer algo m\u00e1s de una vez para entenderlo",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "38FE659F-25C8-44E6-835A-66173B785F86",
+					"Description": "ContainerFor38FE659F-25C8-44E6-835A-66173B785F86",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "8BA01076-D6C6-45C4-88F1-F0FD3AF94962",
+							"Description": "Nunca",
+							"FormItemOID": "919F94E8-C7F8-4B34-9AFC-8529EE6191F0",
+							"ItemResponseOID": "670FDBC6-1AF2-4D4C-96C2-574A1E5C9DD0",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "849CEBD9-8DD7-4762-B857-99508AEADF8E",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "919F94E8-C7F8-4B34-9AFC-8529EE6191F0",
+							"ItemResponseOID": "416AA80A-1668-43B5-8CDC-D1EE97961F79",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "3580F11A-8345-4093-B1B1-23C20B0F4704",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "919F94E8-C7F8-4B34-9AFC-8529EE6191F0",
+							"ItemResponseOID": "12384941-D6DD-4C68-AC7B-A4102C631FD5",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "3B8DEDA9-1F25-48FD-A7A9-0788D001FC98",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "919F94E8-C7F8-4B34-9AFC-8529EE6191F0",
+							"ItemResponseOID": "D80697C6-8CFD-49B2-B78E-A65A24DF3737",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "8FD8F2DB-28A1-44F7-A3CC-9A1D55401E81",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "919F94E8-C7F8-4B34-9AFC-8529EE6191F0",
+							"ItemResponseOID": "62E559E4-DAD0-4737-BA58-8685A7CFF3F8",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2BB757A6-5848-4787-B61E-045F1E5307D4",
+			"ID": "NQCOG65r1",
+			"Order": "14",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D75BDD53-FDB8-4E8A-A8DB-628BBDA5640E",
+					"Description": "Tuve problemas para recordar lo que estaba haciendo si me interrump\u00edan",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "F7F93AF5-E44F-40DB-ADCD-3392871C6344",
+					"Description": "ContainerForF7F93AF5-E44F-40DB-ADCD-3392871C6344",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "BD068E72-0F4A-4045-A86A-AC212169DFCB",
+							"Description": "Nunca",
+							"FormItemOID": "2BB757A6-5848-4787-B61E-045F1E5307D4",
+							"ItemResponseOID": "C235103A-D8CA-40F4-BDC5-181AC598F8CD",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "1CA4BCA0-482D-45E1-BD1F-0070ACF25094",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "2BB757A6-5848-4787-B61E-045F1E5307D4",
+							"ItemResponseOID": "9E2F5941-2002-4D8B-B988-16726100C735",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "D94124D5-614A-4FA4-8CEE-E39A4135F577",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "2BB757A6-5848-4787-B61E-045F1E5307D4",
+							"ItemResponseOID": "495E32ED-881C-47AC-981B-F9A7F01BDB6C",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "BDE8ED06-B759-4EEE-AE12-16BF3C5E74B2",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "2BB757A6-5848-4787-B61E-045F1E5307D4",
+							"ItemResponseOID": "C5A2A97D-8B00-4A33-98F3-753C66202D03",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "077B4032-F2D1-402C-8990-774D9AB84E02",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "2BB757A6-5848-4787-B61E-045F1E5307D4",
+							"ItemResponseOID": "730E157F-7649-4722-A7CE-4E28B5A7D6CD",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "4092A2B4-8C48-4766-8579-F692AB2661E2",
+			"ID": "NQCOG66r1",
+			"Order": "15",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E3EBE0D5-1E26-4551-9D4D-296724C670AE",
+					"Description": "Tuve dificultad para hacer m\u00e1s de una cosa a la vez",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "EA1022C2-68C3-4097-B90F-F3C7C5D01EF0",
+					"Description": "ContainerForEA1022C2-68C3-4097-B90F-F3C7C5D01EF0",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "6EB33E3E-8D82-42DA-8204-B4D679D22CE9",
+							"Description": "Nunca",
+							"FormItemOID": "4092A2B4-8C48-4766-8579-F692AB2661E2",
+							"ItemResponseOID": "72E2CE22-077C-48D2-BABF-8EC72F62A96E",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7F59C7C3-0FD6-45A5-8A1D-B9FE3C47BFDB",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "4092A2B4-8C48-4766-8579-F692AB2661E2",
+							"ItemResponseOID": "1C8F9337-B52E-472F-9DF1-17E687DE86AB",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F88FAE4E-B85F-4E52-BDBB-388DAAA9D279",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "4092A2B4-8C48-4766-8579-F692AB2661E2",
+							"ItemResponseOID": "B56F6B1F-B1BF-435E-A123-E3CC00EE7B1F",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "D7AA873B-9F15-4C3F-BF7C-833CF4250216",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "4092A2B4-8C48-4766-8579-F692AB2661E2",
+							"ItemResponseOID": "077F7A70-767D-4A01-B0E6-AF4AD74D407A",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "220EBB41-DE4F-4E51-8A09-37A31D8F4512",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "4092A2B4-8C48-4766-8579-F692AB2661E2",
+							"ItemResponseOID": "7089A71D-E88A-4F43-A51D-871E92267205",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "790BC58F-95C6-415C-9CF1-462B52733497",
+			"ID": "NQCOG67r1",
+			"Order": "16",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "87D936D2-D35B-43B7-900B-DA5FA3CD1705",
+					"Description": "Tuve dificultad para recordar si hice lo que deb\u00eda hacer, como tomar un medicamento o comprar algo que necesitaba",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "E3445090-521F-4EF1-9390-C2F28FE082C1",
+					"Description": "ContainerForE3445090-521F-4EF1-9390-C2F28FE082C1",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "3A672789-0FA2-4660-8B46-BA1339817A22",
+							"Description": "Nunca",
+							"FormItemOID": "790BC58F-95C6-415C-9CF1-462B52733497",
+							"ItemResponseOID": "BA9D73FB-BEFD-472A-AF97-5AC73002B1AA",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "554DCFA3-1808-424D-B072-E91FA447357A",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "790BC58F-95C6-415C-9CF1-462B52733497",
+							"ItemResponseOID": "7A5E7164-55C0-433A-980C-CEBE37B37D07",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4D77E521-EF20-4CD1-B12C-7B42D1803E47",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "790BC58F-95C6-415C-9CF1-462B52733497",
+							"ItemResponseOID": "2AE61963-0680-40E1-B920-F1F7C501A642",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "4D1BB03F-647F-4BD7-B347-0854DD2F9991",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "790BC58F-95C6-415C-9CF1-462B52733497",
+							"ItemResponseOID": "EF7711FF-68B6-496C-8792-C4F00FC00C8F",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "D0012D5E-877D-41C0-B62B-AA0448B519E7",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "790BC58F-95C6-415C-9CF1-462B52733497",
+							"ItemResponseOID": "CE98712D-A486-45C5-83CE-65723BC3ECE0",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "A18B5501-5314-45CE-BE55-98BD9E044CF8",
+			"ID": "NQCOG68r1",
+			"Order": "17",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "135BC2AB-B340-4591-AA0C-BC1566C1037D",
+					"Description": "Tuve dificultad para recordar informaci\u00f3n nueva, como n\u00fameros de tel\u00e9fono o instrucciones sencillas",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "0DE41082-2696-42E1-B097-B155B816DD42",
+					"Description": "ContainerFor0DE41082-2696-42E1-B097-B155B816DD42",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "45CCF4A3-3063-48D6-820F-C624DDF2D2EF",
+							"Description": "Nunca",
+							"FormItemOID": "A18B5501-5314-45CE-BE55-98BD9E044CF8",
+							"ItemResponseOID": "6AC012BE-9EC2-479E-B572-8093A78E0A83",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "36A1ABFF-C28A-4C2E-807D-86223184CA18",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "A18B5501-5314-45CE-BE55-98BD9E044CF8",
+							"ItemResponseOID": "C50E45C0-B831-45AE-8C26-6802638823E1",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "E9EA6FE9-2B5C-4444-BECC-62508DC6CF64",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "A18B5501-5314-45CE-BE55-98BD9E044CF8",
+							"ItemResponseOID": "A7622233-BD7A-4EC4-AD34-E3B7FFC32A43",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "3A52F0BF-3422-4C09-9A53-34A0D5AEFF80",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "A18B5501-5314-45CE-BE55-98BD9E044CF8",
+							"ItemResponseOID": "68EE3322-4DF2-4F64-904A-1D490089ED23",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "17C0E98D-B3B9-463C-8898-71705BC4706B",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "A18B5501-5314-45CE-BE55-98BD9E044CF8",
+							"ItemResponseOID": "0EF7B73C-A35C-4671-81F5-4EE1617562D6",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "07A30ECB-0CF1-4366-9B04-91E07B785BE2",
+			"ID": "NQCOG69r1",
+			"Order": "18",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "88EE24D3-899D-463F-8DC7-F7C43FFD7C0C",
+					"Description": "Entr\u00e9 en una habitaci\u00f3n y olvid\u00e9 lo que quer\u00eda buscar o hacer all\u00ed",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "A522A8A0-548E-4863-9620-5C658FCE6B52",
+					"Description": "ContainerForA522A8A0-548E-4863-9620-5C658FCE6B52",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "27265A01-5205-493C-BE6B-6259927B3D06",
+							"Description": "Nunca",
+							"FormItemOID": "07A30ECB-0CF1-4366-9B04-91E07B785BE2",
+							"ItemResponseOID": "70A8B765-B5D0-4984-83A1-701DAC3A5031",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "A17BEC4A-2610-4742-8D41-AB0014388DEF",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "07A30ECB-0CF1-4366-9B04-91E07B785BE2",
+							"ItemResponseOID": "B4D69F26-258B-482D-9016-3D9090CB0E23",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "A714AC50-B539-4F50-A3A6-4DA56F9CB13F",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "07A30ECB-0CF1-4366-9B04-91E07B785BE2",
+							"ItemResponseOID": "619F5E86-8BFB-44BC-98C0-AEEEC02A92A4",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "D1AAC9AE-E881-480F-B065-5311D7C88316",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "07A30ECB-0CF1-4366-9B04-91E07B785BE2",
+							"ItemResponseOID": "867F3014-254C-412D-97B0-5095A7EAD971",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "23A1A369-F660-4DCF-83DA-2865912E90FC",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "07A30ECB-0CF1-4366-9B04-91E07B785BE2",
+							"ItemResponseOID": "DD09214F-A58B-46F4-AA90-E365CE3BC32A",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "BD3F30B0-D19A-48C8-995F-77671BC42950",
+			"ID": "NQCOG70r1",
+			"Order": "19",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "F8CF4F9E-F21E-4AEE-9F33-EEB20B7767E4",
+					"Description": "Tuve dificultad para recordar el nombre de una persona conocida",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "DF3B8F8F-DDC2-4FBA-AE4C-DB50AF4B8422",
+					"Description": "ContainerForDF3B8F8F-DDC2-4FBA-AE4C-DB50AF4B8422",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "46E0F375-7A90-40A1-A21E-981DF0A24BCD",
+							"Description": "Nunca",
+							"FormItemOID": "BD3F30B0-D19A-48C8-995F-77671BC42950",
+							"ItemResponseOID": "DA223342-2E1D-49AE-A5BD-0F888174ACE4",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B3EA762F-8071-4C1F-9A70-DE76FC3ABEFA",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "BD3F30B0-D19A-48C8-995F-77671BC42950",
+							"ItemResponseOID": "A6B19F80-3A56-4421-8B3E-9B5CC5365C51",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "99D8C1C8-B893-4D32-A40F-51BFF25E3AC4",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "BD3F30B0-D19A-48C8-995F-77671BC42950",
+							"ItemResponseOID": "8CC3ECDA-8508-48B9-877C-EB1F67FC2BBA",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "64655913-DBD4-4242-BFBD-BDF99F214077",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "BD3F30B0-D19A-48C8-995F-77671BC42950",
+							"ItemResponseOID": "097C7822-1013-46C6-99AA-C2CC9536A786",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "3C5A2DA1-7F3A-435F-8297-D882A479CD40",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "BD3F30B0-D19A-48C8-995F-77671BC42950",
+							"ItemResponseOID": "DB4E96B5-CD13-45DA-86A3-347A826D9741",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "B442476F-657E-4ED4-A47B-AD0C3EEF8930",
+			"ID": "NQCOG72r1",
+			"Order": "20",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8BC8BD1A-D400-4DAB-A078-7AF85B357871",
+					"Description": "Me cost\u00f3 trabajo pensar con claridad",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "6D516102-3F4F-4EAE-B7A4-8D82E903C31A",
+					"Description": "ContainerFor6D516102-3F4F-4EAE-B7A4-8D82E903C31A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "8AAFF8EE-F98B-48CF-A2D4-8EC7ACC76FB2",
+							"Description": "Nunca",
+							"FormItemOID": "B442476F-657E-4ED4-A47B-AD0C3EEF8930",
+							"ItemResponseOID": "34953D2E-FB30-470E-91CE-3F4E68DF3FDA",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "4CDAC38E-27F4-4B19-9706-A87AAC3A5A24",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "B442476F-657E-4ED4-A47B-AD0C3EEF8930",
+							"ItemResponseOID": "62B93405-B165-4EC3-8905-0B08F93B9ACA",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "A68515FF-40DA-4806-8FFE-1C7C94F3EE02",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "B442476F-657E-4ED4-A47B-AD0C3EEF8930",
+							"ItemResponseOID": "41F457C6-079A-471D-B60E-292C7B7BB4D4",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "ED24C6DD-9CB9-43E1-BB4E-4104C96DF112",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "B442476F-657E-4ED4-A47B-AD0C3EEF8930",
+							"ItemResponseOID": "68F75B03-5C2D-468C-99B2-4C1CCF6ECA6C",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "3F2D9ADF-8945-446C-A49E-2DCE64F96E30",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "B442476F-657E-4ED4-A47B-AD0C3EEF8930",
+							"ItemResponseOID": "3C34DFD2-EA99-4136-9E88-4098BC14858B",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "324D1A92-08F2-4A19-BE81-96FE80717760",
+			"ID": "NQCOG73r1",
+			"Order": "21",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "32AB2072-1699-4203-A575-8992B84D81B8",
+					"Description": "Reaccion\u00e9 con lentitud a cosas que se dijeron o hicieron",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "DEC2B253-8DF6-44BB-8415-9B90710FF39E",
+					"Description": "ContainerForDEC2B253-8DF6-44BB-8415-9B90710FF39E",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "A289E032-230F-4847-8DE4-BFA301002BE7",
+							"Description": "Nunca",
+							"FormItemOID": "324D1A92-08F2-4A19-BE81-96FE80717760",
+							"ItemResponseOID": "974B46E6-0506-4429-AFE9-B649DB2CC7FD",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D5FB58B0-3E6E-48EE-9666-9E15F5BC7DF2",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "324D1A92-08F2-4A19-BE81-96FE80717760",
+							"ItemResponseOID": "5149CE4D-C067-487E-8D93-EA267559721E",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "E5A34A84-9921-4316-B22D-FE91BB6B9F7B",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "324D1A92-08F2-4A19-BE81-96FE80717760",
+							"ItemResponseOID": "82DD5A0C-B3F4-42D8-B6FB-954B2901376B",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "709BB63E-2B3A-40BC-B3CE-2B45A6C125EA",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "324D1A92-08F2-4A19-BE81-96FE80717760",
+							"ItemResponseOID": "11E3F14E-E2A8-41CA-A8CD-B994495D8967",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "83D7DE26-70E0-4B2D-894B-FE427001606C",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "324D1A92-08F2-4A19-BE81-96FE80717760",
+							"ItemResponseOID": "EE4E8F63-4FEA-45BA-8386-446ABA1CB911",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "6DF8C528-7048-409C-9024-32761E45FC91",
+			"ID": "NQCOG74r1",
+			"Order": "22",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "491CB660-53C3-4912-B2C4-6E52B1BE81D6",
+					"Description": "Tuve dificultad para formar mis pensamientos",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "F55A5B14-3842-499F-B707-2F05C2EFAE1E",
+					"Description": "ContainerForF55A5B14-3842-499F-B707-2F05C2EFAE1E",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "CFDDAF31-47D5-444E-BA00-25A671310F18",
+							"Description": "Nunca",
+							"FormItemOID": "6DF8C528-7048-409C-9024-32761E45FC91",
+							"ItemResponseOID": "1163F5B8-B914-4A2A-8D60-61037D49EA53",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "0A8C9B30-2EA4-474A-8A40-89E5A1178CBA",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "6DF8C528-7048-409C-9024-32761E45FC91",
+							"ItemResponseOID": "6D5595E9-11C9-4141-9107-E08E686D2BD4",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "226578C9-F563-458F-948B-4FCD540EF983",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "6DF8C528-7048-409C-9024-32761E45FC91",
+							"ItemResponseOID": "33DAB685-DA16-491E-ADAA-10C8702A2378",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "D3E9F912-AFF2-4655-A4B9-9C7AFE00F636",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "6DF8C528-7048-409C-9024-32761E45FC91",
+							"ItemResponseOID": "20A5888A-4F58-490D-BFEA-73215561A6F9",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37FA0CE5-40A6-46FC-9606-228F85678CE2",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "6DF8C528-7048-409C-9024-32761E45FC91",
+							"ItemResponseOID": "5661A7F5-F7D7-44B6-AAB5-F9A137561471",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2D6EB65B-CD9B-4048-8F9E-65A6E5467159",
+			"ID": "NQCOG75r1",
+			"Order": "23",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8EF7F185-2DD5-4E8D-BFA5-A62E30D62D46",
+					"Description": "Pens\u00e9 con lentitud",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "65B38BA9-DAB7-40C1-AD65-F691BB5F43AC",
+					"Description": "ContainerFor65B38BA9-DAB7-40C1-AD65-F691BB5F43AC",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "BA71D721-ADFE-4EE7-97A2-F5A284750E31",
+							"Description": "Nunca",
+							"FormItemOID": "2D6EB65B-CD9B-4048-8F9E-65A6E5467159",
+							"ItemResponseOID": "5E6172BE-41A7-4249-8F23-719B3D1FA659",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7CE4B871-6520-4A95-8BBD-D2AC73541D88",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "2D6EB65B-CD9B-4048-8F9E-65A6E5467159",
+							"ItemResponseOID": "67DE976E-E102-4EAF-A60F-BF4D4BC3B84C",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "26D7405F-86CB-4BD2-98D9-A6255401E7C2",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "2D6EB65B-CD9B-4048-8F9E-65A6E5467159",
+							"ItemResponseOID": "1F437BD9-272D-4727-95D5-5102B884179C",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "EA32402F-D18E-4BD5-A36E-A773C9503526",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "2D6EB65B-CD9B-4048-8F9E-65A6E5467159",
+							"ItemResponseOID": "48E4FF3A-6F97-4EA0-B86F-09CEACAF4FAB",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "E1FD70F9-4E2E-4200-A1EE-FE64DF14E5EB",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "2D6EB65B-CD9B-4048-8F9E-65A6E5467159",
+							"ItemResponseOID": "A7BE39BA-AEDD-479C-B607-DBAD339F6D76",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3",
+			"ID": "NQCOG77r1",
+			"Order": "24",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "5297E260-E948-4F4C-8B27-A539394BE3E4",
+					"Description": "Tuve que hacer mucho esfuerzo para prestar atenci\u00f3n, de lo contrario cometer\u00eda un error",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "5948E4B5-4FD8-42BE-B2D8-036BD8F51CBA",
+					"Description": "ContainerFor5948E4B5-4FD8-42BE-B2D8-036BD8F51CBA",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "BD45B169-2335-44DB-8FC4-6F3F3A45673C",
+							"Description": "Nunca",
+							"FormItemOID": "DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3",
+							"ItemResponseOID": "B636E960-2552-4F2F-BA73-A2B1FE008A5E",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "024ED545-0F3C-4491-99D9-6D9D12DAC597",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3",
+							"ItemResponseOID": "19519EEC-65B5-4878-AC7F-889077FBD0E9",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "88DA4470-9784-462D-AB78-D54A01D45F79",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3",
+							"ItemResponseOID": "BD7CA529-3CF3-4195-90DE-15FC927A5E58",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "0845EF1B-AC76-438C-8C30-23B6CD228585",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3",
+							"ItemResponseOID": "8F3DEF37-5707-4FDE-916C-32BA6F3D4B96",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "C32E416E-4E7D-41FC-8204-06CB7B8C813B",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "DDDDC272-7E5B-44A2-AFBE-A64CA3E7C7C3",
+							"ItemResponseOID": "FF72B72F-6802-4355-85BA-9F9C41369655",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "48E4E924-E4A3-40F0-9C9F-D865A5C288D7",
+			"ID": "NQCOG80r1",
+			"Order": "25",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "A7AD5304-EABE-43C9-9A50-AA559FD0949D",
+					"Description": "Tuve dificultad para concentrarme",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "F0538C63-1632-45F1-A58D-0E4458F8CAA7",
+					"Description": "ContainerForF0538C63-1632-45F1-A58D-0E4458F8CAA7",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "02DBF195-5A0F-4344-8400-904ACF6370DD",
+							"Description": "Nunca",
+							"FormItemOID": "48E4E924-E4A3-40F0-9C9F-D865A5C288D7",
+							"ItemResponseOID": "5213F71B-BAF2-4727-8B1A-A09C2C47EB5B",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "12953CC7-A57F-4DB0-92C7-125CB7973A83",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "48E4E924-E4A3-40F0-9C9F-D865A5C288D7",
+							"ItemResponseOID": "6A6E9C16-6DB6-454C-8649-317A7F541B9F",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "A8F00EA3-774C-45D4-841B-77D5EE5FE770",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "48E4E924-E4A3-40F0-9C9F-D865A5C288D7",
+							"ItemResponseOID": "6DF5D6BC-5935-4E83-9780-06837184D25B",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "A2906F03-353B-4126-891C-EFCF5F450B42",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "48E4E924-E4A3-40F0-9C9F-D865A5C288D7",
+							"ItemResponseOID": "F6B0FD12-E1D6-4D7B-897F-5B6A83AC21DC",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "5CFFCC35-4CD7-4FBB-ABE8-FEC839093BE1",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "48E4E924-E4A3-40F0-9C9F-D865A5C288D7",
+							"ItemResponseOID": "0F8887D1-86A8-4C87-B087-9D6D0E50CDA0",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "7A6BA1E0-4385-4391-B330-AD7EF8D95187",
+			"ID": "NQCOG83r1",
+			"Order": "26",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D243DE66-155A-4475-961F-23C1761BB319",
+					"Description": "Tuve problemas para empezar tareas muy sencillas",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "0A9C00A6-69DD-415D-B0AB-FBD11AAC3A35",
+					"Description": "ContainerFor0A9C00A6-69DD-415D-B0AB-FBD11AAC3A35",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "BD5EF027-A509-4402-8543-A934B8F1613C",
+							"Description": "Nunca",
+							"FormItemOID": "7A6BA1E0-4385-4391-B330-AD7EF8D95187",
+							"ItemResponseOID": "8B1A94CC-1E42-44CB-85C4-2D56C723C096",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "4A7E50EE-E710-4AC2-AA17-6502F4188F81",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "7A6BA1E0-4385-4391-B330-AD7EF8D95187",
+							"ItemResponseOID": "10C3E519-A409-4A94-8B24-FA1645AC05E4",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "239F6DEE-2F26-4CE7-B6F4-4BD87F810C53",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "7A6BA1E0-4385-4391-B330-AD7EF8D95187",
+							"ItemResponseOID": "9A0E0356-2A15-42A9-973F-7265119B8854",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "FE804199-1809-46CF-8D75-4035A661FEB1",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "7A6BA1E0-4385-4391-B330-AD7EF8D95187",
+							"ItemResponseOID": "B3369D38-9022-484C-8B05-B4E42A348491",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "FF80AE4D-C596-4252-9BB2-E5950BA27E30",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "7A6BA1E0-4385-4391-B330-AD7EF8D95187",
+							"ItemResponseOID": "9CEF9D39-ED56-4564-9CD3-438AFF1E7881",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0",
+			"ID": "NQCOG84r1",
+			"Order": "27",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D77489A4-71B2-4702-8EC7-7A154EDCE8B7",
+					"Description": "Tuve problemas para tomar decisiones",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "C1A3FBAB-DF9C-4152-81C8-C10C17BC0C25",
+					"Description": "ContainerForC1A3FBAB-DF9C-4152-81C8-C10C17BC0C25",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "35CE18CD-2C96-414F-B51C-645C85DD54C4",
+							"Description": "Nunca",
+							"FormItemOID": "9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0",
+							"ItemResponseOID": "5358C9BA-CEB5-4DA1-8BA6-DC19FE07A7B7",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "5165F31A-1D5C-4C0D-BC24-084BD359B14E",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0",
+							"ItemResponseOID": "55FD0181-830E-453A-8F84-6EDA65BF92C6",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "0BE8842B-0238-4051-A4F7-B8E600FA19E7",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0",
+							"ItemResponseOID": "73371F13-3851-4FB4-95EB-E56FF8CE8779",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "0F3E2FEA-87ED-47A2-AF7C-FC1B4A19B152",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0",
+							"ItemResponseOID": "1E17436A-44FF-43E6-9EF2-054633C44D65",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "94C3DC16-9BE7-40EC-BF0A-B2B0D08179E6",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "9C0AA161-1CC8-4B6A-9EA4-B999A293C2F0",
+							"ItemResponseOID": "6E0A7B94-1D7E-4303-A9DA-5601E765C4FE",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "A1C7D8F9-BF51-4D19-92C9-4776BE952E93",
+			"ID": "NQCOG86r1",
+			"Order": "28",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "3E2CEE63-7593-491B-B164-A78D1DA79E6E",
+					"Description": "Tuve problemas para planear los pasos de una tarea",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B5EB606D-06E1-4B34-B757-0EB185A1A396",
+					"Description": "ContainerForB5EB606D-06E1-4B34-B757-0EB185A1A396",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "F6F36143-9104-49C7-A276-6B08501C7E86",
+							"Description": "Nunca",
+							"FormItemOID": "A1C7D8F9-BF51-4D19-92C9-4776BE952E93",
+							"ItemResponseOID": "D7D99C37-552C-4738-BE10-964D8B00E040",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "750C127F-B312-4706-BDFB-D0B3F422ACEB",
+							"Description": "Rara vez (una vez)",
+							"FormItemOID": "A1C7D8F9-BF51-4D19-92C9-4776BE952E93",
+							"ItemResponseOID": "FB95B140-6C43-408C-824B-DCB8B5A4189E",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "96A537A8-01C6-4E95-944B-2E9020711C12",
+							"Description": "Algunas veces (dos o tres veces)",
+							"FormItemOID": "A1C7D8F9-BF51-4D19-92C9-4776BE952E93",
+							"ItemResponseOID": "88540275-3587-40CA-A7E0-8F3AD3F9BBC0",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "193F0655-EA32-4ED5-AA18-552E9CD8FA7F",
+							"Description": "A menudo (como una vez al d\u00eda)",
+							"FormItemOID": "A1C7D8F9-BF51-4D19-92C9-4776BE952E93",
+							"ItemResponseOID": "B821A72F-5082-4747-93A1-66289D1B0125",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "E997FDA3-9B1B-48A4-BD5C-7E0CCCD94A4C",
+							"Description": "Muy a menudo (varias veces al d\u00eda)",
+							"FormItemOID": "A1C7D8F9-BF51-4D19-92C9-4776BE952E93",
+							"ItemResponseOID": "583F687B-9B54-4598-BD9B-E3D31A70A7C0",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

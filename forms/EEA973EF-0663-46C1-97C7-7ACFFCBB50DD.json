@@ -1,1 +1,365 @@
-{"DateFinished":"","Items":[{"FormItemOID":"3CF9E9EA-2169-4281-A905-0C80EFDFAE4D","ID":"SMKPSY01","Order":"1","ItemType":"","Elements":[{"ElementOID":"DD7FCF2E-919A-4C0D-8D20-C72BDC5AACA7","Description":"If I quit smoking I will be more in control of my life.","ElementOrder":"1"},{"ElementOID":"7B698328-A59B-4691-B0BD-D65650686C59","Description":"ContainerFor7B698328-A59B-4691-B0BD-D65650686C59","ElementOrder":"2","Map":[{"ElementOID":"E5844066-9FC1-4ABB-93C2-C56D1F92F2D9","Description":"Not at all","FormItemOID":"3CF9E9EA-2169-4281-A905-0C80EFDFAE4D","ItemResponseOID":"95A39ADB-F131-4578-87F8-81D97DE12C23", "Value":"1","Position":"1"},{"ElementOID":"CF2EFC26-E46E-4D80-B2AE-F3C5AA5828D4","Description":"A little bit","FormItemOID":"3CF9E9EA-2169-4281-A905-0C80EFDFAE4D","ItemResponseOID":"F8ADB83E-DB78-413A-932C-B6C8B62B3A82", "Value":"2","Position":"2"},{"ElementOID":"9290AA23-F629-4198-B481-217C36136061","Description":"Somewhat","FormItemOID":"3CF9E9EA-2169-4281-A905-0C80EFDFAE4D","ItemResponseOID":"EDE8A606-5753-467B-AE47-D61FC35AF73B", "Value":"3","Position":"3"},{"ElementOID":"C752B93C-4817-43E9-A952-A2F234400279","Description":"Quite a bit","FormItemOID":"3CF9E9EA-2169-4281-A905-0C80EFDFAE4D","ItemResponseOID":"D095593A-10C1-4D7A-B848-4E2BAA1E3B36", "Value":"4","Position":"4"},{"ElementOID":"6922B503-F5A6-4122-B0FA-CF017BDD7C09","Description":"Very much","FormItemOID":"3CF9E9EA-2169-4281-A905-0C80EFDFAE4D","ItemResponseOID":"EDB1007E-2AEE-465F-A42E-C24781B022FB", "Value":"5","Position":"5"}]}]},{"FormItemOID":"F38C3F3D-21CA-4450-A3D2-2F875E93D500","ID":"SMKPSY02","Order":"2","ItemType":"","Elements":[{"ElementOID":"A9D2B330-DD54-4AD9-A922-406D204FCC57","Description":"If I quit smoking my friends will respect me more.","ElementOrder":"1"},{"ElementOID":"EA5F6CBF-AF97-454A-9D1E-CC9D31CA6AA1","Description":"ContainerForEA5F6CBF-AF97-454A-9D1E-CC9D31CA6AA1","ElementOrder":"2","Map":[{"ElementOID":"F67157E8-90FA-4D97-ADB1-EE73F09CF9C2","Description":"Not at all","FormItemOID":"F38C3F3D-21CA-4450-A3D2-2F875E93D500","ItemResponseOID":"3D45697B-54AD-48CB-9A82-93D871E6316B", "Value":"1","Position":"1"},{"ElementOID":"AD3F7953-616A-4139-833F-2437959BD650","Description":"A little bit","FormItemOID":"F38C3F3D-21CA-4450-A3D2-2F875E93D500","ItemResponseOID":"127E755B-A734-4607-9850-CDF6DAF6B3C3", "Value":"2","Position":"2"},{"ElementOID":"5A5EC6A4-C198-4DDF-BB53-B60F4112E040","Description":"Somewhat","FormItemOID":"F38C3F3D-21CA-4450-A3D2-2F875E93D500","ItemResponseOID":"ED663E40-3838-467B-8535-329F40C1DCB7", "Value":"3","Position":"3"},{"ElementOID":"1F9A2372-B974-4DF9-86CE-61E6C79DBDF5","Description":"Quite a bit","FormItemOID":"F38C3F3D-21CA-4450-A3D2-2F875E93D500","ItemResponseOID":"173D29E2-FF0C-45A2-AC5B-0E1FE37D4675", "Value":"4","Position":"4"},{"ElementOID":"C88F0D40-F7EF-4592-B14F-6A4C7B37087D","Description":"Very much","FormItemOID":"F38C3F3D-21CA-4450-A3D2-2F875E93D500","ItemResponseOID":"99A173B1-F414-4F62-932C-66C82A2E9AAF", "Value":"5","Position":"5"}]}]},{"FormItemOID":"A4E9C562-E1C1-410E-9ABF-13359B62CDF1","ID":"SMKPSY03","Order":"3","ItemType":"","Elements":[{"ElementOID":"F6F8F88A-204D-4FEF-A071-29DB179DB50D","Description":"My need for cigarettes makes me feel disappointed in myself.","ElementOrder":"1"},{"ElementOID":"C9E12C8B-FB5C-4F1B-B31B-5BC6E72F83AC","Description":"ContainerForC9E12C8B-FB5C-4F1B-B31B-5BC6E72F83AC","ElementOrder":"2","Map":[{"ElementOID":"E03F8BAD-25ED-4FA7-B2DA-555EF260EF5A","Description":"Not at all","FormItemOID":"A4E9C562-E1C1-410E-9ABF-13359B62CDF1","ItemResponseOID":"EBDAEE8F-C5A3-45FD-870B-DC55E964AD46", "Value":"1","Position":"1"},{"ElementOID":"C6A29DDD-A176-4E2F-BA3F-314D26A6D7B3","Description":"A little bit","FormItemOID":"A4E9C562-E1C1-410E-9ABF-13359B62CDF1","ItemResponseOID":"E681E704-6FAA-4AD7-9BBF-F247F64F6392", "Value":"2","Position":"2"},{"ElementOID":"5D2E4FBD-CD95-4FAD-B2EC-DC181F4CF21F","Description":"Somewhat","FormItemOID":"A4E9C562-E1C1-410E-9ABF-13359B62CDF1","ItemResponseOID":"D09C4556-5229-4010-9C96-7B25B863DA1C", "Value":"3","Position":"3"},{"ElementOID":"EB84625A-36A2-423A-A4B8-309820431D49","Description":"Quite a bit","FormItemOID":"A4E9C562-E1C1-410E-9ABF-13359B62CDF1","ItemResponseOID":"C8D41C11-FB95-4575-8829-771B3060A48A", "Value":"4","Position":"4"},{"ElementOID":"076D620F-468E-41D8-919C-26DA59FE10F2","Description":"Very much","FormItemOID":"A4E9C562-E1C1-410E-9ABF-13359B62CDF1","ItemResponseOID":"9C2B5C15-46AC-403C-B34B-85D15EF0324D", "Value":"5","Position":"5"}]}]},{"FormItemOID":"1655A224-4452-47A5-9D27-435533184126","ID":"SMKPSY04","Order":"4","ItemType":"","Elements":[{"ElementOID":"BDEFFF92-80DF-45F6-93A7-1502068F8CF5","Description":"My smoking makes me feel less attractive.","ElementOrder":"1"},{"ElementOID":"F781098D-DB56-4C45-8820-BE29A6DB8FFD","Description":"ContainerForF781098D-DB56-4C45-8820-BE29A6DB8FFD","ElementOrder":"2","Map":[{"ElementOID":"04E0F96B-1EEE-4FF3-881B-20C012D224A1","Description":"Not at all","FormItemOID":"1655A224-4452-47A5-9D27-435533184126","ItemResponseOID":"5FCEB2B7-F507-4286-9379-881C06BAAD8E", "Value":"1","Position":"1"},{"ElementOID":"63AADADA-A2C4-4933-A9F9-80BCEA08BF2B","Description":"A little bit","FormItemOID":"1655A224-4452-47A5-9D27-435533184126","ItemResponseOID":"E78A9565-365D-4290-807F-6C84C51B02CF", "Value":"2","Position":"2"},{"ElementOID":"78D9FC76-6EAE-4754-83AC-BD36AC40CECC","Description":"Somewhat","FormItemOID":"1655A224-4452-47A5-9D27-435533184126","ItemResponseOID":"91955083-1E1A-4D12-936A-ABB0E2B53CE5", "Value":"3","Position":"3"},{"ElementOID":"3823C2D8-2640-4FF7-9662-0A71415D0EE3","Description":"Quite a bit","FormItemOID":"1655A224-4452-47A5-9D27-435533184126","ItemResponseOID":"9BBE572A-0F48-4847-90D6-E3762B3DB790", "Value":"4","Position":"4"},{"ElementOID":"DF1A6E61-6FEF-4E0A-A802-57E1FC9A3392","Description":"Very much","FormItemOID":"1655A224-4452-47A5-9D27-435533184126","ItemResponseOID":"3533F1F1-EE55-4BDF-91E4-12888F3DC24A", "Value":"5","Position":"5"}]}]},{"FormItemOID":"B40876C4-7C0D-4B8A-8379-0AEB835A7C21","ID":"SMKPSY05","Order":"5","ItemType":"","Elements":[{"ElementOID":"9F355533-AE34-4FCB-B56F-31283F7AA8C3","Description":"People think less of me if they see me smoking.","ElementOrder":"1"},{"ElementOID":"14C5F1F7-36C0-4431-902E-949EDC60CE8F","Description":"ContainerFor14C5F1F7-36C0-4431-902E-949EDC60CE8F","ElementOrder":"2","Map":[{"ElementOID":"08E30902-BD70-4452-97E9-F5FD459BC367","Description":"Not at all","FormItemOID":"B40876C4-7C0D-4B8A-8379-0AEB835A7C21","ItemResponseOID":"6B6C8BA6-D4E4-468F-BDD7-ADE0B0F5CB65", "Value":"1","Position":"1"},{"ElementOID":"89C677BB-F0C4-4C5C-9693-965F5CCFD979","Description":"A little bit","FormItemOID":"B40876C4-7C0D-4B8A-8379-0AEB835A7C21","ItemResponseOID":"79CE018E-929E-4BBB-82A9-7DE4633455EF", "Value":"2","Position":"2"},{"ElementOID":"24837F77-D5A5-4DEF-BBE3-D704BFB29537","Description":"Somewhat","FormItemOID":"B40876C4-7C0D-4B8A-8379-0AEB835A7C21","ItemResponseOID":"1005A199-43B0-4003-A1B0-5887CACF523B", "Value":"3","Position":"3"},{"ElementOID":"C5B9CFBB-2560-48EA-B99A-2BD3071AC168","Description":"Quite a bit","FormItemOID":"B40876C4-7C0D-4B8A-8379-0AEB835A7C21","ItemResponseOID":"FDB8959F-37CA-4D46-8F88-CE4ADD431CAF", "Value":"4","Position":"4"},{"ElementOID":"7F20D8E1-3636-4A85-90E6-B5B3D1BA1FBB","Description":"Very much","FormItemOID":"B40876C4-7C0D-4B8A-8379-0AEB835A7C21","ItemResponseOID":"EEB942D4-4DEE-45F2-933D-3431EFEC6D08", "Value":"5","Position":"5"}]}]},{"FormItemOID":"E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D","ID":"SMKPSY06","Order":"6","ItemType":"","Elements":[{"ElementOID":"28B532BD-37D8-4CEF-9C11-A619F2F59895","Description":"My cigarette smoking bothers others.","ElementOrder":"1"},{"ElementOID":"D88B65A5-68B0-426B-88BF-EB047EA5C826","Description":"ContainerForD88B65A5-68B0-426B-88BF-EB047EA5C826","ElementOrder":"2","Map":[{"ElementOID":"ABDA999A-30B9-4DA0-9DDB-EF925852E20A","Description":"Not at all","FormItemOID":"E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D","ItemResponseOID":"9A50D3F2-FFA8-4DDE-A914-6B0237B6ADBC", "Value":"1","Position":"1"},{"ElementOID":"2297E280-1D12-44CD-9F5B-CE624F14A74F","Description":"A little bit","FormItemOID":"E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D","ItemResponseOID":"D25B6888-4B7E-407D-910B-72F72061921B", "Value":"2","Position":"2"},{"ElementOID":"CF4C3D9C-8282-468C-AE25-5F9A6BEA54B8","Description":"Somewhat","FormItemOID":"E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D","ItemResponseOID":"4D454DFC-C322-41C9-B077-ABC0852332F4", "Value":"3","Position":"3"},{"ElementOID":"A0547AC4-78DA-472D-A8C3-D22234E78231","Description":"Quite a bit","FormItemOID":"E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D","ItemResponseOID":"BD64DC6E-4601-46FF-974F-F04676FA201A", "Value":"4","Position":"4"},{"ElementOID":"3FAEE62D-1C4F-461A-9331-42771E81AB6A","Description":"Very much","FormItemOID":"E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D","ItemResponseOID":"6CD27085-AE39-4B6B-B443-8A226985EB59", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "3CF9E9EA-2169-4281-A905-0C80EFDFAE4D",
+			"ID": "SMKPSY01",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "DD7FCF2E-919A-4C0D-8D20-C72BDC5AACA7",
+					"Description": "If I quit smoking I will be more in control of my life.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7B698328-A59B-4691-B0BD-D65650686C59",
+					"Description": "ContainerFor7B698328-A59B-4691-B0BD-D65650686C59",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "E5844066-9FC1-4ABB-93C2-C56D1F92F2D9",
+							"Description": "Not at all",
+							"FormItemOID": "3CF9E9EA-2169-4281-A905-0C80EFDFAE4D",
+							"ItemResponseOID": "95A39ADB-F131-4578-87F8-81D97DE12C23",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "CF2EFC26-E46E-4D80-B2AE-F3C5AA5828D4",
+							"Description": "A little bit",
+							"FormItemOID": "3CF9E9EA-2169-4281-A905-0C80EFDFAE4D",
+							"ItemResponseOID": "F8ADB83E-DB78-413A-932C-B6C8B62B3A82",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "9290AA23-F629-4198-B481-217C36136061",
+							"Description": "Somewhat",
+							"FormItemOID": "3CF9E9EA-2169-4281-A905-0C80EFDFAE4D",
+							"ItemResponseOID": "EDE8A606-5753-467B-AE47-D61FC35AF73B",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "C752B93C-4817-43E9-A952-A2F234400279",
+							"Description": "Quite a bit",
+							"FormItemOID": "3CF9E9EA-2169-4281-A905-0C80EFDFAE4D",
+							"ItemResponseOID": "D095593A-10C1-4D7A-B848-4E2BAA1E3B36",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "6922B503-F5A6-4122-B0FA-CF017BDD7C09",
+							"Description": "Very much",
+							"FormItemOID": "3CF9E9EA-2169-4281-A905-0C80EFDFAE4D",
+							"ItemResponseOID": "EDB1007E-2AEE-465F-A42E-C24781B022FB",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F38C3F3D-21CA-4450-A3D2-2F875E93D500",
+			"ID": "SMKPSY02",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "A9D2B330-DD54-4AD9-A922-406D204FCC57",
+					"Description": "If I quit smoking my friends will respect me more.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "EA5F6CBF-AF97-454A-9D1E-CC9D31CA6AA1",
+					"Description": "ContainerForEA5F6CBF-AF97-454A-9D1E-CC9D31CA6AA1",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "F67157E8-90FA-4D97-ADB1-EE73F09CF9C2",
+							"Description": "Not at all",
+							"FormItemOID": "F38C3F3D-21CA-4450-A3D2-2F875E93D500",
+							"ItemResponseOID": "3D45697B-54AD-48CB-9A82-93D871E6316B",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AD3F7953-616A-4139-833F-2437959BD650",
+							"Description": "A little bit",
+							"FormItemOID": "F38C3F3D-21CA-4450-A3D2-2F875E93D500",
+							"ItemResponseOID": "127E755B-A734-4607-9850-CDF6DAF6B3C3",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "5A5EC6A4-C198-4DDF-BB53-B60F4112E040",
+							"Description": "Somewhat",
+							"FormItemOID": "F38C3F3D-21CA-4450-A3D2-2F875E93D500",
+							"ItemResponseOID": "ED663E40-3838-467B-8535-329F40C1DCB7",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1F9A2372-B974-4DF9-86CE-61E6C79DBDF5",
+							"Description": "Quite a bit",
+							"FormItemOID": "F38C3F3D-21CA-4450-A3D2-2F875E93D500",
+							"ItemResponseOID": "173D29E2-FF0C-45A2-AC5B-0E1FE37D4675",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "C88F0D40-F7EF-4592-B14F-6A4C7B37087D",
+							"Description": "Very much",
+							"FormItemOID": "F38C3F3D-21CA-4450-A3D2-2F875E93D500",
+							"ItemResponseOID": "99A173B1-F414-4F62-932C-66C82A2E9AAF",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "A4E9C562-E1C1-410E-9ABF-13359B62CDF1",
+			"ID": "SMKPSY03",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6F8F88A-204D-4FEF-A071-29DB179DB50D",
+					"Description": "My need for cigarettes makes me feel disappointed in myself.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C9E12C8B-FB5C-4F1B-B31B-5BC6E72F83AC",
+					"Description": "ContainerForC9E12C8B-FB5C-4F1B-B31B-5BC6E72F83AC",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "E03F8BAD-25ED-4FA7-B2DA-555EF260EF5A",
+							"Description": "Not at all",
+							"FormItemOID": "A4E9C562-E1C1-410E-9ABF-13359B62CDF1",
+							"ItemResponseOID": "EBDAEE8F-C5A3-45FD-870B-DC55E964AD46",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "C6A29DDD-A176-4E2F-BA3F-314D26A6D7B3",
+							"Description": "A little bit",
+							"FormItemOID": "A4E9C562-E1C1-410E-9ABF-13359B62CDF1",
+							"ItemResponseOID": "E681E704-6FAA-4AD7-9BBF-F247F64F6392",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "5D2E4FBD-CD95-4FAD-B2EC-DC181F4CF21F",
+							"Description": "Somewhat",
+							"FormItemOID": "A4E9C562-E1C1-410E-9ABF-13359B62CDF1",
+							"ItemResponseOID": "D09C4556-5229-4010-9C96-7B25B863DA1C",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "EB84625A-36A2-423A-A4B8-309820431D49",
+							"Description": "Quite a bit",
+							"FormItemOID": "A4E9C562-E1C1-410E-9ABF-13359B62CDF1",
+							"ItemResponseOID": "C8D41C11-FB95-4575-8829-771B3060A48A",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "076D620F-468E-41D8-919C-26DA59FE10F2",
+							"Description": "Very much",
+							"FormItemOID": "A4E9C562-E1C1-410E-9ABF-13359B62CDF1",
+							"ItemResponseOID": "9C2B5C15-46AC-403C-B34B-85D15EF0324D",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "1655A224-4452-47A5-9D27-435533184126",
+			"ID": "SMKPSY04",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "BDEFFF92-80DF-45F6-93A7-1502068F8CF5",
+					"Description": "My smoking makes me feel less attractive.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "F781098D-DB56-4C45-8820-BE29A6DB8FFD",
+					"Description": "ContainerForF781098D-DB56-4C45-8820-BE29A6DB8FFD",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "04E0F96B-1EEE-4FF3-881B-20C012D224A1",
+							"Description": "Not at all",
+							"FormItemOID": "1655A224-4452-47A5-9D27-435533184126",
+							"ItemResponseOID": "5FCEB2B7-F507-4286-9379-881C06BAAD8E",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "63AADADA-A2C4-4933-A9F9-80BCEA08BF2B",
+							"Description": "A little bit",
+							"FormItemOID": "1655A224-4452-47A5-9D27-435533184126",
+							"ItemResponseOID": "E78A9565-365D-4290-807F-6C84C51B02CF",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "78D9FC76-6EAE-4754-83AC-BD36AC40CECC",
+							"Description": "Somewhat",
+							"FormItemOID": "1655A224-4452-47A5-9D27-435533184126",
+							"ItemResponseOID": "91955083-1E1A-4D12-936A-ABB0E2B53CE5",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "3823C2D8-2640-4FF7-9662-0A71415D0EE3",
+							"Description": "Quite a bit",
+							"FormItemOID": "1655A224-4452-47A5-9D27-435533184126",
+							"ItemResponseOID": "9BBE572A-0F48-4847-90D6-E3762B3DB790",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "DF1A6E61-6FEF-4E0A-A802-57E1FC9A3392",
+							"Description": "Very much",
+							"FormItemOID": "1655A224-4452-47A5-9D27-435533184126",
+							"ItemResponseOID": "3533F1F1-EE55-4BDF-91E4-12888F3DC24A",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "B40876C4-7C0D-4B8A-8379-0AEB835A7C21",
+			"ID": "SMKPSY05",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "9F355533-AE34-4FCB-B56F-31283F7AA8C3",
+					"Description": "People think less of me if they see me smoking.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "14C5F1F7-36C0-4431-902E-949EDC60CE8F",
+					"Description": "ContainerFor14C5F1F7-36C0-4431-902E-949EDC60CE8F",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "08E30902-BD70-4452-97E9-F5FD459BC367",
+							"Description": "Not at all",
+							"FormItemOID": "B40876C4-7C0D-4B8A-8379-0AEB835A7C21",
+							"ItemResponseOID": "6B6C8BA6-D4E4-468F-BDD7-ADE0B0F5CB65",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "89C677BB-F0C4-4C5C-9693-965F5CCFD979",
+							"Description": "A little bit",
+							"FormItemOID": "B40876C4-7C0D-4B8A-8379-0AEB835A7C21",
+							"ItemResponseOID": "79CE018E-929E-4BBB-82A9-7DE4633455EF",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "24837F77-D5A5-4DEF-BBE3-D704BFB29537",
+							"Description": "Somewhat",
+							"FormItemOID": "B40876C4-7C0D-4B8A-8379-0AEB835A7C21",
+							"ItemResponseOID": "1005A199-43B0-4003-A1B0-5887CACF523B",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "C5B9CFBB-2560-48EA-B99A-2BD3071AC168",
+							"Description": "Quite a bit",
+							"FormItemOID": "B40876C4-7C0D-4B8A-8379-0AEB835A7C21",
+							"ItemResponseOID": "FDB8959F-37CA-4D46-8F88-CE4ADD431CAF",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "7F20D8E1-3636-4A85-90E6-B5B3D1BA1FBB",
+							"Description": "Very much",
+							"FormItemOID": "B40876C4-7C0D-4B8A-8379-0AEB835A7C21",
+							"ItemResponseOID": "EEB942D4-4DEE-45F2-933D-3431EFEC6D08",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D",
+			"ID": "SMKPSY06",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "28B532BD-37D8-4CEF-9C11-A619F2F59895",
+					"Description": "My cigarette smoking bothers others.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D88B65A5-68B0-426B-88BF-EB047EA5C826",
+					"Description": "ContainerForD88B65A5-68B0-426B-88BF-EB047EA5C826",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "ABDA999A-30B9-4DA0-9DDB-EF925852E20A",
+							"Description": "Not at all",
+							"FormItemOID": "E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D",
+							"ItemResponseOID": "9A50D3F2-FFA8-4DDE-A914-6B0237B6ADBC",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "2297E280-1D12-44CD-9F5B-CE624F14A74F",
+							"Description": "A little bit",
+							"FormItemOID": "E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D",
+							"ItemResponseOID": "D25B6888-4B7E-407D-910B-72F72061921B",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "CF4C3D9C-8282-468C-AE25-5F9A6BEA54B8",
+							"Description": "Somewhat",
+							"FormItemOID": "E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D",
+							"ItemResponseOID": "4D454DFC-C322-41C9-B077-ABC0852332F4",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "A0547AC4-78DA-472D-A8C3-D22234E78231",
+							"Description": "Quite a bit",
+							"FormItemOID": "E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D",
+							"ItemResponseOID": "BD64DC6E-4601-46FF-974F-F04676FA201A",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "3FAEE62D-1C4F-461A-9331-42771E81AB6A",
+							"Description": "Very much",
+							"FormItemOID": "E068CF15-DF8C-4B40-A701-C6BD5A8D4B3D",
+							"ItemResponseOID": "6CD27085-AE39-4B6B-B443-8A226985EB59",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

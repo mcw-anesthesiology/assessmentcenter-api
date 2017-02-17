@@ -1,1 +1,1565 @@
-{"DateFinished":"","Items":[{"FormItemOID":"B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F","ID":"NQSTG02","Order":"1","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"514FF8CB-E5E9-49AB-A45D-52062CEFC4FB","Description":"Debido a mi enfermedad, algunas personas me evitaron","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F","ItemResponseOID":"5C13EA87-57AC-4F9A-9530-83BC33400256", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F","ItemResponseOID":"2615FEC8-F44F-45BB-BF1B-9329DFBD074A", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F","ItemResponseOID":"2E62F236-D8F1-4E14-BA12-677D61FFD7C2", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F","ItemResponseOID":"1CE2B482-D717-4BA9-8068-578FAA94FC12", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F","ItemResponseOID":"BCFF4482-6992-48CA-B545-645CE7D8B128", "Value":"5","Position":"5"}]}]},{"FormItemOID":"B10DE66E-C484-4043-AC67-FB9BBAB6E40A","ID":"NQSTG04","Order":"2","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"842CEC9B-6E56-41CF-A6DA-F2C526F11B03","Description":"Debido a mi enfermedad, me sentí excluido/a de muchas cosas","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"B10DE66E-C484-4043-AC67-FB9BBAB6E40A","ItemResponseOID":"E96CE314-E0D0-4579-9D59-0D6559ACFD17", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"B10DE66E-C484-4043-AC67-FB9BBAB6E40A","ItemResponseOID":"8661724C-BF4E-4573-8A17-967CFE4E740D", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"B10DE66E-C484-4043-AC67-FB9BBAB6E40A","ItemResponseOID":"E77B8501-D344-4052-AC0D-6636E686DE1E", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"B10DE66E-C484-4043-AC67-FB9BBAB6E40A","ItemResponseOID":"ADA9977A-14E8-4AC1-A578-70927C1891C5", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"B10DE66E-C484-4043-AC67-FB9BBAB6E40A","ItemResponseOID":"9F8E8E4E-4475-42E4-9859-D6EE52B337DC", "Value":"5","Position":"5"}]}]},{"FormItemOID":"3664AF8B-D19E-401B-96E1-A66516EB62F5","ID":"NQSTG08","Order":"3","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"10410191-301C-4A68-8CF6-D88479E4F7D9","Description":"Debido a mi enfermedad, la gente evitó mirarme","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"3664AF8B-D19E-401B-96E1-A66516EB62F5","ItemResponseOID":"5AAF9705-7616-445F-B1B3-B540CD962C93", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"3664AF8B-D19E-401B-96E1-A66516EB62F5","ItemResponseOID":"3B951495-07C3-4213-A04F-81A7968EE7BB", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"3664AF8B-D19E-401B-96E1-A66516EB62F5","ItemResponseOID":"C818A146-2E59-428A-9295-0D540EE48AAD", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"3664AF8B-D19E-401B-96E1-A66516EB62F5","ItemResponseOID":"27C1C916-9E32-42EC-96B9-503E5084A42C", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"3664AF8B-D19E-401B-96E1-A66516EB62F5","ItemResponseOID":"90B63680-8177-4381-A14A-9BE054DC6618", "Value":"5","Position":"5"}]}]},{"FormItemOID":"621EFB36-A95E-461E-B592-B13DE6048C7F","ID":"NQSTG16","Order":"4","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"317FBF32-704E-47BB-A110-40C1AC71AE83","Description":"Me sentí avergonzado/a de mi enfermedad","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"621EFB36-A95E-461E-B592-B13DE6048C7F","ItemResponseOID":"D77F6566-98A6-4F52-B7D8-465216F1036C", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"621EFB36-A95E-461E-B592-B13DE6048C7F","ItemResponseOID":"0BC314CC-67C2-422C-9D92-DEC8290FFEBA", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"621EFB36-A95E-461E-B592-B13DE6048C7F","ItemResponseOID":"71CFF0BA-0492-4587-9D41-6FE5730CF7FA", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"621EFB36-A95E-461E-B592-B13DE6048C7F","ItemResponseOID":"8C250106-EDC8-4CC2-889A-16C40C028E65", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"621EFB36-A95E-461E-B592-B13DE6048C7F","ItemResponseOID":"BF167491-8219-4628-9460-94B41FB43F65", "Value":"5","Position":"5"}]}]},{"FormItemOID":"169850C1-082B-453F-A581-6F127E077925","ID":"NQSTG01","Order":"5","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"C22B4A5A-9C2F-4267-A172-CAD27416F43D","Description":"Debido a mi enfermedad, algunas personas parecieron sentirse incómodos conmigo","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"169850C1-082B-453F-A581-6F127E077925","ItemResponseOID":"70D7BC56-7CAE-43C1-94C5-3AD0FD7BD6E6", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"169850C1-082B-453F-A581-6F127E077925","ItemResponseOID":"E3DA58E1-A5F4-4029-9950-011B67CC6947", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"169850C1-082B-453F-A581-6F127E077925","ItemResponseOID":"4809E7A9-4A1E-4A5D-87FB-7EC436E816C2", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"169850C1-082B-453F-A581-6F127E077925","ItemResponseOID":"DD78DBBD-4952-430A-9DA7-26E33FA4C6D1", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"169850C1-082B-453F-A581-6F127E077925","ItemResponseOID":"060575EE-9D32-4A73-B7B0-43BC8E9C5C0D", "Value":"5","Position":"5"}]}]},{"FormItemOID":"E6F5E741-F793-4831-A93C-A659936D88DB","ID":"NQSTG17","Order":"6","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"29F431DC-ED68-4A43-B0E0-3E215E92A2AA","Description":"Me sentí avergonzado/a debido a mis limitaciones físicas","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"E6F5E741-F793-4831-A93C-A659936D88DB","ItemResponseOID":"035A6CA4-55E2-4550-B544-1513653FDCED", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"E6F5E741-F793-4831-A93C-A659936D88DB","ItemResponseOID":"5E2D6F51-D37F-43C8-8E84-78496D609643", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"E6F5E741-F793-4831-A93C-A659936D88DB","ItemResponseOID":"DC1F7201-DB4D-4DDA-AA6F-5F73209F0242", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"E6F5E741-F793-4831-A93C-A659936D88DB","ItemResponseOID":"09A515B4-FB9F-4FA9-8B0D-A7EA7C1DF391", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"E6F5E741-F793-4831-A93C-A659936D88DB","ItemResponseOID":"ABF26C27-DA51-4BD5-ACF5-A5E456510335", "Value":"5","Position":"5"}]}]},{"FormItemOID":"B3D5E14E-43E5-431D-A1F9-178AF61BEFD2","ID":"NQSTG05","Order":"7","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"A4B6DEAA-14D9-45E9-9338-C8B738CDE8DC","Description":"Debido a mi enfermedad, la gente fue poco amable conmigo","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"B3D5E14E-43E5-431D-A1F9-178AF61BEFD2","ItemResponseOID":"97FE8BE5-25D4-4D3C-A69F-D03D52D493EB", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"B3D5E14E-43E5-431D-A1F9-178AF61BEFD2","ItemResponseOID":"02F6B8D4-FE87-4812-9724-A8F6E8306D6F", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"B3D5E14E-43E5-431D-A1F9-178AF61BEFD2","ItemResponseOID":"BF7E7D47-94F6-4DCB-8E98-A06F35E032B5", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"B3D5E14E-43E5-431D-A1F9-178AF61BEFD2","ItemResponseOID":"BE9D9150-0B81-4699-893C-2AE1FF1C77CE", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"B3D5E14E-43E5-431D-A1F9-178AF61BEFD2","ItemResponseOID":"AA97CDC3-1B10-462B-9FE3-0427A493A25B", "Value":"5","Position":"5"}]}]},{"FormItemOID":"2CA695F3-11EC-4559-BFE4-B279A4AF78ED","ID":"NQSTG21","Order":"8","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"A2126D38-582C-4962-9984-A5E6098604BB","Description":"Algunas personas actuaron como si fuera mi culpa tener esta enfermedad","ElementOrder":"2"},{"ElementOID":"87C8FF40-80E7-4B41-A215-ED92240C0A19","Description":"ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19","ElementOrder":"3","Map":[{"ElementOID":"365FA920-DF10-4CB8-BBF9-79DEF04B2CA3","Description":"Nunca","FormItemOID":"2CA695F3-11EC-4559-BFE4-B279A4AF78ED","ItemResponseOID":"0CB90EDE-1B09-4305-9DB2-135F0885AA2F", "Value":"1","Position":"1"},{"ElementOID":"D7E2F03F-394D-4440-B3BA-10EA6ABF9C03","Description":"Rara vez","FormItemOID":"2CA695F3-11EC-4559-BFE4-B279A4AF78ED","ItemResponseOID":"A7B38BC7-76AA-49D6-BA5B-A321178E9822", "Value":"2","Position":"2"},{"ElementOID":"4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8","Description":"Algunas veces","FormItemOID":"2CA695F3-11EC-4559-BFE4-B279A4AF78ED","ItemResponseOID":"93F2A272-A0A4-4E8E-BE82-34979A7F633E", "Value":"3","Position":"3"},{"ElementOID":"CF086B68-914F-4900-883F-DE3AE25D8CE9","Description":"A menudo","FormItemOID":"2CA695F3-11EC-4559-BFE4-B279A4AF78ED","ItemResponseOID":"5645B476-98FB-4DFA-B2C1-F2C37B59010C", "Value":"4","Position":"4"},{"ElementOID":"37512B7A-A877-4EC5-B3D7-B49408BCFA83","Description":"Siempre","FormItemOID":"2CA695F3-11EC-4559-BFE4-B279A4AF78ED","ItemResponseOID":"BC899A86-6D80-47B2-A894-56016DB7E9F7", "Value":"5","Position":"5"}]}]},{"FormItemOID":"FBF17EAE-1B1A-413E-B86E-1E098B141D52","ID":"NQSTG03","Order":"9","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"58823362-AF20-4A40-A555-CDE96D65A22E","Description":"Debido a mi enfermedad, me sentí emocionalmente distante de los demás","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"FBF17EAE-1B1A-413E-B86E-1E098B141D52","ItemResponseOID":"E996871A-7B19-4907-A930-C8BE3DF1CDE4", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"FBF17EAE-1B1A-413E-B86E-1E098B141D52","ItemResponseOID":"60CD3E2A-15AF-4A9E-A09A-5B36A95977A6", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"FBF17EAE-1B1A-413E-B86E-1E098B141D52","ItemResponseOID":"5774A084-A89E-432A-81E8-E45ECEF30991", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"FBF17EAE-1B1A-413E-B86E-1E098B141D52","ItemResponseOID":"FCB7402E-88AA-445A-8147-4D4472C537EB", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"FBF17EAE-1B1A-413E-B86E-1E098B141D52","ItemResponseOID":"B3114466-9355-4D28-BB20-7D353ABE65B6", "Value":"5","Position":"5"}]}]},{"FormItemOID":"33463313-4585-45A3-AB0D-99663A2719DE","ID":"NQSTG06","Order":"10","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"A861B270-5AB4-4836-B2F5-3E06C36BE666","Description":"Debido a mi enfermedad, la gente se burló de mí","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"33463313-4585-45A3-AB0D-99663A2719DE","ItemResponseOID":"7211294D-A93D-4038-9CF9-BB654578641F", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"33463313-4585-45A3-AB0D-99663A2719DE","ItemResponseOID":"703AEA19-9334-4AE8-BA45-D9497767EFF7", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"33463313-4585-45A3-AB0D-99663A2719DE","ItemResponseOID":"82F8683C-C192-4F2F-9DAE-3167E7FBAA1E", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"33463313-4585-45A3-AB0D-99663A2719DE","ItemResponseOID":"0CB3C96D-9AFB-4D50-8237-C3E1E59FDBCB", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"33463313-4585-45A3-AB0D-99663A2719DE","ItemResponseOID":"B508E511-8406-4140-995F-15CEA52F3AE8", "Value":"5","Position":"5"}]}]},{"FormItemOID":"0E3F3F4E-5988-4570-84AF-358FAEC500A4","ID":"NQSTG07","Order":"11","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"8BEC150A-3C68-4618-BC4F-8152950C8744","Description":"Debido a mi enfermedad, me sentí avergonzado/a en situaciones sociales","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"0E3F3F4E-5988-4570-84AF-358FAEC500A4","ItemResponseOID":"3B5BF1CF-88D1-49E7-81BE-6775D4974A23", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"0E3F3F4E-5988-4570-84AF-358FAEC500A4","ItemResponseOID":"21680C96-93A5-445D-8855-24D7194D1D8E", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"0E3F3F4E-5988-4570-84AF-358FAEC500A4","ItemResponseOID":"1A480E8F-AE21-4F4E-AB0D-2F8C7DD612A3", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"0E3F3F4E-5988-4570-84AF-358FAEC500A4","ItemResponseOID":"BE9D8E3A-615C-492F-A89E-DF3788F2F40A", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"0E3F3F4E-5988-4570-84AF-358FAEC500A4","ItemResponseOID":"FBC97732-5DC7-46BE-86BA-7D1E03BC8629", "Value":"5","Position":"5"}]}]},{"FormItemOID":"FFF40469-3A7B-4EB7-8232-262CA143BAB9","ID":"NQSTG09","Order":"12","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"E094B4B6-83C1-423A-A23D-4C1AD1A681DF","Description":"Debido a mi enfermedad, los extraños se quedaron mirándome fijamente","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"FFF40469-3A7B-4EB7-8232-262CA143BAB9","ItemResponseOID":"EE2D7D6E-B299-4A6F-A8D6-E3681B71BBA7", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"FFF40469-3A7B-4EB7-8232-262CA143BAB9","ItemResponseOID":"5E2C43D2-390A-4400-B553-ABD0AED4C4CD", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"FFF40469-3A7B-4EB7-8232-262CA143BAB9","ItemResponseOID":"93F5C2A6-0040-4988-8555-0F900F027AB3", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"FFF40469-3A7B-4EB7-8232-262CA143BAB9","ItemResponseOID":"A6539708-D9B9-41C0-9717-079138816B75", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"FFF40469-3A7B-4EB7-8232-262CA143BAB9","ItemResponseOID":"0F2CD504-851A-46AA-8C33-B61CFD7F298B", "Value":"5","Position":"5"}]}]},{"FormItemOID":"28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE","ID":"NQSTG10","Order":"13","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"44677033-0EB2-4286-84FB-EB9EF1A2B5A3","Description":"Debido a mi enfermedad, me preocupó la actitud de otras personas hacia mí","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE","ItemResponseOID":"A9DC41C4-0810-42DF-99A1-082B37E7919F", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE","ItemResponseOID":"9529DE8E-9134-480E-8E1A-01902DB21A1E", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE","ItemResponseOID":"B10ACEBF-AE0C-4CF9-9F58-B13B265D7113", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE","ItemResponseOID":"008BE6D7-AF6A-45A8-A92E-9AA145BCF8C3", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE","ItemResponseOID":"0B5E1BAA-735F-4C4E-8A59-EA7BF9AC7447", "Value":"5","Position":"5"}]}]},{"FormItemOID":"8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D","ID":"NQSTG11","Order":"14","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"C08DD4BB-6E5F-4395-8023-E5985E08928F","Description":"Debido a mi enfermedad, los demás me trataron injustamente","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D","ItemResponseOID":"A28B9FC0-6CEB-4295-B121-F8A194267A44", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D","ItemResponseOID":"7D4F191B-E588-4F4B-AAEE-5C61A69944DF", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D","ItemResponseOID":"2AC1838E-96CC-4A1F-86D0-A5BB5EA358E3", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D","ItemResponseOID":"41C38B38-D804-4C92-84A1-200C14063EE5", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D","ItemResponseOID":"F4B48A24-04C2-432D-86FB-93DBCD386ABB", "Value":"5","Position":"5"}]}]},{"FormItemOID":"D95F741C-C544-40EF-9F9D-816D7F9A440C","ID":"NQSTG12","Order":"15","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"E8FD16BF-FCEB-4CA7-9C19-889674FC048F","Description":"Me sentí infeliz respecto a cómo mi enfermedad afectaba mi apariencia","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"D95F741C-C544-40EF-9F9D-816D7F9A440C","ItemResponseOID":"D40900B5-0500-4864-897B-0D9485E9B1BE", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"D95F741C-C544-40EF-9F9D-816D7F9A440C","ItemResponseOID":"0B5EDA42-E4D6-4511-AA55-B81EFD1B5FF1", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"D95F741C-C544-40EF-9F9D-816D7F9A440C","ItemResponseOID":"57F3A49F-A5BC-4EE1-A954-972D753CFD3A", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"D95F741C-C544-40EF-9F9D-816D7F9A440C","ItemResponseOID":"FF3D00E9-A0A2-4777-93EC-B503AD2D3CD1", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"D95F741C-C544-40EF-9F9D-816D7F9A440C","ItemResponseOID":"33929409-5A1A-4D4B-A6C5-CE5F46AEC7AE", "Value":"5","Position":"5"}]}]},{"FormItemOID":"0A878277-A9D0-4433-9570-2243593E1538","ID":"NQSTG13","Order":"16","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"99869B73-4D0A-4CDA-87CD-EA285D28BD00","Description":"Debido a mi enfermedad, me resultó difícil permanecer aseado/a y limpio/a","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"0A878277-A9D0-4433-9570-2243593E1538","ItemResponseOID":"C7E4439D-8A66-49F1-B4BF-78E162E7FB06", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"0A878277-A9D0-4433-9570-2243593E1538","ItemResponseOID":"BA50CFFE-4FBC-4419-85B7-2A15C028FA02", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"0A878277-A9D0-4433-9570-2243593E1538","ItemResponseOID":"826BF084-B10A-4C85-88B8-867EA479C050", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"0A878277-A9D0-4433-9570-2243593E1538","ItemResponseOID":"0620D244-CB6C-411A-86BA-3A4C889AE17D", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"0A878277-A9D0-4433-9570-2243593E1538","ItemResponseOID":"1E32B7A7-EB05-4E9C-8FE8-FC823A571A23", "Value":"5","Position":"5"}]}]},{"FormItemOID":"EF044D11-62DE-4E9B-9613-36C92B8E05A8","ID":"NQSTG14","Order":"17","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"CA6061F5-02FD-4534-AB8A-337CDE26B1F3","Description":"Debido a mi enfermedad, la gente ignoró mis buenas cualidades","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"EF044D11-62DE-4E9B-9613-36C92B8E05A8","ItemResponseOID":"97A7E2BB-1ABB-4AFD-934D-BBEDE9138C27", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"EF044D11-62DE-4E9B-9613-36C92B8E05A8","ItemResponseOID":"371A9313-DBE1-4782-BF86-BE4704B2BF06", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"EF044D11-62DE-4E9B-9613-36C92B8E05A8","ItemResponseOID":"6835ED6B-EA95-433F-B9D2-52C6F5888413", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"EF044D11-62DE-4E9B-9613-36C92B8E05A8","ItemResponseOID":"01CB0E14-538C-45E4-A34E-540D6FEA71F0", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"EF044D11-62DE-4E9B-9613-36C92B8E05A8","ItemResponseOID":"3D752DA5-160B-4042-BF1E-1B540F0A478D", "Value":"5","Position":"5"}]}]},{"FormItemOID":"6DE98B7B-3763-4ED2-8C6F-D823513CC14E","ID":"NQSTG15","Order":"18","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"12E17273-B8C1-4E9F-8083-B2F6B4AE90C6","Description":"Debido a mi enfermedad, me preocupó ser una carga para los demás","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"6DE98B7B-3763-4ED2-8C6F-D823513CC14E","ItemResponseOID":"EB05D723-71E3-4B2A-B255-D4474AAEE99A", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"6DE98B7B-3763-4ED2-8C6F-D823513CC14E","ItemResponseOID":"AFA15FF9-04C2-42DF-B2B8-A9CEF8FA16B5", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"6DE98B7B-3763-4ED2-8C6F-D823513CC14E","ItemResponseOID":"090401DE-C4D3-4CC7-AF2D-E66D06119E92", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"6DE98B7B-3763-4ED2-8C6F-D823513CC14E","ItemResponseOID":"A30E4388-AAAA-4465-9312-853D23074073", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"6DE98B7B-3763-4ED2-8C6F-D823513CC14E","ItemResponseOID":"05CFCCC9-E903-4CB6-AFDC-9459EA3F5E22", "Value":"5","Position":"5"}]}]},{"FormItemOID":"2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0","ID":"NQSTG18","Order":"19","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"6369C996-7EC4-4E58-ABCE-8AD9E437F378","Description":"Me avergonzó mi forma de hablar","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0","ItemResponseOID":"E403FA31-245A-4410-8E7A-45E5C2956F69", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0","ItemResponseOID":"787352D8-55AB-44F9-BCB0-E211F1DC5265", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0","ItemResponseOID":"C570B9CB-C7F4-42E1-9397-0A24C02AE423", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0","ItemResponseOID":"F02D5F0B-00EB-4C96-9256-7496BB98A7DF", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0","ItemResponseOID":"23683D09-1742-4A87-9225-8E7A3239940C", "Value":"5","Position":"5"}]}]},{"FormItemOID":"2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17","ID":"NQSTG19","Order":"20","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"D91F0B8F-9EA0-47D6-A7E1-6F83567EB744","Description":"Debido a mi enfermedad, me sentí diferente a los demás","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17","ItemResponseOID":"E3EF3258-EB1A-48A8-B65F-EB087BEC5DF4", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17","ItemResponseOID":"C3FB9810-8DED-4CC3-91B6-E8FE7D8B358F", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17","ItemResponseOID":"3F1BB4E6-6483-49DB-9ED7-F4BFE3CA2109", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17","ItemResponseOID":"44D80EBA-B607-4A77-9D8E-5614F9B60C19", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17","ItemResponseOID":"270937BA-E267-4805-878B-09B2A1F2CAD2", "Value":"5","Position":"5"}]}]},{"FormItemOID":"42956CFA-3048-4927-A726-FCFEEAAE1FF3","ID":"NQSTG20","Order":"21","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"6EA596A1-BEBB-450D-A98B-1797E6DF907B","Description":"Me eché la culpa de mis problemas","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"42956CFA-3048-4927-A726-FCFEEAAE1FF3","ItemResponseOID":"56A02DDA-E4B3-4317-A3AB-A03E6C9401BF", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"42956CFA-3048-4927-A726-FCFEEAAE1FF3","ItemResponseOID":"32191127-76FE-49CD-9C97-6A88199E44ED", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"42956CFA-3048-4927-A726-FCFEEAAE1FF3","ItemResponseOID":"1933B386-BE09-4FEA-81D1-4ED79A9CB2CC", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"42956CFA-3048-4927-A726-FCFEEAAE1FF3","ItemResponseOID":"3159274C-DCDE-452C-8CA6-484807F42975", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"42956CFA-3048-4927-A726-FCFEEAAE1FF3","ItemResponseOID":"D743F60A-37D5-4214-8C88-32025A598D9D", "Value":"5","Position":"5"}]}]},{"FormItemOID":"2294097F-4C39-4DE0-8EE4-17FEEF85D8E7","ID":"NQSTG22","Order":"22","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"A27A3F79-83B8-441B-A944-2F17B590B4D2","Description":"Evité hacer nuevos amigos para no tener que contarles a otras personas sobre mi enfermedad","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"2294097F-4C39-4DE0-8EE4-17FEEF85D8E7","ItemResponseOID":"516F93DE-373A-4C03-8713-98C231468944", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"2294097F-4C39-4DE0-8EE4-17FEEF85D8E7","ItemResponseOID":"2E463C39-7ECB-4238-9F50-9ECBEEE20DE1", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"2294097F-4C39-4DE0-8EE4-17FEEF85D8E7","ItemResponseOID":"AF904970-2B41-407F-8B80-0F358A129CD2", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"2294097F-4C39-4DE0-8EE4-17FEEF85D8E7","ItemResponseOID":"9BE448D0-8973-4C51-BC65-D83B37BCFED3", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"2294097F-4C39-4DE0-8EE4-17FEEF85D8E7","ItemResponseOID":"A25DF3B0-A1D9-4857-80E6-08BF9019D588", "Value":"5","Position":"5"}]}]},{"FormItemOID":"F33511A2-7608-48F1-94C2-E636491CA47B","ID":"NQSTG25","Order":"23","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"16FDC795-4C35-48FC-80E1-1DD0999C10DD","Description":"Algunas personas con mi enfermedad perdieron el trabajo cuando sus empleadores se enteraron de que la padecían","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"F33511A2-7608-48F1-94C2-E636491CA47B","ItemResponseOID":"B6BA3E82-FD4C-4A5E-985C-F0E9E120161E", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"F33511A2-7608-48F1-94C2-E636491CA47B","ItemResponseOID":"CE9443CC-608C-4353-9B38-6391596495C7", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"F33511A2-7608-48F1-94C2-E636491CA47B","ItemResponseOID":"748297A1-409D-4606-9DF2-EF6CD00E4E97", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"F33511A2-7608-48F1-94C2-E636491CA47B","ItemResponseOID":"E87BEE0D-8095-4031-BB4D-F9EE7A546D76", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"F33511A2-7608-48F1-94C2-E636491CA47B","ItemResponseOID":"C8373FC3-8474-4FE3-A04B-644D4D1B5200", "Value":"5","Position":"5"}]}]},{"FormItemOID":"CDF6FFFA-F188-4226-A253-5ADCF19FC0A9","ID":"NQSTG26","Order":"24","ItemType":"","Elements":[{"ElementOID":"8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D","Description":"Recientemente","ElementOrder":"1"},{"ElementOID":"8DDE3786-9B72-4191-91CC-0813EA02E8D8","Description":"Perdí amistades por decirles que tengo esta enfermedad","ElementOrder":"2"},{"ElementOID":"903B209F-EEE1-47E9-B689-6968BD37B8E5","Description":"Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5","ElementOrder":"3","Map":[{"ElementOID":"C334D7E6-BFF1-458D-9B63-31ABA323A33E","Description":"Nunca","FormItemOID":"CDF6FFFA-F188-4226-A253-5ADCF19FC0A9","ItemResponseOID":"76CFB94B-A182-44FC-B1AF-28D7195013D8", "Value":"1","Position":"1"},{"ElementOID":"AFB56BD2-855B-4EC3-BFE3-2E320091E92A","Description":"Rara vez","FormItemOID":"CDF6FFFA-F188-4226-A253-5ADCF19FC0A9","ItemResponseOID":"745471F9-9AFF-4121-8AE2-F4B2F33CAFD0", "Value":"2","Position":"2"},{"ElementOID":"31AB70AF-F003-4CD2-A13B-EEFF401F61FA","Description":"Algunas veces","FormItemOID":"CDF6FFFA-F188-4226-A253-5ADCF19FC0A9","ItemResponseOID":"B73BB93D-CFB8-4A62-B6F1-93DE83FDCA7A", "Value":"3","Position":"3"},{"ElementOID":"B9D6CD92-826F-40A9-9131-7AC17AB67583","Description":"A menudo","FormItemOID":"CDF6FFFA-F188-4226-A253-5ADCF19FC0A9","ItemResponseOID":"1FA4A793-DF89-4258-AC81-254827E6AC1C", "Value":"4","Position":"4"},{"ElementOID":"9763BE3C-F056-4ECD-8C3D-45A76776E264","Description":"Siempre","FormItemOID":"CDF6FFFA-F188-4226-A253-5ADCF19FC0A9","ItemResponseOID":"462A634B-537A-4B82-A041-127562230EDC", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F",
+			"ID": "NQSTG02",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "514FF8CB-E5E9-49AB-A45D-52062CEFC4FB",
+					"Description": "Debido a mi enfermedad, algunas personas me evitaron",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F",
+							"ItemResponseOID": "5C13EA87-57AC-4F9A-9530-83BC33400256",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F",
+							"ItemResponseOID": "2615FEC8-F44F-45BB-BF1B-9329DFBD074A",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F",
+							"ItemResponseOID": "2E62F236-D8F1-4E14-BA12-677D61FFD7C2",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F",
+							"ItemResponseOID": "1CE2B482-D717-4BA9-8068-578FAA94FC12",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "B5BF3F2B-8D3D-4075-91F9-8BB4DA01420F",
+							"ItemResponseOID": "BCFF4482-6992-48CA-B545-645CE7D8B128",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "B10DE66E-C484-4043-AC67-FB9BBAB6E40A",
+			"ID": "NQSTG04",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "842CEC9B-6E56-41CF-A6DA-F2C526F11B03",
+					"Description": "Debido a mi enfermedad, me sent\u00ed excluido/a de muchas cosas",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "B10DE66E-C484-4043-AC67-FB9BBAB6E40A",
+							"ItemResponseOID": "E96CE314-E0D0-4579-9D59-0D6559ACFD17",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "B10DE66E-C484-4043-AC67-FB9BBAB6E40A",
+							"ItemResponseOID": "8661724C-BF4E-4573-8A17-967CFE4E740D",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "B10DE66E-C484-4043-AC67-FB9BBAB6E40A",
+							"ItemResponseOID": "E77B8501-D344-4052-AC0D-6636E686DE1E",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "B10DE66E-C484-4043-AC67-FB9BBAB6E40A",
+							"ItemResponseOID": "ADA9977A-14E8-4AC1-A578-70927C1891C5",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "B10DE66E-C484-4043-AC67-FB9BBAB6E40A",
+							"ItemResponseOID": "9F8E8E4E-4475-42E4-9859-D6EE52B337DC",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "3664AF8B-D19E-401B-96E1-A66516EB62F5",
+			"ID": "NQSTG08",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "10410191-301C-4A68-8CF6-D88479E4F7D9",
+					"Description": "Debido a mi enfermedad, la gente evit\u00f3 mirarme",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "3664AF8B-D19E-401B-96E1-A66516EB62F5",
+							"ItemResponseOID": "5AAF9705-7616-445F-B1B3-B540CD962C93",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "3664AF8B-D19E-401B-96E1-A66516EB62F5",
+							"ItemResponseOID": "3B951495-07C3-4213-A04F-81A7968EE7BB",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "3664AF8B-D19E-401B-96E1-A66516EB62F5",
+							"ItemResponseOID": "C818A146-2E59-428A-9295-0D540EE48AAD",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "3664AF8B-D19E-401B-96E1-A66516EB62F5",
+							"ItemResponseOID": "27C1C916-9E32-42EC-96B9-503E5084A42C",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "3664AF8B-D19E-401B-96E1-A66516EB62F5",
+							"ItemResponseOID": "90B63680-8177-4381-A14A-9BE054DC6618",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "621EFB36-A95E-461E-B592-B13DE6048C7F",
+			"ID": "NQSTG16",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "317FBF32-704E-47BB-A110-40C1AC71AE83",
+					"Description": "Me sent\u00ed avergonzado/a de mi enfermedad",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "621EFB36-A95E-461E-B592-B13DE6048C7F",
+							"ItemResponseOID": "D77F6566-98A6-4F52-B7D8-465216F1036C",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "621EFB36-A95E-461E-B592-B13DE6048C7F",
+							"ItemResponseOID": "0BC314CC-67C2-422C-9D92-DEC8290FFEBA",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "621EFB36-A95E-461E-B592-B13DE6048C7F",
+							"ItemResponseOID": "71CFF0BA-0492-4587-9D41-6FE5730CF7FA",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "621EFB36-A95E-461E-B592-B13DE6048C7F",
+							"ItemResponseOID": "8C250106-EDC8-4CC2-889A-16C40C028E65",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "621EFB36-A95E-461E-B592-B13DE6048C7F",
+							"ItemResponseOID": "BF167491-8219-4628-9460-94B41FB43F65",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "169850C1-082B-453F-A581-6F127E077925",
+			"ID": "NQSTG01",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C22B4A5A-9C2F-4267-A172-CAD27416F43D",
+					"Description": "Debido a mi enfermedad, algunas personas parecieron sentirse inc\u00f3modos conmigo",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "169850C1-082B-453F-A581-6F127E077925",
+							"ItemResponseOID": "70D7BC56-7CAE-43C1-94C5-3AD0FD7BD6E6",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "169850C1-082B-453F-A581-6F127E077925",
+							"ItemResponseOID": "E3DA58E1-A5F4-4029-9950-011B67CC6947",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "169850C1-082B-453F-A581-6F127E077925",
+							"ItemResponseOID": "4809E7A9-4A1E-4A5D-87FB-7EC436E816C2",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "169850C1-082B-453F-A581-6F127E077925",
+							"ItemResponseOID": "DD78DBBD-4952-430A-9DA7-26E33FA4C6D1",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "169850C1-082B-453F-A581-6F127E077925",
+							"ItemResponseOID": "060575EE-9D32-4A73-B7B0-43BC8E9C5C0D",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "E6F5E741-F793-4831-A93C-A659936D88DB",
+			"ID": "NQSTG17",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "29F431DC-ED68-4A43-B0E0-3E215E92A2AA",
+					"Description": "Me sent\u00ed avergonzado/a debido a mis limitaciones f\u00edsicas",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "E6F5E741-F793-4831-A93C-A659936D88DB",
+							"ItemResponseOID": "035A6CA4-55E2-4550-B544-1513653FDCED",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "E6F5E741-F793-4831-A93C-A659936D88DB",
+							"ItemResponseOID": "5E2D6F51-D37F-43C8-8E84-78496D609643",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "E6F5E741-F793-4831-A93C-A659936D88DB",
+							"ItemResponseOID": "DC1F7201-DB4D-4DDA-AA6F-5F73209F0242",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "E6F5E741-F793-4831-A93C-A659936D88DB",
+							"ItemResponseOID": "09A515B4-FB9F-4FA9-8B0D-A7EA7C1DF391",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "E6F5E741-F793-4831-A93C-A659936D88DB",
+							"ItemResponseOID": "ABF26C27-DA51-4BD5-ACF5-A5E456510335",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "B3D5E14E-43E5-431D-A1F9-178AF61BEFD2",
+			"ID": "NQSTG05",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "A4B6DEAA-14D9-45E9-9338-C8B738CDE8DC",
+					"Description": "Debido a mi enfermedad, la gente fue poco amable conmigo",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "B3D5E14E-43E5-431D-A1F9-178AF61BEFD2",
+							"ItemResponseOID": "97FE8BE5-25D4-4D3C-A69F-D03D52D493EB",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "B3D5E14E-43E5-431D-A1F9-178AF61BEFD2",
+							"ItemResponseOID": "02F6B8D4-FE87-4812-9724-A8F6E8306D6F",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "B3D5E14E-43E5-431D-A1F9-178AF61BEFD2",
+							"ItemResponseOID": "BF7E7D47-94F6-4DCB-8E98-A06F35E032B5",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "B3D5E14E-43E5-431D-A1F9-178AF61BEFD2",
+							"ItemResponseOID": "BE9D9150-0B81-4699-893C-2AE1FF1C77CE",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "B3D5E14E-43E5-431D-A1F9-178AF61BEFD2",
+							"ItemResponseOID": "AA97CDC3-1B10-462B-9FE3-0427A493A25B",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2CA695F3-11EC-4559-BFE4-B279A4AF78ED",
+			"ID": "NQSTG21",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "A2126D38-582C-4962-9984-A5E6098604BB",
+					"Description": "Algunas personas actuaron como si fuera mi culpa tener esta enfermedad",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"Description": "ContainerFor87C8FF40-80E7-4B41-A215-ED92240C0A19",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "365FA920-DF10-4CB8-BBF9-79DEF04B2CA3",
+							"Description": "Nunca",
+							"FormItemOID": "2CA695F3-11EC-4559-BFE4-B279A4AF78ED",
+							"ItemResponseOID": "0CB90EDE-1B09-4305-9DB2-135F0885AA2F",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "D7E2F03F-394D-4440-B3BA-10EA6ABF9C03",
+							"Description": "Rara vez",
+							"FormItemOID": "2CA695F3-11EC-4559-BFE4-B279A4AF78ED",
+							"ItemResponseOID": "A7B38BC7-76AA-49D6-BA5B-A321178E9822",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "4BCCFF45-CBAC-4C29-A160-9A8DBEB4E2A8",
+							"Description": "Algunas veces",
+							"FormItemOID": "2CA695F3-11EC-4559-BFE4-B279A4AF78ED",
+							"ItemResponseOID": "93F2A272-A0A4-4E8E-BE82-34979A7F633E",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "CF086B68-914F-4900-883F-DE3AE25D8CE9",
+							"Description": "A menudo",
+							"FormItemOID": "2CA695F3-11EC-4559-BFE4-B279A4AF78ED",
+							"ItemResponseOID": "5645B476-98FB-4DFA-B2C1-F2C37B59010C",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "37512B7A-A877-4EC5-B3D7-B49408BCFA83",
+							"Description": "Siempre",
+							"FormItemOID": "2CA695F3-11EC-4559-BFE4-B279A4AF78ED",
+							"ItemResponseOID": "BC899A86-6D80-47B2-A894-56016DB7E9F7",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "FBF17EAE-1B1A-413E-B86E-1E098B141D52",
+			"ID": "NQSTG03",
+			"Order": "9",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "58823362-AF20-4A40-A555-CDE96D65A22E",
+					"Description": "Debido a mi enfermedad, me sent\u00ed emocionalmente distante de los dem\u00e1s",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "FBF17EAE-1B1A-413E-B86E-1E098B141D52",
+							"ItemResponseOID": "E996871A-7B19-4907-A930-C8BE3DF1CDE4",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "FBF17EAE-1B1A-413E-B86E-1E098B141D52",
+							"ItemResponseOID": "60CD3E2A-15AF-4A9E-A09A-5B36A95977A6",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "FBF17EAE-1B1A-413E-B86E-1E098B141D52",
+							"ItemResponseOID": "5774A084-A89E-432A-81E8-E45ECEF30991",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "FBF17EAE-1B1A-413E-B86E-1E098B141D52",
+							"ItemResponseOID": "FCB7402E-88AA-445A-8147-4D4472C537EB",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "FBF17EAE-1B1A-413E-B86E-1E098B141D52",
+							"ItemResponseOID": "B3114466-9355-4D28-BB20-7D353ABE65B6",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "33463313-4585-45A3-AB0D-99663A2719DE",
+			"ID": "NQSTG06",
+			"Order": "10",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "A861B270-5AB4-4836-B2F5-3E06C36BE666",
+					"Description": "Debido a mi enfermedad, la gente se burl\u00f3 de m\u00ed",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "33463313-4585-45A3-AB0D-99663A2719DE",
+							"ItemResponseOID": "7211294D-A93D-4038-9CF9-BB654578641F",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "33463313-4585-45A3-AB0D-99663A2719DE",
+							"ItemResponseOID": "703AEA19-9334-4AE8-BA45-D9497767EFF7",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "33463313-4585-45A3-AB0D-99663A2719DE",
+							"ItemResponseOID": "82F8683C-C192-4F2F-9DAE-3167E7FBAA1E",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "33463313-4585-45A3-AB0D-99663A2719DE",
+							"ItemResponseOID": "0CB3C96D-9AFB-4D50-8237-C3E1E59FDBCB",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "33463313-4585-45A3-AB0D-99663A2719DE",
+							"ItemResponseOID": "B508E511-8406-4140-995F-15CEA52F3AE8",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "0E3F3F4E-5988-4570-84AF-358FAEC500A4",
+			"ID": "NQSTG07",
+			"Order": "11",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8BEC150A-3C68-4618-BC4F-8152950C8744",
+					"Description": "Debido a mi enfermedad, me sent\u00ed avergonzado/a en situaciones sociales",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "0E3F3F4E-5988-4570-84AF-358FAEC500A4",
+							"ItemResponseOID": "3B5BF1CF-88D1-49E7-81BE-6775D4974A23",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "0E3F3F4E-5988-4570-84AF-358FAEC500A4",
+							"ItemResponseOID": "21680C96-93A5-445D-8855-24D7194D1D8E",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "0E3F3F4E-5988-4570-84AF-358FAEC500A4",
+							"ItemResponseOID": "1A480E8F-AE21-4F4E-AB0D-2F8C7DD612A3",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "0E3F3F4E-5988-4570-84AF-358FAEC500A4",
+							"ItemResponseOID": "BE9D8E3A-615C-492F-A89E-DF3788F2F40A",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "0E3F3F4E-5988-4570-84AF-358FAEC500A4",
+							"ItemResponseOID": "FBC97732-5DC7-46BE-86BA-7D1E03BC8629",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "FFF40469-3A7B-4EB7-8232-262CA143BAB9",
+			"ID": "NQSTG09",
+			"Order": "12",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E094B4B6-83C1-423A-A23D-4C1AD1A681DF",
+					"Description": "Debido a mi enfermedad, los extra\u00f1os se quedaron mir\u00e1ndome fijamente",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "FFF40469-3A7B-4EB7-8232-262CA143BAB9",
+							"ItemResponseOID": "EE2D7D6E-B299-4A6F-A8D6-E3681B71BBA7",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "FFF40469-3A7B-4EB7-8232-262CA143BAB9",
+							"ItemResponseOID": "5E2C43D2-390A-4400-B553-ABD0AED4C4CD",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "FFF40469-3A7B-4EB7-8232-262CA143BAB9",
+							"ItemResponseOID": "93F5C2A6-0040-4988-8555-0F900F027AB3",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "FFF40469-3A7B-4EB7-8232-262CA143BAB9",
+							"ItemResponseOID": "A6539708-D9B9-41C0-9717-079138816B75",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "FFF40469-3A7B-4EB7-8232-262CA143BAB9",
+							"ItemResponseOID": "0F2CD504-851A-46AA-8C33-B61CFD7F298B",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE",
+			"ID": "NQSTG10",
+			"Order": "13",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "44677033-0EB2-4286-84FB-EB9EF1A2B5A3",
+					"Description": "Debido a mi enfermedad, me preocup\u00f3 la actitud de otras personas hacia m\u00ed",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE",
+							"ItemResponseOID": "A9DC41C4-0810-42DF-99A1-082B37E7919F",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE",
+							"ItemResponseOID": "9529DE8E-9134-480E-8E1A-01902DB21A1E",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE",
+							"ItemResponseOID": "B10ACEBF-AE0C-4CF9-9F58-B13B265D7113",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE",
+							"ItemResponseOID": "008BE6D7-AF6A-45A8-A92E-9AA145BCF8C3",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "28F5D7D0-DB3C-48FD-9365-D14BFE0D24BE",
+							"ItemResponseOID": "0B5E1BAA-735F-4C4E-8A59-EA7BF9AC7447",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D",
+			"ID": "NQSTG11",
+			"Order": "14",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C08DD4BB-6E5F-4395-8023-E5985E08928F",
+					"Description": "Debido a mi enfermedad, los dem\u00e1s me trataron injustamente",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D",
+							"ItemResponseOID": "A28B9FC0-6CEB-4295-B121-F8A194267A44",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D",
+							"ItemResponseOID": "7D4F191B-E588-4F4B-AAEE-5C61A69944DF",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D",
+							"ItemResponseOID": "2AC1838E-96CC-4A1F-86D0-A5BB5EA358E3",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D",
+							"ItemResponseOID": "41C38B38-D804-4C92-84A1-200C14063EE5",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "8F06E2E8-67C6-4ED4-BD44-F09E6BC0495D",
+							"ItemResponseOID": "F4B48A24-04C2-432D-86FB-93DBCD386ABB",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "D95F741C-C544-40EF-9F9D-816D7F9A440C",
+			"ID": "NQSTG12",
+			"Order": "15",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E8FD16BF-FCEB-4CA7-9C19-889674FC048F",
+					"Description": "Me sent\u00ed infeliz respecto a c\u00f3mo mi enfermedad afectaba mi apariencia",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "D95F741C-C544-40EF-9F9D-816D7F9A440C",
+							"ItemResponseOID": "D40900B5-0500-4864-897B-0D9485E9B1BE",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "D95F741C-C544-40EF-9F9D-816D7F9A440C",
+							"ItemResponseOID": "0B5EDA42-E4D6-4511-AA55-B81EFD1B5FF1",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "D95F741C-C544-40EF-9F9D-816D7F9A440C",
+							"ItemResponseOID": "57F3A49F-A5BC-4EE1-A954-972D753CFD3A",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "D95F741C-C544-40EF-9F9D-816D7F9A440C",
+							"ItemResponseOID": "FF3D00E9-A0A2-4777-93EC-B503AD2D3CD1",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "D95F741C-C544-40EF-9F9D-816D7F9A440C",
+							"ItemResponseOID": "33929409-5A1A-4D4B-A6C5-CE5F46AEC7AE",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "0A878277-A9D0-4433-9570-2243593E1538",
+			"ID": "NQSTG13",
+			"Order": "16",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "99869B73-4D0A-4CDA-87CD-EA285D28BD00",
+					"Description": "Debido a mi enfermedad, me result\u00f3 dif\u00edcil permanecer aseado/a y limpio/a",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "0A878277-A9D0-4433-9570-2243593E1538",
+							"ItemResponseOID": "C7E4439D-8A66-49F1-B4BF-78E162E7FB06",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "0A878277-A9D0-4433-9570-2243593E1538",
+							"ItemResponseOID": "BA50CFFE-4FBC-4419-85B7-2A15C028FA02",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "0A878277-A9D0-4433-9570-2243593E1538",
+							"ItemResponseOID": "826BF084-B10A-4C85-88B8-867EA479C050",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "0A878277-A9D0-4433-9570-2243593E1538",
+							"ItemResponseOID": "0620D244-CB6C-411A-86BA-3A4C889AE17D",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "0A878277-A9D0-4433-9570-2243593E1538",
+							"ItemResponseOID": "1E32B7A7-EB05-4E9C-8FE8-FC823A571A23",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "EF044D11-62DE-4E9B-9613-36C92B8E05A8",
+			"ID": "NQSTG14",
+			"Order": "17",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "CA6061F5-02FD-4534-AB8A-337CDE26B1F3",
+					"Description": "Debido a mi enfermedad, la gente ignor\u00f3 mis buenas cualidades",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "EF044D11-62DE-4E9B-9613-36C92B8E05A8",
+							"ItemResponseOID": "97A7E2BB-1ABB-4AFD-934D-BBEDE9138C27",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "EF044D11-62DE-4E9B-9613-36C92B8E05A8",
+							"ItemResponseOID": "371A9313-DBE1-4782-BF86-BE4704B2BF06",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "EF044D11-62DE-4E9B-9613-36C92B8E05A8",
+							"ItemResponseOID": "6835ED6B-EA95-433F-B9D2-52C6F5888413",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "EF044D11-62DE-4E9B-9613-36C92B8E05A8",
+							"ItemResponseOID": "01CB0E14-538C-45E4-A34E-540D6FEA71F0",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "EF044D11-62DE-4E9B-9613-36C92B8E05A8",
+							"ItemResponseOID": "3D752DA5-160B-4042-BF1E-1B540F0A478D",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "6DE98B7B-3763-4ED2-8C6F-D823513CC14E",
+			"ID": "NQSTG15",
+			"Order": "18",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "12E17273-B8C1-4E9F-8083-B2F6B4AE90C6",
+					"Description": "Debido a mi enfermedad, me preocup\u00f3 ser una carga para los dem\u00e1s",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "6DE98B7B-3763-4ED2-8C6F-D823513CC14E",
+							"ItemResponseOID": "EB05D723-71E3-4B2A-B255-D4474AAEE99A",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "6DE98B7B-3763-4ED2-8C6F-D823513CC14E",
+							"ItemResponseOID": "AFA15FF9-04C2-42DF-B2B8-A9CEF8FA16B5",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "6DE98B7B-3763-4ED2-8C6F-D823513CC14E",
+							"ItemResponseOID": "090401DE-C4D3-4CC7-AF2D-E66D06119E92",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "6DE98B7B-3763-4ED2-8C6F-D823513CC14E",
+							"ItemResponseOID": "A30E4388-AAAA-4465-9312-853D23074073",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "6DE98B7B-3763-4ED2-8C6F-D823513CC14E",
+							"ItemResponseOID": "05CFCCC9-E903-4CB6-AFDC-9459EA3F5E22",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0",
+			"ID": "NQSTG18",
+			"Order": "19",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6369C996-7EC4-4E58-ABCE-8AD9E437F378",
+					"Description": "Me avergonz\u00f3 mi forma de hablar",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0",
+							"ItemResponseOID": "E403FA31-245A-4410-8E7A-45E5C2956F69",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0",
+							"ItemResponseOID": "787352D8-55AB-44F9-BCB0-E211F1DC5265",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0",
+							"ItemResponseOID": "C570B9CB-C7F4-42E1-9397-0A24C02AE423",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0",
+							"ItemResponseOID": "F02D5F0B-00EB-4C96-9256-7496BB98A7DF",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "2CA7BBE5-3F64-4668-887C-2D8F7CB95CB0",
+							"ItemResponseOID": "23683D09-1742-4A87-9225-8E7A3239940C",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17",
+			"ID": "NQSTG19",
+			"Order": "20",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D91F0B8F-9EA0-47D6-A7E1-6F83567EB744",
+					"Description": "Debido a mi enfermedad, me sent\u00ed diferente a los dem\u00e1s",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17",
+							"ItemResponseOID": "E3EF3258-EB1A-48A8-B65F-EB087BEC5DF4",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17",
+							"ItemResponseOID": "C3FB9810-8DED-4CC3-91B6-E8FE7D8B358F",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17",
+							"ItemResponseOID": "3F1BB4E6-6483-49DB-9ED7-F4BFE3CA2109",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17",
+							"ItemResponseOID": "44D80EBA-B607-4A77-9D8E-5614F9B60C19",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "2FA14705-D0E5-4569-AD8C-6AE3AA8A9B17",
+							"ItemResponseOID": "270937BA-E267-4805-878B-09B2A1F2CAD2",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "42956CFA-3048-4927-A726-FCFEEAAE1FF3",
+			"ID": "NQSTG20",
+			"Order": "21",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6EA596A1-BEBB-450D-A98B-1797E6DF907B",
+					"Description": "Me ech\u00e9 la culpa de mis problemas",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "42956CFA-3048-4927-A726-FCFEEAAE1FF3",
+							"ItemResponseOID": "56A02DDA-E4B3-4317-A3AB-A03E6C9401BF",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "42956CFA-3048-4927-A726-FCFEEAAE1FF3",
+							"ItemResponseOID": "32191127-76FE-49CD-9C97-6A88199E44ED",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "42956CFA-3048-4927-A726-FCFEEAAE1FF3",
+							"ItemResponseOID": "1933B386-BE09-4FEA-81D1-4ED79A9CB2CC",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "42956CFA-3048-4927-A726-FCFEEAAE1FF3",
+							"ItemResponseOID": "3159274C-DCDE-452C-8CA6-484807F42975",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "42956CFA-3048-4927-A726-FCFEEAAE1FF3",
+							"ItemResponseOID": "D743F60A-37D5-4214-8C88-32025A598D9D",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2294097F-4C39-4DE0-8EE4-17FEEF85D8E7",
+			"ID": "NQSTG22",
+			"Order": "22",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "A27A3F79-83B8-441B-A944-2F17B590B4D2",
+					"Description": "Evit\u00e9 hacer nuevos amigos para no tener que contarles a otras personas sobre mi enfermedad",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "2294097F-4C39-4DE0-8EE4-17FEEF85D8E7",
+							"ItemResponseOID": "516F93DE-373A-4C03-8713-98C231468944",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "2294097F-4C39-4DE0-8EE4-17FEEF85D8E7",
+							"ItemResponseOID": "2E463C39-7ECB-4238-9F50-9ECBEEE20DE1",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "2294097F-4C39-4DE0-8EE4-17FEEF85D8E7",
+							"ItemResponseOID": "AF904970-2B41-407F-8B80-0F358A129CD2",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "2294097F-4C39-4DE0-8EE4-17FEEF85D8E7",
+							"ItemResponseOID": "9BE448D0-8973-4C51-BC65-D83B37BCFED3",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "2294097F-4C39-4DE0-8EE4-17FEEF85D8E7",
+							"ItemResponseOID": "A25DF3B0-A1D9-4857-80E6-08BF9019D588",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F33511A2-7608-48F1-94C2-E636491CA47B",
+			"ID": "NQSTG25",
+			"Order": "23",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "16FDC795-4C35-48FC-80E1-1DD0999C10DD",
+					"Description": "Algunas personas con mi enfermedad perdieron el trabajo cuando sus empleadores se enteraron de que la padec\u00edan",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "F33511A2-7608-48F1-94C2-E636491CA47B",
+							"ItemResponseOID": "B6BA3E82-FD4C-4A5E-985C-F0E9E120161E",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "F33511A2-7608-48F1-94C2-E636491CA47B",
+							"ItemResponseOID": "CE9443CC-608C-4353-9B38-6391596495C7",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "F33511A2-7608-48F1-94C2-E636491CA47B",
+							"ItemResponseOID": "748297A1-409D-4606-9DF2-EF6CD00E4E97",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "F33511A2-7608-48F1-94C2-E636491CA47B",
+							"ItemResponseOID": "E87BEE0D-8095-4031-BB4D-F9EE7A546D76",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "F33511A2-7608-48F1-94C2-E636491CA47B",
+							"ItemResponseOID": "C8373FC3-8474-4FE3-A04B-644D4D1B5200",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "CDF6FFFA-F188-4226-A253-5ADCF19FC0A9",
+			"ID": "NQSTG26",
+			"Order": "24",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8DFBE5EF-01B0-4DD7-BE51-C2ACBE89B64D",
+					"Description": "Recientemente",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8DDE3786-9B72-4191-91CC-0813EA02E8D8",
+					"Description": "Perd\u00ed amistades por decirles que tengo esta enfermedad",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"Description": "Container: 903B209F-EEE1-47E9-B689-6968BD37B8E5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "C334D7E6-BFF1-458D-9B63-31ABA323A33E",
+							"Description": "Nunca",
+							"FormItemOID": "CDF6FFFA-F188-4226-A253-5ADCF19FC0A9",
+							"ItemResponseOID": "76CFB94B-A182-44FC-B1AF-28D7195013D8",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AFB56BD2-855B-4EC3-BFE3-2E320091E92A",
+							"Description": "Rara vez",
+							"FormItemOID": "CDF6FFFA-F188-4226-A253-5ADCF19FC0A9",
+							"ItemResponseOID": "745471F9-9AFF-4121-8AE2-F4B2F33CAFD0",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "31AB70AF-F003-4CD2-A13B-EEFF401F61FA",
+							"Description": "Algunas veces",
+							"FormItemOID": "CDF6FFFA-F188-4226-A253-5ADCF19FC0A9",
+							"ItemResponseOID": "B73BB93D-CFB8-4A62-B6F1-93DE83FDCA7A",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "B9D6CD92-826F-40A9-9131-7AC17AB67583",
+							"Description": "A menudo",
+							"FormItemOID": "CDF6FFFA-F188-4226-A253-5ADCF19FC0A9",
+							"ItemResponseOID": "1FA4A793-DF89-4258-AC81-254827E6AC1C",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "9763BE3C-F056-4ECD-8C3D-45A76776E264",
+							"Description": "Siempre",
+							"FormItemOID": "CDF6FFFA-F188-4226-A253-5ADCF19FC0A9",
+							"ItemResponseOID": "462A634B-537A-4B82-A041-127562230EDC",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

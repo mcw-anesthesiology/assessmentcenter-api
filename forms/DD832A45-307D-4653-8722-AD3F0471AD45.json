@@ -1,1 +1,525 @@
-{"DateFinished":"","Items":[{"FormItemOID":"FB409A4E-6A7C-4596-BA22-56955A43AEFF","ID":"NQSAT03","Order":"1","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"C7DDBBB7-47A0-4DE4-92F9-7F6B0437819C","Description":"Me molestan mis limitaciones en las actividades de familia habituales","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Nada","FormItemOID":"FB409A4E-6A7C-4596-BA22-56955A43AEFF","ItemResponseOID":"9D377184-3901-4751-A397-A21EC627F1C3", "Value":"5","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"Un poco","FormItemOID":"FB409A4E-6A7C-4596-BA22-56955A43AEFF","ItemResponseOID":"043D4A1C-0EFC-4468-9CFB-AB148FD5AE06", "Value":"4","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Algo","FormItemOID":"FB409A4E-6A7C-4596-BA22-56955A43AEFF","ItemResponseOID":"A45D0D02-9016-4D56-800A-8207C4E16083", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Mucho","FormItemOID":"FB409A4E-6A7C-4596-BA22-56955A43AEFF","ItemResponseOID":"919F65E0-13E0-4943-AA50-374FA3E9840F", "Value":"2","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Muchísimo","FormItemOID":"FB409A4E-6A7C-4596-BA22-56955A43AEFF","ItemResponseOID":"C18DFF83-2F37-428D-92DA-3F193A770C61", "Value":"1","Position":"5"}]}]},{"FormItemOID":"FAABE43D-9923-405B-A8F4-9E07B91AA47D","ID":"NQSAT23","Order":"2","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"FF15F8AA-8C7B-4CB5-B687-B1627CD453EF","Description":"Estoy decepcionado/a con mi capacidad de socializar con mi familia","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Nada","FormItemOID":"FAABE43D-9923-405B-A8F4-9E07B91AA47D","ItemResponseOID":"949EF157-597D-49A9-A70B-F0DD9F534A49", "Value":"5","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"Un poco","FormItemOID":"FAABE43D-9923-405B-A8F4-9E07B91AA47D","ItemResponseOID":"49502710-9D80-4505-B90B-7065802F0F87", "Value":"4","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Algo","FormItemOID":"FAABE43D-9923-405B-A8F4-9E07B91AA47D","ItemResponseOID":"534116AC-75F4-4F94-9081-23F8CC38E886", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Mucho","FormItemOID":"FAABE43D-9923-405B-A8F4-9E07B91AA47D","ItemResponseOID":"90796C2A-21E5-46D2-BA25-9D6F045BD3B0", "Value":"2","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Muchísimo","FormItemOID":"FAABE43D-9923-405B-A8F4-9E07B91AA47D","ItemResponseOID":"12B2EF4B-6149-4C98-9EFC-468143F2FC9D", "Value":"1","Position":"5"}]}]},{"FormItemOID":"E6FE1ECF-F799-4322-9218-A5C6038527F6","ID":"NQSAT14","Order":"3","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"44FF9773-2240-4E64-8ABE-DD6F8F364EE8","Description":"Me molestan mis limitaciones en las actividades habituales con mis amigos/as","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Nada","FormItemOID":"E6FE1ECF-F799-4322-9218-A5C6038527F6","ItemResponseOID":"F364E994-F112-4099-ADE2-7F6AD650FC2C", "Value":"5","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"Un poco","FormItemOID":"E6FE1ECF-F799-4322-9218-A5C6038527F6","ItemResponseOID":"C5FDCAA2-69C5-444C-AD1A-9D7123620693", "Value":"4","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Algo","FormItemOID":"E6FE1ECF-F799-4322-9218-A5C6038527F6","ItemResponseOID":"A3CA5AA2-025A-45AE-AB44-97A5D11E0516", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Mucho","FormItemOID":"E6FE1ECF-F799-4322-9218-A5C6038527F6","ItemResponseOID":"95925DFD-4BDC-4011-9ABB-405DF51FBC86", "Value":"2","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Muchísimo","FormItemOID":"E6FE1ECF-F799-4322-9218-A5C6038527F6","ItemResponseOID":"858D5898-6D60-4B2E-9AFF-0DA81DACF618", "Value":"1","Position":"5"}]}]},{"FormItemOID":"300C0428-C133-47BC-8F79-65468244FCED","ID":"NQSAT11","Order":"4","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"6CC23CD3-E410-4F51-B2C1-236C6DAC72DC","Description":"Estoy decepcionado/a con mi capacidad de atender a las necesidades de mis amigos/as","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Nada","FormItemOID":"300C0428-C133-47BC-8F79-65468244FCED","ItemResponseOID":"D7FFB344-F743-4B45-9B6C-0BF4EA258AB2", "Value":"5","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"Un poco","FormItemOID":"300C0428-C133-47BC-8F79-65468244FCED","ItemResponseOID":"EC27DB6F-2FEA-4892-8886-7F586358B961", "Value":"4","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Algo","FormItemOID":"300C0428-C133-47BC-8F79-65468244FCED","ItemResponseOID":"A1B02719-0D0E-4AAF-893F-DA0EB656FC26", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Mucho","FormItemOID":"300C0428-C133-47BC-8F79-65468244FCED","ItemResponseOID":"54EC2190-904C-4D7D-8A7B-3DB48F4CCCC6", "Value":"2","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Muchísimo","FormItemOID":"300C0428-C133-47BC-8F79-65468244FCED","ItemResponseOID":"60C25009-D147-461B-804A-975C6E3A35C2", "Value":"1","Position":"5"}]}]},{"FormItemOID":"DD8134DA-FE73-4A61-8AFC-A037A23CFD4D","ID":"NQSAT33","Order":"5","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"456C89F8-AA65-4586-A0B3-0AE99872C2BC","Description":"Estoy satisfecho/a con mi capacidad de hacer cosas para divertirme fuera de mi casa","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Nada","FormItemOID":"DD8134DA-FE73-4A61-8AFC-A037A23CFD4D","ItemResponseOID":"4A158FC8-4685-40D3-8DAA-80939917F761", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"Un poco","FormItemOID":"DD8134DA-FE73-4A61-8AFC-A037A23CFD4D","ItemResponseOID":"122853A3-67A8-4019-8235-338A4D42F745", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Algo","FormItemOID":"DD8134DA-FE73-4A61-8AFC-A037A23CFD4D","ItemResponseOID":"6E17A54B-B4E5-43F5-80E7-762D4B176413", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Mucho","FormItemOID":"DD8134DA-FE73-4A61-8AFC-A037A23CFD4D","ItemResponseOID":"7B4CE555-A305-42B9-B682-126B8D1B3845", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Muchísimo","FormItemOID":"DD8134DA-FE73-4A61-8AFC-A037A23CFD4D","ItemResponseOID":"3A18752C-DE0F-45D3-BCDD-AA9D8DDB3E53", "Value":"5","Position":"5"}]}]},{"FormItemOID":"42925A5B-E16F-446D-9420-C2D79BF221A5","ID":"NQSAT32","Order":"6","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"C6DA6BCF-4FCA-4635-8073-0752EBB5C98D","Description":"Estoy satisfecho/a con la cantidad de tiempo que paso realizando actividades de tiempo libre","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Nada","FormItemOID":"42925A5B-E16F-446D-9420-C2D79BF221A5","ItemResponseOID":"2D9D1882-8C84-4A8A-9A64-B9A0B9895566", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"Un poco","FormItemOID":"42925A5B-E16F-446D-9420-C2D79BF221A5","ItemResponseOID":"48C92976-3F91-44FD-BB70-68AD12C12A33", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Algo","FormItemOID":"42925A5B-E16F-446D-9420-C2D79BF221A5","ItemResponseOID":"226E7ACF-EB88-4C1C-A3B2-40E2CB581814", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Mucho","FormItemOID":"42925A5B-E16F-446D-9420-C2D79BF221A5","ItemResponseOID":"75BA86EE-D53A-4534-BC16-7EC661BCAF68", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Muchísimo","FormItemOID":"42925A5B-E16F-446D-9420-C2D79BF221A5","ItemResponseOID":"14DF27C4-EBA4-466E-B067-076030E9E388", "Value":"5","Position":"5"}]}]},{"FormItemOID":"87C9EA1B-E403-43B1-900C-AC23ADD227D6","ID":"NQSAT47","Order":"7","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"8749E56F-AABB-49CF-B485-1AC30B8EB6FD","Description":"Estoy satisfecho/a con la cantidad de trabajo que puedo hacer (incluya el trabajo en el hogar)","ElementOrder":"2"},{"ElementOID":"5FE4420F-D390-47CD-8D0D-BA757CB69019","Description":"ContainerFor5FE4420F-D390-47CD-8D0D-BA757CB69019","ElementOrder":"3","Map":[{"ElementOID":"405DAE83-357B-4B4F-9540-8AB80714AD0E","Description":"Nada","FormItemOID":"87C9EA1B-E403-43B1-900C-AC23ADD227D6","ItemResponseOID":"113D177F-B6D9-487D-AC6E-67AB1EC5D8E4", "Value":"1","Position":"1"},{"ElementOID":"16AF52AC-050D-417F-8EC5-51B6CC4755A2","Description":"Un poco","FormItemOID":"87C9EA1B-E403-43B1-900C-AC23ADD227D6","ItemResponseOID":"90C4272F-143F-4F93-8BEA-71929AA2DBA3", "Value":"2","Position":"2"},{"ElementOID":"390D6B25-A047-4773-8F57-1F1B1B835C58","Description":"Algo","FormItemOID":"87C9EA1B-E403-43B1-900C-AC23ADD227D6","ItemResponseOID":"7F02DCAA-0227-42A5-967B-270A9298C4AA", "Value":"3","Position":"3"},{"ElementOID":"80D43BC0-7592-41D5-9AB7-EAD6C1913376","Description":"Mucho","FormItemOID":"87C9EA1B-E403-43B1-900C-AC23ADD227D6","ItemResponseOID":"B39E4536-AF1D-4F03-9C90-1D2FECAA77F6", "Value":"4","Position":"4"},{"ElementOID":"8C359B0F-D583-41AF-8EFF-506779B25E83","Description":"Muchísimo","FormItemOID":"87C9EA1B-E403-43B1-900C-AC23ADD227D6","ItemResponseOID":"B5D9803C-8E7E-4FFA-B1A7-D67F2E8A8467", "Value":"5","Position":"5"}]}]},{"FormItemOID":"2B0DEEE7-71FD-44F4-AA60-B9E770586F93","ID":"NQSAT46","Order":"8","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"En los últimos 7 días","ElementOrder":"1"},{"ElementOID":"5DB8405D-72DC-43B8-B84D-FF5B4B952A68","Description":"Estoy satisfecho/a con mi capacidad de hacer los quehaceres o las tareas del hogar","ElementOrder":"2"},{"ElementOID":"B8630087-5995-4B62-8BE1-55BDEA27A80A","Description":"ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A","ElementOrder":"3","Map":[{"ElementOID":"949D2A4E-3A2B-4CD6-BE45-33C56EA76813","Description":"Nada","FormItemOID":"2B0DEEE7-71FD-44F4-AA60-B9E770586F93","ItemResponseOID":"F26C6C16-163D-406B-8B37-CCC296145DC3", "Value":"1","Position":"1"},{"ElementOID":"7C45E84C-87A5-410B-BF19-29D75531EFF4","Description":"Un poco","FormItemOID":"2B0DEEE7-71FD-44F4-AA60-B9E770586F93","ItemResponseOID":"F4DD227F-63C7-4FE4-805B-DA6736FCFC77", "Value":"2","Position":"2"},{"ElementOID":"441EE176-E592-4B32-B5FE-83B738EB10BA","Description":"Algo","FormItemOID":"2B0DEEE7-71FD-44F4-AA60-B9E770586F93","ItemResponseOID":"63C57B3F-96B5-4D12-ACBE-F9C2636E4340", "Value":"3","Position":"3"},{"ElementOID":"29BD9E0E-298C-4A51-99C3-48B9D4D25B07","Description":"Mucho","FormItemOID":"2B0DEEE7-71FD-44F4-AA60-B9E770586F93","ItemResponseOID":"C1300FF6-8D17-42A6-B915-1DAB25E86B34", "Value":"4","Position":"4"},{"ElementOID":"74DC8842-078A-4DC6-B9C9-1656A8775657","Description":"Muchísimo","FormItemOID":"2B0DEEE7-71FD-44F4-AA60-B9E770586F93","ItemResponseOID":"72A708C8-AC20-4125-86B7-33C6A0F705F0", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "FB409A4E-6A7C-4596-BA22-56955A43AEFF",
+			"ID": "NQSAT03",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C7DDBBB7-47A0-4DE4-92F9-7F6B0437819C",
+					"Description": "Me molestan mis limitaciones en las actividades de familia habituales",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Nada",
+							"FormItemOID": "FB409A4E-6A7C-4596-BA22-56955A43AEFF",
+							"ItemResponseOID": "9D377184-3901-4751-A397-A21EC627F1C3",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "Un poco",
+							"FormItemOID": "FB409A4E-6A7C-4596-BA22-56955A43AEFF",
+							"ItemResponseOID": "043D4A1C-0EFC-4468-9CFB-AB148FD5AE06",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Algo",
+							"FormItemOID": "FB409A4E-6A7C-4596-BA22-56955A43AEFF",
+							"ItemResponseOID": "A45D0D02-9016-4D56-800A-8207C4E16083",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Mucho",
+							"FormItemOID": "FB409A4E-6A7C-4596-BA22-56955A43AEFF",
+							"ItemResponseOID": "919F65E0-13E0-4943-AA50-374FA3E9840F",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "FB409A4E-6A7C-4596-BA22-56955A43AEFF",
+							"ItemResponseOID": "C18DFF83-2F37-428D-92DA-3F193A770C61",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "FAABE43D-9923-405B-A8F4-9E07B91AA47D",
+			"ID": "NQSAT23",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "FF15F8AA-8C7B-4CB5-B687-B1627CD453EF",
+					"Description": "Estoy decepcionado/a con mi capacidad de socializar con mi familia",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Nada",
+							"FormItemOID": "FAABE43D-9923-405B-A8F4-9E07B91AA47D",
+							"ItemResponseOID": "949EF157-597D-49A9-A70B-F0DD9F534A49",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "Un poco",
+							"FormItemOID": "FAABE43D-9923-405B-A8F4-9E07B91AA47D",
+							"ItemResponseOID": "49502710-9D80-4505-B90B-7065802F0F87",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Algo",
+							"FormItemOID": "FAABE43D-9923-405B-A8F4-9E07B91AA47D",
+							"ItemResponseOID": "534116AC-75F4-4F94-9081-23F8CC38E886",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Mucho",
+							"FormItemOID": "FAABE43D-9923-405B-A8F4-9E07B91AA47D",
+							"ItemResponseOID": "90796C2A-21E5-46D2-BA25-9D6F045BD3B0",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "FAABE43D-9923-405B-A8F4-9E07B91AA47D",
+							"ItemResponseOID": "12B2EF4B-6149-4C98-9EFC-468143F2FC9D",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "E6FE1ECF-F799-4322-9218-A5C6038527F6",
+			"ID": "NQSAT14",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "44FF9773-2240-4E64-8ABE-DD6F8F364EE8",
+					"Description": "Me molestan mis limitaciones en las actividades habituales con mis amigos/as",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Nada",
+							"FormItemOID": "E6FE1ECF-F799-4322-9218-A5C6038527F6",
+							"ItemResponseOID": "F364E994-F112-4099-ADE2-7F6AD650FC2C",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "Un poco",
+							"FormItemOID": "E6FE1ECF-F799-4322-9218-A5C6038527F6",
+							"ItemResponseOID": "C5FDCAA2-69C5-444C-AD1A-9D7123620693",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Algo",
+							"FormItemOID": "E6FE1ECF-F799-4322-9218-A5C6038527F6",
+							"ItemResponseOID": "A3CA5AA2-025A-45AE-AB44-97A5D11E0516",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Mucho",
+							"FormItemOID": "E6FE1ECF-F799-4322-9218-A5C6038527F6",
+							"ItemResponseOID": "95925DFD-4BDC-4011-9ABB-405DF51FBC86",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "E6FE1ECF-F799-4322-9218-A5C6038527F6",
+							"ItemResponseOID": "858D5898-6D60-4B2E-9AFF-0DA81DACF618",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "300C0428-C133-47BC-8F79-65468244FCED",
+			"ID": "NQSAT11",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6CC23CD3-E410-4F51-B2C1-236C6DAC72DC",
+					"Description": "Estoy decepcionado/a con mi capacidad de atender a las necesidades de mis amigos/as",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Nada",
+							"FormItemOID": "300C0428-C133-47BC-8F79-65468244FCED",
+							"ItemResponseOID": "D7FFB344-F743-4B45-9B6C-0BF4EA258AB2",
+							"Value": "5",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "Un poco",
+							"FormItemOID": "300C0428-C133-47BC-8F79-65468244FCED",
+							"ItemResponseOID": "EC27DB6F-2FEA-4892-8886-7F586358B961",
+							"Value": "4",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Algo",
+							"FormItemOID": "300C0428-C133-47BC-8F79-65468244FCED",
+							"ItemResponseOID": "A1B02719-0D0E-4AAF-893F-DA0EB656FC26",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Mucho",
+							"FormItemOID": "300C0428-C133-47BC-8F79-65468244FCED",
+							"ItemResponseOID": "54EC2190-904C-4D7D-8A7B-3DB48F4CCCC6",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "300C0428-C133-47BC-8F79-65468244FCED",
+							"ItemResponseOID": "60C25009-D147-461B-804A-975C6E3A35C2",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "DD8134DA-FE73-4A61-8AFC-A037A23CFD4D",
+			"ID": "NQSAT33",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "456C89F8-AA65-4586-A0B3-0AE99872C2BC",
+					"Description": "Estoy satisfecho/a con mi capacidad de hacer cosas para divertirme fuera de mi casa",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Nada",
+							"FormItemOID": "DD8134DA-FE73-4A61-8AFC-A037A23CFD4D",
+							"ItemResponseOID": "4A158FC8-4685-40D3-8DAA-80939917F761",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "Un poco",
+							"FormItemOID": "DD8134DA-FE73-4A61-8AFC-A037A23CFD4D",
+							"ItemResponseOID": "122853A3-67A8-4019-8235-338A4D42F745",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Algo",
+							"FormItemOID": "DD8134DA-FE73-4A61-8AFC-A037A23CFD4D",
+							"ItemResponseOID": "6E17A54B-B4E5-43F5-80E7-762D4B176413",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Mucho",
+							"FormItemOID": "DD8134DA-FE73-4A61-8AFC-A037A23CFD4D",
+							"ItemResponseOID": "7B4CE555-A305-42B9-B682-126B8D1B3845",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "DD8134DA-FE73-4A61-8AFC-A037A23CFD4D",
+							"ItemResponseOID": "3A18752C-DE0F-45D3-BCDD-AA9D8DDB3E53",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "42925A5B-E16F-446D-9420-C2D79BF221A5",
+			"ID": "NQSAT32",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C6DA6BCF-4FCA-4635-8073-0752EBB5C98D",
+					"Description": "Estoy satisfecho/a con la cantidad de tiempo que paso realizando actividades de tiempo libre",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Nada",
+							"FormItemOID": "42925A5B-E16F-446D-9420-C2D79BF221A5",
+							"ItemResponseOID": "2D9D1882-8C84-4A8A-9A64-B9A0B9895566",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "Un poco",
+							"FormItemOID": "42925A5B-E16F-446D-9420-C2D79BF221A5",
+							"ItemResponseOID": "48C92976-3F91-44FD-BB70-68AD12C12A33",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Algo",
+							"FormItemOID": "42925A5B-E16F-446D-9420-C2D79BF221A5",
+							"ItemResponseOID": "226E7ACF-EB88-4C1C-A3B2-40E2CB581814",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Mucho",
+							"FormItemOID": "42925A5B-E16F-446D-9420-C2D79BF221A5",
+							"ItemResponseOID": "75BA86EE-D53A-4534-BC16-7EC661BCAF68",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "42925A5B-E16F-446D-9420-C2D79BF221A5",
+							"ItemResponseOID": "14DF27C4-EBA4-466E-B067-076030E9E388",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "87C9EA1B-E403-43B1-900C-AC23ADD227D6",
+			"ID": "NQSAT47",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8749E56F-AABB-49CF-B485-1AC30B8EB6FD",
+					"Description": "Estoy satisfecho/a con la cantidad de trabajo que puedo hacer (incluya el trabajo en el hogar)",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "5FE4420F-D390-47CD-8D0D-BA757CB69019",
+					"Description": "ContainerFor5FE4420F-D390-47CD-8D0D-BA757CB69019",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "405DAE83-357B-4B4F-9540-8AB80714AD0E",
+							"Description": "Nada",
+							"FormItemOID": "87C9EA1B-E403-43B1-900C-AC23ADD227D6",
+							"ItemResponseOID": "113D177F-B6D9-487D-AC6E-67AB1EC5D8E4",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "16AF52AC-050D-417F-8EC5-51B6CC4755A2",
+							"Description": "Un poco",
+							"FormItemOID": "87C9EA1B-E403-43B1-900C-AC23ADD227D6",
+							"ItemResponseOID": "90C4272F-143F-4F93-8BEA-71929AA2DBA3",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "390D6B25-A047-4773-8F57-1F1B1B835C58",
+							"Description": "Algo",
+							"FormItemOID": "87C9EA1B-E403-43B1-900C-AC23ADD227D6",
+							"ItemResponseOID": "7F02DCAA-0227-42A5-967B-270A9298C4AA",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "80D43BC0-7592-41D5-9AB7-EAD6C1913376",
+							"Description": "Mucho",
+							"FormItemOID": "87C9EA1B-E403-43B1-900C-AC23ADD227D6",
+							"ItemResponseOID": "B39E4536-AF1D-4F03-9C90-1D2FECAA77F6",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "8C359B0F-D583-41AF-8EFF-506779B25E83",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "87C9EA1B-E403-43B1-900C-AC23ADD227D6",
+							"ItemResponseOID": "B5D9803C-8E7E-4FFA-B1A7-D67F2E8A8467",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2B0DEEE7-71FD-44F4-AA60-B9E770586F93",
+			"ID": "NQSAT46",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "En los \u00faltimos 7 d\u00edas",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "5DB8405D-72DC-43B8-B84D-FF5B4B952A68",
+					"Description": "Estoy satisfecho/a con mi capacidad de hacer los quehaceres o las tareas del hogar",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"Description": "ContainerForB8630087-5995-4B62-8BE1-55BDEA27A80A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "949D2A4E-3A2B-4CD6-BE45-33C56EA76813",
+							"Description": "Nada",
+							"FormItemOID": "2B0DEEE7-71FD-44F4-AA60-B9E770586F93",
+							"ItemResponseOID": "F26C6C16-163D-406B-8B37-CCC296145DC3",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "7C45E84C-87A5-410B-BF19-29D75531EFF4",
+							"Description": "Un poco",
+							"FormItemOID": "2B0DEEE7-71FD-44F4-AA60-B9E770586F93",
+							"ItemResponseOID": "F4DD227F-63C7-4FE4-805B-DA6736FCFC77",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "441EE176-E592-4B32-B5FE-83B738EB10BA",
+							"Description": "Algo",
+							"FormItemOID": "2B0DEEE7-71FD-44F4-AA60-B9E770586F93",
+							"ItemResponseOID": "63C57B3F-96B5-4D12-ACBE-F9C2636E4340",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "29BD9E0E-298C-4A51-99C3-48B9D4D25B07",
+							"Description": "Mucho",
+							"FormItemOID": "2B0DEEE7-71FD-44F4-AA60-B9E770586F93",
+							"ItemResponseOID": "C1300FF6-8D17-42A6-B915-1DAB25E86B34",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "74DC8842-078A-4DC6-B9C9-1656A8775657",
+							"Description": "Much\u00edsimo",
+							"FormItemOID": "2B0DEEE7-71FD-44F4-AA60-B9E770586F93",
+							"ItemResponseOID": "72A708C8-AC20-4125-86B7-33C6A0F705F0",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

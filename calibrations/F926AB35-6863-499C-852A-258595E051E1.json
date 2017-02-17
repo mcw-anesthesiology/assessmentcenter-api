@@ -1,1 +1,269 @@
-{"FormOID":"F926AB35-6863-499C-852A-258595E051E1","Form":"8-item Manage Day Activities Self-Efficacy Short Form","Properties":[{"MinNumItems":"8"},{"MaxNumItems":"8"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"0.00"},{"DistStdDev":"1.00"},{"FirstItem":""},{"CalibrationSample":"UMB and OP4G samples"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"1EAE8FE5-D909-4301-937E-233302C5FCC4","ID":"SEMDA024","A_GRM":"3.06000","Map":[{"ItemResponseOID":"0AF56766-D603-4105-93D6-BC2C61D8CD3C","StepOrder":"1","Threshold":"-1.0400"},{"ItemResponseOID":"BA6C9092-05AA-4F48-B6BA-C637E2E14913","StepOrder":"2","Threshold":"-0.8400"},{"ItemResponseOID":"F1D4C074-3CF3-4DD1-AF47-569F1F6CD2AC","StepOrder":"3","Threshold":"-0.5300"},{"ItemResponseOID":"F376B60F-A470-46A2-8684-80D08B8F0B2B","StepOrder":"4","Threshold":"-0.1100"}]},{"FormItemOID":"6083E0AD-F6C0-4CD6-B14A-E89A259DE8C5","ID":"SEMDA018","A_GRM":"4.75000","Map":[{"ItemResponseOID":"9D83BB84-1771-428B-BAFF-5465626F0B0A","StepOrder":"1","Threshold":"-1.4900"},{"ItemResponseOID":"A994A797-CE38-403C-8320-BC274FC9A784","StepOrder":"2","Threshold":"-1.2100"},{"ItemResponseOID":"AA08B60E-0202-44CD-80E3-9CDB220B90F6","StepOrder":"3","Threshold":"-0.8300"},{"ItemResponseOID":"604F5FDE-DBDD-4C54-971C-8F5F175BE849","StepOrder":"4","Threshold":"-0.3700"}]},{"FormItemOID":"62ED1FC8-32C0-4BA9-9E91-7201405B730D","ID":"SEMDA020","A_GRM":"4.06000","Map":[{"ItemResponseOID":"A83C1416-5D2D-4D06-BF49-79E5D8A89BC1","StepOrder":"1","Threshold":"-1.4100"},{"ItemResponseOID":"9E60F730-781A-4F35-AAB7-47A551B4E7D5","StepOrder":"2","Threshold":"-1.0600"},{"ItemResponseOID":"9C13313F-789A-4B34-861E-A22FEE40CEF3","StepOrder":"3","Threshold":"-0.6300"},{"ItemResponseOID":"6E888299-69C9-4593-B6A3-84D76B741097","StepOrder":"4","Threshold":"-0.2300"}]},{"FormItemOID":"6750A9C2-89FC-4BC6-90CF-A6391CB7C8C2","ID":"SEMDA008","A_GRM":"3.43000","Map":[{"ItemResponseOID":"668915A3-3121-4BA3-825C-0551F63B13B1","StepOrder":"1","Threshold":"-2.2100"},{"ItemResponseOID":"5E448064-E9D6-48BC-B623-A498D32AB690","StepOrder":"2","Threshold":"-1.9100"},{"ItemResponseOID":"9E65B8DC-8C69-4E58-A3FD-A1F0FA7C1CD8","StepOrder":"3","Threshold":"-1.4000"},{"ItemResponseOID":"22704B2D-2440-477F-94D3-4A86CD670B71","StepOrder":"4","Threshold":"-0.8600"}]},{"FormItemOID":"6DBAA57F-82EE-441D-B759-3A4C3B6DC89E","ID":"SEMDA028","A_GRM":"4.03000","Map":[{"ItemResponseOID":"33E501AA-13F9-4C80-B720-5FAB3C37BB9D","StepOrder":"1","Threshold":"-1.3300"},{"ItemResponseOID":"DC1A4989-70E5-47A8-88D7-9E6987DC4C13","StepOrder":"2","Threshold":"-0.9900"},{"ItemResponseOID":"A1A31889-7794-413B-934C-7C3FD6986949","StepOrder":"3","Threshold":"-0.5900"},{"ItemResponseOID":"C868A116-597B-415A-B6A3-BE945552E63B","StepOrder":"4","Threshold":"-0.1100"}]},{"FormItemOID":"B9AFA452-4C66-4A08-A3DC-044B2BFA3F51","ID":"SEMDA021","A_GRM":"4.79000","Map":[{"ItemResponseOID":"BF056311-E5E1-49CA-A6B2-12501BA35B8B","StepOrder":"1","Threshold":"-1.4900"},{"ItemResponseOID":"C690F394-5326-46E8-B0DE-0E3EC6FF0F42","StepOrder":"2","Threshold":"-1.0700"},{"ItemResponseOID":"6C9C7928-A289-4A8C-806C-DA4E3852B045","StepOrder":"3","Threshold":"-0.7000"},{"ItemResponseOID":"1D8D7EC7-ADB2-4EC3-9EBC-057716136595","StepOrder":"4","Threshold":"-0.2600"}]},{"FormItemOID":"BA4EB34B-1ED1-47A6-BE1D-42539998AEFB","ID":"SEMDA030","A_GRM":"2.27000","Map":[{"ItemResponseOID":"07458FF4-6EF4-4544-8BD0-71A03644DF40","StepOrder":"1","Threshold":"-1.6000"},{"ItemResponseOID":"66EFB540-9763-4291-A5B1-BA9ABB0627AD","StepOrder":"2","Threshold":"-0.9900"},{"ItemResponseOID":"3B91E01F-906E-4BC2-B89A-855D8D38649C","StepOrder":"3","Threshold":"-0.3800"},{"ItemResponseOID":"47ABAD79-9F6D-4332-BE7B-4CD43F949918","StepOrder":"4","Threshold":"0.2300"}]},{"FormItemOID":"C2300183-ED45-4B3D-8A2F-3B288C6940AE","ID":"SEMDA010","A_GRM":"4.41000","Map":[{"ItemResponseOID":"E75EC73A-2B23-40DB-AED6-DA7023C6353F","StepOrder":"1","Threshold":"-1.8600"},{"ItemResponseOID":"B6BF95F7-5CF5-4D64-97A9-99C7CB21CCB5","StepOrder":"2","Threshold":"-1.5200"},{"ItemResponseOID":"E3B54094-D91E-45E8-9707-02F3A7CFA461","StepOrder":"3","Threshold":"-1.2000"},{"ItemResponseOID":"602F3E36-06D0-4022-B6E3-589DE4D115DE","StepOrder":"4","Threshold":"-0.7600"}]}]}
+{
+	"FormOID": "F926AB35-6863-499C-852A-258595E051E1",
+	"Form": "8-item Manage Day Activities Self-Efficacy Short Form",
+	"Properties": [
+		{
+			"MinNumItems": "8"
+		},
+		{
+			"MaxNumItems": "8"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "0.00"
+		},
+		{
+			"DistStdDev": "1.00"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "UMB and OP4G samples"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "1EAE8FE5-D909-4301-937E-233302C5FCC4",
+			"ID": "SEMDA024",
+			"A_GRM": "3.06000",
+			"Map": [
+				{
+					"ItemResponseOID": "0AF56766-D603-4105-93D6-BC2C61D8CD3C",
+					"StepOrder": "1",
+					"Threshold": "-1.0400"
+				},
+				{
+					"ItemResponseOID": "BA6C9092-05AA-4F48-B6BA-C637E2E14913",
+					"StepOrder": "2",
+					"Threshold": "-0.8400"
+				},
+				{
+					"ItemResponseOID": "F1D4C074-3CF3-4DD1-AF47-569F1F6CD2AC",
+					"StepOrder": "3",
+					"Threshold": "-0.5300"
+				},
+				{
+					"ItemResponseOID": "F376B60F-A470-46A2-8684-80D08B8F0B2B",
+					"StepOrder": "4",
+					"Threshold": "-0.1100"
+				}
+			]
+		},
+		{
+			"FormItemOID": "6083E0AD-F6C0-4CD6-B14A-E89A259DE8C5",
+			"ID": "SEMDA018",
+			"A_GRM": "4.75000",
+			"Map": [
+				{
+					"ItemResponseOID": "9D83BB84-1771-428B-BAFF-5465626F0B0A",
+					"StepOrder": "1",
+					"Threshold": "-1.4900"
+				},
+				{
+					"ItemResponseOID": "A994A797-CE38-403C-8320-BC274FC9A784",
+					"StepOrder": "2",
+					"Threshold": "-1.2100"
+				},
+				{
+					"ItemResponseOID": "AA08B60E-0202-44CD-80E3-9CDB220B90F6",
+					"StepOrder": "3",
+					"Threshold": "-0.8300"
+				},
+				{
+					"ItemResponseOID": "604F5FDE-DBDD-4C54-971C-8F5F175BE849",
+					"StepOrder": "4",
+					"Threshold": "-0.3700"
+				}
+			]
+		},
+		{
+			"FormItemOID": "62ED1FC8-32C0-4BA9-9E91-7201405B730D",
+			"ID": "SEMDA020",
+			"A_GRM": "4.06000",
+			"Map": [
+				{
+					"ItemResponseOID": "A83C1416-5D2D-4D06-BF49-79E5D8A89BC1",
+					"StepOrder": "1",
+					"Threshold": "-1.4100"
+				},
+				{
+					"ItemResponseOID": "9E60F730-781A-4F35-AAB7-47A551B4E7D5",
+					"StepOrder": "2",
+					"Threshold": "-1.0600"
+				},
+				{
+					"ItemResponseOID": "9C13313F-789A-4B34-861E-A22FEE40CEF3",
+					"StepOrder": "3",
+					"Threshold": "-0.6300"
+				},
+				{
+					"ItemResponseOID": "6E888299-69C9-4593-B6A3-84D76B741097",
+					"StepOrder": "4",
+					"Threshold": "-0.2300"
+				}
+			]
+		},
+		{
+			"FormItemOID": "6750A9C2-89FC-4BC6-90CF-A6391CB7C8C2",
+			"ID": "SEMDA008",
+			"A_GRM": "3.43000",
+			"Map": [
+				{
+					"ItemResponseOID": "668915A3-3121-4BA3-825C-0551F63B13B1",
+					"StepOrder": "1",
+					"Threshold": "-2.2100"
+				},
+				{
+					"ItemResponseOID": "5E448064-E9D6-48BC-B623-A498D32AB690",
+					"StepOrder": "2",
+					"Threshold": "-1.9100"
+				},
+				{
+					"ItemResponseOID": "9E65B8DC-8C69-4E58-A3FD-A1F0FA7C1CD8",
+					"StepOrder": "3",
+					"Threshold": "-1.4000"
+				},
+				{
+					"ItemResponseOID": "22704B2D-2440-477F-94D3-4A86CD670B71",
+					"StepOrder": "4",
+					"Threshold": "-0.8600"
+				}
+			]
+		},
+		{
+			"FormItemOID": "6DBAA57F-82EE-441D-B759-3A4C3B6DC89E",
+			"ID": "SEMDA028",
+			"A_GRM": "4.03000",
+			"Map": [
+				{
+					"ItemResponseOID": "33E501AA-13F9-4C80-B720-5FAB3C37BB9D",
+					"StepOrder": "1",
+					"Threshold": "-1.3300"
+				},
+				{
+					"ItemResponseOID": "DC1A4989-70E5-47A8-88D7-9E6987DC4C13",
+					"StepOrder": "2",
+					"Threshold": "-0.9900"
+				},
+				{
+					"ItemResponseOID": "A1A31889-7794-413B-934C-7C3FD6986949",
+					"StepOrder": "3",
+					"Threshold": "-0.5900"
+				},
+				{
+					"ItemResponseOID": "C868A116-597B-415A-B6A3-BE945552E63B",
+					"StepOrder": "4",
+					"Threshold": "-0.1100"
+				}
+			]
+		},
+		{
+			"FormItemOID": "B9AFA452-4C66-4A08-A3DC-044B2BFA3F51",
+			"ID": "SEMDA021",
+			"A_GRM": "4.79000",
+			"Map": [
+				{
+					"ItemResponseOID": "BF056311-E5E1-49CA-A6B2-12501BA35B8B",
+					"StepOrder": "1",
+					"Threshold": "-1.4900"
+				},
+				{
+					"ItemResponseOID": "C690F394-5326-46E8-B0DE-0E3EC6FF0F42",
+					"StepOrder": "2",
+					"Threshold": "-1.0700"
+				},
+				{
+					"ItemResponseOID": "6C9C7928-A289-4A8C-806C-DA4E3852B045",
+					"StepOrder": "3",
+					"Threshold": "-0.7000"
+				},
+				{
+					"ItemResponseOID": "1D8D7EC7-ADB2-4EC3-9EBC-057716136595",
+					"StepOrder": "4",
+					"Threshold": "-0.2600"
+				}
+			]
+		},
+		{
+			"FormItemOID": "BA4EB34B-1ED1-47A6-BE1D-42539998AEFB",
+			"ID": "SEMDA030",
+			"A_GRM": "2.27000",
+			"Map": [
+				{
+					"ItemResponseOID": "07458FF4-6EF4-4544-8BD0-71A03644DF40",
+					"StepOrder": "1",
+					"Threshold": "-1.6000"
+				},
+				{
+					"ItemResponseOID": "66EFB540-9763-4291-A5B1-BA9ABB0627AD",
+					"StepOrder": "2",
+					"Threshold": "-0.9900"
+				},
+				{
+					"ItemResponseOID": "3B91E01F-906E-4BC2-B89A-855D8D38649C",
+					"StepOrder": "3",
+					"Threshold": "-0.3800"
+				},
+				{
+					"ItemResponseOID": "47ABAD79-9F6D-4332-BE7B-4CD43F949918",
+					"StepOrder": "4",
+					"Threshold": "0.2300"
+				}
+			]
+		},
+		{
+			"FormItemOID": "C2300183-ED45-4B3D-8A2F-3B288C6940AE",
+			"ID": "SEMDA010",
+			"A_GRM": "4.41000",
+			"Map": [
+				{
+					"ItemResponseOID": "E75EC73A-2B23-40DB-AED6-DA7023C6353F",
+					"StepOrder": "1",
+					"Threshold": "-1.8600"
+				},
+				{
+					"ItemResponseOID": "B6BF95F7-5CF5-4D64-97A9-99C7CB21CCB5",
+					"StepOrder": "2",
+					"Threshold": "-1.5200"
+				},
+				{
+					"ItemResponseOID": "E3B54094-D91E-45E8-9707-02F3A7CFA461",
+					"StepOrder": "3",
+					"Threshold": "-1.2000"
+				},
+				{
+					"ItemResponseOID": "602F3E36-06D0-4022-B6E3-589DE4D115DE",
+					"StepOrder": "4",
+					"Threshold": "-0.7600"
+				}
+			]
+		}
+	]
+}

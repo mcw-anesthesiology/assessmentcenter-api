@@ -1,1 +1,265 @@
-{"DateFinished":"","Items":[{"FormItemOID":"F02CC874-01C5-45BD-91F0-D779C256418E","ID":"SEMSS014","Order":"1","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"EA32792B-D6A6-47A7-A789-CB3103957E4A","Description":"I can talk about my health problems with someone.","ElementOrder":"2"},{"ElementOID":"279C90C0-B458-4E6D-8243-BCF892B05E08","Description":"ContainerFor279C90C0-B458-4E6D-8243-BCF892B05E08","ElementOrder":"3","Map":[{"ElementOID":"8403FAF1-D05F-4C5C-97E8-96D518B2A69F","Description":"I am not at all confident","FormItemOID":"F02CC874-01C5-45BD-91F0-D779C256418E","ItemResponseOID":"EFC049A1-D808-4DDE-BB8B-042A666F0C00", "Value":"1","Position":"1"},{"ElementOID":"EC80CFB7-7A57-4F84-A338-0C8F9FE7495C","Description":"I am a little confident","FormItemOID":"F02CC874-01C5-45BD-91F0-D779C256418E","ItemResponseOID":"22F98790-4CED-434F-8BB5-F50B49F68036", "Value":"2","Position":"2"},{"ElementOID":"A671B41E-5020-432E-892A-9D1B023973B1","Description":"I am somewhat confident","FormItemOID":"F02CC874-01C5-45BD-91F0-D779C256418E","ItemResponseOID":"C3EED054-8C9C-42F8-9E50-9EBFDC79844C", "Value":"3","Position":"3"},{"ElementOID":"46520D1B-A2CC-40C3-A92D-34F8DA6F6C83","Description":"I am quite confident","FormItemOID":"F02CC874-01C5-45BD-91F0-D779C256418E","ItemResponseOID":"9F8C9FD1-719F-4316-8F13-AF5CAB57DA55", "Value":"4","Position":"4"},{"ElementOID":"93FE3A8A-AD6D-4376-A331-DC8D24F6A575","Description":"I am very confident","FormItemOID":"F02CC874-01C5-45BD-91F0-D779C256418E","ItemResponseOID":"1BA49B4A-85B1-407C-8980-2DCE9D447615", "Value":"5","Position":"5"}]}]},{"FormItemOID":"97C4880B-E972-46FE-A9F4-82B9569E8734","ID":"SEMSS024","Order":"2","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"905EA241-D6F8-474A-8D0A-EDC2F148FAEE","Description":"If I need help, I can find someone to take me to the doctor's office.","ElementOrder":"2"},{"ElementOID":"A1E83C83-F90E-4FF1-831E-F588E269280A","Description":"ContainerForA1E83C83-F90E-4FF1-831E-F588E269280A","ElementOrder":"3","Map":[{"ElementOID":"3B0760C6-106C-4E4C-B47B-E64DAB5E389F","Description":"I am not at all confident","FormItemOID":"97C4880B-E972-46FE-A9F4-82B9569E8734","ItemResponseOID":"3DDA89C7-E15D-455C-8447-4EE11DEA99DB", "Value":"1","Position":"1"},{"ElementOID":"2B13430F-D7C9-4861-8744-D6D906F7BDC0","Description":"I am a little confident","FormItemOID":"97C4880B-E972-46FE-A9F4-82B9569E8734","ItemResponseOID":"B75AB09D-1108-4D79-A37C-885957E4950F", "Value":"2","Position":"2"},{"ElementOID":"D57DDDC2-94DB-47A0-8A97-C6CC2075F46E","Description":"I am somewhat confident","FormItemOID":"97C4880B-E972-46FE-A9F4-82B9569E8734","ItemResponseOID":"340CC916-E8F4-48A9-89CE-F848B4163AAB", "Value":"3","Position":"3"},{"ElementOID":"4B0B16AE-A719-4422-BBE1-DA14783D4B6E","Description":"I am quite confident","FormItemOID":"97C4880B-E972-46FE-A9F4-82B9569E8734","ItemResponseOID":"C25A59ED-FE9C-429F-85DB-FE588141E3DD", "Value":"4","Position":"4"},{"ElementOID":"1E169FC0-D434-4064-87AD-15E199616A6D","Description":"I am very confident","FormItemOID":"97C4880B-E972-46FE-A9F4-82B9569E8734","ItemResponseOID":"B4132A3E-ABA4-4DA3-93C4-1F03614A8F37", "Value":"5","Position":"5"}]}]},{"FormItemOID":"D517AA14-44FA-424A-90CB-88C1B5616A39","ID":"SEMSS013","Order":"3","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"524C6086-DE82-4E2C-BA6D-2244F3D23960","Description":"I can get emotional support when I need it.","ElementOrder":"2"},{"ElementOID":"04979045-29E0-4269-93C1-71E507711547","Description":"ContainerFor04979045-29E0-4269-93C1-71E507711547","ElementOrder":"3","Map":[{"ElementOID":"5C9BFDDB-97D1-4173-9296-5ADFBE919A57","Description":"I am not at all confident","FormItemOID":"D517AA14-44FA-424A-90CB-88C1B5616A39","ItemResponseOID":"18D0970B-28C4-4355-A4E1-D7C23623D496", "Value":"1","Position":"1"},{"ElementOID":"FAEFE912-97A1-414D-B7E1-0B0C6BECD7A2","Description":"I am a little confident","FormItemOID":"D517AA14-44FA-424A-90CB-88C1B5616A39","ItemResponseOID":"1B58F4A2-B706-4D4C-990D-3F5441BAD59E", "Value":"2","Position":"2"},{"ElementOID":"126122E9-B8C9-43C8-85C7-CADF0069A3D7","Description":"I am somewhat confident","FormItemOID":"D517AA14-44FA-424A-90CB-88C1B5616A39","ItemResponseOID":"6246DB79-6867-47F0-96A2-67CA60EC5D9B", "Value":"3","Position":"3"},{"ElementOID":"2C3E47AE-CA1F-4E9D-973F-D7D1268EF988","Description":"I am quite confident","FormItemOID":"D517AA14-44FA-424A-90CB-88C1B5616A39","ItemResponseOID":"6E7BCDDF-DB57-403C-8C07-7FC3EA42F1D0", "Value":"4","Position":"4"},{"ElementOID":"B5E7EB53-4F92-43F2-915A-FEFBB056C5DA","Description":"I am very confident","FormItemOID":"D517AA14-44FA-424A-90CB-88C1B5616A39","ItemResponseOID":"2C3516D1-9D56-4E75-BADE-4D3FE8EE26A0", "Value":"5","Position":"5"}]}]},{"FormItemOID":"48572B4F-5B5A-41A9-92A1-30AEF3598B24","ID":"SEMSS012","Order":"4","ItemType":"","Elements":[{"ElementOID":"F6C0BB3F-828C-4F1B-9571-4C83614186F4","Description":"CURRENT level of confidence","ElementOrder":"1"},{"ElementOID":"8DCFCC20-2C26-48BE-90D5-CC7AA81426FC","Description":"I can ask for help when I don't understand something.","ElementOrder":"2"},{"ElementOID":"03C627EA-1C6E-421B-A397-3CA1ED53A02C","Description":"ContainerFor03C627EA-1C6E-421B-A397-3CA1ED53A02C","ElementOrder":"3","Map":[{"ElementOID":"0C0A62BF-1E6A-437B-ACEF-544DF640F798","Description":"I am not at all confident","FormItemOID":"48572B4F-5B5A-41A9-92A1-30AEF3598B24","ItemResponseOID":"4870642C-7598-4D60-BE24-5578F60D33E4", "Value":"1","Position":"1"},{"ElementOID":"C9F36D39-EC2D-4C60-BF39-789D72FB8E84","Description":"I am a little confident","FormItemOID":"48572B4F-5B5A-41A9-92A1-30AEF3598B24","ItemResponseOID":"10DDD081-4E49-4B4A-B059-470ABA788BF1", "Value":"2","Position":"2"},{"ElementOID":"517A8930-4D32-494C-B398-48CF6CC6F88C","Description":"I am somewhat confident","FormItemOID":"48572B4F-5B5A-41A9-92A1-30AEF3598B24","ItemResponseOID":"BFDA3383-E138-42DD-A863-7884514A13C2", "Value":"3","Position":"3"},{"ElementOID":"2F74689B-22EB-49D6-8353-C422A890B01D","Description":"I am quite confident","FormItemOID":"48572B4F-5B5A-41A9-92A1-30AEF3598B24","ItemResponseOID":"AED1EFDD-2962-445D-92AD-0A35E744CEAD", "Value":"4","Position":"4"},{"ElementOID":"00DD39B5-7674-4CB5-B70A-074ABC6373AA","Description":"I am very confident","FormItemOID":"48572B4F-5B5A-41A9-92A1-30AEF3598B24","ItemResponseOID":"310D35B9-2CC8-432D-B20C-9002077F7596", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "F02CC874-01C5-45BD-91F0-D779C256418E",
+			"ID": "SEMSS014",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "EA32792B-D6A6-47A7-A789-CB3103957E4A",
+					"Description": "I can talk about my health problems with someone.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "279C90C0-B458-4E6D-8243-BCF892B05E08",
+					"Description": "ContainerFor279C90C0-B458-4E6D-8243-BCF892B05E08",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "8403FAF1-D05F-4C5C-97E8-96D518B2A69F",
+							"Description": "I am not at all confident",
+							"FormItemOID": "F02CC874-01C5-45BD-91F0-D779C256418E",
+							"ItemResponseOID": "EFC049A1-D808-4DDE-BB8B-042A666F0C00",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "EC80CFB7-7A57-4F84-A338-0C8F9FE7495C",
+							"Description": "I am a little confident",
+							"FormItemOID": "F02CC874-01C5-45BD-91F0-D779C256418E",
+							"ItemResponseOID": "22F98790-4CED-434F-8BB5-F50B49F68036",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "A671B41E-5020-432E-892A-9D1B023973B1",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "F02CC874-01C5-45BD-91F0-D779C256418E",
+							"ItemResponseOID": "C3EED054-8C9C-42F8-9E50-9EBFDC79844C",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "46520D1B-A2CC-40C3-A92D-34F8DA6F6C83",
+							"Description": "I am quite confident",
+							"FormItemOID": "F02CC874-01C5-45BD-91F0-D779C256418E",
+							"ItemResponseOID": "9F8C9FD1-719F-4316-8F13-AF5CAB57DA55",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "93FE3A8A-AD6D-4376-A331-DC8D24F6A575",
+							"Description": "I am very confident",
+							"FormItemOID": "F02CC874-01C5-45BD-91F0-D779C256418E",
+							"ItemResponseOID": "1BA49B4A-85B1-407C-8980-2DCE9D447615",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "97C4880B-E972-46FE-A9F4-82B9569E8734",
+			"ID": "SEMSS024",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "905EA241-D6F8-474A-8D0A-EDC2F148FAEE",
+					"Description": "If I need help, I can find someone to take me to the doctor's office.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "A1E83C83-F90E-4FF1-831E-F588E269280A",
+					"Description": "ContainerForA1E83C83-F90E-4FF1-831E-F588E269280A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "3B0760C6-106C-4E4C-B47B-E64DAB5E389F",
+							"Description": "I am not at all confident",
+							"FormItemOID": "97C4880B-E972-46FE-A9F4-82B9569E8734",
+							"ItemResponseOID": "3DDA89C7-E15D-455C-8447-4EE11DEA99DB",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "2B13430F-D7C9-4861-8744-D6D906F7BDC0",
+							"Description": "I am a little confident",
+							"FormItemOID": "97C4880B-E972-46FE-A9F4-82B9569E8734",
+							"ItemResponseOID": "B75AB09D-1108-4D79-A37C-885957E4950F",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "D57DDDC2-94DB-47A0-8A97-C6CC2075F46E",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "97C4880B-E972-46FE-A9F4-82B9569E8734",
+							"ItemResponseOID": "340CC916-E8F4-48A9-89CE-F848B4163AAB",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "4B0B16AE-A719-4422-BBE1-DA14783D4B6E",
+							"Description": "I am quite confident",
+							"FormItemOID": "97C4880B-E972-46FE-A9F4-82B9569E8734",
+							"ItemResponseOID": "C25A59ED-FE9C-429F-85DB-FE588141E3DD",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "1E169FC0-D434-4064-87AD-15E199616A6D",
+							"Description": "I am very confident",
+							"FormItemOID": "97C4880B-E972-46FE-A9F4-82B9569E8734",
+							"ItemResponseOID": "B4132A3E-ABA4-4DA3-93C4-1F03614A8F37",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "D517AA14-44FA-424A-90CB-88C1B5616A39",
+			"ID": "SEMSS013",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "524C6086-DE82-4E2C-BA6D-2244F3D23960",
+					"Description": "I can get emotional support when I need it.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "04979045-29E0-4269-93C1-71E507711547",
+					"Description": "ContainerFor04979045-29E0-4269-93C1-71E507711547",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "5C9BFDDB-97D1-4173-9296-5ADFBE919A57",
+							"Description": "I am not at all confident",
+							"FormItemOID": "D517AA14-44FA-424A-90CB-88C1B5616A39",
+							"ItemResponseOID": "18D0970B-28C4-4355-A4E1-D7C23623D496",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "FAEFE912-97A1-414D-B7E1-0B0C6BECD7A2",
+							"Description": "I am a little confident",
+							"FormItemOID": "D517AA14-44FA-424A-90CB-88C1B5616A39",
+							"ItemResponseOID": "1B58F4A2-B706-4D4C-990D-3F5441BAD59E",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "126122E9-B8C9-43C8-85C7-CADF0069A3D7",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "D517AA14-44FA-424A-90CB-88C1B5616A39",
+							"ItemResponseOID": "6246DB79-6867-47F0-96A2-67CA60EC5D9B",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "2C3E47AE-CA1F-4E9D-973F-D7D1268EF988",
+							"Description": "I am quite confident",
+							"FormItemOID": "D517AA14-44FA-424A-90CB-88C1B5616A39",
+							"ItemResponseOID": "6E7BCDDF-DB57-403C-8C07-7FC3EA42F1D0",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "B5E7EB53-4F92-43F2-915A-FEFBB056C5DA",
+							"Description": "I am very confident",
+							"FormItemOID": "D517AA14-44FA-424A-90CB-88C1B5616A39",
+							"ItemResponseOID": "2C3516D1-9D56-4E75-BADE-4D3FE8EE26A0",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "48572B4F-5B5A-41A9-92A1-30AEF3598B24",
+			"ID": "SEMSS012",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "F6C0BB3F-828C-4F1B-9571-4C83614186F4",
+					"Description": "CURRENT level of confidence",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8DCFCC20-2C26-48BE-90D5-CC7AA81426FC",
+					"Description": "I can ask for help when I don't understand something.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "03C627EA-1C6E-421B-A397-3CA1ED53A02C",
+					"Description": "ContainerFor03C627EA-1C6E-421B-A397-3CA1ED53A02C",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "0C0A62BF-1E6A-437B-ACEF-544DF640F798",
+							"Description": "I am not at all confident",
+							"FormItemOID": "48572B4F-5B5A-41A9-92A1-30AEF3598B24",
+							"ItemResponseOID": "4870642C-7598-4D60-BE24-5578F60D33E4",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "C9F36D39-EC2D-4C60-BF39-789D72FB8E84",
+							"Description": "I am a little confident",
+							"FormItemOID": "48572B4F-5B5A-41A9-92A1-30AEF3598B24",
+							"ItemResponseOID": "10DDD081-4E49-4B4A-B059-470ABA788BF1",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "517A8930-4D32-494C-B398-48CF6CC6F88C",
+							"Description": "I am somewhat confident",
+							"FormItemOID": "48572B4F-5B5A-41A9-92A1-30AEF3598B24",
+							"ItemResponseOID": "BFDA3383-E138-42DD-A863-7884514A13C2",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "2F74689B-22EB-49D6-8353-C422A890B01D",
+							"Description": "I am quite confident",
+							"FormItemOID": "48572B4F-5B5A-41A9-92A1-30AEF3598B24",
+							"ItemResponseOID": "AED1EFDD-2962-445D-92AD-0A35E744CEAD",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "00DD39B5-7674-4CB5-B70A-074ABC6373AA",
+							"Description": "I am very confident",
+							"FormItemOID": "48572B4F-5B5A-41A9-92A1-30AEF3598B24",
+							"ItemResponseOID": "310D35B9-2CC8-432D-B20C-9002077F7596",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

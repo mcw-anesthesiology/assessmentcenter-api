@@ -1,1 +1,525 @@
-{"DateFinished":"","Items":[{"FormItemOID":"90B21EFA-5437-479F-A62E-0A3E9D81A036","ID":"EoS_S_032R1","Order":"1","ItemType":"","Elements":[{"ElementOID":"BFA6B4F9-61CB-45A3-B539-9295A6C100CE","Description":"In the past 7 days,","ElementOrder":"1"},{"ElementOID":"BCADE22F-1F57-47F0-AE6D-FDB6E95DDA50","Description":"My heart beat faster than usual, even when I was not exercising or playing hard.","ElementOrder":"2"},{"ElementOID":"745B50A9-ABB2-4744-8A68-BBAF83E94E82","Description":"ContainerFor745B50A9-ABB2-4744-8A68-BBAF83E94E82","ElementOrder":"3","Map":[{"ElementOID":"FF33881E-77E7-4142-A03A-5945ADF730D4","Description":"Never","FormItemOID":"90B21EFA-5437-479F-A62E-0A3E9D81A036","ItemResponseOID":"8AFFB495-C725-46E1-B6E5-1402F3C817D4", "Value":"1","Position":"1"},{"ElementOID":"0C5ADC81-C39D-445C-8C30-490A0A8002AB","Description":"Rarely","FormItemOID":"90B21EFA-5437-479F-A62E-0A3E9D81A036","ItemResponseOID":"A7A47D8F-70F0-403C-98BA-50A579D78FA3", "Value":"2","Position":"2"},{"ElementOID":"EB82859A-71B4-4C21-ACE6-ACDC073F3796","Description":"Sometimes","FormItemOID":"90B21EFA-5437-479F-A62E-0A3E9D81A036","ItemResponseOID":"8B065E03-93CF-44A1-9770-9AEBC29BC424", "Value":"3","Position":"3"},{"ElementOID":"9039A619-CF18-4B10-828E-38F6E144D039","Description":"Often","FormItemOID":"90B21EFA-5437-479F-A62E-0A3E9D81A036","ItemResponseOID":"7DF344A9-D94E-4D2B-8B15-101053733950", "Value":"4","Position":"4"},{"ElementOID":"4B77682E-D770-4BB6-85D0-3D53A757265D","Description":"Always","FormItemOID":"90B21EFA-5437-479F-A62E-0A3E9D81A036","ItemResponseOID":"1DD6F89B-3278-4EB6-98B4-976F16041D18", "Value":"5","Position":"5"}]}]},{"FormItemOID":"55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8","ID":"EoS_S_033R1","Order":"2","ItemType":"","Elements":[{"ElementOID":"BFA6B4F9-61CB-45A3-B539-9295A6C100CE","Description":"In the past 7 days,","ElementOrder":"1"},{"ElementOID":"481DC10A-6481-425A-93DA-C1F1DDA4807C","Description":"I had trouble breathing, even when I was not exercising or playing hard.","ElementOrder":"2"},{"ElementOID":"1C876FA1-ED8D-454E-BACE-00107C5B8C2E","Description":"ContainerFor1C876FA1-ED8D-454E-BACE-00107C5B8C2E","ElementOrder":"3","Map":[{"ElementOID":"AF4DF40C-02F3-4DC2-B9D9-2CBDE9999C46","Description":"Never","FormItemOID":"55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8","ItemResponseOID":"EF4CACAF-9711-4684-A819-F4097BCE5F2A", "Value":"1","Position":"1"},{"ElementOID":"A416EE0F-37EC-49B0-A6A2-D0CEDA951558","Description":"Rarely","FormItemOID":"55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8","ItemResponseOID":"E3E4B847-7D5C-4A96-9314-04737B42CB2A", "Value":"2","Position":"2"},{"ElementOID":"9D4D3083-62BB-4890-ADAD-6EFA26D58DF0","Description":"Sometimes","FormItemOID":"55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8","ItemResponseOID":"15957052-A1FB-4039-A8E9-FFF05DE8DF34", "Value":"3","Position":"3"},{"ElementOID":"5ABB5AC1-F5FE-4EF0-83FE-5A3717769151","Description":"Often","FormItemOID":"55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8","ItemResponseOID":"7D271615-13C5-4131-8D37-9DF6C068FBA3", "Value":"4","Position":"4"},{"ElementOID":"999D3286-22FA-4B37-9410-8A3424D7AEA5","Description":"Always","FormItemOID":"55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8","ItemResponseOID":"D14CC211-593C-4DB5-9089-AAC3FB4700DD", "Value":"5","Position":"5"}]}]},{"FormItemOID":"5CC5DFD7-F473-4143-A328-FC36EA8ACB53","ID":"EoS_S_039R1","Order":"3","ItemType":"","Elements":[{"ElementOID":"BFA6B4F9-61CB-45A3-B539-9295A6C100CE","Description":"In the past 7 days,","ElementOrder":"1"},{"ElementOID":"18D3E9A9-82CB-4A00-92D7-50D986D26B1D","Description":"My body shook.","ElementOrder":"2"},{"ElementOID":"63064982-6786-492F-A408-2BD5FBF52EFA","Description":"ContainerFor63064982-6786-492F-A408-2BD5FBF52EFA","ElementOrder":"3","Map":[{"ElementOID":"FB10D668-7D70-40E1-AF0E-C97F17BB2382","Description":"Never","FormItemOID":"5CC5DFD7-F473-4143-A328-FC36EA8ACB53","ItemResponseOID":"917EB6E6-FBC9-4D93-811E-1B8E1A6AF7BE", "Value":"1","Position":"1"},{"ElementOID":"B1988BD6-46CB-485F-B929-4460D039BC51","Description":"Rarely","FormItemOID":"5CC5DFD7-F473-4143-A328-FC36EA8ACB53","ItemResponseOID":"52C7E052-FE58-415B-8803-11EF61F4D622", "Value":"2","Position":"2"},{"ElementOID":"29E24511-A91E-4F0C-B7EF-C007D0A03C86","Description":"Sometimes","FormItemOID":"5CC5DFD7-F473-4143-A328-FC36EA8ACB53","ItemResponseOID":"7F0601E8-4C94-4828-A634-95F015A5B814", "Value":"3","Position":"3"},{"ElementOID":"F8F8510A-9752-4CA0-B3A8-01605E1B174A","Description":"Often","FormItemOID":"5CC5DFD7-F473-4143-A328-FC36EA8ACB53","ItemResponseOID":"9AE06116-FBF8-4A6D-BCF8-E1D717CADB37", "Value":"4","Position":"4"},{"ElementOID":"1EC85E88-642F-46FB-8B1A-C571CE48C2DC","Description":"Always","FormItemOID":"5CC5DFD7-F473-4143-A328-FC36EA8ACB53","ItemResponseOID":"EA08635C-60C4-42D4-9D7C-4A765D433E59", "Value":"5","Position":"5"}]}]},{"FormItemOID":"21098247-C8CB-49E2-96F2-1D7601E5EE45","ID":"EoS_S_046R1","Order":"4","ItemType":"","Elements":[{"ElementOID":"BFA6B4F9-61CB-45A3-B539-9295A6C100CE","Description":"In the past 7 days,","ElementOrder":"1"},{"ElementOID":"9F326398-238D-4204-A1CA-0451128DC242","Description":"I had pain that really bothered me.","ElementOrder":"2"},{"ElementOID":"2F0F2BFC-1294-4407-B5B7-7866B4516042","Description":"ContainerFor2F0F2BFC-1294-4407-B5B7-7866B4516042","ElementOrder":"3","Map":[{"ElementOID":"E38981C0-3AEC-4FE6-8AB3-F8B5C265BC1B","Description":"Never","FormItemOID":"21098247-C8CB-49E2-96F2-1D7601E5EE45","ItemResponseOID":"5B555EB6-30CB-4994-961D-DCB8823A618B", "Value":"1","Position":"1"},{"ElementOID":"DB1B4434-B7BE-444E-99AA-0EE225262AE1","Description":"Rarely","FormItemOID":"21098247-C8CB-49E2-96F2-1D7601E5EE45","ItemResponseOID":"5CC2420F-4AE9-4C50-A4A6-E180A603DC19", "Value":"2","Position":"2"},{"ElementOID":"A7D46AC6-70E7-4B16-9E74-431B25282E02","Description":"Sometimes","FormItemOID":"21098247-C8CB-49E2-96F2-1D7601E5EE45","ItemResponseOID":"A1E0D4C9-F4EE-4490-B02A-01F5A19617B0", "Value":"3","Position":"3"},{"ElementOID":"480F94A9-927B-4F9D-8F08-B877CD98B57E","Description":"Often","FormItemOID":"21098247-C8CB-49E2-96F2-1D7601E5EE45","ItemResponseOID":"92CDDDEB-61F1-4AD9-84DB-1D9EAE76297B", "Value":"4","Position":"4"},{"ElementOID":"B3C170CA-3F37-40E4-8C7B-B7F0DFD03EAB","Description":"Always","FormItemOID":"21098247-C8CB-49E2-96F2-1D7601E5EE45","ItemResponseOID":"76BE9BD6-1F33-425D-8187-8AC02484254C", "Value":"5","Position":"5"}]}]},{"FormItemOID":"94F64EEB-48F7-470F-93A5-5E01A0FFA3BE","ID":"EoS_S_017R1","Order":"5","ItemType":"","Elements":[{"ElementOID":"BFA6B4F9-61CB-45A3-B539-9295A6C100CE","Description":"In the past 7 days,","ElementOrder":"1"},{"ElementOID":"C70BCF70-5413-473F-A76D-484BD9520336","Description":"My muscles felt tight.","ElementOrder":"2"},{"ElementOID":"B66D1B37-706F-4D40-841D-778DD485DE2E","Description":"ContainerForB66D1B37-706F-4D40-841D-778DD485DE2E","ElementOrder":"3","Map":[{"ElementOID":"87F74F85-BDCD-4AA7-BDB0-842A51CFD5ED","Description":"Never","FormItemOID":"94F64EEB-48F7-470F-93A5-5E01A0FFA3BE","ItemResponseOID":"A2EDB69E-6A4D-4334-8BE4-128703444EB5", "Value":"1","Position":"1"},{"ElementOID":"A971EC56-9FE5-40C0-B407-4AD189B8724B","Description":"Rarely","FormItemOID":"94F64EEB-48F7-470F-93A5-5E01A0FFA3BE","ItemResponseOID":"BA16E9CA-5655-4D94-AFCB-5EA670FC7DFA", "Value":"2","Position":"2"},{"ElementOID":"DA0F21DD-3BF8-4AD4-BE4C-2D95DAAA2886","Description":"Sometimes","FormItemOID":"94F64EEB-48F7-470F-93A5-5E01A0FFA3BE","ItemResponseOID":"542CFEAB-AEED-4F9F-B595-BBCE4E61FAF3", "Value":"3","Position":"3"},{"ElementOID":"24F7ACC3-5E9C-47AF-BCCC-F15A56A98774","Description":"Often","FormItemOID":"94F64EEB-48F7-470F-93A5-5E01A0FFA3BE","ItemResponseOID":"048891B6-91DF-4EBD-A414-C7F0CD98B291", "Value":"4","Position":"4"},{"ElementOID":"DC73A310-FCBE-47A6-9CE0-C79F30BF295B","Description":"Always","FormItemOID":"94F64EEB-48F7-470F-93A5-5E01A0FFA3BE","ItemResponseOID":"D074075F-8971-46AD-B458-B38E1BD0E506", "Value":"5","Position":"5"}]}]},{"FormItemOID":"6A3E2789-CF0A-409F-BCC0-88A28DEE358D","ID":"EoS_S_024R1","Order":"6","ItemType":"","Elements":[{"ElementOID":"BFA6B4F9-61CB-45A3-B539-9295A6C100CE","Description":"In the past 7 days,","ElementOrder":"1"},{"ElementOID":"E9498C67-629D-4596-BD4D-2D19B66C6344","Description":"My mouth was dry.","ElementOrder":"2"},{"ElementOID":"B30C5969-E6C0-460E-88E6-5ACFA361CDCE","Description":"ContainerForB30C5969-E6C0-460E-88E6-5ACFA361CDCE","ElementOrder":"3","Map":[{"ElementOID":"2947C1B4-A20E-4B87-A07B-3C79BAE24AB6","Description":"Never","FormItemOID":"6A3E2789-CF0A-409F-BCC0-88A28DEE358D","ItemResponseOID":"D2ECE09E-CEB7-44E5-8F6F-1DBF211E0398", "Value":"1","Position":"1"},{"ElementOID":"0877CC50-DF85-4D19-8060-E53FE0E7BD79","Description":"Rarely","FormItemOID":"6A3E2789-CF0A-409F-BCC0-88A28DEE358D","ItemResponseOID":"63FC57A4-20BA-4CE3-BABA-D6B74532E2FC", "Value":"2","Position":"2"},{"ElementOID":"92D7C745-A3EF-4E0A-ABA0-7084038EA36C","Description":"Sometimes","FormItemOID":"6A3E2789-CF0A-409F-BCC0-88A28DEE358D","ItemResponseOID":"8AF0D9AD-BA97-41EB-B5E9-D745511CE2AE", "Value":"3","Position":"3"},{"ElementOID":"2919CF9E-7074-41DC-8B7D-278CA8C0233E","Description":"Often","FormItemOID":"6A3E2789-CF0A-409F-BCC0-88A28DEE358D","ItemResponseOID":"1F3B2F6D-3659-4ABA-A67C-E9302AD620ED", "Value":"4","Position":"4"},{"ElementOID":"CEFB7D93-5C47-4D45-BCFB-0DF28D6AC66F","Description":"Always","FormItemOID":"6A3E2789-CF0A-409F-BCC0-88A28DEE358D","ItemResponseOID":"64689B7F-5253-4AF4-A7F1-D190811D3B91", "Value":"5","Position":"5"}]}]},{"FormItemOID":"BBEE38FF-B0EF-4849-9DF1-4033996C46F4","ID":"EoS_S_042R1","Order":"7","ItemType":"","Elements":[{"ElementOID":"BFA6B4F9-61CB-45A3-B539-9295A6C100CE","Description":"In the past 7 days,","ElementOrder":"1"},{"ElementOID":"6189033A-DF8F-457F-B716-C76B2339940E","Description":"I had a headache.","ElementOrder":"2"},{"ElementOID":"61411245-F5B6-4F30-B135-9CB922BD97D5","Description":"ContainerFor61411245-F5B6-4F30-B135-9CB922BD97D5","ElementOrder":"3","Map":[{"ElementOID":"83C104F4-1723-4F55-9633-3E1D3F524A19","Description":"Never","FormItemOID":"BBEE38FF-B0EF-4849-9DF1-4033996C46F4","ItemResponseOID":"4E2AB550-D157-4E6D-96E6-BC25A86A30CF", "Value":"1","Position":"1"},{"ElementOID":"114BEC5B-CE8C-4F50-BD63-A7E146B8EC1A","Description":"Rarely","FormItemOID":"BBEE38FF-B0EF-4849-9DF1-4033996C46F4","ItemResponseOID":"E606F82B-A325-499A-857A-171DA244BCAE", "Value":"2","Position":"2"},{"ElementOID":"231CF93A-21CE-4D65-B531-CE429A6234F6","Description":"Sometimes","FormItemOID":"BBEE38FF-B0EF-4849-9DF1-4033996C46F4","ItemResponseOID":"CB35C0D7-8E3B-4B4C-B269-2113BF759E72", "Value":"3","Position":"3"},{"ElementOID":"D8CDBB99-1661-4F37-97CF-69C75C24C1A4","Description":"Often","FormItemOID":"BBEE38FF-B0EF-4849-9DF1-4033996C46F4","ItemResponseOID":"C61F236C-B3D0-4236-B1F1-A5ED43B5E5CD", "Value":"4","Position":"4"},{"ElementOID":"BDAD0BC5-0FD2-46BD-8980-F70DC557FF51","Description":"Always","FormItemOID":"BBEE38FF-B0EF-4849-9DF1-4033996C46F4","ItemResponseOID":"300D09EF-F914-4B13-AC31-5E84770FCBFD", "Value":"5","Position":"5"}]}]},{"FormItemOID":"607F625A-5DE5-4953-A67A-46C14560EA02","ID":"EoS_S_044R1","Order":"8","ItemType":"","Elements":[{"ElementOID":"BFA6B4F9-61CB-45A3-B539-9295A6C100CE","Description":"In the past 7 days,","ElementOrder":"1"},{"ElementOID":"D6C0039B-E916-424B-94EC-E25E984870A9","Description":"My back hurt.","ElementOrder":"2"},{"ElementOID":"DB45EE26-18A2-4E58-BC38-B17C39983936","Description":"ContainerForDB45EE26-18A2-4E58-BC38-B17C39983936","ElementOrder":"3","Map":[{"ElementOID":"72F759EB-730D-4C29-9FF2-C91A47BC8F50","Description":"Never","FormItemOID":"607F625A-5DE5-4953-A67A-46C14560EA02","ItemResponseOID":"B4D94AC5-F7B4-4ED5-8873-F85EC3A75599", "Value":"1","Position":"1"},{"ElementOID":"4F237999-E893-4BE3-91D3-C43A8AA7E9A5","Description":"Rarely","FormItemOID":"607F625A-5DE5-4953-A67A-46C14560EA02","ItemResponseOID":"BF3119E7-BBA1-454D-ACF4-45E19CA7ED1B", "Value":"2","Position":"2"},{"ElementOID":"B905A120-640E-4DF0-8CBD-B4E49E49B96A","Description":"Sometimes","FormItemOID":"607F625A-5DE5-4953-A67A-46C14560EA02","ItemResponseOID":"496F8BC0-EE5B-4F1F-B233-D6115EDE290E", "Value":"3","Position":"3"},{"ElementOID":"46C618A6-98F3-483D-91B0-62B047AF1621","Description":"Often","FormItemOID":"607F625A-5DE5-4953-A67A-46C14560EA02","ItemResponseOID":"6B7A6856-ECDA-4975-A443-0CBD4944B19D", "Value":"4","Position":"4"},{"ElementOID":"BBA09203-32C5-4BDC-898D-89B7ABE3731B","Description":"Always","FormItemOID":"607F625A-5DE5-4953-A67A-46C14560EA02","ItemResponseOID":"8D051A7C-D540-4FD6-BBE3-4D76EAF70988", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "90B21EFA-5437-479F-A62E-0A3E9D81A036",
+			"ID": "EoS_S_032R1",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "BFA6B4F9-61CB-45A3-B539-9295A6C100CE",
+					"Description": "In the past 7 days,",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "BCADE22F-1F57-47F0-AE6D-FDB6E95DDA50",
+					"Description": "My heart beat faster than usual, even when I was not exercising or playing hard.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "745B50A9-ABB2-4744-8A68-BBAF83E94E82",
+					"Description": "ContainerFor745B50A9-ABB2-4744-8A68-BBAF83E94E82",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "FF33881E-77E7-4142-A03A-5945ADF730D4",
+							"Description": "Never",
+							"FormItemOID": "90B21EFA-5437-479F-A62E-0A3E9D81A036",
+							"ItemResponseOID": "8AFFB495-C725-46E1-B6E5-1402F3C817D4",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "0C5ADC81-C39D-445C-8C30-490A0A8002AB",
+							"Description": "Rarely",
+							"FormItemOID": "90B21EFA-5437-479F-A62E-0A3E9D81A036",
+							"ItemResponseOID": "A7A47D8F-70F0-403C-98BA-50A579D78FA3",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "EB82859A-71B4-4C21-ACE6-ACDC073F3796",
+							"Description": "Sometimes",
+							"FormItemOID": "90B21EFA-5437-479F-A62E-0A3E9D81A036",
+							"ItemResponseOID": "8B065E03-93CF-44A1-9770-9AEBC29BC424",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "9039A619-CF18-4B10-828E-38F6E144D039",
+							"Description": "Often",
+							"FormItemOID": "90B21EFA-5437-479F-A62E-0A3E9D81A036",
+							"ItemResponseOID": "7DF344A9-D94E-4D2B-8B15-101053733950",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "4B77682E-D770-4BB6-85D0-3D53A757265D",
+							"Description": "Always",
+							"FormItemOID": "90B21EFA-5437-479F-A62E-0A3E9D81A036",
+							"ItemResponseOID": "1DD6F89B-3278-4EB6-98B4-976F16041D18",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8",
+			"ID": "EoS_S_033R1",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "BFA6B4F9-61CB-45A3-B539-9295A6C100CE",
+					"Description": "In the past 7 days,",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "481DC10A-6481-425A-93DA-C1F1DDA4807C",
+					"Description": "I had trouble breathing, even when I was not exercising or playing hard.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "1C876FA1-ED8D-454E-BACE-00107C5B8C2E",
+					"Description": "ContainerFor1C876FA1-ED8D-454E-BACE-00107C5B8C2E",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "AF4DF40C-02F3-4DC2-B9D9-2CBDE9999C46",
+							"Description": "Never",
+							"FormItemOID": "55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8",
+							"ItemResponseOID": "EF4CACAF-9711-4684-A819-F4097BCE5F2A",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "A416EE0F-37EC-49B0-A6A2-D0CEDA951558",
+							"Description": "Rarely",
+							"FormItemOID": "55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8",
+							"ItemResponseOID": "E3E4B847-7D5C-4A96-9314-04737B42CB2A",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "9D4D3083-62BB-4890-ADAD-6EFA26D58DF0",
+							"Description": "Sometimes",
+							"FormItemOID": "55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8",
+							"ItemResponseOID": "15957052-A1FB-4039-A8E9-FFF05DE8DF34",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "5ABB5AC1-F5FE-4EF0-83FE-5A3717769151",
+							"Description": "Often",
+							"FormItemOID": "55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8",
+							"ItemResponseOID": "7D271615-13C5-4131-8D37-9DF6C068FBA3",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "999D3286-22FA-4B37-9410-8A3424D7AEA5",
+							"Description": "Always",
+							"FormItemOID": "55F45C20-5D8D-4208-BBCD-BBEFC4DDD5F8",
+							"ItemResponseOID": "D14CC211-593C-4DB5-9089-AAC3FB4700DD",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "5CC5DFD7-F473-4143-A328-FC36EA8ACB53",
+			"ID": "EoS_S_039R1",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "BFA6B4F9-61CB-45A3-B539-9295A6C100CE",
+					"Description": "In the past 7 days,",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "18D3E9A9-82CB-4A00-92D7-50D986D26B1D",
+					"Description": "My body shook.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "63064982-6786-492F-A408-2BD5FBF52EFA",
+					"Description": "ContainerFor63064982-6786-492F-A408-2BD5FBF52EFA",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "FB10D668-7D70-40E1-AF0E-C97F17BB2382",
+							"Description": "Never",
+							"FormItemOID": "5CC5DFD7-F473-4143-A328-FC36EA8ACB53",
+							"ItemResponseOID": "917EB6E6-FBC9-4D93-811E-1B8E1A6AF7BE",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "B1988BD6-46CB-485F-B929-4460D039BC51",
+							"Description": "Rarely",
+							"FormItemOID": "5CC5DFD7-F473-4143-A328-FC36EA8ACB53",
+							"ItemResponseOID": "52C7E052-FE58-415B-8803-11EF61F4D622",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "29E24511-A91E-4F0C-B7EF-C007D0A03C86",
+							"Description": "Sometimes",
+							"FormItemOID": "5CC5DFD7-F473-4143-A328-FC36EA8ACB53",
+							"ItemResponseOID": "7F0601E8-4C94-4828-A634-95F015A5B814",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "F8F8510A-9752-4CA0-B3A8-01605E1B174A",
+							"Description": "Often",
+							"FormItemOID": "5CC5DFD7-F473-4143-A328-FC36EA8ACB53",
+							"ItemResponseOID": "9AE06116-FBF8-4A6D-BCF8-E1D717CADB37",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "1EC85E88-642F-46FB-8B1A-C571CE48C2DC",
+							"Description": "Always",
+							"FormItemOID": "5CC5DFD7-F473-4143-A328-FC36EA8ACB53",
+							"ItemResponseOID": "EA08635C-60C4-42D4-9D7C-4A765D433E59",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "21098247-C8CB-49E2-96F2-1D7601E5EE45",
+			"ID": "EoS_S_046R1",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "BFA6B4F9-61CB-45A3-B539-9295A6C100CE",
+					"Description": "In the past 7 days,",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "9F326398-238D-4204-A1CA-0451128DC242",
+					"Description": "I had pain that really bothered me.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2F0F2BFC-1294-4407-B5B7-7866B4516042",
+					"Description": "ContainerFor2F0F2BFC-1294-4407-B5B7-7866B4516042",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E38981C0-3AEC-4FE6-8AB3-F8B5C265BC1B",
+							"Description": "Never",
+							"FormItemOID": "21098247-C8CB-49E2-96F2-1D7601E5EE45",
+							"ItemResponseOID": "5B555EB6-30CB-4994-961D-DCB8823A618B",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DB1B4434-B7BE-444E-99AA-0EE225262AE1",
+							"Description": "Rarely",
+							"FormItemOID": "21098247-C8CB-49E2-96F2-1D7601E5EE45",
+							"ItemResponseOID": "5CC2420F-4AE9-4C50-A4A6-E180A603DC19",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "A7D46AC6-70E7-4B16-9E74-431B25282E02",
+							"Description": "Sometimes",
+							"FormItemOID": "21098247-C8CB-49E2-96F2-1D7601E5EE45",
+							"ItemResponseOID": "A1E0D4C9-F4EE-4490-B02A-01F5A19617B0",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "480F94A9-927B-4F9D-8F08-B877CD98B57E",
+							"Description": "Often",
+							"FormItemOID": "21098247-C8CB-49E2-96F2-1D7601E5EE45",
+							"ItemResponseOID": "92CDDDEB-61F1-4AD9-84DB-1D9EAE76297B",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "B3C170CA-3F37-40E4-8C7B-B7F0DFD03EAB",
+							"Description": "Always",
+							"FormItemOID": "21098247-C8CB-49E2-96F2-1D7601E5EE45",
+							"ItemResponseOID": "76BE9BD6-1F33-425D-8187-8AC02484254C",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "94F64EEB-48F7-470F-93A5-5E01A0FFA3BE",
+			"ID": "EoS_S_017R1",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "BFA6B4F9-61CB-45A3-B539-9295A6C100CE",
+					"Description": "In the past 7 days,",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "C70BCF70-5413-473F-A76D-484BD9520336",
+					"Description": "My muscles felt tight.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B66D1B37-706F-4D40-841D-778DD485DE2E",
+					"Description": "ContainerForB66D1B37-706F-4D40-841D-778DD485DE2E",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "87F74F85-BDCD-4AA7-BDB0-842A51CFD5ED",
+							"Description": "Never",
+							"FormItemOID": "94F64EEB-48F7-470F-93A5-5E01A0FFA3BE",
+							"ItemResponseOID": "A2EDB69E-6A4D-4334-8BE4-128703444EB5",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "A971EC56-9FE5-40C0-B407-4AD189B8724B",
+							"Description": "Rarely",
+							"FormItemOID": "94F64EEB-48F7-470F-93A5-5E01A0FFA3BE",
+							"ItemResponseOID": "BA16E9CA-5655-4D94-AFCB-5EA670FC7DFA",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "DA0F21DD-3BF8-4AD4-BE4C-2D95DAAA2886",
+							"Description": "Sometimes",
+							"FormItemOID": "94F64EEB-48F7-470F-93A5-5E01A0FFA3BE",
+							"ItemResponseOID": "542CFEAB-AEED-4F9F-B595-BBCE4E61FAF3",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "24F7ACC3-5E9C-47AF-BCCC-F15A56A98774",
+							"Description": "Often",
+							"FormItemOID": "94F64EEB-48F7-470F-93A5-5E01A0FFA3BE",
+							"ItemResponseOID": "048891B6-91DF-4EBD-A414-C7F0CD98B291",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "DC73A310-FCBE-47A6-9CE0-C79F30BF295B",
+							"Description": "Always",
+							"FormItemOID": "94F64EEB-48F7-470F-93A5-5E01A0FFA3BE",
+							"ItemResponseOID": "D074075F-8971-46AD-B458-B38E1BD0E506",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "6A3E2789-CF0A-409F-BCC0-88A28DEE358D",
+			"ID": "EoS_S_024R1",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "BFA6B4F9-61CB-45A3-B539-9295A6C100CE",
+					"Description": "In the past 7 days,",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "E9498C67-629D-4596-BD4D-2D19B66C6344",
+					"Description": "My mouth was dry.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "B30C5969-E6C0-460E-88E6-5ACFA361CDCE",
+					"Description": "ContainerForB30C5969-E6C0-460E-88E6-5ACFA361CDCE",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "2947C1B4-A20E-4B87-A07B-3C79BAE24AB6",
+							"Description": "Never",
+							"FormItemOID": "6A3E2789-CF0A-409F-BCC0-88A28DEE358D",
+							"ItemResponseOID": "D2ECE09E-CEB7-44E5-8F6F-1DBF211E0398",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "0877CC50-DF85-4D19-8060-E53FE0E7BD79",
+							"Description": "Rarely",
+							"FormItemOID": "6A3E2789-CF0A-409F-BCC0-88A28DEE358D",
+							"ItemResponseOID": "63FC57A4-20BA-4CE3-BABA-D6B74532E2FC",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "92D7C745-A3EF-4E0A-ABA0-7084038EA36C",
+							"Description": "Sometimes",
+							"FormItemOID": "6A3E2789-CF0A-409F-BCC0-88A28DEE358D",
+							"ItemResponseOID": "8AF0D9AD-BA97-41EB-B5E9-D745511CE2AE",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "2919CF9E-7074-41DC-8B7D-278CA8C0233E",
+							"Description": "Often",
+							"FormItemOID": "6A3E2789-CF0A-409F-BCC0-88A28DEE358D",
+							"ItemResponseOID": "1F3B2F6D-3659-4ABA-A67C-E9302AD620ED",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "CEFB7D93-5C47-4D45-BCFB-0DF28D6AC66F",
+							"Description": "Always",
+							"FormItemOID": "6A3E2789-CF0A-409F-BCC0-88A28DEE358D",
+							"ItemResponseOID": "64689B7F-5253-4AF4-A7F1-D190811D3B91",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "BBEE38FF-B0EF-4849-9DF1-4033996C46F4",
+			"ID": "EoS_S_042R1",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "BFA6B4F9-61CB-45A3-B539-9295A6C100CE",
+					"Description": "In the past 7 days,",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6189033A-DF8F-457F-B716-C76B2339940E",
+					"Description": "I had a headache.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "61411245-F5B6-4F30-B135-9CB922BD97D5",
+					"Description": "ContainerFor61411245-F5B6-4F30-B135-9CB922BD97D5",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "83C104F4-1723-4F55-9633-3E1D3F524A19",
+							"Description": "Never",
+							"FormItemOID": "BBEE38FF-B0EF-4849-9DF1-4033996C46F4",
+							"ItemResponseOID": "4E2AB550-D157-4E6D-96E6-BC25A86A30CF",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "114BEC5B-CE8C-4F50-BD63-A7E146B8EC1A",
+							"Description": "Rarely",
+							"FormItemOID": "BBEE38FF-B0EF-4849-9DF1-4033996C46F4",
+							"ItemResponseOID": "E606F82B-A325-499A-857A-171DA244BCAE",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "231CF93A-21CE-4D65-B531-CE429A6234F6",
+							"Description": "Sometimes",
+							"FormItemOID": "BBEE38FF-B0EF-4849-9DF1-4033996C46F4",
+							"ItemResponseOID": "CB35C0D7-8E3B-4B4C-B269-2113BF759E72",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "D8CDBB99-1661-4F37-97CF-69C75C24C1A4",
+							"Description": "Often",
+							"FormItemOID": "BBEE38FF-B0EF-4849-9DF1-4033996C46F4",
+							"ItemResponseOID": "C61F236C-B3D0-4236-B1F1-A5ED43B5E5CD",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "BDAD0BC5-0FD2-46BD-8980-F70DC557FF51",
+							"Description": "Always",
+							"FormItemOID": "BBEE38FF-B0EF-4849-9DF1-4033996C46F4",
+							"ItemResponseOID": "300D09EF-F914-4B13-AC31-5E84770FCBFD",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "607F625A-5DE5-4953-A67A-46C14560EA02",
+			"ID": "EoS_S_044R1",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "BFA6B4F9-61CB-45A3-B539-9295A6C100CE",
+					"Description": "In the past 7 days,",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D6C0039B-E916-424B-94EC-E25E984870A9",
+					"Description": "My back hurt.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "DB45EE26-18A2-4E58-BC38-B17C39983936",
+					"Description": "ContainerForDB45EE26-18A2-4E58-BC38-B17C39983936",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "72F759EB-730D-4C29-9FF2-C91A47BC8F50",
+							"Description": "Never",
+							"FormItemOID": "607F625A-5DE5-4953-A67A-46C14560EA02",
+							"ItemResponseOID": "B4D94AC5-F7B4-4ED5-8873-F85EC3A75599",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "4F237999-E893-4BE3-91D3-C43A8AA7E9A5",
+							"Description": "Rarely",
+							"FormItemOID": "607F625A-5DE5-4953-A67A-46C14560EA02",
+							"ItemResponseOID": "BF3119E7-BBA1-454D-ACF4-45E19CA7ED1B",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "B905A120-640E-4DF0-8CBD-B4E49E49B96A",
+							"Description": "Sometimes",
+							"FormItemOID": "607F625A-5DE5-4953-A67A-46C14560EA02",
+							"ItemResponseOID": "496F8BC0-EE5B-4F1F-B233-D6115EDE290E",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "46C618A6-98F3-483D-91B0-62B047AF1621",
+							"Description": "Often",
+							"FormItemOID": "607F625A-5DE5-4953-A67A-46C14560EA02",
+							"ItemResponseOID": "6B7A6856-ECDA-4975-A443-0CBD4944B19D",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "BBA09203-32C5-4BDC-898D-89B7ABE3731B",
+							"Description": "Always",
+							"FormItemOID": "607F625A-5DE5-4953-A67A-46C14560EA02",
+							"ItemResponseOID": "8D051A7C-D540-4FD6-BBE3-4D76EAF70988",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

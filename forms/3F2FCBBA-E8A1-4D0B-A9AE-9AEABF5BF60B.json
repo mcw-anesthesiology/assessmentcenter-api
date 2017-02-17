@@ -1,1 +1,1890 @@
-{"DateFinished":"","Items":[{"FormItemOID":"67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF","ID":"2654aR1","Order":"1","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"F0F68EAA-8B0C-4CCD-A0B6-AE0D62A48A0E","Description":"I needed help with a bath.","ElementOrder":"2"},{"ElementOID":"C08BDEB7-358E-4CB6-BD43-54A234D2D75A","Description":"ContainerForC08BDEB7-358E-4CB6-BD43-54A234D2D75A","ElementOrder":"3","Map":[{"ElementOID":"00483AA5-3F7A-47A7-85ED-B8158CAD3441","Description":"Never","FormItemOID":"67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF","ItemResponseOID":"75B513AE-2157-46D7-BE21-744DB5225210", "Value":"4","Position":"1"},{"ElementOID":"463E034D-37AD-4B0B-836D-E8739DD54B48","Description":"Almost Never","FormItemOID":"67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF","ItemResponseOID":"EDD5C1BB-B382-4E57-8B29-577881116ECE", "Value":"3","Position":"2"},{"ElementOID":"025469C3-CDE6-480C-99B9-33DF319C369A","Description":"Sometimes","FormItemOID":"67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF","ItemResponseOID":"6403BAE1-5A69-470C-A42A-99D5D9E4698A", "Value":"2","Position":"3"},{"ElementOID":"2B092F99-1551-4871-8D42-6AD280AFEB33","Description":"Often","FormItemOID":"67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF","ItemResponseOID":"DAE31621-C53B-4044-AFF5-2721F8A903ED", "Value":"1","Position":"4"},{"ElementOID":"DA3C4987-6335-448E-A95F-855BD4ED0276","Description":"Almost Always","FormItemOID":"67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF","ItemResponseOID":"A3DE5880-0666-44E9-813A-54DE583B00E9", "Value":"0","Position":"5"}]}]},{"FormItemOID":"9F27F66F-2E0F-48F0-898C-8370DE91BDC0","ID":"2657aR1","Order":"2","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"9FE295C5-241C-4858-94CD-B1FDAAF3BC89","Description":"I could put on my socks by myself.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"9F27F66F-2E0F-48F0-898C-8370DE91BDC0","ItemResponseOID":"A797EA11-3E22-419A-973C-A3A181CB8C79", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"9F27F66F-2E0F-48F0-898C-8370DE91BDC0","ItemResponseOID":"736D0714-6E7C-4818-B061-82B8074F51CF", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"9F27F66F-2E0F-48F0-898C-8370DE91BDC0","ItemResponseOID":"910EF3F6-CEF2-4E43-A4A0-659841665092", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"9F27F66F-2E0F-48F0-898C-8370DE91BDC0","ItemResponseOID":"EE87AB72-0741-4142-8578-0E707A322BB6", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"9F27F66F-2E0F-48F0-898C-8370DE91BDC0","ItemResponseOID":"C0C2E692-5808-4AFC-A140-4992D485B047", "Value":"0","Position":"5"}]}]},{"FormItemOID":"2D8006C4-7786-466E-9802-34052D9B23A5","ID":"2657bR1","Order":"3","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"82C1E798-1FCC-4FDC-AD0A-CBBCF5411EFE","Description":"I could put on my shoes by myself.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"2D8006C4-7786-466E-9802-34052D9B23A5","ItemResponseOID":"D7677C37-A58E-4C92-8103-A3299206CEC7", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"2D8006C4-7786-466E-9802-34052D9B23A5","ItemResponseOID":"B7347E98-A241-42D7-977F-DB406E4DA014", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"2D8006C4-7786-466E-9802-34052D9B23A5","ItemResponseOID":"D73958ED-8ABB-4AAA-AE2D-A9AB7F224682", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"2D8006C4-7786-466E-9802-34052D9B23A5","ItemResponseOID":"49C82D4B-470D-4F8F-9533-626AD091F906", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"2D8006C4-7786-466E-9802-34052D9B23A5","ItemResponseOID":"69920507-B87E-46A0-945D-3B47D683C3FB", "Value":"0","Position":"5"}]}]},{"FormItemOID":"527CDA7E-68A7-47C7-8C91-3D6A74BF9226","ID":"2671R1","Order":"4","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"D6B18F54-4E70-4CD3-B0B0-B3C2A7638764","Description":"I could open a jar by myself.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"527CDA7E-68A7-47C7-8C91-3D6A74BF9226","ItemResponseOID":"2C44B474-C179-4D27-BB65-1A8BF1E00CF4", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"527CDA7E-68A7-47C7-8C91-3D6A74BF9226","ItemResponseOID":"5A3F5E4E-3AF5-46DC-8182-B3487A3357A7", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"527CDA7E-68A7-47C7-8C91-3D6A74BF9226","ItemResponseOID":"770BEFBF-1CAC-4CDC-B888-CEF5D07EA8A4", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"527CDA7E-68A7-47C7-8C91-3D6A74BF9226","ItemResponseOID":"C4B7585A-8C6E-4FB2-AE3F-A0A23C9EF087", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"527CDA7E-68A7-47C7-8C91-3D6A74BF9226","ItemResponseOID":"51F6FB27-A777-4A22-822F-8BF81C9A35BF", "Value":"0","Position":"5"}]}]},{"FormItemOID":"9135E63F-784A-4D0F-9FB0-BE7ADD29C540","ID":"2727R1","Order":"5","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"0C2C9BF1-5804-4A2A-A3C6-8320BE543132","Description":"I could write with a pen or pencil.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"9135E63F-784A-4D0F-9FB0-BE7ADD29C540","ItemResponseOID":"140A498B-20CA-4700-9957-900223E46AA2", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"9135E63F-784A-4D0F-9FB0-BE7ADD29C540","ItemResponseOID":"76F5939E-5390-4193-8743-68196F8CE313", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"9135E63F-784A-4D0F-9FB0-BE7ADD29C540","ItemResponseOID":"724099B0-C9B0-40B4-A70B-2920AF601702", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"9135E63F-784A-4D0F-9FB0-BE7ADD29C540","ItemResponseOID":"4BBA46B8-FB90-4DE8-B0D2-7B5045AD355A", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"9135E63F-784A-4D0F-9FB0-BE7ADD29C540","ItemResponseOID":"F0B312D6-FE9D-4127-AA72-62F598DA7671", "Value":"0","Position":"5"}]}]},{"FormItemOID":"6F491C14-4E6C-4DF6-88D5-650320C074FE","ID":"3334aR1","Order":"6","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"76742D9F-56E0-4CBA-8B52-79379920387E","Description":"I could put toothpaste on my toothbrush by myself.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"6F491C14-4E6C-4DF6-88D5-650320C074FE","ItemResponseOID":"2CD44135-6B48-4E72-9A6D-C47CD0A88050", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"6F491C14-4E6C-4DF6-88D5-650320C074FE","ItemResponseOID":"BEECC018-1549-4D0C-B6F6-62E6CF2202DB", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"6F491C14-4E6C-4DF6-88D5-650320C074FE","ItemResponseOID":"EFD6EC05-CAA4-4CF7-907E-51DC0FC48EA2", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"6F491C14-4E6C-4DF6-88D5-650320C074FE","ItemResponseOID":"E6197D08-A70F-472E-A640-0CD4E0298CFD", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"6F491C14-4E6C-4DF6-88D5-650320C074FE","ItemResponseOID":"541D6E5A-17C5-43B4-9EAF-D88E864E8672", "Value":"0","Position":"5"}]}]},{"FormItemOID":"C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D","ID":"3334bR1","Order":"7","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"CD738E2F-23E9-4306-9128-5D532173CE46","Description":"I could brush my teeth by myself.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D","ItemResponseOID":"216D546D-3CCB-42FF-80BA-0D125269B851", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D","ItemResponseOID":"5890F710-B269-4699-AF14-CE38E2792917", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D","ItemResponseOID":"182A85DF-50A6-4BEC-A136-BEE763F77484", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D","ItemResponseOID":"35CE99F4-6D74-4DD0-B4A8-55C1710B9B5A", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D","ItemResponseOID":"8C577D0C-19D8-46BC-A2C8-6DDC552DCAD0", "Value":"0","Position":"5"}]}]},{"FormItemOID":"71A5EE81-1506-4934-AAC9-4BEE1BE2CF49","ID":"3908R2","Order":"8","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"2F254CD8-EB5D-40CA-8373-985F4D4C1076","Description":"I could lift a cup to drink.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"71A5EE81-1506-4934-AAC9-4BEE1BE2CF49","ItemResponseOID":"9AAFF75E-9AD0-4DF2-A92A-D7C01F0E1848", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"71A5EE81-1506-4934-AAC9-4BEE1BE2CF49","ItemResponseOID":"C7BFEA80-7524-4D16-BFD9-FE7EE76F81B1", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"71A5EE81-1506-4934-AAC9-4BEE1BE2CF49","ItemResponseOID":"9169E79C-F62C-420F-A364-670266F54B71", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"71A5EE81-1506-4934-AAC9-4BEE1BE2CF49","ItemResponseOID":"831BBAEF-6DC9-449E-85F8-B5E02933C117", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"71A5EE81-1506-4934-AAC9-4BEE1BE2CF49","ItemResponseOID":"1C99D8EB-A695-4F99-95C2-A970C69A4D1F", "Value":"0","Position":"5"}]}]},{"FormItemOID":"93712A33-75F2-4128-A7E1-FCBDADC830F8","ID":"4097bR2","Order":"9","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"AAA39818-8586-4842-9AC5-F35A6E27972C","Description":"I could zip up my clothes.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"93712A33-75F2-4128-A7E1-FCBDADC830F8","ItemResponseOID":"694448F3-4894-4E27-A6B7-C5CA01127EB2", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"93712A33-75F2-4128-A7E1-FCBDADC830F8","ItemResponseOID":"0523B619-B985-47CF-BBF7-AA86598483AE", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"93712A33-75F2-4128-A7E1-FCBDADC830F8","ItemResponseOID":"960F3407-C6D6-4B9F-A482-7C1169CBEEDD", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"93712A33-75F2-4128-A7E1-FCBDADC830F8","ItemResponseOID":"CC0982DE-A844-44CA-832B-C87B1A76A789", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"93712A33-75F2-4128-A7E1-FCBDADC830F8","ItemResponseOID":"0F957AE3-62CF-4B67-B622-4164C40BC855", "Value":"0","Position":"5"}]}]},{"FormItemOID":"C1B56759-A265-48C7-A454-871A899BDD1D","ID":"4098R1","Order":"10","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"453619DB-1BCA-4527-9E09-A6141B763788","Description":"I could pull on and fasten my seatbelt.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"C1B56759-A265-48C7-A454-871A899BDD1D","ItemResponseOID":"D525460F-B12D-4625-A725-B3518F1020D9", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"C1B56759-A265-48C7-A454-871A899BDD1D","ItemResponseOID":"2459B45F-090A-4638-943A-11F4F57E24AE", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"C1B56759-A265-48C7-A454-871A899BDD1D","ItemResponseOID":"166CB8FB-F2C3-44E2-8337-7208949F4DD6", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"C1B56759-A265-48C7-A454-871A899BDD1D","ItemResponseOID":"E1600E03-5B5B-4507-85B3-9C239017E1D4", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"C1B56759-A265-48C7-A454-871A899BDD1D","ItemResponseOID":"42A0B6E9-2568-4180-BE3A-06952A6B7733", "Value":"0","Position":"5"}]}]},{"FormItemOID":"36B48F92-52EC-49BB-B29C-CF61D96834F7","ID":"4107R2","Order":"11","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"5E2BEA97-74C9-4999-A41C-AAE1E4587115","Description":"I could open my clothing drawers.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"36B48F92-52EC-49BB-B29C-CF61D96834F7","ItemResponseOID":"2A4E169C-FF0A-4653-9E6D-89C0CF73B65F", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"36B48F92-52EC-49BB-B29C-CF61D96834F7","ItemResponseOID":"2BCDA595-2D3D-4FFA-B121-B16A93782191", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"36B48F92-52EC-49BB-B29C-CF61D96834F7","ItemResponseOID":"DFB49B72-3EB0-4B82-822D-8E506539CF0A", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"36B48F92-52EC-49BB-B29C-CF61D96834F7","ItemResponseOID":"D45FC1C0-EEAE-4179-900B-AFFEE19357AB", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"36B48F92-52EC-49BB-B29C-CF61D96834F7","ItemResponseOID":"0B3DF05C-87F7-416E-86C6-5B2AE11C4871", "Value":"0","Position":"5"}]}]},{"FormItemOID":"6DE144FC-F698-4C8E-A05F-3D974BC8A035","ID":"4109R1","Order":"12","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"8A37972A-41B1-4A9C-B666-9D77FD3A385A","Description":"I could use a key to unlock a door.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"6DE144FC-F698-4C8E-A05F-3D974BC8A035","ItemResponseOID":"B65CD7D8-BD8F-4EAA-8800-31576CDDA32B", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"6DE144FC-F698-4C8E-A05F-3D974BC8A035","ItemResponseOID":"70C0A269-9F2F-4A65-B459-8DEE8F582B8D", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"6DE144FC-F698-4C8E-A05F-3D974BC8A035","ItemResponseOID":"B142F5F7-D607-4F09-B107-6874914DB896", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"6DE144FC-F698-4C8E-A05F-3D974BC8A035","ItemResponseOID":"4571BD55-74CF-4BF8-AA71-DD749DBA00D6", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"6DE144FC-F698-4C8E-A05F-3D974BC8A035","ItemResponseOID":"AA1E1F2F-6BEE-484E-BCD1-BDE510085B0C", "Value":"0","Position":"5"}]}]},{"FormItemOID":"8B39DFB5-B365-436E-B560-F86DE28BBBF0","ID":"4112R1","Order":"13","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"7921357A-32F4-42FE-91C2-1297321885C6","Description":"I could pour a drink from a full pitcher.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"8B39DFB5-B365-436E-B560-F86DE28BBBF0","ItemResponseOID":"4D9FEF26-9493-4566-9C16-85755967E7CB", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"8B39DFB5-B365-436E-B560-F86DE28BBBF0","ItemResponseOID":"AE6FF662-188F-4ED6-B31B-3DF5F668D5C8", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"8B39DFB5-B365-436E-B560-F86DE28BBBF0","ItemResponseOID":"4B08FF4C-C376-4E79-8A6F-8647B2E1325B", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"8B39DFB5-B365-436E-B560-F86DE28BBBF0","ItemResponseOID":"F4C2AD67-C9CF-45DC-B955-6C838A70BBD7", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"8B39DFB5-B365-436E-B560-F86DE28BBBF0","ItemResponseOID":"BB5541AF-3677-4126-9EA4-163E7A0FE297", "Value":"0","Position":"5"}]}]},{"FormItemOID":"F4182DFA-03D4-47BB-AA16-B78F5B656949","ID":"4118R1","Order":"14","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"05088C9F-5BAF-4DC0-8D44-C706EC0E4DED","Description":"I could dial a phone.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"F4182DFA-03D4-47BB-AA16-B78F5B656949","ItemResponseOID":"F7D811DD-C081-4795-B964-8A3C47140010", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"F4182DFA-03D4-47BB-AA16-B78F5B656949","ItemResponseOID":"A913A673-3C1F-4C51-8343-8D395B24F402", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"F4182DFA-03D4-47BB-AA16-B78F5B656949","ItemResponseOID":"83CEE554-9AD7-4A54-84CF-41794D3A09E5", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"F4182DFA-03D4-47BB-AA16-B78F5B656949","ItemResponseOID":"28A29319-3447-4D2A-876A-1B97FA2C2A58", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"F4182DFA-03D4-47BB-AA16-B78F5B656949","ItemResponseOID":"03485620-E7A9-42BA-B712-C18F3CC29139", "Value":"0","Position":"5"}]}]},{"FormItemOID":"FDAD4515-E5FD-469D-9C5D-16853C78B78B","ID":"4130R1","Order":"15","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"070A1BED-6F0F-465F-9229-47F9FCB82D70","Description":"I could pull open heavy doors.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"FDAD4515-E5FD-469D-9C5D-16853C78B78B","ItemResponseOID":"737F686F-0FAE-4FD7-8B7C-A730FB227A50", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"FDAD4515-E5FD-469D-9C5D-16853C78B78B","ItemResponseOID":"842AF32A-5054-4FD5-A776-CB15F4E05184", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"FDAD4515-E5FD-469D-9C5D-16853C78B78B","ItemResponseOID":"7A5F95E9-2895-4891-87F3-4E503B5BB50D", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"FDAD4515-E5FD-469D-9C5D-16853C78B78B","ItemResponseOID":"5D119AB9-5AB7-4A2B-8A1F-B23921066024", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"FDAD4515-E5FD-469D-9C5D-16853C78B78B","ItemResponseOID":"F66A5DA7-CBD6-403A-AC5B-B89AA9522E6D", "Value":"0","Position":"5"}]}]},{"FormItemOID":"306095E5-6ACE-4D1D-89E1-60EC5E05F65C","ID":"4143R1","Order":"16","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"D06A6E41-863E-4680-9A67-9521B89929BE","Description":"I could open the rings in school binders.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"306095E5-6ACE-4D1D-89E1-60EC5E05F65C","ItemResponseOID":"5A123682-3C04-4DAC-8EFB-5505481E5558", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"306095E5-6ACE-4D1D-89E1-60EC5E05F65C","ItemResponseOID":"99C7CC45-8098-4118-A424-DA79881AA5C8", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"306095E5-6ACE-4D1D-89E1-60EC5E05F65C","ItemResponseOID":"9E0E8F7C-1657-49D7-AD34-AD8393E6ABE8", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"306095E5-6ACE-4D1D-89E1-60EC5E05F65C","ItemResponseOID":"EFA7C832-6458-45C8-A259-53AE5D2EA72C", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"306095E5-6ACE-4D1D-89E1-60EC5E05F65C","ItemResponseOID":"A63AE264-241A-4AFB-A116-1B254CB0A2CF", "Value":"0","Position":"5"}]}]},{"FormItemOID":"EF73665B-CC0D-4EE1-AB28-F552D487FE59","ID":"4156R1","Order":"17","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"2A04E0F3-B441-427E-9DEE-9BD69A1440E5","Description":"I could cut paper with scissors.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"EF73665B-CC0D-4EE1-AB28-F552D487FE59","ItemResponseOID":"5D0B14B4-ECC7-4D34-BFE6-4640964B9495", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"EF73665B-CC0D-4EE1-AB28-F552D487FE59","ItemResponseOID":"5B036FC7-B1FF-4F72-874E-EDF30AB2C334", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"EF73665B-CC0D-4EE1-AB28-F552D487FE59","ItemResponseOID":"F360AE01-9353-4836-9A32-20A917047BD8", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"EF73665B-CC0D-4EE1-AB28-F552D487FE59","ItemResponseOID":"310F6792-2779-4EC5-91EA-596ECB07DD9A", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"EF73665B-CC0D-4EE1-AB28-F552D487FE59","ItemResponseOID":"A3458220-5E12-4DAC-814A-2DAE46B1BF3B", "Value":"0","Position":"5"}]}]},{"FormItemOID":"CAF942E1-0A1F-4A8F-8C21-1E405362384F","ID":"4173R1","Order":"18","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"20084517-DBBA-4C0D-92A7-76C2E78A2D6B","Description":"I could dry my back with a towel.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"CAF942E1-0A1F-4A8F-8C21-1E405362384F","ItemResponseOID":"50D8840E-057B-4759-BC31-2590426C0162", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"CAF942E1-0A1F-4A8F-8C21-1E405362384F","ItemResponseOID":"F96D7A23-E438-4C1F-A344-7CA694D73C80", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"CAF942E1-0A1F-4A8F-8C21-1E405362384F","ItemResponseOID":"8794B7B7-90A6-4C3A-981F-16691D48AD94", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"CAF942E1-0A1F-4A8F-8C21-1E405362384F","ItemResponseOID":"5C346A54-8974-4B6A-A468-424A05368263", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"CAF942E1-0A1F-4A8F-8C21-1E405362384F","ItemResponseOID":"0F640E13-3038-4057-AB13-05045C6CC0A2", "Value":"0","Position":"5"}]}]},{"FormItemOID":"869C3F6A-913F-48D9-9197-4DAB416D1BB4","ID":"4174R1","Order":"19","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"EE5D4110-DE3E-4A5F-86B9-4FFD10F748D4","Description":"I could wash my face with a cloth.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"869C3F6A-913F-48D9-9197-4DAB416D1BB4","ItemResponseOID":"78A8F09E-EE2D-4F47-8FB5-E092F244DF45", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"869C3F6A-913F-48D9-9197-4DAB416D1BB4","ItemResponseOID":"EEC67828-5624-4380-8065-84F4F030E644", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"869C3F6A-913F-48D9-9197-4DAB416D1BB4","ItemResponseOID":"F74E0CCE-D9FB-42A3-8385-DADB283B4F08", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"869C3F6A-913F-48D9-9197-4DAB416D1BB4","ItemResponseOID":"15BDADDF-A275-4241-B13C-3F8AE09F3A2B", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"869C3F6A-913F-48D9-9197-4DAB416D1BB4","ItemResponseOID":"76AC835F-4B23-4C6A-AE5B-912C5C92D31F", "Value":"0","Position":"5"}]}]},{"FormItemOID":"F85FD634-5183-437A-944A-29153C0494B0","ID":"9006R1","Order":"20","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"CD70F696-9B57-4EE7-915F-C6907956DFEF","Description":"I used a pencil with a special grip to write.","ElementOrder":"2"},{"ElementOID":"C08BDEB7-358E-4CB6-BD43-54A234D2D75A","Description":"ContainerForC08BDEB7-358E-4CB6-BD43-54A234D2D75A","ElementOrder":"3","Map":[{"ElementOID":"00483AA5-3F7A-47A7-85ED-B8158CAD3441","Description":"Never","FormItemOID":"F85FD634-5183-437A-944A-29153C0494B0","ItemResponseOID":"E1746380-4CF7-45DC-8C7A-E4B961D25C7B", "Value":"4","Position":"1"},{"ElementOID":"463E034D-37AD-4B0B-836D-E8739DD54B48","Description":"Almost Never","FormItemOID":"F85FD634-5183-437A-944A-29153C0494B0","ItemResponseOID":"7A215669-6E8D-4971-96F2-1D87A67F9930", "Value":"3","Position":"2"},{"ElementOID":"025469C3-CDE6-480C-99B9-33DF319C369A","Description":"Sometimes","FormItemOID":"F85FD634-5183-437A-944A-29153C0494B0","ItemResponseOID":"49BB6DF6-6D91-4F51-AB78-2E3793925459", "Value":"2","Position":"3"},{"ElementOID":"2B092F99-1551-4871-8D42-6AD280AFEB33","Description":"Often","FormItemOID":"F85FD634-5183-437A-944A-29153C0494B0","ItemResponseOID":"ECC9FE7C-2C29-4C79-B0A5-6AE6075BDAB1", "Value":"1","Position":"4"},{"ElementOID":"DA3C4987-6335-448E-A95F-855BD4ED0276","Description":"Almost Always","FormItemOID":"F85FD634-5183-437A-944A-29153C0494B0","ItemResponseOID":"FA5B407F-E989-4B65-BE7C-7EEE47115C84", "Value":"0","Position":"5"}]}]},{"FormItemOID":"DBDB85BE-817D-4F4E-9A03-6311B06895C8","ID":"2645R2","Order":"21","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"5AC1647C-A8BD-4DF1-BFC9-37EF2B826080","Description":"I could move my hands or fingers.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"DBDB85BE-817D-4F4E-9A03-6311B06895C8","ItemResponseOID":"8AC496D8-89DD-4144-94B6-37B5DD2D34DE", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"DBDB85BE-817D-4F4E-9A03-6311B06895C8","ItemResponseOID":"BAE6F8B0-7832-4FBD-9CAA-9615EB574C6B", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"DBDB85BE-817D-4F4E-9A03-6311B06895C8","ItemResponseOID":"786AF911-C157-48DA-8370-3CD59108BF08", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"DBDB85BE-817D-4F4E-9A03-6311B06895C8","ItemResponseOID":"CDE34FBC-BAB2-4CFB-9C1D-1C88EE9BB3C3", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"DBDB85BE-817D-4F4E-9A03-6311B06895C8","ItemResponseOID":"B2BF36B3-AD93-4867-B11D-0C93DCA93F1A", "Value":"1","Position":"5"}]}]},{"FormItemOID":"36C155CC-4A59-48C8-A86C-C24A061BA233","ID":"2659R1","Order":"22","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"BC0D8F2C-DBDC-4A70-8099-023C328D3D11","Description":"I could tie shoelaces by myself.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"36C155CC-4A59-48C8-A86C-C24A061BA233","ItemResponseOID":"5FB8F297-A2A7-497E-95AC-02E6764181B5", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"36C155CC-4A59-48C8-A86C-C24A061BA233","ItemResponseOID":"D60DDB42-8821-4DB6-A40D-66D396341B18", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"36C155CC-4A59-48C8-A86C-C24A061BA233","ItemResponseOID":"31C9F8A9-C7E5-4DB7-8094-5DC4211DF031", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"36C155CC-4A59-48C8-A86C-C24A061BA233","ItemResponseOID":"F7006B6D-AA1C-476D-9581-2EA7434AB73C", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"36C155CC-4A59-48C8-A86C-C24A061BA233","ItemResponseOID":"B3D7F49C-EC8E-4DBC-BF05-6C00B3BB8479", "Value":"1","Position":"5"}]}]},{"FormItemOID":"9A610845-D50B-4559-849B-87C7CF1D5FE8","ID":"2663R1","Order":"23","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"9D293FEB-6855-4887-9790-591423F4503A","Description":"I could put on my clothes by myself.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"9A610845-D50B-4559-849B-87C7CF1D5FE8","ItemResponseOID":"A5F9C182-F62E-44EA-8554-E711D4AE8375", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"9A610845-D50B-4559-849B-87C7CF1D5FE8","ItemResponseOID":"224E4647-A74F-4A70-A328-DC1343056175", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"9A610845-D50B-4559-849B-87C7CF1D5FE8","ItemResponseOID":"BD5F1B79-998F-4924-8426-613984446455", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"9A610845-D50B-4559-849B-87C7CF1D5FE8","ItemResponseOID":"088CD861-F17E-4C75-A878-62B63CE3B14F", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"9A610845-D50B-4559-849B-87C7CF1D5FE8","ItemResponseOID":"4C58669E-CAC5-49A0-B47D-145527375C95", "Value":"1","Position":"5"}]}]},{"FormItemOID":"6C5AEAA8-AB77-4429-BD1B-B9158946E008","ID":"3796R1","Order":"24","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"419344B0-59E0-4C0E-8E07-1AF16016B3A1","Description":"I could turn door handles by myself.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"6C5AEAA8-AB77-4429-BD1B-B9158946E008","ItemResponseOID":"90BE1A40-C0A4-4481-A4AA-203F45EAEAFC", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"6C5AEAA8-AB77-4429-BD1B-B9158946E008","ItemResponseOID":"D4C48D1D-2704-46A2-ACED-D063AE83867E", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"6C5AEAA8-AB77-4429-BD1B-B9158946E008","ItemResponseOID":"D7073148-78AA-4997-9F7A-146ECD5AF602", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"6C5AEAA8-AB77-4429-BD1B-B9158946E008","ItemResponseOID":"31D26CC4-9832-432F-88FA-15586737BC64", "Value":"2","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"6C5AEAA8-AB77-4429-BD1B-B9158946E008","ItemResponseOID":"D51FAC6F-9432-4242-995B-168C4BABB69A", "Value":"2","Position":"5"}]}]},{"FormItemOID":"6F285915-F2C3-414C-803E-D875C952CCE1","ID":"3880R2","Order":"25","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"9A559236-CB86-4E5F-80A7-947756410125","Description":"I could button my shirt or pants.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"6F285915-F2C3-414C-803E-D875C952CCE1","ItemResponseOID":"7E4B1AA7-A8A2-4AF0-A977-6314F4168F2A", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"6F285915-F2C3-414C-803E-D875C952CCE1","ItemResponseOID":"F56DEE43-CEDE-4673-A478-68BB8B28D8C5", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"6F285915-F2C3-414C-803E-D875C952CCE1","ItemResponseOID":"9547AECA-9AAD-43F2-9AB0-DA482BBDA73D", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"6F285915-F2C3-414C-803E-D875C952CCE1","ItemResponseOID":"38807494-D0B7-44E0-8C4E-975C237646E8", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"6F285915-F2C3-414C-803E-D875C952CCE1","ItemResponseOID":"A6CB46C3-068E-4135-81DF-66C4C7F2397D", "Value":"1","Position":"5"}]}]},{"FormItemOID":"0F833AF2-5309-459A-B0B7-7DC9E5FDE38E","ID":"3881R1","Order":"26","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"A4E5721C-2946-4FBD-9266-0DA615070E4D","Description":"I could pull a shirt on over my head by myself.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"0F833AF2-5309-459A-B0B7-7DC9E5FDE38E","ItemResponseOID":"D1A6C75E-04DF-4022-A3C8-98DAB1D406EE", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"0F833AF2-5309-459A-B0B7-7DC9E5FDE38E","ItemResponseOID":"802C4521-E972-43C7-A68A-A20343C4B744", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"0F833AF2-5309-459A-B0B7-7DC9E5FDE38E","ItemResponseOID":"C0C18E60-325A-4C8B-830F-B97EB0DC3219", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"0F833AF2-5309-459A-B0B7-7DC9E5FDE38E","ItemResponseOID":"79E079AC-85A9-4B00-BD46-AED247E7D688", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"0F833AF2-5309-459A-B0B7-7DC9E5FDE38E","ItemResponseOID":"10A49DDF-449C-4A34-82CA-98CA67A241EA", "Value":"1","Position":"5"}]}]},{"FormItemOID":"6E2BAD81-EEE2-4771-9744-3AB9F70DED86","ID":"3891R2","Order":"27","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"78B637E0-3CA7-4D6C-8429-19D7D61C9BDA","Description":"I could use a mouse or touch pad for the computer.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"6E2BAD81-EEE2-4771-9744-3AB9F70DED86","ItemResponseOID":"F7B36D8A-2CF5-4AAF-9CA7-09DBD199C0A3", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"6E2BAD81-EEE2-4771-9744-3AB9F70DED86","ItemResponseOID":"9988C8E4-08BB-43B8-AAEE-F9E75BC3AFB5", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"6E2BAD81-EEE2-4771-9744-3AB9F70DED86","ItemResponseOID":"BEB005CB-3002-440C-9B15-C2C27E06C629", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"6E2BAD81-EEE2-4771-9744-3AB9F70DED86","ItemResponseOID":"96D9A03E-5BA2-4FAD-BCD1-291D706AB232", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"6E2BAD81-EEE2-4771-9744-3AB9F70DED86","ItemResponseOID":"4B650731-C18D-48B9-BEC8-3D4857F2552A", "Value":"1","Position":"5"}]}]},{"FormItemOID":"DC9072DC-BE11-4B88-B9A2-E8D6757BF86D","ID":"3907aR1","Order":"28","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"8FD1DAC3-2DE7-4474-B850-687AD106ECFE","Description":"I could hold a full cup.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"DC9072DC-BE11-4B88-B9A2-E8D6757BF86D","ItemResponseOID":"1965AEEE-C00D-4BD0-B77B-81F10F79DFC8", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"DC9072DC-BE11-4B88-B9A2-E8D6757BF86D","ItemResponseOID":"A879AB18-4B07-41F2-BA94-AB1A82BD914F", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"DC9072DC-BE11-4B88-B9A2-E8D6757BF86D","ItemResponseOID":"22EA2DEC-9737-463B-88C8-1F885B589817", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"DC9072DC-BE11-4B88-B9A2-E8D6757BF86D","ItemResponseOID":"CFA14CF7-E792-4D7F-85BA-1D46D1920300", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"DC9072DC-BE11-4B88-B9A2-E8D6757BF86D","ItemResponseOID":"7EB41A82-ACE7-406F-A988-E691427E7C24", "Value":"1","Position":"5"}]}]},{"FormItemOID":"EAB0DC14-967B-44B2-A5A7-12352C6CABE4","ID":"3907bR1","Order":"29","ItemType":"","Elements":[{"ElementOID":"8AB8BA58-3BB0-40B6-B656-C24F1169069B","Description":"In the past 7 days","ElementOrder":"1"},{"ElementOID":"33F275A3-7AC1-44B5-9136-B50E288FE5B5","Description":"I could hold an empty cup.","ElementOrder":"2"},{"ElementOID":"2250DC08-E4DA-4E59-9E07-530845FEA943","Description":"ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943","ElementOrder":"3","Map":[{"ElementOID":"E48266E7-BC56-46EE-881E-7FF05A811510","Description":"With no trouble","FormItemOID":"EAB0DC14-967B-44B2-A5A7-12352C6CABE4","ItemResponseOID":"8DE1B7E4-FB3B-4417-A8B8-5FFE3385EC9B", "Value":"4","Position":"1"},{"ElementOID":"DEDE8954-0205-44E7-853A-A6582088A38A","Description":"With a little trouble","FormItemOID":"EAB0DC14-967B-44B2-A5A7-12352C6CABE4","ItemResponseOID":"E442A086-852D-48D3-8605-BD01E2725ABD", "Value":"3","Position":"2"},{"ElementOID":"F772537D-F1AD-4169-A331-5C42A2F30C34","Description":"With some trouble","FormItemOID":"EAB0DC14-967B-44B2-A5A7-12352C6CABE4","ItemResponseOID":"90861D28-66EC-4623-A91C-CACCECF8B874", "Value":"2","Position":"3"},{"ElementOID":"1D14F132-59C5-4867-90A7-A5564B82B884","Description":"With a lot of trouble","FormItemOID":"EAB0DC14-967B-44B2-A5A7-12352C6CABE4","ItemResponseOID":"FD2DED4A-D3F7-4700-8EAF-D024E3D07490", "Value":"1","Position":"4"},{"ElementOID":"15A0C946-CF15-4A21-99DE-E05AE2E146AF","Description":"Not able to do","FormItemOID":"EAB0DC14-967B-44B2-A5A7-12352C6CABE4","ItemResponseOID":"F2F2E213-E74F-4D04-B99C-1CC8B34A4A94", "Value":"1","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF",
+			"ID": "2654aR1",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "F0F68EAA-8B0C-4CCD-A0B6-AE0D62A48A0E",
+					"Description": "I needed help with a bath.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "C08BDEB7-358E-4CB6-BD43-54A234D2D75A",
+					"Description": "ContainerForC08BDEB7-358E-4CB6-BD43-54A234D2D75A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "00483AA5-3F7A-47A7-85ED-B8158CAD3441",
+							"Description": "Never",
+							"FormItemOID": "67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF",
+							"ItemResponseOID": "75B513AE-2157-46D7-BE21-744DB5225210",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "463E034D-37AD-4B0B-836D-E8739DD54B48",
+							"Description": "Almost Never",
+							"FormItemOID": "67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF",
+							"ItemResponseOID": "EDD5C1BB-B382-4E57-8B29-577881116ECE",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "025469C3-CDE6-480C-99B9-33DF319C369A",
+							"Description": "Sometimes",
+							"FormItemOID": "67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF",
+							"ItemResponseOID": "6403BAE1-5A69-470C-A42A-99D5D9E4698A",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "2B092F99-1551-4871-8D42-6AD280AFEB33",
+							"Description": "Often",
+							"FormItemOID": "67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF",
+							"ItemResponseOID": "DAE31621-C53B-4044-AFF5-2721F8A903ED",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "DA3C4987-6335-448E-A95F-855BD4ED0276",
+							"Description": "Almost Always",
+							"FormItemOID": "67C95048-5697-4AD2-BB4B-CDBEA2AFE4BF",
+							"ItemResponseOID": "A3DE5880-0666-44E9-813A-54DE583B00E9",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "9F27F66F-2E0F-48F0-898C-8370DE91BDC0",
+			"ID": "2657aR1",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "9FE295C5-241C-4858-94CD-B1FDAAF3BC89",
+					"Description": "I could put on my socks by myself.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "9F27F66F-2E0F-48F0-898C-8370DE91BDC0",
+							"ItemResponseOID": "A797EA11-3E22-419A-973C-A3A181CB8C79",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "9F27F66F-2E0F-48F0-898C-8370DE91BDC0",
+							"ItemResponseOID": "736D0714-6E7C-4818-B061-82B8074F51CF",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "9F27F66F-2E0F-48F0-898C-8370DE91BDC0",
+							"ItemResponseOID": "910EF3F6-CEF2-4E43-A4A0-659841665092",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "9F27F66F-2E0F-48F0-898C-8370DE91BDC0",
+							"ItemResponseOID": "EE87AB72-0741-4142-8578-0E707A322BB6",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "9F27F66F-2E0F-48F0-898C-8370DE91BDC0",
+							"ItemResponseOID": "C0C2E692-5808-4AFC-A140-4992D485B047",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "2D8006C4-7786-466E-9802-34052D9B23A5",
+			"ID": "2657bR1",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "82C1E798-1FCC-4FDC-AD0A-CBBCF5411EFE",
+					"Description": "I could put on my shoes by myself.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "2D8006C4-7786-466E-9802-34052D9B23A5",
+							"ItemResponseOID": "D7677C37-A58E-4C92-8103-A3299206CEC7",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "2D8006C4-7786-466E-9802-34052D9B23A5",
+							"ItemResponseOID": "B7347E98-A241-42D7-977F-DB406E4DA014",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "2D8006C4-7786-466E-9802-34052D9B23A5",
+							"ItemResponseOID": "D73958ED-8ABB-4AAA-AE2D-A9AB7F224682",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "2D8006C4-7786-466E-9802-34052D9B23A5",
+							"ItemResponseOID": "49C82D4B-470D-4F8F-9533-626AD091F906",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "2D8006C4-7786-466E-9802-34052D9B23A5",
+							"ItemResponseOID": "69920507-B87E-46A0-945D-3B47D683C3FB",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "527CDA7E-68A7-47C7-8C91-3D6A74BF9226",
+			"ID": "2671R1",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D6B18F54-4E70-4CD3-B0B0-B3C2A7638764",
+					"Description": "I could open a jar by myself.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "527CDA7E-68A7-47C7-8C91-3D6A74BF9226",
+							"ItemResponseOID": "2C44B474-C179-4D27-BB65-1A8BF1E00CF4",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "527CDA7E-68A7-47C7-8C91-3D6A74BF9226",
+							"ItemResponseOID": "5A3F5E4E-3AF5-46DC-8182-B3487A3357A7",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "527CDA7E-68A7-47C7-8C91-3D6A74BF9226",
+							"ItemResponseOID": "770BEFBF-1CAC-4CDC-B888-CEF5D07EA8A4",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "527CDA7E-68A7-47C7-8C91-3D6A74BF9226",
+							"ItemResponseOID": "C4B7585A-8C6E-4FB2-AE3F-A0A23C9EF087",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "527CDA7E-68A7-47C7-8C91-3D6A74BF9226",
+							"ItemResponseOID": "51F6FB27-A777-4A22-822F-8BF81C9A35BF",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "9135E63F-784A-4D0F-9FB0-BE7ADD29C540",
+			"ID": "2727R1",
+			"Order": "5",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "0C2C9BF1-5804-4A2A-A3C6-8320BE543132",
+					"Description": "I could write with a pen or pencil.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "9135E63F-784A-4D0F-9FB0-BE7ADD29C540",
+							"ItemResponseOID": "140A498B-20CA-4700-9957-900223E46AA2",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "9135E63F-784A-4D0F-9FB0-BE7ADD29C540",
+							"ItemResponseOID": "76F5939E-5390-4193-8743-68196F8CE313",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "9135E63F-784A-4D0F-9FB0-BE7ADD29C540",
+							"ItemResponseOID": "724099B0-C9B0-40B4-A70B-2920AF601702",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "9135E63F-784A-4D0F-9FB0-BE7ADD29C540",
+							"ItemResponseOID": "4BBA46B8-FB90-4DE8-B0D2-7B5045AD355A",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "9135E63F-784A-4D0F-9FB0-BE7ADD29C540",
+							"ItemResponseOID": "F0B312D6-FE9D-4127-AA72-62F598DA7671",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "6F491C14-4E6C-4DF6-88D5-650320C074FE",
+			"ID": "3334aR1",
+			"Order": "6",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "76742D9F-56E0-4CBA-8B52-79379920387E",
+					"Description": "I could put toothpaste on my toothbrush by myself.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "6F491C14-4E6C-4DF6-88D5-650320C074FE",
+							"ItemResponseOID": "2CD44135-6B48-4E72-9A6D-C47CD0A88050",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "6F491C14-4E6C-4DF6-88D5-650320C074FE",
+							"ItemResponseOID": "BEECC018-1549-4D0C-B6F6-62E6CF2202DB",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "6F491C14-4E6C-4DF6-88D5-650320C074FE",
+							"ItemResponseOID": "EFD6EC05-CAA4-4CF7-907E-51DC0FC48EA2",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "6F491C14-4E6C-4DF6-88D5-650320C074FE",
+							"ItemResponseOID": "E6197D08-A70F-472E-A640-0CD4E0298CFD",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "6F491C14-4E6C-4DF6-88D5-650320C074FE",
+							"ItemResponseOID": "541D6E5A-17C5-43B4-9EAF-D88E864E8672",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D",
+			"ID": "3334bR1",
+			"Order": "7",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "CD738E2F-23E9-4306-9128-5D532173CE46",
+					"Description": "I could brush my teeth by myself.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D",
+							"ItemResponseOID": "216D546D-3CCB-42FF-80BA-0D125269B851",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D",
+							"ItemResponseOID": "5890F710-B269-4699-AF14-CE38E2792917",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D",
+							"ItemResponseOID": "182A85DF-50A6-4BEC-A136-BEE763F77484",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D",
+							"ItemResponseOID": "35CE99F4-6D74-4DD0-B4A8-55C1710B9B5A",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "C1CAD4AE-AC33-48E9-ABA6-C1D198969C9D",
+							"ItemResponseOID": "8C577D0C-19D8-46BC-A2C8-6DDC552DCAD0",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "71A5EE81-1506-4934-AAC9-4BEE1BE2CF49",
+			"ID": "3908R2",
+			"Order": "8",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "2F254CD8-EB5D-40CA-8373-985F4D4C1076",
+					"Description": "I could lift a cup to drink.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "71A5EE81-1506-4934-AAC9-4BEE1BE2CF49",
+							"ItemResponseOID": "9AAFF75E-9AD0-4DF2-A92A-D7C01F0E1848",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "71A5EE81-1506-4934-AAC9-4BEE1BE2CF49",
+							"ItemResponseOID": "C7BFEA80-7524-4D16-BFD9-FE7EE76F81B1",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "71A5EE81-1506-4934-AAC9-4BEE1BE2CF49",
+							"ItemResponseOID": "9169E79C-F62C-420F-A364-670266F54B71",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "71A5EE81-1506-4934-AAC9-4BEE1BE2CF49",
+							"ItemResponseOID": "831BBAEF-6DC9-449E-85F8-B5E02933C117",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "71A5EE81-1506-4934-AAC9-4BEE1BE2CF49",
+							"ItemResponseOID": "1C99D8EB-A695-4F99-95C2-A970C69A4D1F",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "93712A33-75F2-4128-A7E1-FCBDADC830F8",
+			"ID": "4097bR2",
+			"Order": "9",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "AAA39818-8586-4842-9AC5-F35A6E27972C",
+					"Description": "I could zip up my clothes.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "93712A33-75F2-4128-A7E1-FCBDADC830F8",
+							"ItemResponseOID": "694448F3-4894-4E27-A6B7-C5CA01127EB2",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "93712A33-75F2-4128-A7E1-FCBDADC830F8",
+							"ItemResponseOID": "0523B619-B985-47CF-BBF7-AA86598483AE",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "93712A33-75F2-4128-A7E1-FCBDADC830F8",
+							"ItemResponseOID": "960F3407-C6D6-4B9F-A482-7C1169CBEEDD",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "93712A33-75F2-4128-A7E1-FCBDADC830F8",
+							"ItemResponseOID": "CC0982DE-A844-44CA-832B-C87B1A76A789",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "93712A33-75F2-4128-A7E1-FCBDADC830F8",
+							"ItemResponseOID": "0F957AE3-62CF-4B67-B622-4164C40BC855",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "C1B56759-A265-48C7-A454-871A899BDD1D",
+			"ID": "4098R1",
+			"Order": "10",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "453619DB-1BCA-4527-9E09-A6141B763788",
+					"Description": "I could pull on and fasten my seatbelt.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "C1B56759-A265-48C7-A454-871A899BDD1D",
+							"ItemResponseOID": "D525460F-B12D-4625-A725-B3518F1020D9",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "C1B56759-A265-48C7-A454-871A899BDD1D",
+							"ItemResponseOID": "2459B45F-090A-4638-943A-11F4F57E24AE",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "C1B56759-A265-48C7-A454-871A899BDD1D",
+							"ItemResponseOID": "166CB8FB-F2C3-44E2-8337-7208949F4DD6",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "C1B56759-A265-48C7-A454-871A899BDD1D",
+							"ItemResponseOID": "E1600E03-5B5B-4507-85B3-9C239017E1D4",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "C1B56759-A265-48C7-A454-871A899BDD1D",
+							"ItemResponseOID": "42A0B6E9-2568-4180-BE3A-06952A6B7733",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "36B48F92-52EC-49BB-B29C-CF61D96834F7",
+			"ID": "4107R2",
+			"Order": "11",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "5E2BEA97-74C9-4999-A41C-AAE1E4587115",
+					"Description": "I could open my clothing drawers.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "36B48F92-52EC-49BB-B29C-CF61D96834F7",
+							"ItemResponseOID": "2A4E169C-FF0A-4653-9E6D-89C0CF73B65F",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "36B48F92-52EC-49BB-B29C-CF61D96834F7",
+							"ItemResponseOID": "2BCDA595-2D3D-4FFA-B121-B16A93782191",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "36B48F92-52EC-49BB-B29C-CF61D96834F7",
+							"ItemResponseOID": "DFB49B72-3EB0-4B82-822D-8E506539CF0A",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "36B48F92-52EC-49BB-B29C-CF61D96834F7",
+							"ItemResponseOID": "D45FC1C0-EEAE-4179-900B-AFFEE19357AB",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "36B48F92-52EC-49BB-B29C-CF61D96834F7",
+							"ItemResponseOID": "0B3DF05C-87F7-416E-86C6-5B2AE11C4871",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "6DE144FC-F698-4C8E-A05F-3D974BC8A035",
+			"ID": "4109R1",
+			"Order": "12",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8A37972A-41B1-4A9C-B666-9D77FD3A385A",
+					"Description": "I could use a key to unlock a door.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "6DE144FC-F698-4C8E-A05F-3D974BC8A035",
+							"ItemResponseOID": "B65CD7D8-BD8F-4EAA-8800-31576CDDA32B",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "6DE144FC-F698-4C8E-A05F-3D974BC8A035",
+							"ItemResponseOID": "70C0A269-9F2F-4A65-B459-8DEE8F582B8D",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "6DE144FC-F698-4C8E-A05F-3D974BC8A035",
+							"ItemResponseOID": "B142F5F7-D607-4F09-B107-6874914DB896",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "6DE144FC-F698-4C8E-A05F-3D974BC8A035",
+							"ItemResponseOID": "4571BD55-74CF-4BF8-AA71-DD749DBA00D6",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "6DE144FC-F698-4C8E-A05F-3D974BC8A035",
+							"ItemResponseOID": "AA1E1F2F-6BEE-484E-BCD1-BDE510085B0C",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "8B39DFB5-B365-436E-B560-F86DE28BBBF0",
+			"ID": "4112R1",
+			"Order": "13",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "7921357A-32F4-42FE-91C2-1297321885C6",
+					"Description": "I could pour a drink from a full pitcher.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "8B39DFB5-B365-436E-B560-F86DE28BBBF0",
+							"ItemResponseOID": "4D9FEF26-9493-4566-9C16-85755967E7CB",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "8B39DFB5-B365-436E-B560-F86DE28BBBF0",
+							"ItemResponseOID": "AE6FF662-188F-4ED6-B31B-3DF5F668D5C8",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "8B39DFB5-B365-436E-B560-F86DE28BBBF0",
+							"ItemResponseOID": "4B08FF4C-C376-4E79-8A6F-8647B2E1325B",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "8B39DFB5-B365-436E-B560-F86DE28BBBF0",
+							"ItemResponseOID": "F4C2AD67-C9CF-45DC-B955-6C838A70BBD7",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "8B39DFB5-B365-436E-B560-F86DE28BBBF0",
+							"ItemResponseOID": "BB5541AF-3677-4126-9EA4-163E7A0FE297",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F4182DFA-03D4-47BB-AA16-B78F5B656949",
+			"ID": "4118R1",
+			"Order": "14",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "05088C9F-5BAF-4DC0-8D44-C706EC0E4DED",
+					"Description": "I could dial a phone.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "F4182DFA-03D4-47BB-AA16-B78F5B656949",
+							"ItemResponseOID": "F7D811DD-C081-4795-B964-8A3C47140010",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "F4182DFA-03D4-47BB-AA16-B78F5B656949",
+							"ItemResponseOID": "A913A673-3C1F-4C51-8343-8D395B24F402",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "F4182DFA-03D4-47BB-AA16-B78F5B656949",
+							"ItemResponseOID": "83CEE554-9AD7-4A54-84CF-41794D3A09E5",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "F4182DFA-03D4-47BB-AA16-B78F5B656949",
+							"ItemResponseOID": "28A29319-3447-4D2A-876A-1B97FA2C2A58",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "F4182DFA-03D4-47BB-AA16-B78F5B656949",
+							"ItemResponseOID": "03485620-E7A9-42BA-B712-C18F3CC29139",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "FDAD4515-E5FD-469D-9C5D-16853C78B78B",
+			"ID": "4130R1",
+			"Order": "15",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "070A1BED-6F0F-465F-9229-47F9FCB82D70",
+					"Description": "I could pull open heavy doors.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "FDAD4515-E5FD-469D-9C5D-16853C78B78B",
+							"ItemResponseOID": "737F686F-0FAE-4FD7-8B7C-A730FB227A50",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "FDAD4515-E5FD-469D-9C5D-16853C78B78B",
+							"ItemResponseOID": "842AF32A-5054-4FD5-A776-CB15F4E05184",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "FDAD4515-E5FD-469D-9C5D-16853C78B78B",
+							"ItemResponseOID": "7A5F95E9-2895-4891-87F3-4E503B5BB50D",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "FDAD4515-E5FD-469D-9C5D-16853C78B78B",
+							"ItemResponseOID": "5D119AB9-5AB7-4A2B-8A1F-B23921066024",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "FDAD4515-E5FD-469D-9C5D-16853C78B78B",
+							"ItemResponseOID": "F66A5DA7-CBD6-403A-AC5B-B89AA9522E6D",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "306095E5-6ACE-4D1D-89E1-60EC5E05F65C",
+			"ID": "4143R1",
+			"Order": "16",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "D06A6E41-863E-4680-9A67-9521B89929BE",
+					"Description": "I could open the rings in school binders.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "306095E5-6ACE-4D1D-89E1-60EC5E05F65C",
+							"ItemResponseOID": "5A123682-3C04-4DAC-8EFB-5505481E5558",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "306095E5-6ACE-4D1D-89E1-60EC5E05F65C",
+							"ItemResponseOID": "99C7CC45-8098-4118-A424-DA79881AA5C8",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "306095E5-6ACE-4D1D-89E1-60EC5E05F65C",
+							"ItemResponseOID": "9E0E8F7C-1657-49D7-AD34-AD8393E6ABE8",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "306095E5-6ACE-4D1D-89E1-60EC5E05F65C",
+							"ItemResponseOID": "EFA7C832-6458-45C8-A259-53AE5D2EA72C",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "306095E5-6ACE-4D1D-89E1-60EC5E05F65C",
+							"ItemResponseOID": "A63AE264-241A-4AFB-A116-1B254CB0A2CF",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "EF73665B-CC0D-4EE1-AB28-F552D487FE59",
+			"ID": "4156R1",
+			"Order": "17",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "2A04E0F3-B441-427E-9DEE-9BD69A1440E5",
+					"Description": "I could cut paper with scissors.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "EF73665B-CC0D-4EE1-AB28-F552D487FE59",
+							"ItemResponseOID": "5D0B14B4-ECC7-4D34-BFE6-4640964B9495",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "EF73665B-CC0D-4EE1-AB28-F552D487FE59",
+							"ItemResponseOID": "5B036FC7-B1FF-4F72-874E-EDF30AB2C334",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "EF73665B-CC0D-4EE1-AB28-F552D487FE59",
+							"ItemResponseOID": "F360AE01-9353-4836-9A32-20A917047BD8",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "EF73665B-CC0D-4EE1-AB28-F552D487FE59",
+							"ItemResponseOID": "310F6792-2779-4EC5-91EA-596ECB07DD9A",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "EF73665B-CC0D-4EE1-AB28-F552D487FE59",
+							"ItemResponseOID": "A3458220-5E12-4DAC-814A-2DAE46B1BF3B",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "CAF942E1-0A1F-4A8F-8C21-1E405362384F",
+			"ID": "4173R1",
+			"Order": "18",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "20084517-DBBA-4C0D-92A7-76C2E78A2D6B",
+					"Description": "I could dry my back with a towel.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "CAF942E1-0A1F-4A8F-8C21-1E405362384F",
+							"ItemResponseOID": "50D8840E-057B-4759-BC31-2590426C0162",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "CAF942E1-0A1F-4A8F-8C21-1E405362384F",
+							"ItemResponseOID": "F96D7A23-E438-4C1F-A344-7CA694D73C80",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "CAF942E1-0A1F-4A8F-8C21-1E405362384F",
+							"ItemResponseOID": "8794B7B7-90A6-4C3A-981F-16691D48AD94",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "CAF942E1-0A1F-4A8F-8C21-1E405362384F",
+							"ItemResponseOID": "5C346A54-8974-4B6A-A468-424A05368263",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "CAF942E1-0A1F-4A8F-8C21-1E405362384F",
+							"ItemResponseOID": "0F640E13-3038-4057-AB13-05045C6CC0A2",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "869C3F6A-913F-48D9-9197-4DAB416D1BB4",
+			"ID": "4174R1",
+			"Order": "19",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "EE5D4110-DE3E-4A5F-86B9-4FFD10F748D4",
+					"Description": "I could wash my face with a cloth.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "869C3F6A-913F-48D9-9197-4DAB416D1BB4",
+							"ItemResponseOID": "78A8F09E-EE2D-4F47-8FB5-E092F244DF45",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "869C3F6A-913F-48D9-9197-4DAB416D1BB4",
+							"ItemResponseOID": "EEC67828-5624-4380-8065-84F4F030E644",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "869C3F6A-913F-48D9-9197-4DAB416D1BB4",
+							"ItemResponseOID": "F74E0CCE-D9FB-42A3-8385-DADB283B4F08",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "869C3F6A-913F-48D9-9197-4DAB416D1BB4",
+							"ItemResponseOID": "15BDADDF-A275-4241-B13C-3F8AE09F3A2B",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "869C3F6A-913F-48D9-9197-4DAB416D1BB4",
+							"ItemResponseOID": "76AC835F-4B23-4C6A-AE5B-912C5C92D31F",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "F85FD634-5183-437A-944A-29153C0494B0",
+			"ID": "9006R1",
+			"Order": "20",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "CD70F696-9B57-4EE7-915F-C6907956DFEF",
+					"Description": "I used a pencil with a special grip to write.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "C08BDEB7-358E-4CB6-BD43-54A234D2D75A",
+					"Description": "ContainerForC08BDEB7-358E-4CB6-BD43-54A234D2D75A",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "00483AA5-3F7A-47A7-85ED-B8158CAD3441",
+							"Description": "Never",
+							"FormItemOID": "F85FD634-5183-437A-944A-29153C0494B0",
+							"ItemResponseOID": "E1746380-4CF7-45DC-8C7A-E4B961D25C7B",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "463E034D-37AD-4B0B-836D-E8739DD54B48",
+							"Description": "Almost Never",
+							"FormItemOID": "F85FD634-5183-437A-944A-29153C0494B0",
+							"ItemResponseOID": "7A215669-6E8D-4971-96F2-1D87A67F9930",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "025469C3-CDE6-480C-99B9-33DF319C369A",
+							"Description": "Sometimes",
+							"FormItemOID": "F85FD634-5183-437A-944A-29153C0494B0",
+							"ItemResponseOID": "49BB6DF6-6D91-4F51-AB78-2E3793925459",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "2B092F99-1551-4871-8D42-6AD280AFEB33",
+							"Description": "Often",
+							"FormItemOID": "F85FD634-5183-437A-944A-29153C0494B0",
+							"ItemResponseOID": "ECC9FE7C-2C29-4C79-B0A5-6AE6075BDAB1",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "DA3C4987-6335-448E-A95F-855BD4ED0276",
+							"Description": "Almost Always",
+							"FormItemOID": "F85FD634-5183-437A-944A-29153C0494B0",
+							"ItemResponseOID": "FA5B407F-E989-4B65-BE7C-7EEE47115C84",
+							"Value": "0",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "DBDB85BE-817D-4F4E-9A03-6311B06895C8",
+			"ID": "2645R2",
+			"Order": "21",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "5AC1647C-A8BD-4DF1-BFC9-37EF2B826080",
+					"Description": "I could move my hands or fingers.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "DBDB85BE-817D-4F4E-9A03-6311B06895C8",
+							"ItemResponseOID": "8AC496D8-89DD-4144-94B6-37B5DD2D34DE",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "DBDB85BE-817D-4F4E-9A03-6311B06895C8",
+							"ItemResponseOID": "BAE6F8B0-7832-4FBD-9CAA-9615EB574C6B",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "DBDB85BE-817D-4F4E-9A03-6311B06895C8",
+							"ItemResponseOID": "786AF911-C157-48DA-8370-3CD59108BF08",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "DBDB85BE-817D-4F4E-9A03-6311B06895C8",
+							"ItemResponseOID": "CDE34FBC-BAB2-4CFB-9C1D-1C88EE9BB3C3",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "DBDB85BE-817D-4F4E-9A03-6311B06895C8",
+							"ItemResponseOID": "B2BF36B3-AD93-4867-B11D-0C93DCA93F1A",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "36C155CC-4A59-48C8-A86C-C24A061BA233",
+			"ID": "2659R1",
+			"Order": "22",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "BC0D8F2C-DBDC-4A70-8099-023C328D3D11",
+					"Description": "I could tie shoelaces by myself.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "36C155CC-4A59-48C8-A86C-C24A061BA233",
+							"ItemResponseOID": "5FB8F297-A2A7-497E-95AC-02E6764181B5",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "36C155CC-4A59-48C8-A86C-C24A061BA233",
+							"ItemResponseOID": "D60DDB42-8821-4DB6-A40D-66D396341B18",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "36C155CC-4A59-48C8-A86C-C24A061BA233",
+							"ItemResponseOID": "31C9F8A9-C7E5-4DB7-8094-5DC4211DF031",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "36C155CC-4A59-48C8-A86C-C24A061BA233",
+							"ItemResponseOID": "F7006B6D-AA1C-476D-9581-2EA7434AB73C",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "36C155CC-4A59-48C8-A86C-C24A061BA233",
+							"ItemResponseOID": "B3D7F49C-EC8E-4DBC-BF05-6C00B3BB8479",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "9A610845-D50B-4559-849B-87C7CF1D5FE8",
+			"ID": "2663R1",
+			"Order": "23",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "9D293FEB-6855-4887-9790-591423F4503A",
+					"Description": "I could put on my clothes by myself.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "9A610845-D50B-4559-849B-87C7CF1D5FE8",
+							"ItemResponseOID": "A5F9C182-F62E-44EA-8554-E711D4AE8375",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "9A610845-D50B-4559-849B-87C7CF1D5FE8",
+							"ItemResponseOID": "224E4647-A74F-4A70-A328-DC1343056175",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "9A610845-D50B-4559-849B-87C7CF1D5FE8",
+							"ItemResponseOID": "BD5F1B79-998F-4924-8426-613984446455",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "9A610845-D50B-4559-849B-87C7CF1D5FE8",
+							"ItemResponseOID": "088CD861-F17E-4C75-A878-62B63CE3B14F",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "9A610845-D50B-4559-849B-87C7CF1D5FE8",
+							"ItemResponseOID": "4C58669E-CAC5-49A0-B47D-145527375C95",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "6C5AEAA8-AB77-4429-BD1B-B9158946E008",
+			"ID": "3796R1",
+			"Order": "24",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "419344B0-59E0-4C0E-8E07-1AF16016B3A1",
+					"Description": "I could turn door handles by myself.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "6C5AEAA8-AB77-4429-BD1B-B9158946E008",
+							"ItemResponseOID": "90BE1A40-C0A4-4481-A4AA-203F45EAEAFC",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "6C5AEAA8-AB77-4429-BD1B-B9158946E008",
+							"ItemResponseOID": "D4C48D1D-2704-46A2-ACED-D063AE83867E",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "6C5AEAA8-AB77-4429-BD1B-B9158946E008",
+							"ItemResponseOID": "D7073148-78AA-4997-9F7A-146ECD5AF602",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "6C5AEAA8-AB77-4429-BD1B-B9158946E008",
+							"ItemResponseOID": "31D26CC4-9832-432F-88FA-15586737BC64",
+							"Value": "2",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "6C5AEAA8-AB77-4429-BD1B-B9158946E008",
+							"ItemResponseOID": "D51FAC6F-9432-4242-995B-168C4BABB69A",
+							"Value": "2",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "6F285915-F2C3-414C-803E-D875C952CCE1",
+			"ID": "3880R2",
+			"Order": "25",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "9A559236-CB86-4E5F-80A7-947756410125",
+					"Description": "I could button my shirt or pants.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "6F285915-F2C3-414C-803E-D875C952CCE1",
+							"ItemResponseOID": "7E4B1AA7-A8A2-4AF0-A977-6314F4168F2A",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "6F285915-F2C3-414C-803E-D875C952CCE1",
+							"ItemResponseOID": "F56DEE43-CEDE-4673-A478-68BB8B28D8C5",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "6F285915-F2C3-414C-803E-D875C952CCE1",
+							"ItemResponseOID": "9547AECA-9AAD-43F2-9AB0-DA482BBDA73D",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "6F285915-F2C3-414C-803E-D875C952CCE1",
+							"ItemResponseOID": "38807494-D0B7-44E0-8C4E-975C237646E8",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "6F285915-F2C3-414C-803E-D875C952CCE1",
+							"ItemResponseOID": "A6CB46C3-068E-4135-81DF-66C4C7F2397D",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "0F833AF2-5309-459A-B0B7-7DC9E5FDE38E",
+			"ID": "3881R1",
+			"Order": "26",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "A4E5721C-2946-4FBD-9266-0DA615070E4D",
+					"Description": "I could pull a shirt on over my head by myself.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "0F833AF2-5309-459A-B0B7-7DC9E5FDE38E",
+							"ItemResponseOID": "D1A6C75E-04DF-4022-A3C8-98DAB1D406EE",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "0F833AF2-5309-459A-B0B7-7DC9E5FDE38E",
+							"ItemResponseOID": "802C4521-E972-43C7-A68A-A20343C4B744",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "0F833AF2-5309-459A-B0B7-7DC9E5FDE38E",
+							"ItemResponseOID": "C0C18E60-325A-4C8B-830F-B97EB0DC3219",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "0F833AF2-5309-459A-B0B7-7DC9E5FDE38E",
+							"ItemResponseOID": "79E079AC-85A9-4B00-BD46-AED247E7D688",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "0F833AF2-5309-459A-B0B7-7DC9E5FDE38E",
+							"ItemResponseOID": "10A49DDF-449C-4A34-82CA-98CA67A241EA",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "6E2BAD81-EEE2-4771-9744-3AB9F70DED86",
+			"ID": "3891R2",
+			"Order": "27",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "78B637E0-3CA7-4D6C-8429-19D7D61C9BDA",
+					"Description": "I could use a mouse or touch pad for the computer.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "6E2BAD81-EEE2-4771-9744-3AB9F70DED86",
+							"ItemResponseOID": "F7B36D8A-2CF5-4AAF-9CA7-09DBD199C0A3",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "6E2BAD81-EEE2-4771-9744-3AB9F70DED86",
+							"ItemResponseOID": "9988C8E4-08BB-43B8-AAEE-F9E75BC3AFB5",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "6E2BAD81-EEE2-4771-9744-3AB9F70DED86",
+							"ItemResponseOID": "BEB005CB-3002-440C-9B15-C2C27E06C629",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "6E2BAD81-EEE2-4771-9744-3AB9F70DED86",
+							"ItemResponseOID": "96D9A03E-5BA2-4FAD-BCD1-291D706AB232",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "6E2BAD81-EEE2-4771-9744-3AB9F70DED86",
+							"ItemResponseOID": "4B650731-C18D-48B9-BEC8-3D4857F2552A",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "DC9072DC-BE11-4B88-B9A2-E8D6757BF86D",
+			"ID": "3907aR1",
+			"Order": "28",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8FD1DAC3-2DE7-4474-B850-687AD106ECFE",
+					"Description": "I could hold a full cup.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "DC9072DC-BE11-4B88-B9A2-E8D6757BF86D",
+							"ItemResponseOID": "1965AEEE-C00D-4BD0-B77B-81F10F79DFC8",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "DC9072DC-BE11-4B88-B9A2-E8D6757BF86D",
+							"ItemResponseOID": "A879AB18-4B07-41F2-BA94-AB1A82BD914F",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "DC9072DC-BE11-4B88-B9A2-E8D6757BF86D",
+							"ItemResponseOID": "22EA2DEC-9737-463B-88C8-1F885B589817",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "DC9072DC-BE11-4B88-B9A2-E8D6757BF86D",
+							"ItemResponseOID": "CFA14CF7-E792-4D7F-85BA-1D46D1920300",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "DC9072DC-BE11-4B88-B9A2-E8D6757BF86D",
+							"ItemResponseOID": "7EB41A82-ACE7-406F-A988-E691427E7C24",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "EAB0DC14-967B-44B2-A5A7-12352C6CABE4",
+			"ID": "3907bR1",
+			"Order": "29",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "8AB8BA58-3BB0-40B6-B656-C24F1169069B",
+					"Description": "In the past 7 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "33F275A3-7AC1-44B5-9136-B50E288FE5B5",
+					"Description": "I could hold an empty cup.",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"Description": "ContainerFor2250DC08-E4DA-4E59-9E07-530845FEA943",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "E48266E7-BC56-46EE-881E-7FF05A811510",
+							"Description": "With no trouble",
+							"FormItemOID": "EAB0DC14-967B-44B2-A5A7-12352C6CABE4",
+							"ItemResponseOID": "8DE1B7E4-FB3B-4417-A8B8-5FFE3385EC9B",
+							"Value": "4",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "DEDE8954-0205-44E7-853A-A6582088A38A",
+							"Description": "With a little trouble",
+							"FormItemOID": "EAB0DC14-967B-44B2-A5A7-12352C6CABE4",
+							"ItemResponseOID": "E442A086-852D-48D3-8605-BD01E2725ABD",
+							"Value": "3",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F772537D-F1AD-4169-A331-5C42A2F30C34",
+							"Description": "With some trouble",
+							"FormItemOID": "EAB0DC14-967B-44B2-A5A7-12352C6CABE4",
+							"ItemResponseOID": "90861D28-66EC-4623-A91C-CACCECF8B874",
+							"Value": "2",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1D14F132-59C5-4867-90A7-A5564B82B884",
+							"Description": "With a lot of trouble",
+							"FormItemOID": "EAB0DC14-967B-44B2-A5A7-12352C6CABE4",
+							"ItemResponseOID": "FD2DED4A-D3F7-4700-8EAF-D024E3D07490",
+							"Value": "1",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "15A0C946-CF15-4A21-99DE-E05AE2E146AF",
+							"Description": "Not able to do",
+							"FormItemOID": "EAB0DC14-967B-44B2-A5A7-12352C6CABE4",
+							"ItemResponseOID": "F2F2E213-E74F-4D04-B99C-1CC8B34A4A94",
+							"Value": "1",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

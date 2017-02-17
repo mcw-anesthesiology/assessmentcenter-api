@@ -1,1 +1,269 @@
-{"FormOID":"40796BF3-29E2-4686-B175-38ECCCB3D72B","Form":"PROMIS Parent Proxy Physical Stress Experiences 8-item Short Form","Properties":[{"MinNumItems":"8"},{"MaxNumItems":"8"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"0.00"},{"DistStdDev":"1.00"},{"FirstItem":""},{"CalibrationSample":"General population and clinical"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"030F9DE1-D8D1-4938-B034-0EA0650AA1A4","ID":"EoS_S_042_PXR1","A_GRM":"1.39700","Map":[{"ItemResponseOID":"24EED535-CCDB-4D6F-B962-AA312E183390","StepOrder":"1","Threshold":"0.2820"},{"ItemResponseOID":"EE8CD0D9-57F4-44E1-9311-BB7294A9F393","StepOrder":"2","Threshold":"1.4510"},{"ItemResponseOID":"AFAD39FC-E0A8-4D3B-BE5D-3297F9A9956D","StepOrder":"3","Threshold":"3.1220"},{"ItemResponseOID":"CEFACA62-B13C-44D3-9A25-7F023942A034","StepOrder":"4","Threshold":"4.7510"}]},{"FormItemOID":"37A093BB-776E-413C-8F18-A0AE78C4BACA","ID":"EoS_S_046_PXR1","A_GRM":"1.68400","Map":[{"ItemResponseOID":"89C2CF39-15EB-4E43-949E-070D4623B8AB","StepOrder":"1","Threshold":"0.9700"},{"ItemResponseOID":"D3F01B5F-7A48-4107-9B60-7C08C849AEEC","StepOrder":"2","Threshold":"1.8720"},{"ItemResponseOID":"2A587929-71B8-4C29-BC3E-24150C037B29","StepOrder":"3","Threshold":"2.9440"},{"ItemResponseOID":"80DB308E-6160-4E2D-93DA-ED38CFB09E64","StepOrder":"4","Threshold":"3.9410"}]},{"FormItemOID":"530ACA2B-FD9C-4B57-AA7B-3F01EAB0DADC","ID":"EoS_S_024_PXR1","A_GRM":"1.90300","Map":[{"ItemResponseOID":"A8223C2D-2E19-477B-B177-5F896803CD4B","StepOrder":"1","Threshold":"1.1150"},{"ItemResponseOID":"7C41DBF4-B8E2-4A76-8319-767C2281D537","StepOrder":"2","Threshold":"2.1410"},{"ItemResponseOID":"1ED9951E-7A18-4B0E-ADE4-93C4A1713DC1","StepOrder":"3","Threshold":"3.2310"},{"ItemResponseOID":"7BDB1CEB-37BB-4E1B-BC42-7829735BBA03","StepOrder":"4","Threshold":"4.0190"}]},{"FormItemOID":"5CBECA18-EA8C-4ABC-92CB-DB95E2FD3EC0","ID":"EoS_S_039_PXR1","A_GRM":"2.26900","Map":[{"ItemResponseOID":"93452B3D-0788-4B85-842A-2B3288007F7B","StepOrder":"1","Threshold":"2.0380"},{"ItemResponseOID":"0A8AB370-E69D-49B3-94AC-A6AE9C2F7211","StepOrder":"2","Threshold":"2.7270"},{"ItemResponseOID":"990B6485-EC21-40E2-B9FD-E13B98990A06","StepOrder":"3","Threshold":"3.5850"},{"ItemResponseOID":"BD651F00-710A-4CBC-A7B2-6656CE9E3903","StepOrder":"4","Threshold":"4.1520"}]},{"FormItemOID":"791FCB6A-169B-4559-9AD0-921D0C9F3AA1","ID":"EoS_S_017_PXR1","A_GRM":"1.98300","Map":[{"ItemResponseOID":"656FF723-2BF1-46A4-BCD2-419CB22411BF","StepOrder":"1","Threshold":"0.9620"},{"ItemResponseOID":"6C9014EB-4550-495C-8EA3-BB4232A89F7D","StepOrder":"2","Threshold":"1.8590"},{"ItemResponseOID":"964A9E87-AB79-49DB-9A66-87C25BBC8750","StepOrder":"3","Threshold":"3.0610"},{"ItemResponseOID":"2AEADA22-3C3D-4AC9-A8E6-4F9BA7D96B5A","StepOrder":"4","Threshold":"3.8790"}]},{"FormItemOID":"B8F05E3E-D147-499E-A957-86FF8C8C44F7","ID":"EoS_S_032_PXR1","A_GRM":"1.79100","Map":[{"ItemResponseOID":"AA0A480A-C7EE-43AA-BF06-A06474F4B97F","StepOrder":"1","Threshold":"1.3690"},{"ItemResponseOID":"E2221A23-3CC6-4646-A046-F0C0D554E22A","StepOrder":"2","Threshold":"2.2210"},{"ItemResponseOID":"4FABA2FC-7C07-4E33-BAF8-4A0CA4FBAB72","StepOrder":"3","Threshold":"3.3800"},{"ItemResponseOID":"55609F6C-E515-4BEF-996B-728A45773F23","StepOrder":"4","Threshold":"4.5870"}]},{"FormItemOID":"C3714DA5-3CF7-4709-844F-DF4AB6EFEF36","ID":"EoS_S_033_PXR1","A_GRM":"2.08700","Map":[{"ItemResponseOID":"B9913141-5085-41C0-B597-C3C68A6369B8","StepOrder":"1","Threshold":"1.5280"},{"ItemResponseOID":"BFD9C2E8-16E2-4D04-B48D-4CCD5513DB85","StepOrder":"2","Threshold":"2.3460"},{"ItemResponseOID":"AB4BD428-62CB-4E3A-85B6-BAB53E4B5ED4","StepOrder":"3","Threshold":"3.3230"},{"ItemResponseOID":"E0A27B56-2D58-4C7F-92CE-DAEB45BEC609","StepOrder":"4","Threshold":"3.8140"}]},{"FormItemOID":"FF09A1CD-311F-48AC-AF71-A57CFAF41BA3","ID":"EoS_S_044_PXR1","A_GRM":"1.69400","Map":[{"ItemResponseOID":"CE8689C6-19E6-4A0E-AA17-EC642CBF1486","StepOrder":"1","Threshold":"1.0350"},{"ItemResponseOID":"83927DDF-6469-4668-AEF6-63C8E7099D57","StepOrder":"2","Threshold":"1.9650"},{"ItemResponseOID":"666DF456-CDC6-43E1-A9E2-1DA0F0C6918B","StepOrder":"3","Threshold":"3.0940"},{"ItemResponseOID":"3EFC5DF2-DF18-44CE-AAB7-AA77299F823B","StepOrder":"4","Threshold":"3.9080"}]}]}
+{
+	"FormOID": "40796BF3-29E2-4686-B175-38ECCCB3D72B",
+	"Form": "PROMIS Parent Proxy Physical Stress Experiences 8-item Short Form",
+	"Properties": [
+		{
+			"MinNumItems": "8"
+		},
+		{
+			"MaxNumItems": "8"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "0.00"
+		},
+		{
+			"DistStdDev": "1.00"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "General population and clinical"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "030F9DE1-D8D1-4938-B034-0EA0650AA1A4",
+			"ID": "EoS_S_042_PXR1",
+			"A_GRM": "1.39700",
+			"Map": [
+				{
+					"ItemResponseOID": "24EED535-CCDB-4D6F-B962-AA312E183390",
+					"StepOrder": "1",
+					"Threshold": "0.2820"
+				},
+				{
+					"ItemResponseOID": "EE8CD0D9-57F4-44E1-9311-BB7294A9F393",
+					"StepOrder": "2",
+					"Threshold": "1.4510"
+				},
+				{
+					"ItemResponseOID": "AFAD39FC-E0A8-4D3B-BE5D-3297F9A9956D",
+					"StepOrder": "3",
+					"Threshold": "3.1220"
+				},
+				{
+					"ItemResponseOID": "CEFACA62-B13C-44D3-9A25-7F023942A034",
+					"StepOrder": "4",
+					"Threshold": "4.7510"
+				}
+			]
+		},
+		{
+			"FormItemOID": "37A093BB-776E-413C-8F18-A0AE78C4BACA",
+			"ID": "EoS_S_046_PXR1",
+			"A_GRM": "1.68400",
+			"Map": [
+				{
+					"ItemResponseOID": "89C2CF39-15EB-4E43-949E-070D4623B8AB",
+					"StepOrder": "1",
+					"Threshold": "0.9700"
+				},
+				{
+					"ItemResponseOID": "D3F01B5F-7A48-4107-9B60-7C08C849AEEC",
+					"StepOrder": "2",
+					"Threshold": "1.8720"
+				},
+				{
+					"ItemResponseOID": "2A587929-71B8-4C29-BC3E-24150C037B29",
+					"StepOrder": "3",
+					"Threshold": "2.9440"
+				},
+				{
+					"ItemResponseOID": "80DB308E-6160-4E2D-93DA-ED38CFB09E64",
+					"StepOrder": "4",
+					"Threshold": "3.9410"
+				}
+			]
+		},
+		{
+			"FormItemOID": "530ACA2B-FD9C-4B57-AA7B-3F01EAB0DADC",
+			"ID": "EoS_S_024_PXR1",
+			"A_GRM": "1.90300",
+			"Map": [
+				{
+					"ItemResponseOID": "A8223C2D-2E19-477B-B177-5F896803CD4B",
+					"StepOrder": "1",
+					"Threshold": "1.1150"
+				},
+				{
+					"ItemResponseOID": "7C41DBF4-B8E2-4A76-8319-767C2281D537",
+					"StepOrder": "2",
+					"Threshold": "2.1410"
+				},
+				{
+					"ItemResponseOID": "1ED9951E-7A18-4B0E-ADE4-93C4A1713DC1",
+					"StepOrder": "3",
+					"Threshold": "3.2310"
+				},
+				{
+					"ItemResponseOID": "7BDB1CEB-37BB-4E1B-BC42-7829735BBA03",
+					"StepOrder": "4",
+					"Threshold": "4.0190"
+				}
+			]
+		},
+		{
+			"FormItemOID": "5CBECA18-EA8C-4ABC-92CB-DB95E2FD3EC0",
+			"ID": "EoS_S_039_PXR1",
+			"A_GRM": "2.26900",
+			"Map": [
+				{
+					"ItemResponseOID": "93452B3D-0788-4B85-842A-2B3288007F7B",
+					"StepOrder": "1",
+					"Threshold": "2.0380"
+				},
+				{
+					"ItemResponseOID": "0A8AB370-E69D-49B3-94AC-A6AE9C2F7211",
+					"StepOrder": "2",
+					"Threshold": "2.7270"
+				},
+				{
+					"ItemResponseOID": "990B6485-EC21-40E2-B9FD-E13B98990A06",
+					"StepOrder": "3",
+					"Threshold": "3.5850"
+				},
+				{
+					"ItemResponseOID": "BD651F00-710A-4CBC-A7B2-6656CE9E3903",
+					"StepOrder": "4",
+					"Threshold": "4.1520"
+				}
+			]
+		},
+		{
+			"FormItemOID": "791FCB6A-169B-4559-9AD0-921D0C9F3AA1",
+			"ID": "EoS_S_017_PXR1",
+			"A_GRM": "1.98300",
+			"Map": [
+				{
+					"ItemResponseOID": "656FF723-2BF1-46A4-BCD2-419CB22411BF",
+					"StepOrder": "1",
+					"Threshold": "0.9620"
+				},
+				{
+					"ItemResponseOID": "6C9014EB-4550-495C-8EA3-BB4232A89F7D",
+					"StepOrder": "2",
+					"Threshold": "1.8590"
+				},
+				{
+					"ItemResponseOID": "964A9E87-AB79-49DB-9A66-87C25BBC8750",
+					"StepOrder": "3",
+					"Threshold": "3.0610"
+				},
+				{
+					"ItemResponseOID": "2AEADA22-3C3D-4AC9-A8E6-4F9BA7D96B5A",
+					"StepOrder": "4",
+					"Threshold": "3.8790"
+				}
+			]
+		},
+		{
+			"FormItemOID": "B8F05E3E-D147-499E-A957-86FF8C8C44F7",
+			"ID": "EoS_S_032_PXR1",
+			"A_GRM": "1.79100",
+			"Map": [
+				{
+					"ItemResponseOID": "AA0A480A-C7EE-43AA-BF06-A06474F4B97F",
+					"StepOrder": "1",
+					"Threshold": "1.3690"
+				},
+				{
+					"ItemResponseOID": "E2221A23-3CC6-4646-A046-F0C0D554E22A",
+					"StepOrder": "2",
+					"Threshold": "2.2210"
+				},
+				{
+					"ItemResponseOID": "4FABA2FC-7C07-4E33-BAF8-4A0CA4FBAB72",
+					"StepOrder": "3",
+					"Threshold": "3.3800"
+				},
+				{
+					"ItemResponseOID": "55609F6C-E515-4BEF-996B-728A45773F23",
+					"StepOrder": "4",
+					"Threshold": "4.5870"
+				}
+			]
+		},
+		{
+			"FormItemOID": "C3714DA5-3CF7-4709-844F-DF4AB6EFEF36",
+			"ID": "EoS_S_033_PXR1",
+			"A_GRM": "2.08700",
+			"Map": [
+				{
+					"ItemResponseOID": "B9913141-5085-41C0-B597-C3C68A6369B8",
+					"StepOrder": "1",
+					"Threshold": "1.5280"
+				},
+				{
+					"ItemResponseOID": "BFD9C2E8-16E2-4D04-B48D-4CCD5513DB85",
+					"StepOrder": "2",
+					"Threshold": "2.3460"
+				},
+				{
+					"ItemResponseOID": "AB4BD428-62CB-4E3A-85B6-BAB53E4B5ED4",
+					"StepOrder": "3",
+					"Threshold": "3.3230"
+				},
+				{
+					"ItemResponseOID": "E0A27B56-2D58-4C7F-92CE-DAEB45BEC609",
+					"StepOrder": "4",
+					"Threshold": "3.8140"
+				}
+			]
+		},
+		{
+			"FormItemOID": "FF09A1CD-311F-48AC-AF71-A57CFAF41BA3",
+			"ID": "EoS_S_044_PXR1",
+			"A_GRM": "1.69400",
+			"Map": [
+				{
+					"ItemResponseOID": "CE8689C6-19E6-4A0E-AA17-EC642CBF1486",
+					"StepOrder": "1",
+					"Threshold": "1.0350"
+				},
+				{
+					"ItemResponseOID": "83927DDF-6469-4668-AEF6-63C8E7099D57",
+					"StepOrder": "2",
+					"Threshold": "1.9650"
+				},
+				{
+					"ItemResponseOID": "666DF456-CDC6-43E1-A9E2-1DA0F0C6918B",
+					"StepOrder": "3",
+					"Threshold": "3.0940"
+				},
+				{
+					"ItemResponseOID": "3EFC5DF2-DF18-44CE-AAB7-AA77299F823B",
+					"StepOrder": "4",
+					"Threshold": "3.9080"
+				}
+			]
+		}
+	]
+}

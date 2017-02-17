@@ -1,1 +1,291 @@
-{"FormOID":"F9516DF1-8B18-47EB-BBC2-5734663C7740","Form":"Create Sexual Function Profile for Women","Properties":[{"MinNumItems":"4"},{"MaxNumItems":"12"},{"IRTModel":"0"},{"SelectionMethod":"1"},{"MinTheta":"-4.00"},{"MaxTheta":"4.00"},{"ThetaIncrement":"0.1000"},{"MaxStdErr":"0.30"},{"SelectionGroupSize":"1"},{"LogisticScaling":"1.0000"},{"DistMean":"0.00"},{"DistStdDev":"1.00"},{"FirstItem":""},{"CalibrationSample":"Cancer Supplement Calibration"},{"SetSelectionMethod":"Instance"}],"Items":[{"FormItemOID":"028900A0-3AE0-42A2-AD71-BF76AEDD6DD8","ID":"SFLUB001","A_GRM":"4.92000","Map":[{"ItemResponseOID":"01629687-CF50-4E84-922D-E3EC48DECE73","StepOrder":"1","Threshold":"-0.5600"},{"ItemResponseOID":"DA9CAFB4-0269-4A0B-A7F1-D8E61F5E8609","StepOrder":"2","Threshold":"-0.1600"},{"ItemResponseOID":"E4C0E298-ABD2-43C6-964C-FF358C9364D9","StepOrder":"3","Threshold":"0.2200"},{"ItemResponseOID":"7FE05323-2859-42DD-A43A-0AB9ADB5B787","StepOrder":"4","Threshold":"0.7000"}]},{"FormItemOID":"17F7EE71-4BFE-4F0A-8935-99B91A363F55","ID":"SFINT102","A_GRM":"5.91000","Map":[{"ItemResponseOID":"128672E8-CDB7-4EE8-AE05-F20895E67556","StepOrder":"1","Threshold":"-1.2000"},{"ItemResponseOID":"3BBA8862-A2B8-4B0B-8167-9DB2F12B6837","StepOrder":"2","Threshold":"-0.4400"},{"ItemResponseOID":"9176F667-A46F-49DA-B13F-C0290A7B0016","StepOrder":"3","Threshold":"0.5900"},{"ItemResponseOID":"D3C2B381-6DE0-4AE4-825B-7597836C604E","StepOrder":"4","Threshold":"1.6600"}]},{"FormItemOID":"3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B","ID":"SFLUB101","A_GRM":"3.85000","Map":[{"ItemResponseOID":"00D14196-A63E-4C4A-BBE4-4B479B89E5F8","StepOrder":"1","Threshold":"-0.6700"},{"ItemResponseOID":"8FCE5F28-614A-4459-9E0A-66FF543FF3A9","StepOrder":"2","Threshold":"-0.1500"},{"ItemResponseOID":"FA1425D1-CFFE-4B70-A941-96BB243A14EB","StepOrder":"3","Threshold":"0.3600"},{"ItemResponseOID":"D3C74264-063E-452E-89BE-4342860DF58D","StepOrder":"4","Threshold":"1.0300"}]},{"FormItemOID":"45DEAAE1-B436-4D96-B247-4E9009AD7347","ID":"SFVAG101","A_GRM":"3.78000","Map":[{"ItemResponseOID":"96F3DFA4-29AA-4BA0-AE46-13E29575E4C1","StepOrder":"1","Threshold":"-1.2700"},{"ItemResponseOID":"9ACFA39F-7CFA-4C9F-8C82-5B0F3F331117","StepOrder":"2","Threshold":"-0.1100"},{"ItemResponseOID":"2F39A33A-3BD3-4EBD-9EFA-830D9E9D611F","StepOrder":"3","Threshold":"0.8400"}]},{"FormItemOID":"932B9549-560B-4B2A-9664-558EBF44A462","ID":"SFVAG103","A_GRM":"3.80000","Map":[{"ItemResponseOID":"83E1DF4A-AD69-423A-B147-BD1B3BC28A55","StepOrder":"1","Threshold":"0.1500"},{"ItemResponseOID":"37F23636-A2C6-492C-869B-9D4AA6A4692B","StepOrder":"2","Threshold":"0.6100"},{"ItemResponseOID":"AE8C78D0-1700-44D9-BFAF-A606B6622C28","StepOrder":"3","Threshold":"1.1300"},{"ItemResponseOID":"01EFE0E3-8755-4C89-B414-1A4283DC758E","StepOrder":"4","Threshold":"1.8600"}]},{"FormItemOID":"B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E","ID":"SFSAT106","A_GRM":"3.97000","Map":[{"ItemResponseOID":"013A8277-3E54-46CC-9B93-E477372B2E5F","StepOrder":"1","Threshold":"-1.4300"},{"ItemResponseOID":"F78F8A4C-7458-43E9-B63C-775F2E36DFCB","StepOrder":"2","Threshold":"-0.5600"},{"ItemResponseOID":"D9E4D7C3-1BE3-45AE-9CF8-5C977BB6A53F","StepOrder":"3","Threshold":"0.2400"},{"ItemResponseOID":"497BF48F-C64A-4862-91AB-5FB6A7CA7DC8","StepOrder":"4","Threshold":"1.0500"}]},{"FormItemOID":"D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA","ID":"SFVAG102","A_GRM":"5.53000","Map":[{"ItemResponseOID":"52650712-8AC6-42C4-9746-8E0BEA213AB3","StepOrder":"1","Threshold":"-0.5800"},{"ItemResponseOID":"8E90D7CD-FF9E-4E9F-B4E5-04A7411E2122","StepOrder":"2","Threshold":"-0.1300"},{"ItemResponseOID":"1505C235-3C18-433F-912C-C3BE0E036F55","StepOrder":"3","Threshold":"0.4200"},{"ItemResponseOID":"2E55C7E0-CAA8-4D25-9832-BB3A7AC95746","StepOrder":"4","Threshold":"0.9200"}]},{"FormItemOID":"ED803407-F387-4754-94F7-3039C3EB0BD6","ID":"SFSAT105","A_GRM":"3.50000","Map":[{"ItemResponseOID":"03814FB0-E5FC-4041-BDD6-F3F3AEA05C56","StepOrder":"1","Threshold":"-1.5700"},{"ItemResponseOID":"A0DFC526-A510-4EF1-8F88-8BA062D91C74","StepOrder":"2","Threshold":"-0.6000"},{"ItemResponseOID":"8D15C0C1-FFD4-42E0-9C7E-954AFB51CDAF","StepOrder":"3","Threshold":"0.0900"},{"ItemResponseOID":"36257AC4-9CB7-49D5-A690-3BB33A236D43","StepOrder":"4","Threshold":"0.9300"}]},{"FormItemOID":"FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9","ID":"SFINT101","A_GRM":"5.20000","Map":[{"ItemResponseOID":"10F26957-29EE-4C02-BDA0-7C6C51E9E9C6","StepOrder":"1","Threshold":"-0.9200"},{"ItemResponseOID":"88288A95-628D-4C46-B271-632E6048803B","StepOrder":"2","Threshold":"-0.1700"},{"ItemResponseOID":"C23F1D83-A06A-456F-968B-E4D149349123","StepOrder":"3","Threshold":"0.4800"},{"ItemResponseOID":"4603B30A-9434-4E52-B2D4-84143ED5EEB7","StepOrder":"4","Threshold":"1.2600"}]}]}
+{
+	"FormOID": "F9516DF1-8B18-47EB-BBC2-5734663C7740",
+	"Form": "Create Sexual Function Profile for Women",
+	"Properties": [
+		{
+			"MinNumItems": "4"
+		},
+		{
+			"MaxNumItems": "12"
+		},
+		{
+			"IRTModel": "0"
+		},
+		{
+			"SelectionMethod": "1"
+		},
+		{
+			"MinTheta": "-4.00"
+		},
+		{
+			"MaxTheta": "4.00"
+		},
+		{
+			"ThetaIncrement": "0.1000"
+		},
+		{
+			"MaxStdErr": "0.30"
+		},
+		{
+			"SelectionGroupSize": "1"
+		},
+		{
+			"LogisticScaling": "1.0000"
+		},
+		{
+			"DistMean": "0.00"
+		},
+		{
+			"DistStdDev": "1.00"
+		},
+		{
+			"FirstItem": ""
+		},
+		{
+			"CalibrationSample": "Cancer Supplement Calibration"
+		},
+		{
+			"SetSelectionMethod": "Instance"
+		}
+	],
+	"Items": [
+		{
+			"FormItemOID": "028900A0-3AE0-42A2-AD71-BF76AEDD6DD8",
+			"ID": "SFLUB001",
+			"A_GRM": "4.92000",
+			"Map": [
+				{
+					"ItemResponseOID": "01629687-CF50-4E84-922D-E3EC48DECE73",
+					"StepOrder": "1",
+					"Threshold": "-0.5600"
+				},
+				{
+					"ItemResponseOID": "DA9CAFB4-0269-4A0B-A7F1-D8E61F5E8609",
+					"StepOrder": "2",
+					"Threshold": "-0.1600"
+				},
+				{
+					"ItemResponseOID": "E4C0E298-ABD2-43C6-964C-FF358C9364D9",
+					"StepOrder": "3",
+					"Threshold": "0.2200"
+				},
+				{
+					"ItemResponseOID": "7FE05323-2859-42DD-A43A-0AB9ADB5B787",
+					"StepOrder": "4",
+					"Threshold": "0.7000"
+				}
+			]
+		},
+		{
+			"FormItemOID": "17F7EE71-4BFE-4F0A-8935-99B91A363F55",
+			"ID": "SFINT102",
+			"A_GRM": "5.91000",
+			"Map": [
+				{
+					"ItemResponseOID": "128672E8-CDB7-4EE8-AE05-F20895E67556",
+					"StepOrder": "1",
+					"Threshold": "-1.2000"
+				},
+				{
+					"ItemResponseOID": "3BBA8862-A2B8-4B0B-8167-9DB2F12B6837",
+					"StepOrder": "2",
+					"Threshold": "-0.4400"
+				},
+				{
+					"ItemResponseOID": "9176F667-A46F-49DA-B13F-C0290A7B0016",
+					"StepOrder": "3",
+					"Threshold": "0.5900"
+				},
+				{
+					"ItemResponseOID": "D3C2B381-6DE0-4AE4-825B-7597836C604E",
+					"StepOrder": "4",
+					"Threshold": "1.6600"
+				}
+			]
+		},
+		{
+			"FormItemOID": "3D2129AC-D88C-4384-AD5F-6A09FFFDBC1B",
+			"ID": "SFLUB101",
+			"A_GRM": "3.85000",
+			"Map": [
+				{
+					"ItemResponseOID": "00D14196-A63E-4C4A-BBE4-4B479B89E5F8",
+					"StepOrder": "1",
+					"Threshold": "-0.6700"
+				},
+				{
+					"ItemResponseOID": "8FCE5F28-614A-4459-9E0A-66FF543FF3A9",
+					"StepOrder": "2",
+					"Threshold": "-0.1500"
+				},
+				{
+					"ItemResponseOID": "FA1425D1-CFFE-4B70-A941-96BB243A14EB",
+					"StepOrder": "3",
+					"Threshold": "0.3600"
+				},
+				{
+					"ItemResponseOID": "D3C74264-063E-452E-89BE-4342860DF58D",
+					"StepOrder": "4",
+					"Threshold": "1.0300"
+				}
+			]
+		},
+		{
+			"FormItemOID": "45DEAAE1-B436-4D96-B247-4E9009AD7347",
+			"ID": "SFVAG101",
+			"A_GRM": "3.78000",
+			"Map": [
+				{
+					"ItemResponseOID": "96F3DFA4-29AA-4BA0-AE46-13E29575E4C1",
+					"StepOrder": "1",
+					"Threshold": "-1.2700"
+				},
+				{
+					"ItemResponseOID": "9ACFA39F-7CFA-4C9F-8C82-5B0F3F331117",
+					"StepOrder": "2",
+					"Threshold": "-0.1100"
+				},
+				{
+					"ItemResponseOID": "2F39A33A-3BD3-4EBD-9EFA-830D9E9D611F",
+					"StepOrder": "3",
+					"Threshold": "0.8400"
+				}
+			]
+		},
+		{
+			"FormItemOID": "932B9549-560B-4B2A-9664-558EBF44A462",
+			"ID": "SFVAG103",
+			"A_GRM": "3.80000",
+			"Map": [
+				{
+					"ItemResponseOID": "83E1DF4A-AD69-423A-B147-BD1B3BC28A55",
+					"StepOrder": "1",
+					"Threshold": "0.1500"
+				},
+				{
+					"ItemResponseOID": "37F23636-A2C6-492C-869B-9D4AA6A4692B",
+					"StepOrder": "2",
+					"Threshold": "0.6100"
+				},
+				{
+					"ItemResponseOID": "AE8C78D0-1700-44D9-BFAF-A606B6622C28",
+					"StepOrder": "3",
+					"Threshold": "1.1300"
+				},
+				{
+					"ItemResponseOID": "01EFE0E3-8755-4C89-B414-1A4283DC758E",
+					"StepOrder": "4",
+					"Threshold": "1.8600"
+				}
+			]
+		},
+		{
+			"FormItemOID": "B1FA8B4E-1377-4E48-B9DA-47D0A3320C8E",
+			"ID": "SFSAT106",
+			"A_GRM": "3.97000",
+			"Map": [
+				{
+					"ItemResponseOID": "013A8277-3E54-46CC-9B93-E477372B2E5F",
+					"StepOrder": "1",
+					"Threshold": "-1.4300"
+				},
+				{
+					"ItemResponseOID": "F78F8A4C-7458-43E9-B63C-775F2E36DFCB",
+					"StepOrder": "2",
+					"Threshold": "-0.5600"
+				},
+				{
+					"ItemResponseOID": "D9E4D7C3-1BE3-45AE-9CF8-5C977BB6A53F",
+					"StepOrder": "3",
+					"Threshold": "0.2400"
+				},
+				{
+					"ItemResponseOID": "497BF48F-C64A-4862-91AB-5FB6A7CA7DC8",
+					"StepOrder": "4",
+					"Threshold": "1.0500"
+				}
+			]
+		},
+		{
+			"FormItemOID": "D2FBE030-A6C3-4AE1-8AC6-0A4C1EB0D5DA",
+			"ID": "SFVAG102",
+			"A_GRM": "5.53000",
+			"Map": [
+				{
+					"ItemResponseOID": "52650712-8AC6-42C4-9746-8E0BEA213AB3",
+					"StepOrder": "1",
+					"Threshold": "-0.5800"
+				},
+				{
+					"ItemResponseOID": "8E90D7CD-FF9E-4E9F-B4E5-04A7411E2122",
+					"StepOrder": "2",
+					"Threshold": "-0.1300"
+				},
+				{
+					"ItemResponseOID": "1505C235-3C18-433F-912C-C3BE0E036F55",
+					"StepOrder": "3",
+					"Threshold": "0.4200"
+				},
+				{
+					"ItemResponseOID": "2E55C7E0-CAA8-4D25-9832-BB3A7AC95746",
+					"StepOrder": "4",
+					"Threshold": "0.9200"
+				}
+			]
+		},
+		{
+			"FormItemOID": "ED803407-F387-4754-94F7-3039C3EB0BD6",
+			"ID": "SFSAT105",
+			"A_GRM": "3.50000",
+			"Map": [
+				{
+					"ItemResponseOID": "03814FB0-E5FC-4041-BDD6-F3F3AEA05C56",
+					"StepOrder": "1",
+					"Threshold": "-1.5700"
+				},
+				{
+					"ItemResponseOID": "A0DFC526-A510-4EF1-8F88-8BA062D91C74",
+					"StepOrder": "2",
+					"Threshold": "-0.6000"
+				},
+				{
+					"ItemResponseOID": "8D15C0C1-FFD4-42E0-9C7E-954AFB51CDAF",
+					"StepOrder": "3",
+					"Threshold": "0.0900"
+				},
+				{
+					"ItemResponseOID": "36257AC4-9CB7-49D5-A690-3BB33A236D43",
+					"StepOrder": "4",
+					"Threshold": "0.9300"
+				}
+			]
+		},
+		{
+			"FormItemOID": "FFA7C7F3-9453-4D8A-9A93-11BB30ABA0B9",
+			"ID": "SFINT101",
+			"A_GRM": "5.20000",
+			"Map": [
+				{
+					"ItemResponseOID": "10F26957-29EE-4C02-BDA0-7C6C51E9E9C6",
+					"StepOrder": "1",
+					"Threshold": "-0.9200"
+				},
+				{
+					"ItemResponseOID": "88288A95-628D-4C46-B271-632E6048803B",
+					"StepOrder": "2",
+					"Threshold": "-0.1700"
+				},
+				{
+					"ItemResponseOID": "C23F1D83-A06A-456F-968B-E4D149349123",
+					"StepOrder": "3",
+					"Threshold": "0.4800"
+				},
+				{
+					"ItemResponseOID": "4603B30A-9434-4E52-B2D4-84143ED5EEB7",
+					"StepOrder": "4",
+					"Threshold": "1.2600"
+				}
+			]
+		}
+	]
+}

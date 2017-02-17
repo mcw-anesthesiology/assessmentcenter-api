@@ -1,1 +1,245 @@
-{"DateFinished":"","Items":[{"FormItemOID":"01AF9A97-B1B5-4815-8349-6C0D265ECFE4","ID":"SMKNDEP01_nd","Order":"1","ItemType":"","Elements":[{"ElementOID":"7C2E22D3-22D3-48BD-97F7-AC029A8E384E","Description":"When I haven't been able to smoke for a few hours, the craving gets intolerable.","ElementOrder":"1"},{"ElementOID":"6CEC3B91-96E9-4945-BD13-B845C95A4953","Description":"ContainerFor6CEC3B91-96E9-4945-BD13-B845C95A4953","ElementOrder":"2","Map":[{"ElementOID":"576B79D0-D912-4E9C-BC22-3833DFC260C4","Description":"Never","FormItemOID":"01AF9A97-B1B5-4815-8349-6C0D265ECFE4","ItemResponseOID":"4BD009E1-F8EE-4E87-A708-95698C19B177", "Value":"1","Position":"1"},{"ElementOID":"E798C441-A0D3-48D7-B210-9CF4E7D6E556","Description":"Rarely","FormItemOID":"01AF9A97-B1B5-4815-8349-6C0D265ECFE4","ItemResponseOID":"F6E69A23-BD27-4D23-AB56-DE408426E417", "Value":"2","Position":"2"},{"ElementOID":"AC4ADDBD-A3BE-4541-AD76-D748CDC459EE","Description":"Sometimes","FormItemOID":"01AF9A97-B1B5-4815-8349-6C0D265ECFE4","ItemResponseOID":"9BD18F26-9AAC-4F33-91A3-29D92AEB5117", "Value":"3","Position":"3"},{"ElementOID":"30DC43B1-BAC6-4CBE-9227-B2C406E201D1","Description":"Often","FormItemOID":"01AF9A97-B1B5-4815-8349-6C0D265ECFE4","ItemResponseOID":"39C120CB-0AA8-4AE0-ABF5-4688EF7C548B", "Value":"4","Position":"4"},{"ElementOID":"DC5F22FC-4140-486B-A9DD-5B79554EF2CD","Description":"Always","FormItemOID":"01AF9A97-B1B5-4815-8349-6C0D265ECFE4","ItemResponseOID":"90433432-B2ED-4C1E-B553-0B3E8FCFA679", "Value":"5","Position":"5"}]}]},{"FormItemOID":"422A40CC-3386-4B55-A8EE-B4362F931413","ID":"SMKNDEP02_nd","Order":"2","ItemType":"","Elements":[{"ElementOID":"506E8511-189C-423F-AC60-81F85D0D9198","Description":"I find myself reaching for cigarettes without thinking about it.","ElementOrder":"1"},{"ElementOID":"0D41F0CD-6646-4459-B6F1-CBB7FDA16537","Description":"ContainerFor0D41F0CD-6646-4459-B6F1-CBB7FDA16537","ElementOrder":"2","Map":[{"ElementOID":"68270A08-A423-473F-8247-0E33DFE4F89F","Description":"Never","FormItemOID":"422A40CC-3386-4B55-A8EE-B4362F931413","ItemResponseOID":"07F3A19E-1241-4AC5-B72D-F34B34D10044", "Value":"1","Position":"1"},{"ElementOID":"2642896E-E60C-4C41-8E30-4CEE12B2F39E","Description":"Rarely","FormItemOID":"422A40CC-3386-4B55-A8EE-B4362F931413","ItemResponseOID":"130114C4-EF93-4419-862C-46D9EFF0C909", "Value":"2","Position":"2"},{"ElementOID":"765D95AC-90B8-4E18-A5CF-EBC6CE12624A","Description":"Sometimes","FormItemOID":"422A40CC-3386-4B55-A8EE-B4362F931413","ItemResponseOID":"91FCD52A-2391-4930-AB49-C35096E107D0", "Value":"3","Position":"3"},{"ElementOID":"76EDC4B1-91EA-4A16-961C-9F09F5EDA5D2","Description":"Often","FormItemOID":"422A40CC-3386-4B55-A8EE-B4362F931413","ItemResponseOID":"D6FB95C4-4F3D-4F82-8E4D-D64C0314C7F4", "Value":"4","Position":"4"},{"ElementOID":"2EAB7CDB-97FD-40AA-8375-1F16D24CD91E","Description":"Always","FormItemOID":"422A40CC-3386-4B55-A8EE-B4362F931413","ItemResponseOID":"4D0331E3-A4E4-4454-BFB5-4C6D9DC6CB28", "Value":"5","Position":"5"}]}]},{"FormItemOID":"7F143606-DE2F-468A-BE56-B7B814F6C23F","ID":"SMKNDEP03_nd","Order":"3","ItemType":"","Elements":[{"ElementOID":"A814E11C-2B69-4672-87DE-A82FA72AEB71","Description":"I drop everything to go out and buy cigarettes.","ElementOrder":"1"},{"ElementOID":"81EB8A10-8506-4682-A0DA-49FA35F3FBEE","Description":"ContainerFor81EB8A10-8506-4682-A0DA-49FA35F3FBEE","ElementOrder":"2","Map":[{"ElementOID":"C3377946-948E-48AC-AA05-4079BB6EBAC4","Description":"Never","FormItemOID":"7F143606-DE2F-468A-BE56-B7B814F6C23F","ItemResponseOID":"3B1BF0A1-15D2-4728-8DCF-CF2F2C29DC13", "Value":"1","Position":"1"},{"ElementOID":"AF71B577-B537-4FCD-BBB1-90BE7EDCBEFE","Description":"Rarely","FormItemOID":"7F143606-DE2F-468A-BE56-B7B814F6C23F","ItemResponseOID":"8C303CAE-6356-4058-B177-B68FE02EC45D", "Value":"2","Position":"2"},{"ElementOID":"1AE70569-4ABF-48BA-AAC3-E57EAF0E92EB","Description":"Sometimes","FormItemOID":"7F143606-DE2F-468A-BE56-B7B814F6C23F","ItemResponseOID":"138352DB-100D-48FB-AAE2-A398D35FAD57", "Value":"3","Position":"3"},{"ElementOID":"1EE53EB1-B153-4DF9-AAE2-6D9AE2EFDD43","Description":"Often","FormItemOID":"7F143606-DE2F-468A-BE56-B7B814F6C23F","ItemResponseOID":"2B172FC0-429F-439C-98B9-C821CDC195B5", "Value":"4","Position":"4"},{"ElementOID":"E741B93C-AC12-46AB-AE09-7337AF2F319C","Description":"Always","FormItemOID":"7F143606-DE2F-468A-BE56-B7B814F6C23F","ItemResponseOID":"B7A5068F-4B3B-4A3B-AFEA-A6D7BA071F3E", "Value":"5","Position":"5"}]}]},{"FormItemOID":"49D05794-BA7F-463D-AC00-7940D2FE65FC","ID":"SMKNDEP04_nd","Order":"4","ItemType":"","Elements":[{"ElementOID":"A15EC5DE-F382-42BF-8DA0-4E5A9D905BFA","Description":"I smoke more before going into a situation where smoking is not allowed.","ElementOrder":"1"},{"ElementOID":"142CC355-5B4B-4D13-86A5-2455F2AB6CD5","Description":"ContainerFor142CC355-5B4B-4D13-86A5-2455F2AB6CD5","ElementOrder":"2","Map":[{"ElementOID":"DEFCBEF1-22B6-46A7-9FC1-1693D8B1BCA0","Description":"Never","FormItemOID":"49D05794-BA7F-463D-AC00-7940D2FE65FC","ItemResponseOID":"9C685014-7652-4E27-B7E6-ED9889279BCA", "Value":"1","Position":"1"},{"ElementOID":"5FCAD7D1-931D-4DDB-8B7A-5CCBF49D5F1D","Description":"Rarely","FormItemOID":"49D05794-BA7F-463D-AC00-7940D2FE65FC","ItemResponseOID":"85773A9D-8397-4A6F-AE74-9A946E6F93E8", "Value":"2","Position":"2"},{"ElementOID":"D5FBFDF2-FBF3-4FE7-97A9-DC7FCDF3F2A0","Description":"Sometimes","FormItemOID":"49D05794-BA7F-463D-AC00-7940D2FE65FC","ItemResponseOID":"02D55C42-F441-4993-8B9D-1195C1887F10", "Value":"3","Position":"3"},{"ElementOID":"3C484B40-C8D3-48A7-800F-C9580463F4C9","Description":"Often","FormItemOID":"49D05794-BA7F-463D-AC00-7940D2FE65FC","ItemResponseOID":"3C47E825-1049-4ADF-957F-EDEC3CAB6CEC", "Value":"4","Position":"4"},{"ElementOID":"5589E05B-8B52-4685-B0B3-B96A77081AD8","Description":"Always","FormItemOID":"49D05794-BA7F-463D-AC00-7940D2FE65FC","ItemResponseOID":"BB56A971-7D62-42FD-9DA2-A636967467F2", "Value":"5","Position":"5"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "01AF9A97-B1B5-4815-8349-6C0D265ECFE4",
+			"ID": "SMKNDEP01_nd",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "7C2E22D3-22D3-48BD-97F7-AC029A8E384E",
+					"Description": "When I haven't been able to smoke for a few hours, the craving gets intolerable.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "6CEC3B91-96E9-4945-BD13-B845C95A4953",
+					"Description": "ContainerFor6CEC3B91-96E9-4945-BD13-B845C95A4953",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "576B79D0-D912-4E9C-BC22-3833DFC260C4",
+							"Description": "Never",
+							"FormItemOID": "01AF9A97-B1B5-4815-8349-6C0D265ECFE4",
+							"ItemResponseOID": "4BD009E1-F8EE-4E87-A708-95698C19B177",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "E798C441-A0D3-48D7-B210-9CF4E7D6E556",
+							"Description": "Rarely",
+							"FormItemOID": "01AF9A97-B1B5-4815-8349-6C0D265ECFE4",
+							"ItemResponseOID": "F6E69A23-BD27-4D23-AB56-DE408426E417",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "AC4ADDBD-A3BE-4541-AD76-D748CDC459EE",
+							"Description": "Sometimes",
+							"FormItemOID": "01AF9A97-B1B5-4815-8349-6C0D265ECFE4",
+							"ItemResponseOID": "9BD18F26-9AAC-4F33-91A3-29D92AEB5117",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "30DC43B1-BAC6-4CBE-9227-B2C406E201D1",
+							"Description": "Often",
+							"FormItemOID": "01AF9A97-B1B5-4815-8349-6C0D265ECFE4",
+							"ItemResponseOID": "39C120CB-0AA8-4AE0-ABF5-4688EF7C548B",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "DC5F22FC-4140-486B-A9DD-5B79554EF2CD",
+							"Description": "Always",
+							"FormItemOID": "01AF9A97-B1B5-4815-8349-6C0D265ECFE4",
+							"ItemResponseOID": "90433432-B2ED-4C1E-B553-0B3E8FCFA679",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "422A40CC-3386-4B55-A8EE-B4362F931413",
+			"ID": "SMKNDEP02_nd",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "506E8511-189C-423F-AC60-81F85D0D9198",
+					"Description": "I find myself reaching for cigarettes without thinking about it.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "0D41F0CD-6646-4459-B6F1-CBB7FDA16537",
+					"Description": "ContainerFor0D41F0CD-6646-4459-B6F1-CBB7FDA16537",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "68270A08-A423-473F-8247-0E33DFE4F89F",
+							"Description": "Never",
+							"FormItemOID": "422A40CC-3386-4B55-A8EE-B4362F931413",
+							"ItemResponseOID": "07F3A19E-1241-4AC5-B72D-F34B34D10044",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "2642896E-E60C-4C41-8E30-4CEE12B2F39E",
+							"Description": "Rarely",
+							"FormItemOID": "422A40CC-3386-4B55-A8EE-B4362F931413",
+							"ItemResponseOID": "130114C4-EF93-4419-862C-46D9EFF0C909",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "765D95AC-90B8-4E18-A5CF-EBC6CE12624A",
+							"Description": "Sometimes",
+							"FormItemOID": "422A40CC-3386-4B55-A8EE-B4362F931413",
+							"ItemResponseOID": "91FCD52A-2391-4930-AB49-C35096E107D0",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "76EDC4B1-91EA-4A16-961C-9F09F5EDA5D2",
+							"Description": "Often",
+							"FormItemOID": "422A40CC-3386-4B55-A8EE-B4362F931413",
+							"ItemResponseOID": "D6FB95C4-4F3D-4F82-8E4D-D64C0314C7F4",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "2EAB7CDB-97FD-40AA-8375-1F16D24CD91E",
+							"Description": "Always",
+							"FormItemOID": "422A40CC-3386-4B55-A8EE-B4362F931413",
+							"ItemResponseOID": "4D0331E3-A4E4-4454-BFB5-4C6D9DC6CB28",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "7F143606-DE2F-468A-BE56-B7B814F6C23F",
+			"ID": "SMKNDEP03_nd",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "A814E11C-2B69-4672-87DE-A82FA72AEB71",
+					"Description": "I drop everything to go out and buy cigarettes.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "81EB8A10-8506-4682-A0DA-49FA35F3FBEE",
+					"Description": "ContainerFor81EB8A10-8506-4682-A0DA-49FA35F3FBEE",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "C3377946-948E-48AC-AA05-4079BB6EBAC4",
+							"Description": "Never",
+							"FormItemOID": "7F143606-DE2F-468A-BE56-B7B814F6C23F",
+							"ItemResponseOID": "3B1BF0A1-15D2-4728-8DCF-CF2F2C29DC13",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "AF71B577-B537-4FCD-BBB1-90BE7EDCBEFE",
+							"Description": "Rarely",
+							"FormItemOID": "7F143606-DE2F-468A-BE56-B7B814F6C23F",
+							"ItemResponseOID": "8C303CAE-6356-4058-B177-B68FE02EC45D",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "1AE70569-4ABF-48BA-AAC3-E57EAF0E92EB",
+							"Description": "Sometimes",
+							"FormItemOID": "7F143606-DE2F-468A-BE56-B7B814F6C23F",
+							"ItemResponseOID": "138352DB-100D-48FB-AAE2-A398D35FAD57",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "1EE53EB1-B153-4DF9-AAE2-6D9AE2EFDD43",
+							"Description": "Often",
+							"FormItemOID": "7F143606-DE2F-468A-BE56-B7B814F6C23F",
+							"ItemResponseOID": "2B172FC0-429F-439C-98B9-C821CDC195B5",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "E741B93C-AC12-46AB-AE09-7337AF2F319C",
+							"Description": "Always",
+							"FormItemOID": "7F143606-DE2F-468A-BE56-B7B814F6C23F",
+							"ItemResponseOID": "B7A5068F-4B3B-4A3B-AFEA-A6D7BA071F3E",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "49D05794-BA7F-463D-AC00-7940D2FE65FC",
+			"ID": "SMKNDEP04_nd",
+			"Order": "4",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "A15EC5DE-F382-42BF-8DA0-4E5A9D905BFA",
+					"Description": "I smoke more before going into a situation where smoking is not allowed.",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "142CC355-5B4B-4D13-86A5-2455F2AB6CD5",
+					"Description": "ContainerFor142CC355-5B4B-4D13-86A5-2455F2AB6CD5",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "DEFCBEF1-22B6-46A7-9FC1-1693D8B1BCA0",
+							"Description": "Never",
+							"FormItemOID": "49D05794-BA7F-463D-AC00-7940D2FE65FC",
+							"ItemResponseOID": "9C685014-7652-4E27-B7E6-ED9889279BCA",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "5FCAD7D1-931D-4DDB-8B7A-5CCBF49D5F1D",
+							"Description": "Rarely",
+							"FormItemOID": "49D05794-BA7F-463D-AC00-7940D2FE65FC",
+							"ItemResponseOID": "85773A9D-8397-4A6F-AE74-9A946E6F93E8",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "D5FBFDF2-FBF3-4FE7-97A9-DC7FCDF3F2A0",
+							"Description": "Sometimes",
+							"FormItemOID": "49D05794-BA7F-463D-AC00-7940D2FE65FC",
+							"ItemResponseOID": "02D55C42-F441-4993-8B9D-1195C1887F10",
+							"Value": "3",
+							"Position": "3"
+						},
+						{
+							"ElementOID": "3C484B40-C8D3-48A7-800F-C9580463F4C9",
+							"Description": "Often",
+							"FormItemOID": "49D05794-BA7F-463D-AC00-7940D2FE65FC",
+							"ItemResponseOID": "3C47E825-1049-4ADF-957F-EDEC3CAB6CEC",
+							"Value": "4",
+							"Position": "4"
+						},
+						{
+							"ElementOID": "5589E05B-8B52-4685-B0B3-B96A77081AD8",
+							"Description": "Always",
+							"FormItemOID": "49D05794-BA7F-463D-AC00-7940D2FE65FC",
+							"ItemResponseOID": "BB56A971-7D62-42FD-9DA2-A636967467F2",
+							"Value": "5",
+							"Position": "5"
+						}
+					]
+				}
+			]
+		}
+	]
+}

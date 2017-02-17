@@ -1,1 +1,126 @@
-{"DateFinished":"","Items":[{"FormItemOID":"4BEF7F3D-2319-4EE2-9FC4-48CC8B474722","ID":"SFSCR101","Order":"1","ItemType":"","Elements":[{"ElementOID":"0140D8DD-0BD5-4B40-8A47-12108D59A667","Description":"Are you in a relationship that could involve sexual activity?","ElementOrder":"1"},{"ElementOID":"A833911D-B00B-4D92-A6A3-5E4D62CE9FA2","Description":"ContainerForA833911D-B00B-4D92-A6A3-5E4D62CE9FA2","ElementOrder":"2","Map":[{"ElementOID":"A9C5D6E9-A436-4044-A3D0-1B0FFB7F8AF8","Description":"No","FormItemOID":"4BEF7F3D-2319-4EE2-9FC4-48CC8B474722","ItemResponseOID":"D1AF0693-12E7-422E-8E79-8EE75AE354C7", "Value":"1","Position":"1"},{"ElementOID":"FE8A35D7-0C91-41DC-83EB-2BBD5729CE1E","Description":"Yes","FormItemOID":"4BEF7F3D-2319-4EE2-9FC4-48CC8B474722","ItemResponseOID":"12BC14CD-9A49-4A4A-921B-B87E50919F45", "Value":"2","Position":"2"}]}]},{"FormItemOID":"14E67FAE-BC5B-4434-A41F-EBCFE4F948A1","ID":"SFSCR102","Order":"2","ItemType":"","Elements":[{"ElementOID":"540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D","Description":"In the past 30 days","ElementOrder":"1"},{"ElementOID":"8AC9950A-C371-4BBE-87E9-569F0AF903EF","Description":"Have you had any type of sexual activity with another person (including your partner)?","ElementOrder":"2"},{"ElementOID":"A833911D-B00B-4D92-A6A3-5E4D62CE9FA2","Description":"ContainerForA833911D-B00B-4D92-A6A3-5E4D62CE9FA2","ElementOrder":"3","Map":[{"ElementOID":"A9C5D6E9-A436-4044-A3D0-1B0FFB7F8AF8","Description":"No","FormItemOID":"14E67FAE-BC5B-4434-A41F-EBCFE4F948A1","ItemResponseOID":"FAEB74C2-E26A-4530-AF09-D5EEC21AADF2", "Value":"1","Position":"1"},{"ElementOID":"FE8A35D7-0C91-41DC-83EB-2BBD5729CE1E","Description":"Yes","FormItemOID":"14E67FAE-BC5B-4434-A41F-EBCFE4F948A1","ItemResponseOID":"F9EE983F-0048-4473-88EF-4465903138FD", "Value":"2","Position":"2"}]}]},{"FormItemOID":"E2F647DC-21B5-4204-A65A-D24DE4136BBD","ID":"SFSCR103","Order":"3","ItemType":"","Elements":[{"ElementOID":"51E8B298-3753-41FA-9E8A-CD62528F427A","Description":"Are you...","ElementOrder":"1"},{"ElementOID":"AB305BCE-0BA0-4009-AD95-3880B6CD252C","Description":"ContainerForAB305BCE-0BA0-4009-AD95-3880B6CD252C","ElementOrder":"2","Map":[{"ElementOID":"779920E4-EA65-4144-9F66-F57DE6CAB876","Description":"Male","FormItemOID":"E2F647DC-21B5-4204-A65A-D24DE4136BBD","ItemResponseOID":"ED36CE59-FDC9-4397-A8C4-E523DC8E00EA", "Value":"1","Position":"1"},{"ElementOID":"3488149C-C304-496B-A601-7D1F9F554672","Description":"Female","FormItemOID":"E2F647DC-21B5-4204-A65A-D24DE4136BBD","ItemResponseOID":"07E839B3-3938-4E37-A99B-86F381227EB4", "Value":"2","Position":"2"},{"ElementOID":"F5B664A8-669E-4F66-9749-6A5FD7FACC17","Description":"Other","FormItemOID":"E2F647DC-21B5-4204-A65A-D24DE4136BBD","ItemResponseOID":"4509DF50-A4B4-45AF-BEB0-3E98A23F7838", "Value":"3","Position":"3"}]}]}]}
+{
+	"DateFinished": "",
+	"Items": [
+		{
+			"FormItemOID": "4BEF7F3D-2319-4EE2-9FC4-48CC8B474722",
+			"ID": "SFSCR101",
+			"Order": "1",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "0140D8DD-0BD5-4B40-8A47-12108D59A667",
+					"Description": "Are you in a relationship that could involve sexual activity?",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "A833911D-B00B-4D92-A6A3-5E4D62CE9FA2",
+					"Description": "ContainerForA833911D-B00B-4D92-A6A3-5E4D62CE9FA2",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "A9C5D6E9-A436-4044-A3D0-1B0FFB7F8AF8",
+							"Description": "No",
+							"FormItemOID": "4BEF7F3D-2319-4EE2-9FC4-48CC8B474722",
+							"ItemResponseOID": "D1AF0693-12E7-422E-8E79-8EE75AE354C7",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "FE8A35D7-0C91-41DC-83EB-2BBD5729CE1E",
+							"Description": "Yes",
+							"FormItemOID": "4BEF7F3D-2319-4EE2-9FC4-48CC8B474722",
+							"ItemResponseOID": "12BC14CD-9A49-4A4A-921B-B87E50919F45",
+							"Value": "2",
+							"Position": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "14E67FAE-BC5B-4434-A41F-EBCFE4F948A1",
+			"ID": "SFSCR102",
+			"Order": "2",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "540C7BCB-7AC8-4B54-AEDE-ED64BE59EA8D",
+					"Description": "In the past 30 days",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "8AC9950A-C371-4BBE-87E9-569F0AF903EF",
+					"Description": "Have you had any type of sexual activity with another person (including your partner)?",
+					"ElementOrder": "2"
+				},
+				{
+					"ElementOID": "A833911D-B00B-4D92-A6A3-5E4D62CE9FA2",
+					"Description": "ContainerForA833911D-B00B-4D92-A6A3-5E4D62CE9FA2",
+					"ElementOrder": "3",
+					"Map": [
+						{
+							"ElementOID": "A9C5D6E9-A436-4044-A3D0-1B0FFB7F8AF8",
+							"Description": "No",
+							"FormItemOID": "14E67FAE-BC5B-4434-A41F-EBCFE4F948A1",
+							"ItemResponseOID": "FAEB74C2-E26A-4530-AF09-D5EEC21AADF2",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "FE8A35D7-0C91-41DC-83EB-2BBD5729CE1E",
+							"Description": "Yes",
+							"FormItemOID": "14E67FAE-BC5B-4434-A41F-EBCFE4F948A1",
+							"ItemResponseOID": "F9EE983F-0048-4473-88EF-4465903138FD",
+							"Value": "2",
+							"Position": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"FormItemOID": "E2F647DC-21B5-4204-A65A-D24DE4136BBD",
+			"ID": "SFSCR103",
+			"Order": "3",
+			"ItemType": "",
+			"Elements": [
+				{
+					"ElementOID": "51E8B298-3753-41FA-9E8A-CD62528F427A",
+					"Description": "Are you...",
+					"ElementOrder": "1"
+				},
+				{
+					"ElementOID": "AB305BCE-0BA0-4009-AD95-3880B6CD252C",
+					"Description": "ContainerForAB305BCE-0BA0-4009-AD95-3880B6CD252C",
+					"ElementOrder": "2",
+					"Map": [
+						{
+							"ElementOID": "779920E4-EA65-4144-9F66-F57DE6CAB876",
+							"Description": "Male",
+							"FormItemOID": "E2F647DC-21B5-4204-A65A-D24DE4136BBD",
+							"ItemResponseOID": "ED36CE59-FDC9-4397-A8C4-E523DC8E00EA",
+							"Value": "1",
+							"Position": "1"
+						},
+						{
+							"ElementOID": "3488149C-C304-496B-A601-7D1F9F554672",
+							"Description": "Female",
+							"FormItemOID": "E2F647DC-21B5-4204-A65A-D24DE4136BBD",
+							"ItemResponseOID": "07E839B3-3938-4E37-A99B-86F381227EB4",
+							"Value": "2",
+							"Position": "2"
+						},
+						{
+							"ElementOID": "F5B664A8-669E-4F66-9749-6A5FD7FACC17",
+							"Description": "Other",
+							"FormItemOID": "E2F647DC-21B5-4204-A65A-D24DE4136BBD",
+							"ItemResponseOID": "4509DF50-A4B4-45AF-BEB0-3E98A23F7838",
+							"Value": "3",
+							"Position": "3"
+						}
+					]
+				}
+			]
+		}
+	]
+}
