@@ -12,7 +12,7 @@ EXTENSION = '.json'
 
 SEPARATOR = '  '
 
-def get_bank_file(class_name, oid):
+def get_bank_file(oid, class_name):
 	with open('./forms' + EXTENSION, 'r') as forms_file:
 		forms = json.load(forms_file)
 
@@ -134,12 +134,12 @@ def get_response(response):
 
 def main():
 	parser = ArgumentParser(description='Convert PROMIS measure JSON files to CHOIR ItemBank')
-	parser.add_argument('class_name', action='store', help='Class name of Java file')
 	parser.add_argument('oid', action='store', help='OID of the PROMIS measure')
+	parser.add_argument('class_name', action='store', help='Class name of Java file')
 
 	args = parser.parse_args()
 
-	print(get_bank_file(args.class_name, args.oid))
+	print(get_bank_file(args.oid, args.class_name))
 
 if __name__ == '__main__':
 	main()

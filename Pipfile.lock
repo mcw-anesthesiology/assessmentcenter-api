@@ -7,7 +7,9 @@
             }
         ],
         "requires": {},
-        "Pipfile-sha256": "c6237aea5578bb6f469f024bcdb96a92245416f4cb37295b957fb7a7d397430e"
+        "hash": {
+            "sha256": "d6fbf84efac616eec661d8ebd66ad0de5bafa8eca9f7e5c1de6ba608e3d97347"
+        }
     },
     "default": {},
     "develop": {}
