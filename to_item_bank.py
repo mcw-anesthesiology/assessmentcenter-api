@@ -112,9 +112,9 @@ def get_item(item, calibration):
 
 	item = INDENT + INDENT + 'item("{}", "{}", "{}", "{}", {}, new double[] {{ {} }}, {}, "{}",\n'.format(
 		item['ID'].strip(),
-		context.strip(),
-		prompt.strip(),
-		brief.strip(),
+		context.replace('"', '\\"').strip(),
+		prompt.replace('"', '\\"').strip(),
+		brief.replace('"', '\\"').strip(),
 		alpha.strip(),
 		', '.join(betas),
 		strata,
