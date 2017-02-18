@@ -5,15 +5,17 @@ from os import path
 from argparse import ArgumentParser
 import sys
 
-
-FORMS_DIR = './forms'
-CALIBRATIONS_DIR = './calibrations'
+INDENT = '  '
 EXTENSION = '.json'
 
-SEPARATOR = '  '
+ROOT = path.dirname(path.realpath(__file__))
+FORMS_DIR = path.join(ROOT, 'forms')
+CALIBRATIONS_DIR = path.join(ROOT, 'calibrations')
+FORMS_FILE = path.join(ROOT, './forms' + EXTENSION)
+
 
 def get_bank_file(oid, class_name):
-	with open('./forms' + EXTENSION, 'r') as forms_file:
+	with open(FORMS_FILE, 'r') as forms_file:
 		forms = json.load(forms_file)
 
 	forms_by_oid = {form['OID']: form for form in forms['Form']}
@@ -49,17 +51,17 @@ public class {} {{
 
 def get_item_bank(oid):
 	try:
-		with open(path.join(FORMS_DIR, oid + EXTENSION)) as form_file:
+		with open(path.realpath(path.join(FORMS_DIR, oid + EXTENSION))) as form_file:
 			form = json.load(form_file)
 	except:
-		print('Error loading form')
+		print('Error loading form', file=sys.stderr)
 		sys.exit()
 
 	try:
 		with open(path.join(CALIBRATIONS_DIR, oid + EXTENSION)) as calibration_file:
 			calibration = json.load(calibration_file)
 	except:
-		print('Error loading calibration')
+		print('Error loading calibration', file=sys.stderr)
 		sys.exit()
 
 	properties = {}
@@ -81,9 +83,9 @@ def get_item_bank(oid):
 		try:
 			bank += get_item(item, calibration_items_by_id[item['ID']])
 		except Exception as e:
-			print(e)
+			print(e, file=sys.stderr)
 	bank = bank[:-2] + '\n'
-	bank += SEPARATOR + ');'
+	bank += INDENT + ');'
 
 	return bank
 
@@ -108,28 +110,31 @@ def get_item(item, calibration):
 	strata = -1
 	category = ''
 
-	item = SEPARATOR + SEPARATOR + 'item("{}", "{}", "{}", "{}", {}, new double[] {{ {} }}, {}, "{}",\n'.format(
-		item['ID'],
-		context,
-		prompt,
-		brief,
-		alpha,
+	item = INDENT + INDENT + 'item("{}", "{}", "{}", "{}", {}, new double[] {{ {} }}, {}, "{}",\n'.format(
+		item['ID'].strip(),
+		context.strip(),
+		prompt.strip(),
+		brief.strip(),
+		alpha.strip(),
 		', '.join(betas),
 		strata,
 		category
 	)
 
 	for response in responses:
-		item += get_response(response)
+		try:
+			item += get_response(response)
+		except Exception as e:
+			print(e, file=sys.stderr)
 
 	item = item[:-2] + '\n'
-	item += SEPARATOR + SEPARATOR + '),\n'
+	item += INDENT + INDENT + '),\n'
 	return item
 
 def get_response(response):
-	return SEPARATOR + SEPARATOR + SEPARATOR + 'response("{}", {}),\n'.format(
-		response['Description'],
-		response['Value']
+	return INDENT + INDENT + INDENT + 'response("{}", {}),\n'.format(
+		response['Description'].strip(),
+		response['Value'].replace('00000000-0000-0000-0000-000000000000', '0')
 	)
 
 def main():
