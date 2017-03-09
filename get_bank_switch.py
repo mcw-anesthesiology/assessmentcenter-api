@@ -32,7 +32,7 @@ def get_switch(item_bank_path):
 
 def main():
 	parser = ArgumentParser(description='Create Java switch statement for PROMIS measures in given directory')
-	parser.add_argument('directory', action='store', help='Directory in which to look for Jave PROMIS item banks')
+	parser.add_argument('directory', action='store', help='Directory in which to look for Java PROMIS item banks')
 
 	args = parser.parse_args()
 

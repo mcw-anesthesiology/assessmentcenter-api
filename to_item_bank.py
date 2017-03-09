@@ -83,7 +83,7 @@ def get_item_bank(oid):
 		try:
 			bank += get_item(item, calibration_items_by_id[item['ID']])
 		except Exception as e:
-			print(e, file=sys.stderr)
+			print('Error in get_item: {}'.format(e), file=sys.stderr)
 	bank = bank[:-2] + '\n'
 	bank += INDENT + ');'
 
@@ -106,7 +106,11 @@ def get_item(item, calibration):
 	brief = ''
 	alpha = calibration['A_GRM']
 
-	betas = [item['Threshold'] for item in calibration['Map']]
+	responses.sort(key=lambda x: x['Position'])
+	response_calibrations = sorted([item for item in calibration['Map']], key=lambda x: x['StepOrder'])
+
+	betas = [response_calibration['Threshold'] for response_calibration in response_calibrations]
+	responses = list(filter(has_int_value, responses))[:len(betas) + 1]
 	strata = -1
 	category = ''
 
@@ -134,8 +138,17 @@ def get_item(item, calibration):
 def get_response(response):
 	return INDENT + INDENT + INDENT + 'response("{}", {}),\n'.format(
 		response['Description'].strip(),
-		response['Value'].replace('00000000-0000-0000-0000-000000000000', '0')
+		int(response['Value'])
 	)
+
+def has_int_value(response):
+	try:
+		int(response['Value'])
+		return True
+	except:
+		print('Response {} has invalid value, omitting'
+			.format(response['ItemResponseOID']), file=sys.stderr)
+		return False
 
 def main():
 	parser = ArgumentParser(description='Convert PROMIS measure JSON files to CHOIR ItemBank')
