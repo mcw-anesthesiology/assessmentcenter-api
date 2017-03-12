@@ -2,13 +2,13 @@
     "_meta": {
         "sources": [
             {
-                "url": "https://pypi.org/",
+                "url": "https://pypi.python.org/simple",
                 "verify_ssl": true
             }
         ],
         "requires": {},
         "hash": {
-            "sha256": "d6fbf84efac616eec661d8ebd66ad0de5bafa8eca9f7e5c1de6ba608e3d97347"
+            "sha256": "cb65967bdf3a7372749ce6144be4ee63f412aeeac624342fda3a2b58b1c43c15"
         }
     },
     "default": {},
